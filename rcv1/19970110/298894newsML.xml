@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298894" id="root" date="1997-01-10" xml:lang="en">
+<title>BULGARIA: Bulgarian protesters try to storm parliament.</title>
+<headline>Bulgarian protesters try to storm parliament.</headline>
+<dateline>SOFIA 1997-01-10</dateline>
+<text>
+<p>Hundreds of anti-government protesters broke through a riot police cordon outside Bulgaria's parliament on Friday in a bid to storm the assembly during a protest to demand early parliamentary elections, witnesses said.</p>
+<p>But the protesters pulled back when opposition leaders urged them to withdraw. The opposition supporters had surrounded the parliament in a human chain after the ruling Bulgarian Socialist Party refused to vote on a &quot;salvation declaration&quot; which demanded an early national poll.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

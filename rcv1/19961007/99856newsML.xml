@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99856" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Most active stocks on NYSE and AMEX.</title>
+<headline>Most active stocks on NYSE and AMEX.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active shares on the New York and American stock exchanges in consolidated trading Monday.</p>
+<p>NYSE-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 5,338,500   HANSON PLC		7 1/8   UNCH</p>
+<p> 4,177,500   MICRON TECH	     31 1/8  UP   1 1/4</p>
+<p> 3,842,500   BAY NETWORK	     24 1/8  OFF  1 7/8</p>
+<p> 3,740,100   HEWLETT-PACKARD	 45 5/8  UP   2</p>
+<p> 3,716,900   RAYTHEON CO	     46 1/4  OFF  2 5/8</p>
+<p> 3,414,000   MOTOROLA INC	    49 1/4  UP   1</p>
+<p> 3,285,900   GAP INC		   28 1/8  OFF  1</p>
+<p> 3,117,400   LUCENT TECH	     44 1/8  UP   3/4</p>
+<p> 2,975,700   PEPSICO INC	     28 7/8  OFF  1/2</p>
+<p> 2,834,100   GLIMCHER REAL	   19 1/8  UNCH</p>
+<p>AMEX-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 13,102,800   CHEYENNE SWARE	  30	UP   7 5/8</p>
+<p> 948,300   NABORS INDS INC	 15 7/8  UP   1/2</p>
+<p> 779,200   VIACOM CL B	     37 1/8  UP   1/8</p>
+<p> 449,700   IVAX CORP		 15 1/4  OFF  5/8</p>
+<p> 448,400   CANADIAN OCCDNTL	18 1/8  UP   1/4</p>
+<p> 351,300   PREPAID LEGAL	   13 5/8  UP   7/8</p>
+<p> 312,000   FST AUSTR PRIME	 8 3/4   OFF  1/8</p>
+<p> 304,700   HARKEN ENERGY CP	2 9/16  OFF  1/16</p>
+<p> 274,800   ORGANOGENESIS	   20 5/8  UP   1/2</p>
+<p> 268,800   TEXAS BIOTECH	   4 1/8   UNCH</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456589" id="root" date="1997-03-20" xml:lang="en">
+<title>ITALY: Police make huge drugs haul at Italian port.</title>
+<headline>Police make huge drugs haul at Italian port.</headline>
+<dateline>GENOA, Italy 1997-03-20</dateline>
+<text>
+<p>Italian customs police discovered 17 tonnes of marijuana hidden in two containers from a ship which had arrived from Guatemala, a spokesman at this northern Italian port said on Thursday.</p>
+<p>State television said it was the largest single stash of drugs found in Italy.</p>
+<p>The ship, named as the &quot;Sea Olivia&quot;, docked on February 20 and has since put to sea again.</p>
+<p>The containers, marked as holding medical supplies, were impounded by customs officers who demanded further documentation. Officials decided to open the containers on Thursday after no additional paper work was sent.</p>
+<p>The marijuana has an estimated street value of more than 25 billion lire ($14.8 million).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENOA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

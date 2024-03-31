@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542838" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Boeing Co Q1 EPS rises.</title>
+<headline>Boeing Co Q1 EPS rises.</headline>
+<dateline>SEATTLE 1997-04-28</dateline>
+<text>
+<p>Three Months Ended March 31</p>
+<p>						1997	 1996</p>
+<p>			     ($ in millions except per share data)</p>
+<p>    Sales				  $7,318    $4,293</p>
+<p>Net earnings:</p>
+<p>	  With SVT accounting	    $377	$119</p>
+<p>	  SVT after-tax credit	    $64	   -</p>
+<p>	  Without SVT accounting	 $313	$119</p>
+<p>Earnings per share:</p>
+<p>	  With SVT accounting	   $1.09	$.35</p>
+<p>	  Without SVT accounting	 $.87	$.35</p>
+<p>Average shares (millions):</p>
+<p>	  With SVT accounting	   347.4     344.8</p>
+<p>	  Without SVT accounting	360.5     344.8</p>
+<p>	  NOTE: Stated net earnings include a $64 million</p>
+<p>cumulative adjustment to partially offset income charges in prior periods associated with the market value change of Boeing stock held by the ShareValue Trust (SVT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

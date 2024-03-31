@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87641" id="root" date="1996-10-01" xml:lang="en">
+<title>UK: London gold ends barely changed, off day's lows.</title>
+<headline>London gold ends barely changed, off day's lows.</headline>
+<text>
+<p>GOLD - Closes at $378.40/$378.90, up five cents from Monday. Bounces off morning's lows on afternoon shortcovering rally after fixing at 18-month low in the morning.</p>
+<p>SILVER - Ends four cents firmer at $4.90/$4.92. Also rallied on shortcovering, coming off from lows in the low $4.80s.</p>
+<p>PLATINUM - Also closes stronger at $383.75/$384.75, up $1.00.</p>
+<p>PALLADIUM - Finishes 75 cents stronger at $119.00/$120.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

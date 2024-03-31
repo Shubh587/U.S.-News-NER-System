@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42171" id="root" date="1996-09-09" xml:lang="en">
+<title>AUSTRALIA: RTRS-ANZ appoints investment banking chief.</title>
+<headline>RTRS-ANZ appoints investment banking chief.</headline>
+<dateline>MELBOURNE 1996-09-09</dateline>
+<text>
+<p>Australia and New Zealand Banking Group Ltd (ANZ) said on Monday it had appointed John Sunderland to head its global investment banking activities from the beginning of November.</p>
+<p>Sunderland is currently employed by Barclays de Zoete Wedd (BZW) where he has lead a number of change management initiatives designed to focus BZW's approach to large corporate and financial institution clients, ANZ said in a statement.</p>
+<p>-- Melbourne Bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

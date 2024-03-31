@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144575" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times page one stories.</title>
+<headline>PRESS DIGEST - New York Times page one stories.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Friday:</p>
+<p>- Pope John Paul II has placed the authority of the Roman Catholic Church behind the view that the human body might have been created by evolution rather than by God.</p>
+<p>- Independent candidate Ross Perot dismissed a suggestion by Republican candidate Bob Dole to withdraw his bid for the U.S. presidency and give him his support.</p>
+<p>- Dole's election campaign appears to be besieged and disordered as election day approaches.</p>
+<p>- U.S. podiatrists are forming their first labor union for doctors in reaction to the changes brought by managed care.</p>
+<p>-- New York Newsdesk (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

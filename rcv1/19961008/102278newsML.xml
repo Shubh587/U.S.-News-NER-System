@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102278" id="root" date="1996-10-08" xml:lang="en">
+<title>COLOMBIA: Colombia's Sept car sales fall 10.9 pct vs yr ago.</title>
+<headline>Colombia's Sept car sales fall 10.9 pct vs yr ago.</headline>
+<dateline>BOGOTA 1996-10-08</dateline>
+<text>
+<p>Colombia's car and truck sales fell 10.9 percent in September from the same month last year, a closely-watched survey issued by the local subsidiary of General Motors Corp said.</p>
+<p>It said vehicle sales for the month totalled 8,890, down from 9,980 in September 1995.</p>
+<p>A total of 86,757 vehicles were sold during the first nine months of 1996, 13.1 percent less than in January-September 1995, the survey said.</p>
+<p>-- Javier Mozzo, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

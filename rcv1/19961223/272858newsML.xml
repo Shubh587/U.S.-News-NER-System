@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272858" id="root" date="1996-12-23" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Dec 23.</title>
+<headline>Direct bond trades on the Czech PSE - Dec 23.</headline>
+<dateline>PRAGUE 1996-12-23</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> CEZ 10,90/01		 98.25     98.45	3000   31159.080</p>
+<p> CEZ 11,3/05		 100.30    100.30	5000   53351.650</p>
+<p> DELVITA 12,5/01	    96.98     96.98	 100   10080.577</p>
+<p> IPB VAR/01		   98.95     99.15     21000  210688.310</p>
+<p> KB VAR/99		   100.55    100.55	5000   51471.950</p>
+<p> SMRZOVKA 14,25/01	 105.67    105.67	 200    2094.466</p>
+<p> ST.DLUHOP.11,4/98	 101.20    101.20	 680    6972.040</p>
+<p> VITKOVICE 13,50/00	103.40    103.40	1000   11033.750</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

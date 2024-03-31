@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190030" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Fla. police officer shot hours after riot ruling.</title>
+<headline>Fla. police officer shot hours after riot ruling.</headline>
+<dateline>ST. PETERSBURG, Fla 1996-11-13</dateline>
+<text>
+<p>An officer was shot and police used tear gas to break up crowds of youths on Wednesday, hours after a Florida grand jury ruled that a white officer was justified in shooting a black motorist whose death sparked a night of rioting, police said.</p>
+<p>An unidentified male officer was shot in the leg after police responded to a report of gunfire in south St. Petersburg, a predominantly black section of the city rocked by rioting on Oct. 24, St. Petersburg police spokesman Bill Doniel said.  </p>
+<p>Officers responding to the reported gunfire were subjected to rock and bottle throwing and then shots were fired, one of them striking the officer in the left leg, Doniel said.</p>
+<p>Police used tear gas to break up small bands of youths roaming the streets, he said.</p>
+<p>Another officer, Maj. Cedric Gordon, told reporters that the wounded officer was &quot;doing fine.&quot;</p>
+<p>Police had stepped up patrols in the neighbourhood after a grand jury ruled that Officer James Knight was justified in shooting motorist Tyron Lewis following a routine traffic stop. Following the ruling, Knight was suspended by the police department for 60 days without pay for violating its firearms policy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PETERSBURG, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

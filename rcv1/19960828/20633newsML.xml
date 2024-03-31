@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20633" id="root" date="1996-08-28" xml:lang="en">
+<title>JAPAN: BOJ &quot;tankan&quot; shows Japan business outlook worsened.</title>
+<headline>BOJ &quot;tankan&quot; shows Japan business outlook worsened.</headline>
+<dateline>TOKYO 1996-08-28</dateline>
+<text>
+<p>The Bank of Japan's (BOJ) &quot;tankan&quot; short-term corporate survey in August, released on Wednesday, showed that the business outlook among major manufacturers had worsened since the previous survey in May, with the August diffusion index for major manufacturers at minus 7.</p>
+<p>    BUSINESS DIFFUSION INDEX		   MAY    AUG    DEC</p>
+<p>    Major manufacturers			  -3     -7	0</p>
+<p>    Major non-manufacturers		    -9     -4     -3</p>
+<p>    Small manufacturers			 -19    -17    -11</p>
+<p>    Small non-manufacturers		    -6     -7     -5</p>
+<p>(NOTE: In the last survey in May, the index forecast for major makers was zero for August. December figures are forecasts.)  </p>
+<p> SUPPLY AND DEMAND DIFFUSION INDEX	  MAY    AUG    DEC</p>
+<p>    Product supply/demand conditions	-24    -24    -20</p>
+<p>(Percentage of firms seeing demand exceeding supply</p>
+<p>	  minus those seeing supply exceeding demand)</p>
+<p>    Finished goods inventories		+15    +16    +10</p>
+<p>(Percentage of firms saying inventories were excessive</p>
+<p>	  minus those saying they were insufficient)</p>
+<p>    Product price change			-17    -16    -11</p>
+<p>(Percentage of firms saying product prices were rising</p>
+<p>	  minus those saying they were falling)</p>
+<p> EMPLOYMENT DIFFUSION INDEX		   MAY    AUG    DEC</p>
+<p>(Percentage of firms saying they had excess workers</p>
+<p>	  minus those saying they had insufficient workers)</p>
+<p>    Major firms				   +21    +19    +15</p>
+<p>	Manufacturers			     +25    +23    +18</p>
+<p>	Non-manufacturers			 +14    +14    +11</p>
+<p>    Small firms				    +5     +3	0</p>
+<p>	Manufacturers			     +12     +9     +7</p>
+<p>	Non-manufacturers			   0	0     -6</p>
+<p> CORPORATE FINANCE DIFFUSION INDEX	  MAY    AUG    DEC</p>
+<p>Financial position - (percentage of firms describing their</p>
+<p>	  situation as &quot;easy&quot; minus those seeing it as &quot;tight&quot;)</p>
+<p>	Major firms				 +14    +12     +9</p>
+<p>Bank lending attitude - (percentage of firms saying the</p>
+<p>	  lending attitude of banks was &quot;accommodative&quot; minus</p>
+<p>	  those calling it &quot;severe&quot;)</p>
+<p>	Major firms				 +30    +29    +27</p>
+<p>Change in borrowing rates - (percentage of firms saying</p>
+<p>	  borrowing rates were rising minus those that said</p>
+<p>	  they were falling)</p>
+<p>	Major firms				 +28    +16    +55</p>
+<p>Liquidity ratio - (total corporate holdings of cash,</p>
+<p>	  deposits and securities divided by average monthly</p>
+<p>	  sales -- the higher ratio the more funds the firms have</p>
+<p>	  in hand)</p>
+<p>						SEP(F'CAST)    DEC(F'CAST)</p>
+<p>	Major firms				+1.37	    +1.33</p>
+<p>The business diffusion index, a key gauge of corporate sentiment, measures the percentage of firms which expect their business environment to improve minus the percentage of firms which expect it to worsen. The survey covered 9,635 companies, of which 712 were categorised as large.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

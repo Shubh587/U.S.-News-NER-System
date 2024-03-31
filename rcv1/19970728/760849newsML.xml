@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760849" id="root" date="1997-07-28" xml:lang="en">
+<title>LEBANON: Short-term T-bill yields fall in Beirut.</title>
+<headline>Short-term T-bill yields fall in Beirut.</headline>
+<dateline>BEIRUT 1997-07-28</dateline>
+<text>
+<p>Yields on short-term Lebanese treasury bills for the July 31 issue fell while long-term t-bill yields held steady, the Bank of Lebanon said on Monday.</p>
+<p>The bank issued the following rate details (previous week in brackets):</p>
+<p>    Term			Discount		     Yield</p>
+<p>				 percent)		    (percent)</p>
+<p>    Three months	   12.74 (12.76)		13.16 (13.18)</p>
+<p>    Six months	     13.10 (13.11)		14.02 (14.03)</p>
+<p>    12 month		 13.20 (13.20)		15.20 (15.20)</p>
+<p>    24 month   (interest payable twice early)     16.08 (16.08)</p>
+<p>- Beirut editorial (9611) 602057 745307 745308</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

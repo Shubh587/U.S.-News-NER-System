@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278322" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: US Interior hog market rcts/estimates - Dec 27.</title>
+<headline>US Interior hog market rcts/estimates - Dec 27.</headline>
+<text>
+<p>(000's head)     Illinois Ind/Ohio IA/Minn  Sat</p>
+<p>Today's estimate	 34,0     37,0    105	40</p>
+<p>Yesterday's actual     29,9     30,2    109</p>
+<p>Yesterday's estimate   11,0     32,0    110</p>
+<p>Week ago		   31,3     32,1    117	15</p>
+<p>Year ago		*  42,8     45,0    111	59</p>
+<p>Week to date	    112,5    118,8    359     399</p>
+<p>Same period week ago  163,4    170,9    520     535</p>
+<p>Same period year ago  152,0    174,7    449     508</p>
+<p>* Receipts will not compare due to a change in reporting base</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

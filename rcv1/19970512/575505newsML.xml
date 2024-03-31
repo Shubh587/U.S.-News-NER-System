@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575505" id="root" date="1997-05-12" xml:lang="en">
+<title>SOUTH AFRICA: South Africa holds Israelis for diamond smuggling.</title>
+<headline>South Africa holds Israelis for diamond smuggling.</headline>
+<dateline>JOHANNESBURG 1997-05-12</dateline>
+<text>
+<p>Two Israeli women were charged in a South African court on Monday for trying to smuggle uncut diamonds out of the country, using condoms concealed in their private parts, police said.</p>
+<p>The diamonds were worth 3.5 million rand ($784,753).</p>
+<p>&quot;The two women were found in possession of five condoms containing diamonds. The condoms had been concealed in the womens' private parts,&quot; police spokesman Captain Sipho Ngubane said in a statement.</p>
+<p>He said the two were arrested on Saturday at Johannesburg International Airport.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

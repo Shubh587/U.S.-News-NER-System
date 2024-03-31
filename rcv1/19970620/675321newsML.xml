@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="675321" id="root" date="1997-06-20" xml:lang="en">
+<title>Netherlands: TENNIS-HEINEKEN TROPHY RESULTS.</title>
+<headline>TENNIS-HEINEKEN TROPHY RESULTS.</headline>
+<dateline>ROSMALEN, Netherlands 1997-06-20</dateline>
+<text>
+<p>Results at the Heineken Trophy tennis tournament on Friday (prefix number denotes seed):</p>
+<p>Men's quarter finals:</p>
+<p>1-Michael Chang (U.S.) beat 8-Francisco Clavet (Spain) 6-7</p>
+<p>(5-7) 7-6 (10-8) 6-1</p>
+<p>4-Jonas Bjorkman (Sweden) beat Fernon Wibier (Netherlands) 6-2</p>
+<p>6-4</p>
+<p>Guillaume Raoux (France) beat Sjeng Schalken (Netherlands) 7-6</p>
+<p>(7-5) 6-4</p>
+<p>Add men's quarter finals: 3-Richard Krajicek (Netherlands) beat Martin Damm (Czech Republic) 7-6 (7-5) 7-6 (7-4)</p>
+<p>Women's semifinals: 3-Ruxandra Dragomir (Romania) beat 8-Asa Carlsson (Sweden) 6-4 6-2 1-Anke Huber (Germany) and Miriam Oremans (Netherlands) leval 6-4 4-6 (suspended because of rain, play resumes on Saturday)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROSMALEN, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

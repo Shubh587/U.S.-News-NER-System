@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168507" id="root" date="1996-11-06" xml:lang="en">
+<title>CANADA: Alberta confirms late Canadian debt payment.</title>
+<headline>Alberta confirms late Canadian debt payment.</headline>
+<dateline>EDMONTON 1996-11-06</dateline>
+<text>
+<p>The Canadian province of Alberta said it granted a one-month extension to Canadian Airlines Corp for its quarterly loan payment which was due last week, Premier Ralph Klein said.</p>
+<p>Canada's federal government also said on Wednesday it had agreed to a one-month delay.</p>
+<p>&quot;There's nothing wrong with that, because they (Canadian) have been servicing that loan,&quot; Klein said.</p>
+<p>Canadian was given a C$50-million restructuring loan guarantee by the Alberta government in 1992 as part of a C$120-million package that was also backstopped by Ottawa and British Columbia.</p>
+<p>An Alberta Treasury spokesman said Canadian would pay the interest on the payment, but defer the principal.</p>
+<p>Although Canadian has said it did not plan to ask for any more government money or guarantees, Klein has said his government would offer neither anyway.</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDMONTON"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

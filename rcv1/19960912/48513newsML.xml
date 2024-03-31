@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48513" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Coca-Cola to upgrade global computer system.</title>
+<headline>Coca-Cola to upgrade global computer system.</headline>
+<dateline>ATLANTA 1996-09-12</dateline>
+<text>
+<p>The Coca-Cola Co said Thursday it is launching a multi-million dollar expansion and upgrade of its management information system over the next five to seven years.</p>
+<p>The change will integrate Coca-Cola's systems worldwide to provide immediate market information to Coca-Cola management, associates, bottlers and customers, the company said.</p>
+<p>&quot;The goal is to give us a tool to help us understand what is happening in the marketplace in real time,&quot; said company spokeswoman Kerry Traubert. &quot;It's one of the top strategic intiatives for the company.&quot;</p>
+<p>The company declined to say how much the project cost.</p>
+<p>As part of the program, the company has signed an agreement with Ernst &amp; Young for consulting services and picked SAP AG, a software solutions company based in Germany, to provide technology infrastructure.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

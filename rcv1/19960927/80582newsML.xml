@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80582" id="root" date="1996-09-27" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICAN POLICE ARREST GERMAN FOR EXTRADITION.</title>
+<headline>S.AFRICAN POLICE ARREST GERMAN FOR EXTRADITION.</headline>
+<dateline>JOHANNESBURG 1996-09-27</dateline>
+<text>
+<p>South African police said on Friday they had arrested German citizen Hans Fritz Lawrenz for extradition to Germany where he is wanted on tax evasion charges.</p>
+<p>A statement said Lawrenz was arrested in the Cape Province hamlet of Botriver on Thursday. It said the tax evasion charges were believed to involve an amount of 12 million marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

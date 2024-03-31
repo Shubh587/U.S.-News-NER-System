@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="378505" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: U.S. Treasury balances at Fed fell on Feb 13.</title>
+<headline>U.S. Treasury balances at Fed fell on Feb 13.</headline>
+<dateline>WASHINGTON 1997-02-14</dateline>
+<text>
+<p>U.S. Treasury balances at Federal Reserve based on Treasury Department's latest budget statement.</p>
+<p>			  (BILLIONS OF DLRS)</p>
+<p>				  Feb 13		 Feb 12</p>
+<p>Fed acct			 4.667		  5.135</p>
+<p>Tax/loan note acct	  13.395		 13.241</p>
+<p>Cash balance		  18.062		 18.377</p>
+<p>---</p>
+<p>Total public debt,</p>
+<p> subject to limit	5,222.332	     5,222.033</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

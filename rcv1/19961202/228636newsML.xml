@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228636" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Herley gets about $2 mln in contracts.</title>
+<headline>Herley gets about $2 mln in contracts.</headline>
+<dateline>LANCASTER, Pa. 1996-12-02</dateline>
+<text>
+<p>Herley Industries Inc said Monday that it received about $2 million in contracts from McDonnell Douglas Corp and Lockheed Martin Corp.</p>
+<p>Herley, which makes flight instrumentation products for space launch vehicles, said the awards are the largest it has received to produce range safety transponders used in space launches.</p>
+<p>Herley Industries consists of Herley Vega Systems in Lancaster, Pennsylvania; Herley-MDI in Woburn, Massachusetts; and Stewart Warner Electronics in Chicago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANCASTER, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

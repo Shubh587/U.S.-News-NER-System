@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137846" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Pacific Enterprises Q3 summary.</title>
+<headline>Pacific Enterprises Q3 summary.</headline>
+<text>
+<p>LOS ANGELES, Oct 22 (Reuter)</p>
+<p>		     1996			1995</p>
+<p> Shr		 $0.57		    $0.55</p>
+<p> Net		 48,000		   47,000</p>
+<p> Revs		600,000		  536,000</p>
+<p> Avg shrs	  82,758		   82,618</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary     $1.80		    $1.57</p>
+<p> Net		 155,000		  137,000</p>
+<p> Revs		1,803,000		1,771,000</p>
+<p> Avg shrs	  82,618		   82,227</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179001" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Matritech Inc Q3 net loss.</title>
+<headline>Matritech Inc Q3 net loss.</headline>
+<dateline>NEWTON, Mass. 1996-11-08</dateline>
+<text>
+<p>Three Months Ended    Nine Months Ended</p>
+<p>			     September 30	   September 30</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p> Revenues	  $671,661    $191,276  $1,638,788    $654,160</p>
+<p> Net Loss     (1,127,510) (1,052,279) (3,959,173) (3,195,209)</p>
+<p>Net Loss Per Share</p>
+<p>			  (.07)	 (.11)	 (.25)	 (.33)</p>
+<p>Weighted Average</p>
+<p>Shares Outstanding</p>
+<p>		   15,978,312   9,821,394  15,865,090   9,798,332</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

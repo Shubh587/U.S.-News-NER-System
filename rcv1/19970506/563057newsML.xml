@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563057" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Social Security considering online options.</title>
+<headline>Social Security considering online options.</headline>
+<dateline>WASHINGTON 1997-05-06</dateline>
+<text>
+<p>The Social Security Administration said Tuesday it was looking at a variety of options to protect confidential earnings data offered on the Internet, such as requiring personal identification numbers.</p>
+<p>The push for greater security comes after the agency last month suspended use of a popular web site where individuals, after entering key pieces of personal information, could obtain decades of past earnings records and projected Social Security benefits.</p>
+<p>Privacy groups and media outlets raised concerns that nosy relatives, private investigators or other outside parties could easily gain access to the private information. The agency said it had no evidence of fraud, but suspended the site for 60 days.</p>
+<p>&quot;Nothing is more important to Social Security than maintaining the public's confidence in our ability to keep confidential the sensitive data we maintain on American citizens,&quot; acting SSA commissioner John Callahan told a Ways and Means committee hearing.</p>
+<p>The government began offering the service earlier this spring to make it easier for people to access their financial records and plan for retirement.</p>
+<p>To access the web site an individual had to enter a name, Social Security number, mother's maiden name, birthdate and place of birth. The SSA is now holding public meetings across the country to evaluate the service.</p>
+<p>The inspector general gave the committee a list of possible security options under consideration.</p>
+<p>Possible changes include allowing the public to block their records from the Internet, requiring passwords or digital signatures and providing financial data only by mail, although allowing requests via the Internet.</p>
+<p>The agency could also require more stringent checks of requester addresses and cut the number of unsuccessful efforts an individual may make before being denied access to the site.</p>
+<p>Agency officials said in testimony heightened security measures could force Americans to pay more to recieve their earnings statements or restrict access, preventing people from easily getting the data.</p>
+<p>Callahan said he believed the current system had worked to weed out fraud. But the SSA inspector general warned in testimony that it was simple for individuals to remain virutally anonymous when seeking data through the Internet.</p>
+<p>He said the SSA in one case traced traced a single Internet request back to a university computer and found that as many as 3,000 students had access to it.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

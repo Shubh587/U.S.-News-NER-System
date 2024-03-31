@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326974" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Federal Reserve report 1 (H.3/H.4.1) - January 23.</title>
+<headline>Federal Reserve report 1 (H.3/H.4.1) - January 23.</headline>
+<text>
+<p>Two weeks ended January 15 - daily avgs-millions (H.3)</p>
+<p> Free reserves.........rvsd..1,239 vs..rvsd.1,389</p>
+<p> Bank borrowings...............53  vs.........143</p>
+<p> Seasonal loans................18  vs..........64</p>
+<p> Extended loans...............nil  vs........unch</p>
+<p> Excess reserves............1,292  vs.......1,532</p>
+<p> Required reserves (adj)...47,921  vs......49,118</p>
+<p> Required reserves.........50,885  vs......50,605</p>
+<p> Total reserves............52,177  vs......52,137</p>
+<p> Non-borrowed reserves.....52,124  vs......51,995</p>
+<p> Monetary base (unadj)....465,791  vs.....465,987</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

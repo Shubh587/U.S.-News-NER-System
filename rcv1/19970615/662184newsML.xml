@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="662184" id="root" date="1997-06-15" xml:lang="en">
+<title>CONGO: Last French evacuation plane leaves Brazzaville.</title>
+<headline>Last French evacuation plane leaves Brazzaville.</headline>
+<dateline>BRAZZAVILLE 1997-06-15</dateline>
+<text>
+<p>France wrapped up its airlift of foreign nationals from the embattled Congo Republic capital of Brazzaville on Sunday when a plane carrying 87 civilians left the city, a French military official said.</p>
+<p>Two evacuation flights left on Sunday after supporters of former military leader Denis Sassou Nguesso fired mortar bombs and tank shells at government loyalists at the airport. The barrage followed two days of relative calm.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAZZAVILLE"/>
+<dc element="dc.creator.location.country.name" value="CONGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

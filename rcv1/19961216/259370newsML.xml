@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259370" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Texas Instruments chooses Andersen.</title>
+<headline>Texas Instruments chooses Andersen.</headline>
+<dateline>DALLAS 1996-12-16</dateline>
+<text>
+<p>Andersen Consulting said it will design, build and maintain Texas Instruments Semiconductor Group's open business information systems under a five-year contract is valued at more than $200 million.</p>
+<p>Under the agreement effective January 1, Andersen Consulting said it will develop client/server software for use in key Texas Instruments Inc business processes and ultimately integrate and maintain its client/server systems.</p>
+<p>Under the agreement, Andersen Consulting said, it will hire about 250 TI information systems employees to be part of its new end-to-end offering, Design, Build, Run.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

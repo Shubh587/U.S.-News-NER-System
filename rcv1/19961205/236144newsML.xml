@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236144" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Data Systems gets New York State contract.</title>
+<headline>Data Systems gets New York State contract.</headline>
+<dateline>FARMINGTON HILLS, Mich. 1996-12-05</dateline>
+<text>
+<p>Data Systems Network Corp said Thursday its Information Decisions Solutions division had won a contract from New York State.</p>
+<p>Orders are expected to generate about $1 million by January 1 and about $2 million by next July, when the contract is up for renewal, the company said.</p>
+<p>The contract includes providing the state and its agencies with a wide variety of computer equipment and services. Orders have already been received, but some shipments may not occur until the first quarter of 1997, it said.</p>
+<p>-- Chicago Newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I8394007">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766706" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: U.S. financial regulators say ready for millennium bug.</title>
+<headline>U.S. financial regulators say ready for millennium bug.</headline>
+<byline>Knut Engelmann</byline>
+<dateline>WASHINGTON 1997-07-30</dateline>
+<text>
+<p>Top U.S. financial regulators told lawmakers on Wednesday they would do all they can do ensure the nation's financial system is ready for potential computer problems in 2000.</p>
+<p>Problems are expected to arise from computers that record only the last two digits of a year -- such systems might treat 2000 as 1900, causing serious miscalculations or even a crash that could wipe out accounts or invalidate credit cards.</p>
+<p>&quot;I want to assure you that the Federal Reserve is giving the year 2000 its hightest priority,&quot; Federal Reserve Governor Edward Kelley told a Senate Banking subcommittee. &quot;I can report that we expect to be fully prepared for the century date change.&quot;</p>
+<p>The Fed and other regulators, such as the National Credit Union Administration, have come under increasing pressure from lawmakers to detail their plans to prepare the U.S. financial system for the so-called Millennium Bug.</p>
+<p>&quot;This is a daunting task,&quot; said Senate Banking Committee chairman Alfonse D'Amato, a Republican from New York.</p>
+<p>He has previously warned that failure to address the problem could cause a crash that may &quot;endanger the financial well-being of hundreds of millions of Americans.&quot;</p>
+<p>An array of the nation's top regulators, among them Securities and Exchange Commission (SEC) chairman Arthur Levitt and Andrew Howe of the Federal Deposit Insurance Corporation (FDIC), assured D'Amato that they were well aware of the size and seriousness of the problem.</p>
+<p>However, they said much of the responsibility to gear up to the millennium change lay with the private sector, and warned that nobody could guarantee that every financial institution will be up to the task.</p>
+<p>&quot;While the FDIC is not prepared to predict, at this time, whether any insitution may fail as a result of the year 2000 problem, we will be ready to intervene should an institution's viability be threatened,&quot; Howe said in his prepared testimony.</p>
+<p>Regulators said that their main concern was with smaller institutions, many of which relied on third-party vendors to supply and maintain their computer systems.</p>
+<p>As many as 80 percent of the nation's thrifts depend on outside suppliers for their systems, and recent studies suggest that some 20 percent of smaller banks are more or less unaware of the millennium problem and its potential impact on their business.</p>
+<p>But regulators said that the pressure of market forces would leave financial market players no choice but to get ready for the next millennium.</p>
+<p>&quot;Although the government, in the public interest, must keep abreast of the industry's progress, the most punishing blow for any firm's failure to correct the problem will be dealt not by the government, but rather by the market,&quot; the SEC's Levitt said.</p>
+<p>&quot;If a securities firm is not ready for the year 2000, it will effectively have made a choice not stay in business.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

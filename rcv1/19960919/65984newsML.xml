@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65984" id="root" date="1996-09-19" xml:lang="en">
+<title>DUBAI: UAE central bank foreign reserves rise in August.</title>
+<headline>UAE central bank foreign reserves rise in August.</headline>
+<dateline>DUBAI 1996-09-19</dateline>
+<text>
+<p>The United Arab Emirates foreign currency reserves rose in August to 30.2 billion dirhams from July's 27.5 billion, Central Bank figures show.</p>
+<p>(Millions of dirhams, rounded)</p>
+<p>				    August 96     July 1996</p>
+<p> Assets: Gold		     700		 700</p>
+<p> Foreign			 30,200	    27,500</p>
+<p> Other assets		     400		 500</p>
+<p> Total assets		  31,300	    28,700</p>
+<p> Liabilities: CDs	     6,200	     6,300</p>
+<p> Other liabilities	    3,800		 600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

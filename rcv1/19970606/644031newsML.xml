@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="644031" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: High Plains Wheat - Rain halts Texas harvest again.</title>
+<headline>High Plains Wheat - Rain halts Texas harvest again.</headline>
+<dateline>KANSAS CITY, Mo. 1997-06-06</dateline>
+<text>
+<p>Heavy rains moved across central Texas Friday morning, further delaying the hard red winter wheat harvest, grain merchandisers said.</p>
+<p>&quot;It's raining right now in Abilene. There are flash flood warnings in Runnels County,&quot; a Fort Worth, Texas, merchandiser said at 0845 CDT.</p>
+<p>Cool, wet weather has delayed the harvest across much of Texas by two weeks, causing basis levels and futures prices to stay firm.</p>
+<p>Basis levels Friday were mostly steady Friday, although some weakness was reported at Kansas locations.  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     - 2  +  N     - 2  +  N	     3.8100</p>
+<p> Dodge City	+ 5  +  N     + 5  +  N	     3.8800</p>
+<p> Hutchinson	+30  +  N     +30  +  N	     4.1300</p>
+<p> Newton	    +30  +  N     +43  +  N	     4.1300</p>
+<p> Salina	    +30  +  N     +35  +  N	     4.1300</p>
+<p> Topeka	    +45  +  N     +45  +  N	     4.2800</p>
+<p> Wichita	   +30  +  N     +43  +  N	     4.1300</p>
+<p> Kansas City     +30  +  N     +30  +  N	     4.1300</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+22  +  N     +22  +  N	     4.0500</p>
+<p> Galveston	 +42  +  N     +42  +  N	     4.2500</p>
+<p> Houston	   +43  +  N     unq		     4.2600</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +30  +  N     +30  +  N	     4.1300</p>
+<p> Enid		+20  +  N     +20  +  N	     3.0300</p>
+<p> Guymon	    + 5  +  N     + 5  +  N	     3.8800</p>
+<p>(Note: N=KCBT July. unq- unquoted, na - not applicable)</p>
+<p>((--Kansas City bureau, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

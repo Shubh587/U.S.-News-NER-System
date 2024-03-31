@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113000" id="root" date="1996-10-13" xml:lang="en">
+<title>GUATEMALA: Guatemala awards BHP mining concession.</title>
+<headline>Guatemala awards BHP mining concession.</headline>
+<dateline>GUATEMALA CITY 1996-10-11</dateline>
+<text>
+<p>Guatemala has awarded the Broken Hill Proprietary Co Ltd (BHP) a mining exploration concession, the country's director of mines said Friday.</p>
+<p>Mario Martinez told Reuters the Energy and Mines Ministry granted a mining concession to Australian-based BHP in September.</p>
+<p>According to the director, BHP is exploring for lead, copper, zinc and silver in the northern Guatemalan provinces of Alta Verapaz and Quiche. No other details were given of the size of the plot, nor metal contents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

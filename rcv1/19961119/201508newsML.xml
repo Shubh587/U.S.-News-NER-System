@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201508" id="root" date="1996-11-19" xml:lang="en">
+<title>SOUTH KOREA: S.Korea Jan-Oct foreign investment up 32.5 pct.</title>
+<headline>S.Korea Jan-Oct foreign investment up 32.5 pct.</headline>
+<dateline>SEOUL 1996-11-19</dateline>
+<text>
+<p>Foreign investment in South Korea rose 32.5 percent to $2.05 billion in the first 10 months of this year from $1.55 billion for the same 1995 period, the Finance and Economy Ministry said on Tuesday.</p>
+<p>A ministry official said investment in the manufacturing sector rose to $1.1 billion from $753 million a year earlier.</p>
+<p>The United States led others with an investment of $615 million, followed by the European Union with $551 million and Japan with $218 million, he said.</p>
+<p>Last year, foreign investment in South Korea totalled $1.94 billion, up from $1.32 billion for the whole of 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

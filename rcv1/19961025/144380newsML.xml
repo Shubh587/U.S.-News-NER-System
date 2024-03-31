@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144380" id="root" date="1996-10-25" xml:lang="en">
+<title>UK: UK construction industry poised to surge - survey.</title>
+<headline>UK construction industry poised to surge - survey.</headline>
+<dateline>LONDON 1996-10-25</dateline>
+<text>
+<p>The UK construction industry is on the brink of a surge in business which should see tender prices rise by as much as 28 percent over the next five years, according to an unusually upbeat survey released on Friday.</p>
+<p>The report -- by international cost consultants E C Harris -- said in its latest economics survey that tender prices will rise five and a half percent nationally a year, with the biggest growth expected in southern England.</p>
+<p>But the report is in stark contrast to one from the COBA Group earlier this week which saw very little growth ahead.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

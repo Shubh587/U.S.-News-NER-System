@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178228" id="root" date="1996-11-09" xml:lang="en">
+<title>MOROCCO: SOCCER-MOROCCO BEAT SIERRA LEONE 4-0 IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-MOROCCO BEAT SIERRA LEONE 4-0 IN WORLD CUP QUALIFIER.</headline>
+<dateline>RABAT 1996-11-09</dateline>
+<text>
+<p>Morocco beat Sierra Leone 4-0</p>
+<p>(halftime 1-0) in their World Cup African zone group five</p>
+<p>qualifier on Saturday.</p>
+<p>Scorers: Larbi Hababi 18, Khalid Raghib 50, 55, Youssef</p>
+<p>Fertout 57</p>
+<p>Attendance: 30,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="SILEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

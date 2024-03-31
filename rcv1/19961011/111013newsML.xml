@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111013" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Danielson Holding to sell trust subsidiary.</title>
+<headline>Danielson Holding to sell trust subsidiary.</headline>
+<dateline>NEW YORK 1996-10-11</dateline>
+<text>
+<p>Danielson Holding Corp said Friday it entered into an agreement with North American Trust Co pursuant to which Danielson will sell its trust subsidiary Danielson Trust Company to North American.</p>
+<p>North American is a unit of London Pacific Group Ltd, which confirmed the announcement.</p>
+<p>The sale price will be $3.0 million in cash, the companies said.</p>
+<p>Deal closing is subject to various conditions and no assurance can be given that the conditions to the transaction can be satisfied or that the transaction will be completed.</p>
+<p>Danielson will recognize a loss of about $1.7 million or $0.11 per share, on the sale, subject to audit adjustment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

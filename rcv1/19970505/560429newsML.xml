@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560429" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: GTE locks up Qwest dark fiber capacity.</title>
+<headline>GTE locks up Qwest dark fiber capacity.</headline>
+<dateline>DENVER 1997-05-05</dateline>
+<text>
+<p>Qwest Communications Corp said Monday GTE Corp agreed to acquire the right to use 24 dark fibers installed along the entire route of the 13,000-mile coast to coast fiber optic network that Qwest is constructing.</p>
+<p>In 1996, Frontier Corp and WorldCom Inc agreed to acquire the right to use dark fiber along the route of the Qwest network, the company noted.</p>
+<p>It said these agreements, together with the GTE agreement and additional smaller contracts in place for sales of dark fiber, will significantly reduce Qwest's net cost per fiber mile for fiber that it retains for its own use.  </p>
+<p>Qwest generally plans to retain 48 fibers along the system for its own network use, the company said.  Its statement gave no value for the GTE agreement.</p>
+<p>The expansion of Qwest's existing long distance network, which is scheduled to be completed by late 1998, will connect 92 metropolitan areas that represent 65 percent of the nation's originating and terminating long distance traffic.</p>
+<p>Qwest said it has already installed about 40 percent of the route miles of the 13,000-mile system and has right-of-way agreements already in place with railroads for over 80 percent of the network route.  </p>
+<p>Qwest is building the network with its own construction personnel and subcontractors, the company noted.</p>
+<p>The use of self-healing SONET ring architecture, coupled with the use of cable installed in high-density polyethylene conduit generally buried 42 - 56 inches deep, primarily over railroad right-of-way, is designed to provide superior security and reliability for the Qwest network, it said.</p>
+<p>The network will employ non-zero dispersion-shifted fiber and advanced electronics that allow for significantly greater capacity per fiber at lower unit costs than is possible with single mode fiber systems now in commercial use.  </p>
+<p>Qwest said its new coast to coast system will contain two conduits along substantially all of the 13,000 route mile system, with one conduit containing cable generally housing 96 fibers and a spare conduit to allow for future technology upgrades and expansion of capacity.</p>
+<p>&quot;The Qwest network is designed to provide a platform to handle the anticipated burgeoning demands of businesses and consumers for multimedia communications,&quot; said chief executive Joe Nacchio.  &quot;We are extremely pleased to have GTE acquire dark fiber along our network route.&quot;</p>
+<p>The Qwest system's non-zero dispersion-shifted fiber, is specifically designed for the use of dense wave division multiplexing which provides multiple transmission paths over a single fiber using different light wave frequencies.</p>
+<p>The advanced technology of the Qwest network's SONET ring architecture virtually eliminates down-time in the event of a fiber cut by utilizing a circular re-routing pattern so that a caller would not be able to detect a problem.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

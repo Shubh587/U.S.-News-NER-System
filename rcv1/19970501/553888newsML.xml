@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553888" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Lockheed Martin creates new company.</title>
+<headline>Lockheed Martin creates new company.</headline>
+<dateline>BETHESDA, Md. 1997-05-01</dateline>
+<text>
+<p>Lockheed Martin Corp said Thursday it formed a new company with Lehman Brothers Capital Partners III LP and a management team led by former Lockheed Martin executives.</p>
+<p>It said they had completed a $525-million transaction establishing L-3 Communications as an independent company specializing in electronic component manufacturing.</p>
+<p>L-3 Communications is composed of ten former Lockheed Martin companies, it added.</p>
+<p>Lockheed Martin said it owned a 35-percent equity stake in the new company, while Lehman Brothers had 50 percent and the management team 15 percent.</p>
+<p>Based in Bethesda, Maryland, Lockheed Martin provides aerospace, defense, and other high-technology products and services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BETHESDA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24408" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: Canadian grain statistics weekly.</title>
+<headline>Canadian grain statistics weekly.</headline>
+<dateline>CHICAGO 1996-08-30</dateline>
+<text>
+<p>Statistics for the week ending August 25, 1996, in 000's tonnes. - Canadian Grain Commission</p>
+<p>		 Visible Supplies	    Farmers Deliveries</p>
+<p>	 Curr Wk		Yr Ago    Curr Wk  Yr to Date  Yr Ago</p>
+<p>Wheat   3346.4		2920.7	141.0    388.0	 385.2</p>
+<p>Durum   1564.0		1002.3	 13.2     65.1	  22.8</p>
+<p>Oats	90.8		 170.6	  5.3     19.9	  39.9</p>
+<p>Barley   738.6		 655.6	 58.0    126.9	  65.7</p>
+<p>Rye	 67.7		  86.1	 16.5     39.9	  41.4</p>
+<p>Flax	90.3		  50.4	  2.7     13.6	   3.4</p>
+<p>Canola   419.5		 280.8	 35.3    136.0	  75.0</p>
+<p>Corn	13.5		   4.3	  0.2	0.5	   6.4</p>
+<p>Total   6330.8		5170.8	272.2    789.9	 639.8</p>
+<p>		    Exports		   Domestic Disappearance</p>
+<p>	 Curr Wk Yr to Date Yr Ago    Curr Wk  Yr to date  Yr Ago</p>
+<p>Wheat    165.1   619.6     960.8	 74.2    184.0	 171.2</p>
+<p>Durum     52.5   252.6     391.9	  3.6     15.7	   9.1</p>
+<p>Oats	 1.0    14.7	49.4	  1.4     14.9	  22.0</p>
+<p>Barley    17.9   128.0	38.9	 34.2     91.0	  78.1</p>
+<p>Rye	  1.7     3.7	 5.8	  0.3	1.6	   2.6</p>
+<p>Flax	 3.3    21.9	29.2	  1.8	5.9	   1.5</p>
+<p>Canola    64.7   152.9     106.1	 22.5    122.1	  89.7</p>
+<p>Corn	 0.5     0.7	 8.9	  1.7	7.4	   2.9</p>
+<p>Total    306.7  1194.1    1591.0	139.7    442.6	 377.1</p>
+<p>In addition, Statistics Canada indicated the following exports to the U.S., between August 1995 and June 1996; in tonnes;</p>
+<p>	    Oats	  Rye	 Flaxseed   Canola	Corn</p>
+<p>Exports  341,700	28,900     34,300    54,700    326,100</p>
+<p>Year Ago 177,000	37,100     40,100    25,500    207,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

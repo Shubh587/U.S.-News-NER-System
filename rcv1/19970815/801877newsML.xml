@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="801877" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 15-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 15-AUG.</headline>
+<text>
+<p>Typhoon Winnie, with 105 mph winds, is centered 400 miles southeast of Okinawa, moving west-northwest at 9 mph. It is expected to track close to Okinawa in about 36-48 hours. Top winds at that time should be about 85 mph. This system will main impact shipping in the region but it may have some impact on the island of Okinawa.  </p>
+<p>Cleanup from flash flooding continues near Hong Kong, China, in parts of northern India, and in Pakistan. China may see additional thunderstorms, but storms should be less heavy in India and Pakistan over the next few days.  </p>
+<p>Nothing further at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

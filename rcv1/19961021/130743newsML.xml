@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130743" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: SGI, LSI Logic unveil low cost chip.</title>
+<headline>SGI, LSI Logic unveil low cost chip.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-10-21</dateline>
+<text>
+<p>Silicon Graphics Inc and LSI Logic announced a new MIPS microprocessor that is small and inexpensive enough to be used in many new consumer electronics items, opening new markets for both firms.</p>
+<p>Separately, Silicon Graphics' MIPS Technologies Inc unit announced a multimedia version of its MIPS chip which officials said could give Intel Corp's new MMX multimedia chip a run for its money. Its MIPS Digital Media Extensions bring video, graphics and sound processing onto the microprocessor.  </p>
+<p>LSI's and Silicon's MIPS 16 microprocssor shrinks the space taken up by software coding on the chip by 40 percent from traditional MIPS coding. That shrinkage means the chip requires memory and less power. The smaller requirements allow a lower priced chip for the same performance.</p>
+<p>LSI announced the first commercialization of MIPS 16 technology, its &quot;TinyRISC&quot; microprocessor, saying it's good for cellular phones, Internet applicances, and other items.</p>
+<p>Analysts at Dataquest Inc said neither announcement breaks new grounds in microprocessor technology but they are both important for the companies in either opening up -- or preserving -- markets for them.  </p>
+<p>Other workstation chip makers offer this capability -- using digital signal processing to bring the tasks of video or graphics or sound processing into the central microprocessor.</p>
+<p>At issue really is the viability of workstations at a time when Intel's Pentium Pro is getting closer and closer in performance to what workstation chips can do - chips like Silicon Graphics' MIPS or Sun Microsystems Inc's Sparc.</p>
+<p>&quot;Sun's and HP's and SGI's challenge is to find users or applications that are so intensive that a Pentium Pro can't supply them,&quot; Brookwood said.  </p>
+<p>He said Sun already introduced multimedia extensions for its workstation chip. Silicon Graphics announced its multimedia extension along with announcing the next generation of its MIPS chip, the MIPS V. Together they do full multimedia processing, the company said, using digital signal processing.</p>
+<p>With the MIPS 16, reducing the space and memory requirements of a MIPS chip is something that will prolong the attractiveness of RISC chips in the market, Starnes said. A drawback of RISC chips have been their big memory requirments.  </p>
+<p>The computer industry is split between RISC, or reduced instruction set computers, processing architecture used inside most workstations, and CISC, or complex instruction set computers, architecture used in most personal computers.</p>
+<p>Intel's microprocessors, for example, are built around a CISC architecture.</p>
+<p>But both sides have been introducing features to make their chips more like the other, seeking the best of both.</p>
+<p>LSI, Silicon Graphics as well as Intel plan to present details of their microprocessor technologies at the industry's Microprocessor Forum event this week in San Jose.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

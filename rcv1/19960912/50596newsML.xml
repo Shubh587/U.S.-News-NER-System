@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50596" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post page one Sept 12.</title>
+<headline>PRESS DIGEST - Washington Post page one Sept 12.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on September 12:</p>
+<p>---</p>
+<p>WASHINGTON - The United States prepared for air strikes against Iraq after U.S. jets were fired on by Iraq.</p>
+<p>---</p>
+<p>WASHINGTON - Republican presidential candidate Bob Dole held a rally for Republicans in Congress, telling them not to worry about this election.</p>
+<p>---</p>
+<p>WASHINGTON - The U.S. Navy and Air Force are jockeying for a bigger role in Iraq to justify future budgets.</p>
+<p>---</p>
+<p>WASHINGTON - President Clinton's advertising campaign emphasises the risks of voting for Bob Dole.</p>
+<p>---</p>
+<p>WASHINGTON - Feuding gangs in Washington are terrorising residents of a Washington neighborhood.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

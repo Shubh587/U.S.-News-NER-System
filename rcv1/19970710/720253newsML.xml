@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720253" id="root" date="1997-07-10" xml:lang="en">
+<title>UK: Philip Morris prices $1.0 bln 8-year bond.</title>
+<headline>Philip Morris prices $1.0 bln 8-year bond.</headline>
+<dateline>LONDON 1997-07-10</dateline>
+<text>
+<p>The following bond announced on Wednesday by lead manager Merrill Lynch, has been priced.</p>
+<p> BORROWER   PHILIP MORRIS COS INC</p>
+<p> AMT    $1.0 BLN	COUPON     7.0	 MATURITY    15.JUL.05</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.686    PAY DATE   S17.JUL.97</p>
+<p> FULL FEES  0.4125    REOFFER    99.686    SPREAD	+79 BP</p>
+<p> NOTES	S-SHORT FIRST COUPON</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

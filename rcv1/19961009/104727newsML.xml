@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104727" id="root" date="1996-10-09" xml:lang="en">
+<title>UK: London shipsales.</title>
+<headline>London shipsales.</headline>
+<dateline>LONDON 1996-10-09</dateline>
+<text>
+<p>Secondhand tonnage brokers reported the sale of the following vessels.</p>
+<p>Vitajoy - (built 1971) 31,695 dwt sold to Indian breakers for $158 per ldt.</p>
+<p>Ocean K - (built 1964) 25,701 dwt sold to Indian breakers for $160 per ldt.</p>
+<p>Divine Splendour - (built 1972) 16,424 dwt sold to intermediary buyers to be sold onwards for $178 per ldt.</p>
+<p>Some of these sales may not be final as they may be subject to inspection, survey or other conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

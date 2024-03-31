@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292545" id="root" date="1997-01-07" xml:lang="en">
+<title>YEMEN: Yemen doubles banks' minimum capital requirement.</title>
+<headline>Yemen doubles banks' minimum capital requirement.</headline>
+<dateline>SANAA 1997-01-07</dateline>
+<text>
+<p>Yemen's Central Bank has decided to raise banks' minimum capital requirement to 500 million rials ($3.8 million-$5 million) from a current 250 million, a central bank official said on Tuesday.</p>
+<p>He said banks would have to meet the new requirement by the end of 1997.</p>
+<p>Around 10 commercial banks currently operate in Yemen, one of the Arab world's poorest countries.</p>
+<p>($1= varies between 100 and 130 rials)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

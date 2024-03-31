@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90370" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Pepsi-Cola Puerto Rico Q3 summary.</title>
+<headline>Pepsi-Cola Puerto Rico Q3 summary.</headline>
+<dateline>NEW YORK 1996-10-02</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	loss	    $2.14   profit	 $0.13</p>
+<p> Net	loss	   45,926   profit	 2,415</p>
+<p> Sales		     24,615		   30,832</p>
+<p> Avg shrs		  21,500		   18,000</p>
+<p>	 Nine months ended June 30</p>
+<p> Shr	loss	    $2.58   profit	 $0.62</p>
+<p> Net	loss	   55,546   profit	11,176</p>
+<p> Sales		     79,117		   83,634</p>
+<p> Avg shrs		  21,500		   18,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The quarter's net loss includes equity in net loss of Buenos Aires Embotelladora S.A. after taxes of $32.1 million, or $1.49 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

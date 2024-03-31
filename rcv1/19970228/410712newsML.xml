@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="410712" id="root" date="1997-02-28" xml:lang="en">
+<title>EU: EU beef intervention purchases down.</title>
+<headline>EU beef intervention purchases down.</headline>
+<dateline>REUTER 1997-02-28</dateline>
+<text>
+<p>A total of 13,519 tonnes of beef was accepted into intervention by the European Union's beef management committee on Friday, a Commission official said.</p>
+<p>The tenders were subject to a maximum price of 273 ecus per 100 kg.</p>
+<p>&quot;The amount of beef bought into intervention is continuing to reflect an improving market,&quot; the official added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REUTER"/>
+<dc element="dc.creator.location.country.name" value="EU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

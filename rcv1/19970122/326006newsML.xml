@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326006" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Apple executive sees promise in software.</title>
+<headline>Apple executive sees promise in software.</headline>
+<dateline>LA QUINTA, Calif. 1997-01-22</dateline>
+<text>
+<p>Apple Computer Inc's chief technologist said the company can achieve better returns by placing more emphasis on marketing its software, which has been boosted by its $400 million buyout of NeXT Software Inc.</p>
+<p>&quot;We're a systems company that is too much dominated by hardware that has not achieved the profits that are available in the software industry,&quot; Ellen Hancock, executive vice president of research and development and chief technology officer, said at the Upside Technology Summit here.</p>
+<p>&quot;I do think as a systems company we should be able to, over time, address the margin objections by having a better balance within the company as it relates to hardware, software and services,&quot; Hancock said in an after-dinner presentation on Tuesday.</p>
+<p>Hancock said Apple is committed to the PowerPC processor marketed with Motorola Inc and International Business Machines Corp, but it can sell systems, middleware and applications for Intel Corp's Pentium chips as well.</p>
+<p>&quot;We are a strong component of PowerPC but there clearly is a strong market on the Intel side, on the Pentium system,&quot; she said in a question and answer session. &quot;One step in that direction is...I believe this is the first time Apple had and operating system standing outside its own hardware base.&quot;</p>
+<p>Hancock said she had received a favorable reception after speaking about the company's new operating systems transition strategy in a lengthy question and answer session with around 200 retailers and independent software developers last week.</p>
+<p>&quot;I have to say that when we explain our strategy, people are encouraged by it,&quot; she said, adding that prior to the company's decision last month to buy NeXT, Apple was hurt by the lack of a clear direction.</p>
+<p>&quot;I think that the lack of an operating system strategy did not help us,&quot; she said, referring to the recent process she led to determine its systems strategy after the development was stopped on Apple's long-delayed internal Copland system.</p>
+<p>&quot;To be very honest, this plan is more executable than the Copland plan...we were really struggling with the Copland plan,&quot; Hancock said. Nevertheless, she said nearly 50 percent of the features developed for Copland would still be used.</p>
+<p>The executive said Apple is continuing its assessment process for chosing the kernal, or fundamental system software code, on which its new operating system will run.</p>
+<p>&quot;I fully expect to close on that decision toward the end of this month, (or) early next month,&quot; she said, adding that Apple is looking at its own Copland kernal as well as an updated version of Mach recommended by NeXT developers.</p>
+<p>&quot;Mach is still in the running and I'd prefer not to say what the other ones are,&quot; she said.</p>
+<p>Industry sources have said Apple is also considering using the kernal from Sun Microsystems Inc's Unix software, among others, but Apple and Sun decline to comment.</p>
+<p>&quot;I would say that our sentiment's leaning towards something like the Mach kernel,&quot; said Hancock.</p>
+<p>-sam.perry@reuters.com +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA QUINTA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

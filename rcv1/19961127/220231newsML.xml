@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220231" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Maine outages will continue into Thanksgiving.</title>
+<headline>Maine outages will continue into Thanksgiving.</headline>
+<dateline>AUGUSTA, Maine 1996-11-27</dateline>
+<text>
+<p>An estimated 4,900 Central Maine Power customers were without electricity Wednesday and some will remain without power on Thanksgiving Day, company officials said.</p>
+<p>The outages were the result of an ice storm on Tuesday that knocked down trees and at one point put 60,000 of the utility's customers in central and coastal Maine in the dark.</p>
+<p>Spokesman Mark Ishkanian said extra repair crews were brought in from Vermont and New Hampshire, but the utility would not meet its goal of having all electricty restored before the holiday.</p>
+<p>&quot;We have had more help from other utilities than ever before but the extensive damage and difficult working conditions have made the final phase of clean-up go more slowly than we would like,&quot; Ishkanian said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUGUSTA, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

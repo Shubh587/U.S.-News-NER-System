@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178224" id="root" date="1996-11-09" xml:lang="en">
+<title>GEORGIA: SOCCER-ENGLAND BEAT GEORGIA 2-0.</title>
+<headline>SOCCER-ENGLAND BEAT GEORGIA 2-0.</headline>
+<dateline>TBILISI 1996-11-09</dateline>
+<text>
+<p>England beat Georgia 2-0 (halftime 2-0) in a World Cup European group two qualifying match on Saturday.</p>
+<p>Scorers: Teddy Sheringham 15, Les Ferdinand 37</p>
+<p>Attendance: 75,000  </p>
+<p>Group two standings (tabulated - played, won, drawn, lost,</p>
+<p>goals for, goals against, points):</p>
+<p> England		3   3   0   0   7   1   9</p>
+<p> Italy		  2   2   0   0   4   1   6</p>
+<p> Poland		 1   0   0   1   1   2   0</p>
+<p> Georgia		2   0   0   2   0   3   0</p>
+<p> Moldova		2   0   0   2   1   6   0</p>
+<p>Next match: November 10, Poland v Moldova.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TBILISI"/>
+<dc element="dc.creator.location.country.name" value="GEORGIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

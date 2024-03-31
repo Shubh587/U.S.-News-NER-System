@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141187" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: ASARCO Inc Q3 net dropped.</title>
+<headline>ASARCO Inc Q3 net dropped.</headline>
+<dateline>NEW YORK 1996-10-24</dateline>
+<text>
+<p>(in millions, except per share data)</p>
+<p>				  Third Quarter	   Nine Months</p>
+<p>				   1996    1995	   1996     1995</p>
+<p> Sales			 $647.8  $819.7     $2,045.2 $2,398.2</p>
+<p> Net earnings		   6.0    58.3	  114.0    180.4</p>
+<p>Average shares</p>
+<p>     outstanding	     42.7    42.4	   42.7     42.3</p>
+<p> Net earnings per share    0.14    1.38	   2.67     4.27</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

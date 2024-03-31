@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251844" id="root" date="1996-12-12" xml:lang="en">
+<title>CROATIA: Croatian Oct oil output rises, natural gas falls.</title>
+<headline>Croatian Oct oil output rises, natural gas falls.</headline>
+<dateline>ZAGREB 1996-12-12</dateline>
+<text>
+<p>The Central Bureau of Statistics issued the following oil and natural gas output details.</p>
+<p> CROATIA OIL EXTRACTION     OCTOBER     SEPTEMBER     OCT '95</p>
+<p> Crude oil	 (tonnes)   142,173	115,763	125,902</p>
+<p> Natural gas (000 cu m)     150,361	156,485	173,568</p>
+<p> OIL PRODUCTS (tonnes)</p>
+<p> Gasoline			  76,142	 69,703	 47,379</p>
+<p> Gas oil			   60,851	 17,927	 25,552</p>
+<p> Heating oil		    136,000	116,601	136,194</p>
+<p>NOTES -- Data exlude production from oilfields in Serb-held Eastern Slavonia which was partly restarted late in August. -- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I1300014">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

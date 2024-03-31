@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208129" id="root" date="1996-11-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia 2020 indexed bond yields 4.136 pct.</title>
+<headline>RTRS - Australia 2020 indexed bond yields 4.136 pct.</headline>
+<dateline>SYDNEY 1996-11-21</dateline>
+<text>
+<p>Result of today's A$100 million indexed Treasury bond tender, announced by Reserve Bank of Australia (RBA):</p>
+<p>  Stock	  Offering     Allotted	Avg yield   Range</p>
+<p>  4.0 Aug 2020 AS100 million    A$102.100 million 4.136	 4.10-4.14</p>
+<p>(RBA take-up nil, pct allotted at top 50)</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

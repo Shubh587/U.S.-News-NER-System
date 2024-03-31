@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127633" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. Northwest spot products notionally unchanged.</title>
+<headline>U.S. Northwest spot products notionally unchanged.</headline>
+<dateline>SEATTLE 1996-10-17</dateline>
+<text>
+<p>U.S. Northwest products prices were notionally unchanged, contained by lackluster California markets and no reports of refinery problems.</p>
+<p>California products flattened late Thursday, as players avoided making purchases until NYMEX volatility calmed.</p>
+<p>Conventional regular unleaded gasoline in Los Angeles traded at 62/63 cents a gallon.</p>
+<p>In Seattle, regular unleaded gasoline was assessed notionally at 62.50 cents to 63.50 cent a gallon, flat from Wednesday.</p>
+<p>Low sulphur diesel stayed 75/76 cents and jet feul remained 76.50/77.50 cents a gallon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

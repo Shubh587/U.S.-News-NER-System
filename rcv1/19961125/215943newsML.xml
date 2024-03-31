@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="215943" id="root" date="1996-11-25" xml:lang="en">
+<title>VIETNAM: Vietnam's inflation rate picks up in November.</title>
+<headline>Vietnam's inflation rate picks up in November.</headline>
+<dateline>HANOI 1996-11-25</dateline>
+<text>
+<p>Vietnam's General Statistics Office issued the following economic indicators on Monday:</p>
+<p> VIETNAM CONSUMER PRICES		 Nov 96     Oct 96    Nov 95</p>
+<p> Month-on-month percentage change     +0.9	 +0.1	 +0.1</p>
+<p> Year-on-year percentage change	 +3.8	 +2.9	+13.8</p>
+<p> Index base (base 100 = prev. Dec)   103.5	102.6	112.4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

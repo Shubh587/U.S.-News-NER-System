@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85824" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: C-TEC, Boston Edison in $300 mln deal - WSJ.</title>
+<headline>C-TEC, Boston Edison in $300 mln deal - WSJ.</headline>
+<dateline>NEW YORK 1996-09-30</dateline>
+<text>
+<p>C-TEC Corp and Boston Edison Co are expected to announce Monday that they have reached an agreement to invest a total of $300 million in an interactive data network for households in the Boston area, the Wall Street Journal reported.</p>
+<p>Citing unidentified sources it described as being close to the deal, the newspaper said Monday Boston Edison would form a joint venture with the RCN unit of C-TEC to invest in the network over three or five years.</p>
+<p>RCN would cover about 51 percent of the money and Edison the remaining amount, it said.</p>
+<p>The project would be based on an existing 200-mile-ring of fiber-optic cable used for the utility's internal communications system, it added.</p>
+<p>The newspaper said the partnership would sell local and long-distance telephone and video services and Internet access, among other things.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

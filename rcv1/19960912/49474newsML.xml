@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49474" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Federal Reserve report 4 (H.4.1) - Sept. 12.</title>
+<headline>Federal Reserve report 4 (H.4.1) - Sept. 12.</headline>
+<text>
+<p>One week ended September 11  daily avgs-millions</p>
+<p> Foreign deposits............173  up..........1</p>
+<p> Gold stock...............11,050  .........unch</p>
+<p> Custody holdings........583,427  up......3,318</p>
+<p> Federal funds rate avg.....5.16  vs.......5.39</p>
+<p>Factors on Wednesday, September 11</p>
+<p> Bank borrowings.............372  vs........625</p>
+<p> Extended credit.............nil  vs.......unch</p>
+<p> Matched sales............11,945  vs.....11,606</p>
+<p> Including sales w/cust...11,945  vs.....11,606</p>
+<p> Float.......................713  vs......1,865</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739302" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: Atlantic Coast adding flights in 3 cities.</title>
+<headline>Atlantic Coast adding flights in 3 cities.</headline>
+<dateline>DULLES, Va. 1997-07-18</dateline>
+<text>
+<p>Atlantic Coast Airlines Inc said Friday it is increasing its service to three cities as of September 9.</p>
+<p>The airline, which operates in the eastern part of the United States as United Express, plans to expand service in Hartford, Conn., Greensboro, N.C., and Charleston, W.Va.</p>
+<p>With the additional flights, United Express will offer more than 200 daily departures from Washington's Dulles International Airport.</p>
+<p>United Express will add one non-stop, round-trip flight to Hartford for a total of five weekday trips. Two nonstop, round-trip flights are to be added to Greensboro for a total of eight. And one non-stop, round-trip flight is being added to Charleston, for a total of four.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DULLES, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

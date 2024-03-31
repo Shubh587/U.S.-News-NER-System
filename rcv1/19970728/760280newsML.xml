@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760280" id="root" date="1997-07-28" xml:lang="en">
+<title>SWITZERLAND: Swiss bond market closing report.</title>
+<headline>Swiss bond market closing report.</headline>
+<dateline>ZURICH 1997-07-28</dateline>
+<text>
+<p>Swiss bonds closed mostly firmer, led by gains in shorter maturities including LIFFE's three-month EuroSwiss, while the long end rose modestly.</p>
+<p>Traders said the market was looking to U.S. data later this week to set the tone.</p>
+<p>U.S. data include second quarter preliminary GDP on Thursday and July employment data on Friday.</p>
+<p>The Swiss government will release its consumer price index for July tomorrow. The CPI for Zurich, Switzerland's largest city, was reported on Friday down 0.1 percent from June. Zurich year-on-year inflation was unchanged at plus 0.4 percent.  </p>
+<p>-- Monday's closing prices as follows:</p>
+<p>Conf futures up four basis points at 120.30.</p>
+<p>Comi medium-term bond down 14 at 113.40</p>
+<p>Euro Swiss francs up five at 98.40.</p>
+<p>4-1/2 Jun 2007 bond 108.85/95 yield 3.415 pct</p>
+<p>(Friday 108.70/80 yield 3.432 pct)</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

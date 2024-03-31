@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281652" id="root" date="1996-12-31" xml:lang="en">
+<title>USA: Apartment Investment buys three properties.</title>
+<headline>Apartment Investment buys three properties.</headline>
+<dateline>DENVER 1996-12-31</dateline>
+<text>
+<p>Apartment Investment and Management Co said on Tuesday it completed the acquisition of three multifamily apartment properties units located in Texas and Florida for a total of $27 million.</p>
+<p>The acquisition price includes $3 million which the company budgeted for initial capital expenditures, it said.</p>
+<p>Apartment Investment said it expected the combined stabilized contribution to its cash earned to be $0.03 to $0.04 per share.</p>
+<p>The properties are in Houston and Corpus Christi, Texas and Tampa, Florida.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

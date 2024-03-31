@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786864" id="root" date="1997-08-07" xml:lang="en">
+<title>JAPAN: Monju panel points to lapses in safety studies.</title>
+<headline>Monju panel points to lapses in safety studies.</headline>
+<dateline>TOKYO 1997-08-07</dateline>
+<text>
+<p>A panel investigating a 1995 accident at Japan's Monju prototype fast-breeder nuclear reactor said on Thursday there may have been lapses in preliminary safety studies.</p>
+<p>In December 1995 an estimated two to three tonnes of liquid sodium leaked from a cooling system of the Monju reactor on the Sea of Japan coast, forcing a manual shut down.</p>
+<p>A panel reporting to the Science and Technology Agency said in an interim report that experiments carried out as part of investigations into the accident showed that high-temperature liquid sodium could under some circumstances eat a hole in the reactor's steel-sheet floor.</p>
+<p>It added that, when advance safety checks were conducted before the reactor first began operations, the possibility of such corrosion was not examined.</p>
+<p>The report said information on the possibility of liquid sodium corroding steel sheet may only have been available to the steel making industry. It added, however, that such information could have been provided to the planners of the Monju project if they had been more concerned about safety.</p>
+<p>The Science and Technology Agency said on Monday it would suspend operations at Monju as a penalty for falsifying reports following the accident.</p>
+<p>Monju, the cornerstone of Japan's ambitious nuclear fuel recycling programme, has remained shut since the accident and officials said the agency's step was taken to send a symbolic message.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

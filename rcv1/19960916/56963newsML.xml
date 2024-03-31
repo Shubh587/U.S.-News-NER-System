@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56963" id="root" date="1996-09-16" xml:lang="en">
+<title>GREECE: GNN MACRO GUIDE - MONETARISM.</title>
+<headline>GNN MACRO GUIDE - MONETARISM.</headline>
+<dateline>ATHENS 1996-09-16</dateline>
+<text>
+<p>The terms monetarism and monetarists have been used in this pre-election campaign, sometimes in a confusing and misleading way. Following is a brief description of this school of economic thought.</p>
+<p>As respected Keynesian and Nobel laureate Franco Mondigliani put it: &quot;We are all monetarists now.&quot; At least partly.</p>
+<p>Monetarism favours a small public sector, minimal government interference in the economy, abhors budget deficits and public debt.</p>
+<p>Monetarism believes that fine-tuning of the economy leads to greater real output variation than sticking to a fixed monetary policy rule (K-percent money supply rule) and letting the private sector function freely.</p>
+<p>The label monetarism was coined by the late Karl Brunner, a monetarist to describe Milton Friedman's views. Nobel laureate Milton Friedman is the most famous modern proponent of monetarism.</p>
+<p>The quantity theory of money is at the centre of monetarist theory.</p>
+<p>Major contributors in the quantity theory of money have been French philosopher Jean Bodin in the early 17th century, Scottish philosopher and economist David Hume - a close friend of Adam Smith - British economist Henry Thornton and U.S economist Irving Fisher.</p>
+<p>QUANTITY THEORY OF MONEY: M*V = P*Y</p>
+<p>where M: money stock</p>
+<p>	    V: Velocity of money</p>
+<p>	    P: Price level</p>
+<p>	    Y real output</p>
+<p>According to Friedman's restatement of the theory: Variations in the money supply can produce short-run, temporary variations in real output but changes in the money supply are fully reflected in the price level in the long-run given the long-run stability of the velocity of money and real output being fixed at the full employment level.</p>
+<p>K-PERCENT RULE: let the money supply grow at a steady rate equal to the average GDP growth rate.</p>
+<p>Scope for countercyclical policies remains in the short-run because labour unions exhibit adaptive expectations in wage negotiations.</p>
+<p>ADAPTIVE EXPECTATIONS: Economic agents adapt their expectations in the light of past experience and learn from their mistakes.</p>
+<p>expP(t+1) = expP(t) + a*( P(t)-expP(t) where 0a1</p>
+<p>expP(t+1) : expected price level at time (t+1)</p>
+<p>     expP(t)   : expected price level at time (t)</p>
+<p>     P(t)	: actual price level at time (t)</p>
+<p>     a	   : coefficient</p>
+<p>The restriction placed on the coefficient (a) implies that the influence of past expectations wanes geometrically with the passage of time.</p>
+<p>FOREIGN EXCHANGE POLICY: Monetarists advocate a freely floating foreign exchange mechanism. They do not favour dirty float or pegged foreign exchange systems. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

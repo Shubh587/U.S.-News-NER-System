@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760977" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: InterTrust names Tarjan as chief scientist.</title>
+<headline>InterTrust names Tarjan as chief scientist.</headline>
+<dateline>SUNNYVALE, California 1997-07-28</dateline>
+<text>
+<p>Privately held InterTrust Technologies Corp said on Monday it had named Robert Tarjan as chief scientist and the leader of a newly established research group on electronic commerce.</p>
+<p>Tarjan, an expert in design and analysis of computer algorithms and currently a computer science professor at Princeton University, has previously held research positions at Bell Labs and NEC Research Institute.</p>
+<p>InterTrust is developing digital rights management and secure electronic commerce technology.</p>
+<p>The company said it was establishing its Strategic Technologies and Architectural Research Laboratory (STAR Lab) as the first of its kind solely dedicated to technologies relevant to electronic commerce areas.</p>
+<p>The core research team will also include James Hornung, a founding member of Digital Equipment Corp's Systems Research Center, Susan Owicki, an expert on distributed systems and performance analysis, and Olin Sibert, a security and computer architecture consultant.</p>
+<p>InterTrust also named as consultants to the STAR Lab a team of leading scientists, including John Guttag, David Faber, Peter Neumann and Willis Ware. Initial STAR Lab research staff include Umesh Maheshware, Lesley Matheson, and Talal Shamoon.</p>
+<p>InterTrust said it is currently delivering a general purpose architecture for secure electronic commerce that enables participants to securely control electronic relationships, including payment and usage measurement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

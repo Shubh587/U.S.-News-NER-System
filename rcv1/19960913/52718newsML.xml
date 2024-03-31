@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52718" id="root" date="1996-09-13" xml:lang="en">
+<title>ECUADOR: Ecuador police say robbers shot at president's son.</title>
+<headline>Ecuador police say robbers shot at president's son.</headline>
+<dateline>QUITO, Ecuador 1996-09-12</dateline>
+<text>
+<p>Gunmen who fired on the bodyguards of the president's son were trying to steal his car and were not assassins, local television reported on Thursday, citing a police report.</p>
+<p>Ecuavisa television station said police had concluded that the four men involved in the gunfight with security agents on Wednesday wanted to steal Abdala Bucaram junior's car.</p>
+<p>President Abdala Bucaram informed the country that shots were fired at his son's car in the port of Guayaquil. His son was not injured, but one of the attackers was wounded in the neck.</p>
+<p>Bucaram said powerful interest groups angry with the policies of his month-old government had ordered the attack.</p>
+<p>Police declined to comment on the television report and the president's office said it had no additional information.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO, Ecuador"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

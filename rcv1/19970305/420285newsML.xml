@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420285" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: NeXstar to start phase II MiKasome trial.</title>
+<headline>NeXstar to start phase II MiKasome trial.</headline>
+<dateline>BOULDER, Colo. 1997-03-05</dateline>
+<text>
+<p>NeXstar Pharmaceuticals Inc plans to start phase II clinical trials on MiKasome, an antibiotic, later this year.</p>
+<p>NeXstar will start phase II trials in multiple indications, including hospital-acquired pneumonia, urinary tract infections, infectious exacerbations in cystic fibrosis, and bacterial endocarditis.</p>
+<p>The company expects MiKasome to become a very important drug based on its preclinical data and the initial phase I results.</p>
+<p>NeXstar is a pharmaceutical company engaged in the discovery, development, manufacturing and marketing of products to treat life-threatening diseases.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

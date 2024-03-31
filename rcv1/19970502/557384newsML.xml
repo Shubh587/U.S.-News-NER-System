@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="557384" id="root" date="1997-05-02" xml:lang="en">
+<title>UK: UK Labour claims first scalp in cabinet.</title>
+<headline>UK Labour claims first scalp in cabinet.</headline>
+<dateline>LONDON 1997-05-02</dateline>
+<text>
+<p>Scottish Secretary Michael Forsyth lost his parliamentary seat to the Labour Party on Friday, becoming the first victim of Prime Minister John Major's cabinet in Britain's election.</p>
+<p>Official results showed the Labour candidate Anne McGuire winning the Stirling seat in Scotland on a swing of 7.7 percent. Forsyth won it for the Conservatives by only 703 votes in the last election in 1992. Early results showed Labour heading for a landslide national victory after 18 years in opposition.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

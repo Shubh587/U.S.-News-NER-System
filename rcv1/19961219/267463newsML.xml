@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="267463" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: U.S. soybean oil export breakdown.</title>
+<headline>U.S. soybean oil export breakdown.</headline>
+<dateline>WASHINGTON 1996-12-19</dateline>
+<text>
+<p>U.S. Commerce Department breakdown of soybean oil exports (tonnes):</p>
+<p> -			Oct96   Sept96    Oct95</p>
+<p> -	   Crude   37,860   17,014    9,221</p>
+<p> -  Once Refined   12,551    1,770    1,696</p>
+<p> - Fully Refined    3,957    6,689   19,618</p>
+<p> -  Hydrogenated	530	241	905</p>
+<p> -	   Total   54,898   25,714   31,439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

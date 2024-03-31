@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="395351" id="root" date="1997-02-21" xml:lang="en">
+<title>UK: British economy grows 0.8 percent in 4th qtr.</title>
+<headline>British economy grows 0.8 percent in 4th qtr.</headline>
+<dateline>LONDON 1997-02-21</dateline>
+<text>
+<p>Britain's economy grew 0.8 percent in the fourth quarter of 1996, official figures showed on Friday.</p>
+<p>The figure was in line with expectations. Year-on-year growth was 2.7 percent.  </p>
+<p>The British Treasury said the data confirmed the economy was experiencing healthy, sustainable growth.</p>
+<p>Analysts said the figures showed the bulk of the growth was on the consumer side of the economy and expected them to have little effect on discussions over the level of interest rates.</p>
+<p>The Bank of England has been arguing for a rise in interest rates, currently at 6.0 percent, to dampen down inflationary pressures in the economy. But finance minister Kenneth Clarke has resisted ahead of an election due by May 22.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242013" id="root" date="1996-12-08" xml:lang="en">
+<title>AUSTRALIA: CRICKET-AUSTRALIA BEAT WEST INDIES BY EIGHT WICKETS.</title>
+<headline>CRICKET-AUSTRALIA BEAT WEST INDIES BY EIGHT WICKETS.</headline>
+<dateline>SYDNEY 1996-12-08</dateline>
+<text>
+<p>Australia beat West Indies by eight wickets in a World Series limited overs match at the Sydney Cricket Ground on Sunday.</p>
+<p>Scores - West Indies 161 all out in 48.3 overs (Shane Warne five for 33); Australia 162 for two in 42 overs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="WEIND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

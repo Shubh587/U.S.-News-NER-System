@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414697" id="root" date="1997-03-03" xml:lang="en">
+<title>JAPAN: Hundreds of tiny quakes hit resort area near Tokyo.</title>
+<headline>Hundreds of tiny quakes hit resort area near Tokyo.</headline>
+<dateline>TOKYO 1997-03-03</dateline>
+<text>
+<p>Hundreds of mostly minor earthquakes shook a volcanic zone southwest of Tokyo on Monday without causing damage or tidal waves, Japan's Meteorological Agency said.</p>
+<p>The Izu Peninsula, a hot spring resort region 135 km (86 miles) southwest of Tokyo, was shaken by a total of 917 earthquakes between midnight and 8 p.m. (1100 GMT), with the strongest measuring 4.2 on the Richter scale, the agency said. The points of origin of the earthquakes were located at depths of between five and 10 km (three and six miles) beneath the seabed, the agency said.</p>
+<p>Last October, the same region experienced a series of more than 5,000 quakes, only a few of which could be felt without seismic monitoring equipment, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

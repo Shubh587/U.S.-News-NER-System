@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="764335" id="root" date="1997-07-29" xml:lang="en">
+<title>UK: Goldman Sachs prices 1.0 billion French franc bond.</title>
+<headline>Goldman Sachs prices 1.0 billion French franc bond.</headline>
+<dateline>LONDON 1997-07-29</dateline>
+<text>
+<p>The following bond has been priced, joint lead managers Caisse des Depots et Consignations, Credit Lyonnais and Goldman Sachs said on Tuesday.  BORROWER   GOLDMAN SACHS OVERSEAS FINANCE LP</p>
+<p>GUARANTOR  GOLDMAN SACHS GROUP</p>
+<p> AMT    1.0 BLN FRF   COUPON     6.00	MATURITY    21.AUG.09</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.515    PAY DATE    21.AUG.97</p>
+<p> FULL FEES  0.45	REOFFER    99.515    SPREAD	+53 BP</p>
+<p> MOODY	A1	  LISTING    LUX/PARIS PAY FREQ    ANNUAL</p>
+<p> S&amp;P	  A+	  DENOMS (K) 10-100-1M SALE LIMITS US/GB/FR</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    NEW YORK  HOME CTRY  U.S.	TAX PROVS   STANDARD</p>
+<p> MGT/UND    0.20	SELL CONC  0.25	PRAECIPUUM  NONE</p>
+<p>UNDERLYING GOVT BOND INTERPOLATED</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127632" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Typhoon Beth about to hit Luzon, Philippines -WSC.</title>
+<headline>Typhoon Beth about to hit Luzon, Philippines -WSC.</headline>
+<dateline>LEXINGTON, MASS. 1996-10-17</dateline>
+<text>
+<p>Typhoon Beth is expected to bring winds of up to 100 mph and a strong storm surge as it makes landfall along the northeast coast of Luzon island in the Philippines in the next few hours, Weather Services Corp said.</p>
+<p>Rainfall of at least 5-10 inches is expected through north and central Luzon as the system moves west across northern Luzon. It is likely to cause flooding and mudslides as well as wind and storm damage over Luzon.</p>
+<p>Beth will strengthen again when it moves off the west coast of Luzon in about 18- 24 hours and will then threaten shipping as it moves into the South China Sea.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="643745" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 06-JUN.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 06-JUN.</headline>
+<text>
+<p>Andres downgraded to depression...</p>
+<p>Tropical Depression Andres, with 35 mph winds, is centered 190 miles west of Corinto, Nicaragua, moving east southeast at 12 mph. Andres will maintain this intensity and track through today. Heavy rain may develop over northern Central America during the next 24 hours, resulting in life-threatening flash flooding and mudslides, especially in the mountainous terrain.  </p>
+<p>Tropical Depression 07W forms in the Caroline Islands...</p>
+<p>Tropical Depression 07W, with 30 mph winds, is in the eastern Caroline Islands, near 9n/156e, moving west northwest at 10 mph. This depression will only strengthen slowly while tracking west northwest through the islands the next 24 hours. Heavy rainfall may result in local flash floods on the islands.  </p>
+<p>There are no further emergency statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

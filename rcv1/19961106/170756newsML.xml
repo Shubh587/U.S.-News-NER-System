@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170756" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Republicans win Alabama Democratic Senate seat.</title>
+<headline>Republicans win Alabama Democratic Senate seat.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Republican Jeff Sessions defeated Democrat Roger Bedford for the open Democratic Senate seat in Alabama, television networks projected on Tuesday.</p>
+<p>The Alabama seat was one of four in the South -- also including Louisiana, Arkansas and Georgia -- where Democratic incumbent senators retired, giving Republicans a chance. The victory in Alabama will make it harder for Democrats to win a majority in the Senate, where Republicans held a 53-47 majority.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96118" id="root" date="1996-10-04" xml:lang="en">
+<title>ZAIRE: Plane crashes in Zaire, at least four dead.</title>
+<headline>Plane crashes in Zaire, at least four dead.</headline>
+<dateline>KINSHASA 1996-10-04</dateline>
+<text>
+<p>At least four people were killed, including two Belgian crew, when a plane crashed in south western Zaire near the border with a diamond mining area of Angola, the company that owned the plane said on Friday.</p>
+<p>Malu Aviation said that 15 people survived the crash, which occurred on Thursday shortly after the plane took off from Kahemba. It named the dead Belgian pilot and co-pilot as brothers Pierre and Willy Marion.</p>
+<p>Airport sources in Kinshasa put the death toll at six and spoke of four survivors. The sources blamed technical problems.</p>
+<p>Diamond traders are frequent passengers on flights to the area offered by a myriad of small companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

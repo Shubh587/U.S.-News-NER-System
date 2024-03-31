@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="562044" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Jackson Hewitt says FY volume rises.</title>
+<headline>Jackson Hewitt says FY volume rises.</headline>
+<dateline>VIRGINIA BEACH, Va. 1997-05-05</dateline>
+<text>
+<p>Tax preparation firm Jackson Hewitt Inc said on Monday that it estimates that it prepared approximately 866,000 tax returns during fiscal 1997 ended April 30, an increase of 20 percent over the 722,000 prepared in 1996.</p>
+<p>The company and its franchisees operated 1,370 offices during 1997 versus 1,342 in 1996, the company said.</p>
+<p>Gross fees per return increased from $93 in 1996 to $102 in 1997, Jackson Hewitt said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIRGINIA BEACH, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

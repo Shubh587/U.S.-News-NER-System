@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220148" id="root" date="1996-11-27" xml:lang="en">
+<title>LEBANON: Lebanon government wins vote of confidence.</title>
+<headline>Lebanon government wins vote of confidence.</headline>
+<dateline>BEIRUT 1996-11-27</dateline>
+<text>
+<p>The government of Lebanese Prime Minister Rafik al-Hariri won a vote of confidence in parliament on Wednesday after a three-day debate despite attacks from some members who criticised its policy statement.  </p>
+<p>Parliament Speaker Nabih Berri said 102 members of 121 present in the 128-seat house voted for the government, which was formed on November 7, while 19 voted against.</p>
+<p>The government is the third in four years headed by Hariri, a 52-year-old billionaire tycoon spearheading Lebanon's reconstruction after the 1975-90 civil war.</p>
+<p>During the debate some deputies said the policies of Hariri's two previous governments had impoverished the Lebanese.</p>
+<p>Hours before the confidence motion, Lebanese troops began deploying in Beirut to stop planned anti-government demonstrations on Thursday during a general strike called by labour unions and opposition groups.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

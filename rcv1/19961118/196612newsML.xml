@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196612" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Freddie Mac to redeem debenture issues.</title>
+<headline>Freddie Mac to redeem debenture issues.</headline>
+<dateline>WASHINGTON 1996-11-18</dateline>
+<text>
+<p>The Federal Home Loan Mortgage Corp said Monday that on December 3 it will redeem $159 million in four debenture issues as follows.</p>
+<p>  Principal  Interest   Maturity     Cusip</p>
+<p> $50 million   6.225    10/21/98   3134A0NR9</p>
+<p> $49 million   6.190     7/22/98   3134A0ER9</p>
+<p> $40 million   6.210    10/14/98   3134A0NE8</p>
+<p> $20 million   6.205     7/18/98   3134A0EF5</p>
+<p>Freddie Mac said it will redeem the issues in their entirety at a price equal to 100 percent of principal. It will pay principal plus accrued interest to the redemption date to holders of record as of the close of business on November 20.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

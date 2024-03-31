@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="794089" id="root" date="1997-08-12" xml:lang="en">
+<title>USA: USDA EXPANDS FLORIDA MEDFLY QUARANTINE.</title>
+<headline>USDA EXPANDS FLORIDA MEDFLY QUARANTINE.</headline>
+<dateline>WASHINGTON 1997-08-12</dateline>
+<text>
+<p>U.S. Agriculture Department said Tuesday it was adding parts of Hillsborough and Orange counties to areas under quarantine in Florida to prevent the spread of the destructive Mediterranean fruit fly.</p>
+<p>USDA's Animal and Plant Health Inspection Service also revised the quarantine boundaries for Manatee County, Fla. It said the changes were effective Aug 7 and will be published in the Federal Register Aug 13.</p>
+<p>The Mediterranean fruit fly is one of the world's most destructive agricultural pests, attacking more than 250 different fruits and vegetables. It can halve crop yields.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

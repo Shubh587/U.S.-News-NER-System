@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46345" id="root" date="1996-09-11" xml:lang="en">
+<title>JAPAN: Japan PM to address UN, US summit under discussion.</title>
+<headline>Japan PM to address UN, US summit under discussion.</headline>
+<dateline>TOKYO 1996-09-11</dateline>
+<text>
+<p>Japanese Prime Minister Ryutaro Hashimoto will address the U.N. General Assembly in New York on September 24, Japan announced on Wednesday.</p>
+<p>Officials are also working to arrange a summit between Hashimoto and U.S. President Bill Clinton during the former's September 23-25 visit to the United States, government spokesman Seiroku Kajiyama told a news conference.</p>
+<p>Hashimoto is expected to stress to the United Nations Japan's efforts to spur its economy in support of world economic growth and its contribution to world security, Kajiyama said.</p>
+<p>Hashimoto on Tuesday paved the way for a resolution of a row over the U.S. military presence on Okinawa by offering the southern Japanese island prefecture an extensive economic development package if it eases up in its campaign for a total U.S. pullout.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

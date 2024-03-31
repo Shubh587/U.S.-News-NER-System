@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255764" id="root" date="1996-12-13" xml:lang="en">
+<title>UK: UK delivered grain trades - Dec 13.</title>
+<headline>UK delivered grain trades - Dec 13.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1515 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to Liverpool Jan/Mar 121.00</p>
+<p>Bedfordshire, Buckinghamshire, Northamptonshire and Oxfordshire Jan/Mar 118.50</p>
+<p>Southampton, Tewkesbury, Avonmouth and Gloucester Apr/Jun 122.00</p>
+<p>London Jan 115.00 Feb 116.00</p>
+<p>Feed wheat to West Norfolk Jan/Mar 100.00</p>
+<p>Suffolk Apr/Jun 103.50</p>
+<p>Norfolk Spot 97.00</p>
+<p>Tilbury Dec 98.50 Jan/Mar 100.50 Feb/Mar 101.00/102.00</p>
+<p>Liverpool Jan 99.50/100.00</p>
+<p>Avon range Dec 96.50 Jan 99.00 Feb 100.50 Mar 101.50 Apr/Jun 104.00</p>
+<p>Feed barley to Tilbury Jan 99.00/100.00</p>
+<p>Avon range Jan/Mar 100.00</p>
+<p>Norfolk/Suffolk Jan/Mar 100.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

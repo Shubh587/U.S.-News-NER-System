@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543707" id="root" date="1997-04-28" xml:lang="en">
+<title>JAPAN: Tokyo stock market closed for national holiday.</title>
+<headline>Tokyo stock market closed for national holiday.</headline>
+<dateline>TOKYO</dateline>
+<text>
+<p>The Tokyo stock market will be closed on Tuesday for a national holiday and will reopen on Wednesday.</p>
+<p>On Monday, the key 225-share Nikkei average closed up 57.51 points or 0.31 percent at 18,670.37, after hovering within a limited range throughout the session. June Nikkei futures gained 20 points to end at 18,650.</p>
+<p>The broader-based TOPIX index gave up 0.78 points or 0.06 percent to close at 1,410.85.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

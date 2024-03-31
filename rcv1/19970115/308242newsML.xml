@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="308242" id="root" date="1997-01-15" xml:lang="en">
+<title>SOUTH AFRICA: SAfrica robbers loot car as hurt passenger watches.</title>
+<headline>SAfrica robbers loot car as hurt passenger watches.</headline>
+<dateline>CAPE TOWN 1997-01-15</dateline>
+<text>
+<p>A man injured in a car crash in South Africa watched helplessly as passing motorists and a pedestrian looted cash and liquor from his vehicle, police said on Wednesday.</p>
+<p>A statement said the driver of the car was killed when it spun out of control on a highway near Cape Town on Tuesday evening, landing on its roof.</p>
+<p>The passenger, who suffered head injuries, said two men in a passing car stopped and searched the luggage, taking liquor, clothes, cash and a briefcase.</p>
+<p>A pedestrian also helped himself to goods thrown from the vehicle when it overturned. He was arrested on the highway later, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

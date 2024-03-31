@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89056" id="root" date="1996-10-01" xml:lang="en">
+<title>SWEDEN: Swedish Sept car registrations up 1.0 pct -industry.</title>
+<headline>Swedish Sept car registrations up 1.0 pct -industry.</headline>
+<dateline>STOCKHOLM 1996-10-01</dateline>
+<text>
+<p>Swedish new car registrations rose by one percent in September to 14,789 cars, industry body AB Bilstatistik said on Tuesday.  </p>
+<p>It said 127,119 passenger cars had been registered in the first nine months of the year, a four percent increase on the 122,775 registered in the same period last year.</p>
+<p>Volvo's 800 series has been the country's most-sold car this year at 15,345, followed by the Volvo 900 series at 8,456 and Volkswagen's Golf at 6,724, Bilstatistik said in a statement.</p>
+<p>Official car registration figures were due from Statistics Sweden at 0800 GMT, but technical problems have delayed the figure until 0805 GMT on Wednesday.</p>
+<p>-- Stockholm newsroom, +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391389" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: Apache Corp adds natural gas production.</title>
+<headline>Apache Corp adds natural gas production.</headline>
+<dateline>HOUSTON 1997-02-20</dateline>
+<text>
+<p>Apache Corp said Thursday it has added a net 31 million cubic feet (MMcf) per day of new natural gas production from two blocks in the Gulf of Mexico.</p>
+<p>Three directionally drilled wells on the company's West Cameron 615 block in federal waters offshore Louisiana are now flowing into pipeline at a combined daily rate of 40 MMcf of gas with 150 barrels of condensate.</p>
+<p>Apache is the operator with a 50 percent working interest, making its share of the production 17 MMcf per day after net revenue adjustments.</p>
+<p>Recompletion of the A-6 well on Mustang Island Block 806 in federal waters offshore Texas added another 14 MMcf of gas to Apache's daily net production. The well, operated by Vastar Resources Inc, was recompleted to the LMA-1 sand. Apache has a 27 percent working interest in the A-6; Vastar owns 73 percent.</p>
+<p>Apache Corp is an oil and gas producer with operations in North America, Egypt, Western Australia, Indonesia, the People's Republic of China and the Ivory Coast.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

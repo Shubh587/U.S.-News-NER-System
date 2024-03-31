@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131526" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: LILCO says storm hit 176,000 NY customers.</title>
+<headline>LILCO says storm hit 176,000 NY customers.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Long Island Lighting Co (LILCO) said Monday a weekend storm disrupted electric service to 176,000 customers, but only 3,400 were still without power this morning.</p>
+<p>&quot;We expected them to be back up this evening,&quot; said a LILCO spokeswoman, referring to the remaining consumers without electricity.</p>
+<p>Gusts and torrential rain uprooted trees and knocked down overhead power lines, the spokeswoman said.</p>
+<p>The utility's generating facilities and major high-voltage transmission lines in Nassau and Suffolk Counties were unharmed by the so called &quot;nor'easter,&quot; she added.</p>
+<p>LILCO delivers electricity to one million customers on Long Island.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

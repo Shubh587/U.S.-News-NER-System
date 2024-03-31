@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775084" id="root" date="1997-08-04" xml:lang="en">
+<title>CANADA: Daily Canadian spot natgas prices - Aug 4.</title>
+<headline>Daily Canadian spot natgas prices - Aug 4.</headline>
+<text>
+<p>DOMESTIC (AUG SALES)		$CDN/GJ		 $US/MMBTU</p>
+<p>  AECO				  1.39/1.44	     1.08/1.12</p>
+<p>  ALBERTA BORDER - EMPRESS	1.43/1.48	     1.11/1.15</p>
+<p>EXPORT (AUG SALES)</p>
+<p>  SUMAS (HUNTINGDON, BC)	  1.23/1.30	   N 0.96/1.01</p>
+<p>  NIAGARA, ONT			2.98/3.04	   N 2.32/2.37</p>
+<p>NOTE - CANADA, U.S. DOLLAR CONVERSION BASED ON BANK OF CANADA NOON RATE. N=notional</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

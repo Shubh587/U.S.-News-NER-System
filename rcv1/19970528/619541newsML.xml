@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619541" id="root" date="1997-05-28" xml:lang="en">
+<title>UK: Sullom Voe oil liftings more than double over week.</title>
+<headline>Sullom Voe oil liftings more than double over week.</headline>
+<dateline>LONDON 1997-05-28</dateline>
+<text>
+<p>Brent Blend crude oil loadings from Britain's Sullom Voe terminal jumped to 707,598 tonnes in the week to May 27, from 300,742 tonnes the previous week, Shetland Islands Council said on Wednesday.</p>
+<p>The bulk of the liftings, almost 70 percent or 494,148 tonnes, were destined for the Americas, the council said.</p>
+<p>DATE   VESSEL		    DESTINATION	 CARGO (tonnes)</p>
+<p>22/5   Laconia		   US Gulf	    326,203</p>
+<p>23/5   Alandia Nord	    Hamburg	     63,219</p>
+<p>	 Centaur		   Halifax	     78,420</p>
+<p>24/5   Shinobu		   Tranmere	    72,457</p>
+<p>	 Manhattan		 Shell Haven	 77,774</p>
+<p>	 Nord Jahre Princess   Portland	    89,525</p>
+<p> WK ENDING   UK	 NWE   AMERICAS  MED   OTHER TOTAL</p>
+<p>27/5	150,231   63,219  494,148		  707,598</p>
+<p>20/5	154,916	     145,826		  300,742</p>
+<p>13/5	126,102   62,783  356,024		  544,909</p>
+<p> 6/5	230,568   75,200   92,310  256,779     654,857</p>
+<p>-- London newsroom +44 171 542 7930</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

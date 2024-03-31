@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325111" id="root" date="1997-01-22" xml:lang="en">
+<title>FRANCE: French deputies back justice reform bill.</title>
+<headline>French deputies back justice reform bill.</headline>
+<dateline>PARIS 1997-01-22</dateline>
+<text>
+<p>French deputies on Wednesday approved a bill overhauling the assize court system for serious criminal cases and allowing appeals against verdicts for the first time since the 1789 French Revolution.</p>
+<p>Parties of the centre-right ruling coalition, as well as opposition Socialists and Communists, voted in favour of the bill at the National Assembly (lower house).</p>
+<p>Under the reform an initial verdict would be handed down by a court with five jurors and any appeal against that verdict would be heard by a court with nine jurors.</p>
+<p>In another innovation, jurors would have to detail &quot;the reasons for their judgment&quot;. Current provisions demand only that jurors examine their conscience. The minimum age for jurors would be brought down to 18 from 23 years old.</p>
+<p>The bill has yet to be approved by the Senate (upper house).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

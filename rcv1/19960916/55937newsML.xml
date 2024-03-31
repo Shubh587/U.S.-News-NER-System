@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55937" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: U.S. interest rates lower in latest week.</title>
+<headline>U.S. interest rates lower in latest week.</headline>
+<dateline>WASHINGTON 1996-09-16</dateline>
+<text>
+<p>The Federal Reserve announced average interest rates for the week ended Sept 13, compared with the Sept 6 week, as follows:</p>
+<p>   Federal funds rate.................5.16 vs 5.39</p>
+<p>   3-month Treasury bills.............5.13 vs 5.19</p>
+<p>   3-month commercial paper...........5.52 vs 5.55</p>
+<p>   3-month bankers acceptances........5.42 vs 5.44</p>
+<p>   3-month CDs........................5.51 vs 5.55</p>
+<p>   3-month Eurodollar.................5.50 vs 5.51</p>
+<p>   30-year Government bond............7.07 vs 7.11</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

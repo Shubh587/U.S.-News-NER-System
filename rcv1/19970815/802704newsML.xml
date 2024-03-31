@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802704" id="root" date="1997-08-15" xml:lang="en">
+<title>SWITZERLAND: Swiss bonds end lower as trade remains nervous.</title>
+<headline>Swiss bonds end lower as trade remains nervous.</headline>
+<text>
+<p>1510 GMT - Swiss bond prices ended lower, undermined by nervousness as both U.S. and German bonds tended lower. Bonds still seen expensive vs swaps but LIFFE EuroSwiss firmed a bit.</p>
+<p>* Conf future ends down 27 basis points at 119.80</p>
+<p>* 4-1/2 pct June 2007 bond yields 3.502 pct vs 3.463 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

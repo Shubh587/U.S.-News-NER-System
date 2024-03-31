@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60170" id="root" date="1996-09-18" xml:lang="en">
+<title>CANADA: Hydro-Quebec names new chairman.</title>
+<headline>Hydro-Quebec names new chairman.</headline>
+<dateline>QUEBEC CITY, Quebec</dateline>
+<text>
+<p>The Quebec government said Wednesday it named Gaz Metropolitain &amp; Co. LP Chief Executive Andre Caille as chairman of the provincially-owned utility giant.</p>
+<p>The announcement followed the September firing of Yvon Martineau as chairman. His departure had been rumoured since last spring because of executive disputes and a power struggle with Quebec Energy Minister Guy Chevrette.</p>
+<p>Hydro recently named Jean-Andre Elie as interim chairman.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUEBEC CITY, Quebec"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

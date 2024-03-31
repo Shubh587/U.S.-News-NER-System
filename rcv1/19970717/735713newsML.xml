@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="735713" id="root" date="1997-07-17" xml:lang="en">
+<title>COLOMBIA: Powerful quake rocks central Colombia.</title>
+<headline>Powerful quake rocks central Colombia.</headline>
+<dateline>BOGOTA 1997-07-17</dateline>
+<text>
+<p>A powerful earthquake rocked central Colombia on Thursday but there were no immediate reports of casualties or serious damage, authorities said.</p>
+<p>German Escallon, director of the National Seismological Institute, told RCN radio the quake, measuring 5.3 on the Richter scale, occurred at 7:45 a.m. (1245 GMT).</p>
+<p>Its epicentre was in Cumaral, a small town in Meta province in the foothills of the Cordillera Oriental mountains just southeast of the capital Bogota, Escallon said.</p>
+<p>He added that apart from Bogota, the temblor had been felt in Villavicencio, capital of Meta, and in the jungle-covered southern province of Caqueta.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

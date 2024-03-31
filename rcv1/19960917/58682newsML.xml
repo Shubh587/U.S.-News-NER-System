@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58682" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Motorola signs $53 million wireless contract.</title>
+<headline>Motorola signs $53 million wireless contract.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1996-09-17</dateline>
+<text>
+<p>Motorola Inc. said Tuesday it has signed a $53 million contract with Bell Atlantic NYNEX Mobile to upgrade the company's wireless communications network in Phoenix, Ariz. and Charlotte, N.C..</p>
+<p>The contract includes the installation of code division multiple access technology, which virtually eliminates static and cross-talk and allows for services such as caller ID and message waiting indicators on wireless phones.</p>
+<p>Motorola said the service will be offered in the two areas in early 1997.</p>
+<p>Bell Atlantic NYNEX Mobile was formed in July through the combination of Bell Atlantic Corp.'s and NYNEX Corp.'s cellular operations. The Bedminster, N.J.-based company is the nation's second-largest wireless service provider and the largest on the East Coast.</p>
+<p>Motorola's stock rose 50 cents to $50.875 on the New York Stock Exchange, where it was among the most active issues at midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

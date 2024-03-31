@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263285" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Caraco gets abbreviated new drug approval.</title>
+<headline>Caraco gets abbreviated new drug approval.</headline>
+<dateline>DETROIT 1996-12-18</dateline>
+<text>
+<p>Caraco Pharmaceutical Laboratories Ltd said Wednesday that it received an abbreviated new drug application approval from the U.S. Food and Drug Administration to make metoprolol tartrate tablets.</p>
+<p>Metoprolol tartrate is the generic version of Giegy Pharmaceutical 's Lopressor tablets.</p>
+<p>The product has sales of more than $200 million.</p>
+<p>Caraco said the application is the first of three submissions to be approved. Caraco said it has received notice that the Detroit office of the FDA has recommended to the Center for Drug Evaluation that Caraco's two remaining submissions be approved.</p>
+<p>The company said it expects to submit a fourth abbreviated new drug application for a non-steroidal anti-inflammatory drug in the next 30 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

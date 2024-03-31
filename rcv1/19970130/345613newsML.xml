@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345613" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: William Daley confirmed as Commerce Secretary.</title>
+<headline>William Daley confirmed as Commerce Secretary.</headline>
+<dateline>WASHINGTON 1997-01-30</dateline>
+<text>
+<p>William Daley, the brother of Chicago Mayor Richard Daley, was confirmed by the Senate on Thursday as secretary of the U.S. Commerce Department.</p>
+<p>Daley, a 48-year-old Chicago lawyer, succeeds Mickey Kantor, who replaced Ron Brown last year after Brown was killed in a plane crash while on a trade mission to Bosnia and Croatia.  </p>
+<p>The vote in favour of Daley was 95-2.</p>
+<p>Daley is the fourth of President Bill Clinton's second term Cabinet appointees to be confirmed by the Senate. He joins Secretary of State Madeleine Albright, Defence Secretary William Cohen and Housing and Urban Development Secretary Andrew Cuomo.</p>
+<p>At his confirmation hearing last week, Daley promised to keep politics out of the Commerce Department and said he would eliminate 100 of the 256 posts reserved for political appointees.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

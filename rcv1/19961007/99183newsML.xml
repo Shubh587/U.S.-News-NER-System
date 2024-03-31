@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99183" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: NPS Pharmaceuticals to begin clinical trial.</title>
+<headline>NPS Pharmaceuticals to begin clinical trial.</headline>
+<dateline>SALT LAKE CITY 1996-10-07</dateline>
+<text>
+<p>NPS Pharmaceuticals Inc said Monday that a Phase II clinical trial of its drug candidate for treating hyperparathyroidism, R-568, is expected to begin in the United States by the end of the year.</p>
+<p>Phase I trials of the trial should begin shortly in Japan, it said.</p>
+<p>The company said the United States trial is to be conducted by Amgen Inc, while the Japanese trials wil be conducted by the pharmaceutical division of Kirin Brewery Co Ltd of Tokyo.  </p>
+<p>Hyperparathyroidism is an age-related disorder that causes excessive secretion of parathyroid hormone from glands in the neck. The result is high levels of calcium in the blood.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALT LAKE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

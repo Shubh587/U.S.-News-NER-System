@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468044" id="root" date="1997-03-25" xml:lang="en">
+<title>AUSTRIA: Belgian bus crashes in Tyrol, 10 children injured.</title>
+<headline>Belgian bus crashes in Tyrol, 10 children injured.</headline>
+<dateline>VIENNA 1997-03-25</dateline>
+<text>
+<p>A bus carrying a Belgian school group crashed on Tuesday in the western Austrian state of Tyrol, badly injuring 10 of the schoolchildren aboard, local police said.</p>
+<p>The bus, carrying 50 people, crashed off the Gerlos road, which runs between the villages of Zell am Ziller to Mittersill, a Zell am Ziller police spokesman told Reuters.</p>
+<p>Two of the injured were transported by helicopter to a nearby hospital. Further details were not immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

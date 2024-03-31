@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430150" id="root" date="1997-03-10" xml:lang="en">
+<title>PERU: Peru mudslide kills at least 12 in minivan.</title>
+<headline>Peru mudslide kills at least 12 in minivan.</headline>
+<dateline>LIMA 1997-03-10</dateline>
+<text>
+<p>At least 12 people died when a mudslide slammed into a minivan travelling through the Peruvian Andes late on Sunday, police said on Monday.</p>
+<p>&quot;The earth slid down and buried the minivan,&quot; policeman Alberto Rojas told Reuters, adding that the vehicle was carrying at least 15 passengers.</p>
+<p>He denied radio reports that the vehicle was a passeneger bus with 35 people on board. Minivans carrying peasants in the Andes usually hold up to about 20 people.</p>
+<p>By Monday afternoon, rescue workers had recovered 12 bodies from the accident site near the mountain town of Abancay, 600 miles (960 km) southeast of Lima, Rojas said.</p>
+<p>At least 300 peasants were killed by mudslides in the same area last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

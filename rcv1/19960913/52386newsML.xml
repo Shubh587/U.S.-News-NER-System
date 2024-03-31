@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52386" id="root" date="1996-09-13" xml:lang="en">
+<title>SOUTH KOREA: Baseball-Results of S. Korean pro-baseball games.</title>
+<headline>Baseball-Results of S. Korean pro-baseball games.</headline>
+<dateline>SEOUL 1996-09-13</dateline>
+<text>
+<p>Results of South Korean pro-baseball games played on Thursday.</p>
+<p>    Hanwha		   4	OB		   3</p>
+<p>    Hyundai		 10	Samsung	    4</p>
+<p>    Ssangbangwool	  5	Lotte		2</p>
+<p>Standings after games played on Thursday (tabulate under won, drawn, lost, winning percentage, games behind first place)</p>
+<p>			  W   D    L     PCT	   GB</p>
+<p>    Haitai	   67   2   49    .576	    -</p>
+<p>    Hanwha	   67   1   52    .563	1 1/2</p>
+<p>    Ssangbangwool  67   2   53    .557	    2</p>
+<p>    Hyundai	  66   5   53    .552	2 1/2</p>
+<p>    Samsung	  54   5   63    .463     13 1/2</p>
+<p>    Lotte	    51   6   60    .462     13 1/2</p>
+<p>    LG		 48   5   68    .417	   19</p>
+<p>    OB		 47   6   69    .410	   20</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

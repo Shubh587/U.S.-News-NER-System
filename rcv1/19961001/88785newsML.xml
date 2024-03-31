@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88785" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Montana Power's Colstrip 3 restarted.</title>
+<headline>Montana Power's Colstrip 3 restarted.</headline>
+<dateline>LOS ANGELES 1996-10-01</dateline>
+<text>
+<p>The 750 megawatt (MW) unit 3 at Montana Power's Colstrip power plant was restarted early Tuesday morning as expected, after shutting Saturday to repair a leaking tube, sources familiar with the plant's operations said Tuesday.</p>
+<p>The coal-fired unit is expected to reach full capacity by early this afternoon.</p>
+<p>The plant's other 750 MW unit and two 350 MW units were operating at full capacity, the sources said.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

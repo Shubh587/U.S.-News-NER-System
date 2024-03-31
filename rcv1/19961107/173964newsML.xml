@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173964" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: U.S. wheat weekly export sales highlights -- USDA.</title>
+<headline>U.S. wheat weekly export sales highlights -- USDA.</headline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>Net sales of 453,300 metric tons (MT) were 4 percent above the previous week and the 4-week average.  Major increases reported for Egypt (100,000 MT), Turkey (58,500 MT), Bangladesh (51,200 MT), Nigeria (47,000 MT), and the Philippines (41,100 MT) were partly offset by decreases for unknown destinations (90,700 MT).</p>
+<p>Exports of 569,200 MT were 4 percent over the week earlier, but 5 percent less than the 4-week average.  The primary recipients were Pakistan (106,700 MT), the Philippines (67,600 MT), Bangladesh (51,200 MT), Jordan (49,600 MT), Mexico (38,900 MT), and Moldova (32,400 MT).  Note: Accumulated exports for Sri Lanka were adjusted downward by 52,500 MT.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

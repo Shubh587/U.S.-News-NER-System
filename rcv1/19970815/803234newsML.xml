@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="803234" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: TABLE - Hondo Q3 net loss widens.</title>
+<headline>TABLE - Hondo Q3 net loss widens.</headline>
+<dateline>HOUSTON 1997-08-14</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				    Quarters Ended  Nine Months Ended</p>
+<p>						June 30	 June 30</p>
+<p>					1997     1996     1997     1996</p>
+<p> Revenues			     $3	 $7	$23     $109</p>
+<p> Colombian operating expenses  492	385    1,619    2,109</p>
+<p> Interest expense		1,602    1,304    4,480    3,682</p>
+<p> Other expenses		    628	636    2,087    3,478</p>
+<p>Loss before income taxes  (2,719)  (2,318)  (8,163)  (9,160)</p>
+<p> Income tax expense		---	---	(2)	---</p>
+<p>Loss from continuing operations</p>
+<p>				   (2,719)  (2,318)  (8,161)  (9,160)</p>
+<p>Loss from discontinued operations</p>
+<p> Net Loss			(2,719)  (2,318)  (8,161)  (9,160)</p>
+<p> Loss per share:		(0.19)   (0.17)   (0.59)   (0.67)</p>
+<p>NOTE: Full name is Hondo Oil &amp; Gas Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221914" id="root" date="1996-11-27" xml:lang="en">
+<title>SOUTH KOREA: South Korea's oil products stock in September.</title>
+<headline>South Korea's oil products stock in September.</headline>
+<dateline>SEOUL 1996-11-27</dateline>
+<text>
+<p>South Korea's stock by major oil products: (Korea Petroleum Development Corp, in 1,000 barrels)</p>
+<p> Major products	  Sept	   Aug	  Sept 1995</p>
+<p> Propane		    574	   865	     835</p>
+<p> Butane		     620	   547	     527</p>
+<p> Naphtha		  8,002	 8,535	   8,754</p>
+<p> Gasoline		 2,139	 2,599	   1,850</p>
+<p> Kerosene		 8,297	 5,770	   7,422</p>
+<p> Diesel		  11,065	10,386	   9,222</p>
+<p> C-type fuel oil     11,776	12,140	  13,550</p>
+<p> TOTAL		   44,755	43,303	  44,784</p>
+<p>--Seoul newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

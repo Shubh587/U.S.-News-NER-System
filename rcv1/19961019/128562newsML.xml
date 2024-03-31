@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128562" id="root" date="1996-10-19" xml:lang="en">
+<title>RUSSIA: Russian navy denies submarine trouble.</title>
+<headline>Russian navy denies submarine trouble.</headline>
+<dateline>MOSCOW 1996-10-19</dateline>
+<text>
+<p>A Russian nuclear submarine was limping back to base on Saturday after breaking down but the navy said it had only minor engine trouble.</p>
+<p>&quot;This does not even need any special comment,&quot; said a Russian navy spokesman. &quot;The situation is under full control.&quot;</p>
+<p>Earlier, Interfax news agency said the submarine, part of the Far East fleet, was heading slowly back home after breaking down &quot;outside Russia's territorial waters&quot;.</p>
+<p>The agency quoted a regional civil defence spokesman as saying he had been told by fleet commanders that there was no radiation leak.</p>
+<p>It did not name the submarine or give any other details on where it was operating.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

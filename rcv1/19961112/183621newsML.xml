@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183621" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 12-NOV					     .</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 12-NOV					     .</headline>
+<text>
+<p>Typhoon Dale, with 130 mph winds, is southeast of the Ryukyu Islands, south of Japan. It is moving north northeast and will turn northeast and accelerate this period while weakening. Dale should become extratropical by 60 hours with 65 mph top winds. This system is a major threat to shipping.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

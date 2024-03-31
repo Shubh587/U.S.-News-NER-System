@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="423111" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: Neiman Marcus Feb same-store sales up.</title>
+<headline>Neiman Marcus Feb same-store sales up.</headline>
+<dateline>CHESTNUT HILL, Mass. 1997-03-06</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1997	 1996	     Total     Same-Store</p>
+<p>Month	    $ 151.1    $ 139.4	+8.5	 +4.5</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Month is 4 weeks ended March 1, 1997 and Feb 24, 1996</p>
+<p>Full company name is Neiman Marcus Group Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESTNUT HILL, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245276" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: CSP Inc Q1 net income lower.</title>
+<headline>CSP Inc Q1 net income lower.</headline>
+<dateline>BILLERICA, Mass. 1996-12-10</dateline>
+<text>
+<p>(Dollars In Thousands, Except For Per Share Data)</p>
+<p>					     For The Three Months Ended</p>
+<p>						   Nov 29,	   Dec 1,</p>
+<p>							1996	    1995</p>
+<p> Sales					    $4,010	   $4,370</p>
+<p>  Total costs and expenses, net	    4,203	    4,182</p>
+<p> Net income					    8		218</p>
+<p> Primary earnings per share		   0.00	     0.08</p>
+<p>Weighted Average Shares Outstanding</p>
+<p>  Primary				    2,686,000	2,795,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILLERICA, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

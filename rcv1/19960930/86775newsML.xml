@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86775" id="root" date="1996-09-30" xml:lang="en">
+<title>CHINA: Shanghai stock exchange closed for holiday.</title>
+<headline>Shanghai stock exchange closed for holiday.</headline>
+<dateline>SHANGHAI 1996-09-30</dateline>
+<text>
+<p>The Shanghai Stock Exchange was closed on Monday because of a National Day holiday, an exchange official said. Trading will resume on Thursday, he said.</p>
+<p>On Friday, the last trading day, Shanghai's A share index ended up 22.326 points or 2.49 percent at 918.946 points and the B share index gained 0.241 points or 0.50 percent to 48.903 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

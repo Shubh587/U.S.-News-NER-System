@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777310" id="root" date="1997-08-04" xml:lang="en">
+<title>AUSTRALIA: SFE wheat steady on SYCOM after heavy hedging play.</title>
+<headline>SFE wheat steady on SYCOM after heavy hedging play.</headline>
+<dateline>SYDNEY 1997-08-04</dateline>
+<text>
+<p>The Sydney Futures Exchange (SFE) wheat futures traded steady on Monday through the SYCOM electronic system, with floor trading closed for a New South Wales bank holiday.</p>
+<p>January 1998 sold 22 lots at a steady A$195.00 on SYCOM.</p>
+<p>This followed heavy trading on SYCOM on Friday night when more than 100 wheat put options traded.</p>
+<p>The options trade was based on hedging to guard against a falling market, brokers said.  </p>
+<p>Australia SYCOM wheat futures on Aug 4 (per tonne):</p>
+<p>		Last   Net Ch  Settle   Volume   Open interest</p>
+<p>    Sep7			 198.50	 -</p>
+<p>    Nov7			 196.00	 -</p>
+<p>    Jan8   195.00	    195.00	22</p>
+<p>    Mar8			 197.50	 -</p>
+<p>    May8			 199.50	 -</p>
+<p>    Jul8			 201.50	 -</p>
+<p>    Sep8			 200.50	 -</p>
+<p>    Nov8			  186.00	 -</p>
+<p>    Jan9			 182.00	 -</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

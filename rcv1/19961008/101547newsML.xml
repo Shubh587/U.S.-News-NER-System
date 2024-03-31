@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101547" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Software aims to narrow Web information overload.</title>
+<headline>Software aims to narrow Web information overload.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-08</dateline>
+<text>
+<p>A startup Seattle software company Tuesday launched a product aimed at solving one of the Internet's most vexing problems: information overload.</p>
+<p>Intermind Corp., formed a little more than a year ago by a software consultant and a former Microsoft Corp. executive, said its Intermind Communicator allowed users to seek customized information from World Wide Web sites that use the program.</p>
+<p>For example, a music fan visiting the popular &quot;Addicted to Noise&quot; Web site could seek to be notified by a message similar to electronic mail every time new CD reviews were available. A mouse click on the notification message would take the user directly to the information.</p>
+<p>Intermind President David Arnold said the software aims to go beyond news dissemination systems from Pointcast Corp. and others to allow more sophisticated &quot;dialogue&quot; between consumers and publishers, technology companies and retailers.</p>
+<p>Customers who frequent Spiegel Corp.'s web site could choose to be notified of any sales in selected categories and then easily could link up to the site and place an order. High-tech companies like Apple Computer Inc. and Visio Corp. will use the system to send customers technical bulletins or information about new products.</p>
+<p>&quot;This is the ultimate in custom publishing and narrowcasting,&quot; said David Strom, an industry constultant and newsletter publisher.</p>
+<p>Company officials said they hoped to distribute 2 million copies of the software, which is free to non-commercial users, by the end of the year. Commercial users will pay a fee based on revenue generated or subscribers reached, Arnold said.</p>
+<p>Arnold said the company, with 72 employees in several offices, was &quot;strong financially.&quot; He declined to identify the investors but confirmed published reports that cellular telephone pioneer Craig McCaw is among the minority holders.</p>
+<p>The software, which works from within either of the two major Internet browsers, is available for Microsoft's Windows 95 and Windows NT platforms and will be available within one week for Windows 3.1. Apple Macintosh and Unix versions are expected by year-end.</p>
+<p>So far more than 35 Internet and Intranet sites provide Intermind &quot;Hyperconnectors&quot; that can be personally customized. Company executives said the software takes only five minutes to set up for customers or 15 minutes for publishers, who do not need separate server software.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

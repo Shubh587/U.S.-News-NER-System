@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="621842" id="root" date="1997-05-28" xml:lang="en">
+<title>AUSTRALIA: ANZ sees 'measurable' computer bug cost.</title>
+<headline>ANZ sees 'measurable' computer bug cost.</headline>
+<dateline>SYDNEY 1997-05-28</dateline>
+<text>
+<p>Australia and New Zealand Banking Group Ltd (ANZ) said on Wednesday it expected the cost of fixing the computer &quot;millenium bug&quot; would result in a sizeable cost.</p>
+<p>&quot;The cost of the millenium programme will not be large. But it would be measurable,&quot; ANZ's outgoing chief executive officer Don Mercer told reporters.</p>
+<p>&quot;We feel we understand our situation pretty well and we expect to have that dealt with quite satisfactory by the end of 1998,&quot; Mercer said.</p>
+<p>The millenium bug is a worldwide programming problem that will cause computers to view the year 2000 as the year 1900.  </p>
+<p>The millenium bug will occur as a result of a programming fault which only allows computers to accept the last two digits of a year.</p>
+<p>As a result, companies will have to re-programme their computers to accept a four-digit field before 2000 in order to avoid computer chaos.</p>
+<p>ANZ earlier reported an 18 percent rise in first half net profit to A$615 million and lifted its interim dividend to 22 cents per share from 18 cents a year ago.</p>
+<p>-- Kevin Morrison 61-2 9373-1813</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

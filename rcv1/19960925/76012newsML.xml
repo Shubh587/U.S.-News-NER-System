@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76012" id="root" date="1996-09-25" xml:lang="en">
+<title>INDIA: Dengue fever kills 19 in Indian capital.</title>
+<headline>Dengue fever kills 19 in Indian capital.</headline>
+<dateline>NEW DELHI 1996-09-25</dateline>
+<text>
+<p>An unusually dangerous strain of tropical dengue fever has killed 19 people in the Indian capital since the middle of last month, a doctor said on Wednesday.</p>
+<p>Dr D.C. Jain, of the National Institute of Communicable Diseases, told Reuters that 267 cases of the mosquito-borne disease had been reported since August 18. At least seven victims had died since Monday, he said.</p>
+<p>Dengue, also called breakbone fever, is normally accompanied by high fever, muscular and joint pain and headaches. It runs its course in six to seven days.</p>
+<p>The disease is especially prevalent during the monsoon rains, when mosquitoes breed in stagnant water.</p>
+<p>Jain said a dangerous strain that causes internal bleeding had appeared but that the number of fresh dengue cases had dropped, easing concerns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

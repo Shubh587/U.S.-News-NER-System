@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191371" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Alternate Postal Delivery Inc Q3 loss.</title>
+<headline>Alternate Postal Delivery Inc Q3 loss.</headline>
+<dateline>GRAND RAPIDS, Mich. 1996-11-15</dateline>
+<text>
+<p>Third Quarter		 Nine Months</p>
+<p>			 1996	  1995	   1996	  1995</p>
+<p> Net sales    $3,880,014  $3,447,094  $14,929,748 $13,109,881</p>
+<p>Operating profit</p>
+<p>		   (458,762)   (274,219)    (602,046)    (92,128)</p>
+<p>Net profit</p>
+<p>  after tax   ( 434,920)  ( 739,451)   ( 625,781)  ( 684,621)</p>
+<p>Weighted average shares:</p>
+<p> Primary	 3,606,046   2,625,583    3,838,049   2,516,027</p>
+<p> Fully diluted 3,516,838   3,037,225    3,511,729   2,960,952</p>
+<p>Earnings per share:</p>
+<p> Primary	    ( .12)	( .28)	 ( .16)	( .27)</p>
+<p> Fully diluted    ( .12)	( .23)	 ( .18)	( .21)</p>
+<p>Reuters Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

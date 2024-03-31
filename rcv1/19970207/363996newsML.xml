@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="363996" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Intel to unveil 300-Mhz chip Friday.</title>
+<headline>Intel to unveil 300-Mhz chip Friday.</headline>
+<dateline>PALO ALTO, Calif. 1997-02-06</dateline>
+<text>
+<p>Intel Corp on Friday will unveil a computer chip that is 50 percent faster than its top-of-the-line Pentium Pro microprocessor, a company spokesman said.</p>
+<p>The world's biggest chipmaker will demonstrate a 300-megahertz microprocessor at the International Solid State Circuits Conference being held this week in San Francisco, where electrical engineers from the semiconductor industry show off their latest technology.</p>
+<p>The Intel chip will appear in personal computers later this year, said spokesman Howard High.</p>
+<p>The fastest Intel chip in production now is the 200-Mhz Pentium Pro.</p>
+<p>Megahertz measures the chip's so-called clock speed, or the number of times per second the chip can update the computer's calculations and operations. Generally, the higher the megahertz rating, the faster a chip can calculate.</p>
+<p>((-- Kourosh Karimkhany, in Palo Alto +1 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

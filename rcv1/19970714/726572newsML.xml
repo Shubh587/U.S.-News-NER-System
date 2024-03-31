@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="726572" id="root" date="1997-07-14" xml:lang="en">
+<title>NETHERLANDS: Dutch bonds close lower, some blame strong dollar.</title>
+<headline>Dutch bonds close lower, some blame strong dollar.</headline>
+<text>
+<p>---------------------(Snapshot at 1530 GMT)---------------------</p>
+<p>* DUTCH STATE LOANS	 PRICES			  BID YIELDS</p>
+<p>  June 1999 7.50 pct	106.86/96 (-0.14)	   3.68 (+0.07)</p>
+<p>  Feb  2002		   115.08/18 (-0.20)	   4.52 (+0.04)</p>
+<p>  Feb  2007 5.75 pct	101.73/81 (-0.26)	   5.51 (+0.04)</p>
+<p>  Jan  2023		   115.15/35 (-0.41)	   6.29 (+0.03)</p>
+<p>* BUND FUTURE (Sept)	102.66 (-0.33)</p>
+<p>  TREASURIES  (Sept)	114.06 (-0.10 vs pvs Dutch close)</p>
+<p>* DM/NLG			1.12583 (prev 1.12585)</p>
+<p>--------------------------(SPREADS)----------------------------</p>
+<p>*DSLs versus Bunds  (pvs close)    *DSL curve     (pvs close)</p>
+<p> 5 yr	 +0.01	+0.03	  10-2 yr  182     (186)</p>
+<p> 10 yr	-0.07	-0.06	  10-5 yr   99	(99)</p>
+<p> Long	 -0.07	-0.06</p>
+<p>-------------------------(July 14)-----------------------------</p>
+<p>* Dutch bonds close lower after an initial strong start. Downtrend gets in when bund futures start struggling.</p>
+<p>* Dealers divided on motive with some blaming firmer dollar and other see investors switching to shares with higher returns.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

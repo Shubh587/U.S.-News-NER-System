@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53141" id="root" date="1996-09-13" xml:lang="en">
+<title>MOROCCO: Moroccan poll on constitutional reform closes.</title>
+<headline>Moroccan poll on constitutional reform closes.</headline>
+<dateline>RABAT 1996-09-13</dateline>
+<text>
+<p>Polling stations for a referendum on constitutional reform closed across Morocco at 6 p.m. (1800 GMT) on Friday, an interior ministry spokesman said.</p>
+<p>Provisional figures showed that one hour before the booths closed, more than 80 percent of 12 million eligible voters had cast their ballots, the official added.</p>
+<p>The referendum is to change the 1992 constitution, and set up a second house of parliament to strengthen regional representation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120373" id="root" date="1996-10-16" xml:lang="en">
+<title>JORDAN: Israeli president postpones Jordan trip.</title>
+<headline>Israeli president postpones Jordan trip.</headline>
+<dateline>AMMAN 1996-10-16</dateline>
+<text>
+<p>Israeli President Ezer Weizman has postponed a scheduled visit to Amman on Thursday for talks with Jordan's King Hussein, palace officials said on Wednesday.</p>
+<p>They gave no reason for the postponement, but said it was an Israeli decision.</p>
+<p>Weizman visited Cairo on Monday on a goodwill mission aimed at convincing a sceptical Egypt that Israel is committed to peace despite demands by Prime Minister Benjamin Netanyahu to change parts of agreements signed with the Palestinians.</p>
+<p>He had earlier met Palestinian President Yasser Arafat, who has complained about Netanyahu's plans to revise a deal on the long-delayed Israeli troop redeployment in the West Bank town of Hebron.</p>
+<p>Jordan, Israel's closest ally since the two countries signed a peace treaty in 1994, has distanced itself from Netanyahu's government in recent weeks.</p>
+<p>King Hussein visited Arafat in the West Bank town of Jericho on Tuesday -- his first visit to the West Bank since he lost control of it during the 1967 Arab-Israeli War -- in a clear sign of support to the Palestinian leader.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

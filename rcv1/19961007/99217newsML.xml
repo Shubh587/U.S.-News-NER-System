@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99217" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: ADR REPORT - Israeli ADRs firm in U.S. trade.</title>
+<headline>ADR REPORT - Israeli ADRs firm in U.S. trade.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Israeli shares were mostly higher in U.S. trading on Monday, following through on a quiet rise in Tel Aviv.</p>
+<p>Many investors remained sidelined due to continuing uncertainty and the potential for more violence in the Middle East.</p>
+<p>Teva Pharmaceuticals Industries was up one at 45 in Nasdaq trading after saying on Sunday that it had been informed by the the U.S. Food and Drug Administration that it had accepted an advisory committee's recommendation concerning Teva's multiple sclerosis treatment Copaxone.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

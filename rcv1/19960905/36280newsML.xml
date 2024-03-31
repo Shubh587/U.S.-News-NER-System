@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36280" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: CBOT soybean deliveries - Sept 5.</title>
+<headline>CBOT soybean deliveries - Sept 5.</headline>
+<dateline>CHICAGO 1996-09-05</dateline>
+<text>
+<p>Delivery notices against the September soybean contract for September 6 (In thousand bushels).</p>
+<p>SOYBEANS - 65. Up to July 2, 1996.</p>
+<p>Delivered - AG Edwards/c 45, FCC/c 10, RJ O'Brien/c 10.</p>
+<p>Received - 1st Option/c 25, Rosenthal Collins Group/c 40.</p>
+<p>H=house account. C=Customer Account.</p>
+<p>Source: Chicago Board of Trade Clearing Corp.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

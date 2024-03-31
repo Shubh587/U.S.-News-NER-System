@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36323" id="root" date="1996-09-05" xml:lang="en">
+<title>FRANCE: Air France jet hit by lightning forced to land.</title>
+<headline>Air France jet hit by lightning forced to land.</headline>
+<dateline>MARSEILLE, France 1996-09-05</dateline>
+<text>
+<p>Some 30 passengers were injured when an Air France jumbo jet en route to Paris from Johannesburg was hit by lightning over the Mediterranean on Thursday, emergency workers said.</p>
+<p>The Boeing 747 was forced to make an emergency landing at Marseille's Marignane airport after baggage and other objects were sent flying in the cabin when the plane encountered strong turbulence, they said.</p>
+<p>&quot;The interior of the aircraft looked like it was hit by a tornado. Things were flying in all directions -- even a television screen,&quot; fire department official Richard Bresson told reporters.</p>
+<p>Two of the passengers were seriously injured and immediately taken to hospital after landing at Marseille.</p>
+<p>The other injured passengers were either taken to nearby hospitals or treated at the airport for bruises and other minor wounds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARSEILLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="771068" id="root" date="1997-07-31" xml:lang="en">
+<title>AUSTRALIA: HongkongBank cuts Australian rates.</title>
+<headline>HongkongBank cuts Australian rates.</headline>
+<dateline>SYDNEY 1997-07-31</dateline>
+<text>
+<p>HongkongBank of Australia Ltd said on Thursday that it would lower its business and mortgage rates by 50 basis points in response to the central bank's official cash easing by the same amount.</p>
+<p>The bank said its standard variable rate would be cut to 6.70 percent, effectively for new borrowers and from September 1 for existing customers.</p>
+<p>Its base lending rate would be cut to 8.75 percent from September 1.</p>
+<p>The Reserve Bank of Australia cut its official cash rate to 5.0 percent on Wednesday. -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

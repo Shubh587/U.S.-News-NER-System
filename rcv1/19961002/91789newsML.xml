@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91789" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Lucille Farms extends warrants until 1997.</title>
+<headline>Lucille Farms extends warrants until 1997.</headline>
+<dateline>MONTVILLE, N.J. 1996-10-01</dateline>
+<text>
+<p>Lucille Farms Inc said on Monday it was extending the expiration date for its warrants to November 1, 1997.</p>
+<p>The warrants were to expire November 1, 1996, it said.</p>
+<p>Each warrant entitles the holder to purchase one share of common stock at an exercise price of $5.00.</p>
+<p>Lucille Farms Inc makes and markets cheese products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTVILLE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

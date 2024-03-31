@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365322" id="root" date="1997-02-08" xml:lang="en">
+<title>USA: Countdown underway for U.S. shuttle launch.</title>
+<headline>Countdown underway for U.S. shuttle launch.</headline>
+<byline>Steven Young</byline>
+<dateline>CAPE CANAVERAL, Fla 1997-02-08</dateline>
+<text>
+<p>A suspect power generator may threaten NASA's plans to launch the space shuttle Discovery on a mission to upgrade the Hubble Space Telescope, officials said on Saturday.</p>
+<p>Preparations for the shuttle's planned 3:55 a.m. EST (0855 GMT) blastoff Tuesday were proceeding smoothly, but NASA officials said they would not know until Monday if one of the spaceship's electricity-generating fuel cells was working properly.</p>
+<p>The device, one of three aboard Discovery, uses supercold liquid oxygen and liquid hydrogen to generate power and also manufactures water as a byproduct.</p>
+<p>Engineers were concerned that the device might be contaminated with potassium hydroxide which could make the shuttle's drinking water too alkaline.</p>
+<p>A fuel cell used by the shuttle Atlantis last September suffered a similar problem, which was later traced to a manufacturing flaw.</p>
+<p>Launch controllers planned to activate Discovery's suspect fuel cell, which has never flown before, on Monday, five hours earlier than usual, to check whether it was working properly.</p>
+<p>&quot;We do have a potential for delaying the launch to look at that further,&quot; NASA test director John Guidi said at a news conference on Saturday.</p>
+<p>If mission managers decide to replace the device it could postpone the shuttle's launch by more than a week.</p>
+<p>Discovery's crew of seven, arrived at the Florida spaceport on Friday to begin final preparations for the mission.</p>
+<p>During the ten-day flight the astronauts planned to install two new scientific instruments in the telescope and upgrade various ageing components.</p>
+<p>The mission will be the first time astronauts have visited the telescope since a 1993 repair corrected its blurred vision.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

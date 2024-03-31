@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14195" id="root" date="1996-08-26" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Aug 26.</title>
+<headline>Direct bond trades on the Czech PSE - Aug 26.</headline>
+<dateline>PRAGUE 1996-08-26</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> ASPEKTA H.13,4/00	  99.50    105.00	3000   31389.660</p>
+<p> BV FINANCE 11/97	   98.50     98.54	  78    8464.850</p>
+<p> CEZ 10,90/01		 95.30     95.30	1000    9717.720</p>
+<p> CEZ 11,0625/08	     94.80     94.80	2000   19341.040</p>
+<p> CEZ 11,3/05		  95.80     96.10     10500  103520.565</p>
+<p> JIP 13,875/01	     102.70    102.70	 998   10861.044</p>
+<p> KB 11,1/98		   98.90     98.90	 380    3830.845</p>
+<p> KB 11,4/01		   98.15     99.07     75546  736118.703</p>
+<p> KB VAR/97		    99.90     99.90     28000  277230.520</p>
+<p> ST.DLUHOP. 8,7/00	  92.05     92.05	1000    9652.080</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

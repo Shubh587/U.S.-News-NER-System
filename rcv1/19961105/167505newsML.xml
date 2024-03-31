@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167505" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Mesa Air Group load factor rises in October.</title>
+<headline>Mesa Air Group load factor rises in October.</headline>
+<dateline>NEW YORK 1996-11-05</dateline>
+<text>
+<p>1996		1995</p>
+<p> Load factor - percent		  56.8		54.3</p>
+<p> Revenue passenger miles	   114,217	   117,588</p>
+<p> Available seat miles		200,969	   216,606</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  56.5		51.8</p>
+<p> Revenue passenger miles	 1,135,998	 1,032,252</p>
+<p> Available seat miles	    2,009,214	 1,994,223</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+<p>NOTES: Year-to-date same as one month.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

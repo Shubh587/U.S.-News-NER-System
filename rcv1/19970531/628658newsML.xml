@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="628658" id="root" date="1997-05-31" xml:lang="en">
+<title>PERU: Peru anti-drug helicopter crashes, two dead.</title>
+<headline>Peru anti-drug helicopter crashes, two dead.</headline>
+<dateline>LIMA 1997-05-30</dateline>
+<text>
+<p>A police helicopter, given to Peru by the United States for its anti-drug fight, crashed on Friday in the northern jungle, killing two men and injuring seven others, police said.</p>
+<p>The helicopter crashed close to Tarapoto, 510 miles (810 km) northeast of Lima, on a flight that was part of a mission to control and reduce the cultivation of coca leaf, the raw material for cocaine, the police said in a statement.</p>
+<p>Authorities, who were investigating the causes of the crash, transported the dead and injured from the drug-running zone to Lima's police hospital.</p>
+<p>U.S.-backed patrol programmes have helped local security forces restrict the number of routes available to drug traffickers in Peru, which produces more than 60 percent of the world's coca leaf.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13950" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: AT&amp;T Corp enters phone deal with Teleport.</title>
+<headline>AT&amp;T Corp enters phone deal with Teleport.</headline>
+<dateline>NEW YORK 1996-08-26</dateline>
+<text>
+<p>AT&amp;T Corp said Monday it had reached an agreement with Teleport Communications Group Inc to let businesses in nine major cities connect directly with its long-distance network as an alternative to access provided by local phone companies.</p>
+<p>AT&amp;T did not disclose the terms of the agreement but said it did not involve an equity investment from it.</p>
+<p>The TCG agreement covers the greater metropolitan areas of Boston, Chicago, Detroit, Los Angeles, Miami, Milwaukee, New York, San Diego and San Francisco.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

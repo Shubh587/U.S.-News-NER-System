@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72651" id="root" date="1996-09-24" xml:lang="en">
+<title>NEW ZEALAND: NZ reports NZ$384.8 mln trade deficit in August.</title>
+<headline>NZ reports NZ$384.8 mln trade deficit in August.</headline>
+<dateline>WELLINGTON 1996-09-25</dateline>
+<text>
+<p>Statistics New Zealand on Wednesday released the following provisional statistics for New Zealand external merchandise trade for August.</p>
+<p>(Figures are rounded)</p>
+<p>Monthly series:</p>
+<p>		Aug 1996	  July 1996	  Aug 1995</p>
+<p>Balance    -$384.8 million     -$106.3 million	-$252.8 million</p>
+<p>Exports     $1.65 billion   $1.83 bln	   $1.70 bln</p>
+<p>Imports     $2.04 billion   $1.94 bln	   $1.95 bln</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

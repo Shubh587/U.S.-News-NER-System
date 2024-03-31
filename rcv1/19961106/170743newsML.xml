@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170743" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Mississippi governor injured in traffic accident.</title>
+<headline>Mississippi governor injured in traffic accident.</headline>
+<dateline>JACKSON, Miss 1996-11-05</dateline>
+<text>
+<p>Mississippi Gov. Kirk Fordice was seriously injured on Tuesday in a traffic accident on an interstate highway north of Jackson on the way to a Republican Party election celebration, police said.</p>
+<p>The 62-year-old Republican suffered broken ribs and a severed ear after wrecking his vehicle near the town of Grenada, about 110 miles (177 km) from the state capital. Hospital officials said his injuries did not appear to be life-threatening.</p>
+<p>He was expected to be transferred to a medical centre in Jackson.</p>
+<p>Fordice was en route to a state Republican Party election night celebration when the incident occurred on Interstate 55, which links Jackson with Memphis, Tennessee.</p>
+<p>Fordice was not up for re-election this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSON, Miss"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

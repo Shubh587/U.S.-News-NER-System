@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331502" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Internet service, bucks trend, offers free access.</title>
+<headline>Internet service, bucks trend, offers free access.</headline>
+<dateline>SAN JOSE, Calif. 1997-01-23</dateline>
+<text>
+<p>An ambitious startup company, undeterred by the growing pains that have bogged down America Online Inc's Internet services, Thursday began offering unlimited access with no monthly fees at all.</p>
+<p>The company, which dubs its service @bigger.net, said it will only charge $59 as a set-up fee after which customers are promised free unlimited Internet access for a lifetime.</p>
+<p>Initially, the service will be available only in the San Francisco area, but the company plans to roll it out in Los Angeles and San Diego in April and to start introducing it in selected areas around the country before June.</p>
+<p>Members wanting to maintain their electronic mail address after the first year of service will pay just $10 a year, a fee the company said will be used to upgrade basic equipment.</p>
+<p>Unlike AOL and other services, @bigger.net will not include any of its own content, but simply provide direct Internet access through standard telephone lines.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

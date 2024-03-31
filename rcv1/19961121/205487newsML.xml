@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205487" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: CBOT munibond/30-day Fed vol/open int for Nov 20.</title>
+<headline>CBOT munibond/30-day Fed vol/open int for Nov 20.</headline>
+<text>
+<p>MTH YR   EVE  PROJ A   DAY VOL   CASH  OPEN INT  CHANGE</p>
+<p>30-DAY  NOV96			    125		3,763     37+</p>
+<p>FED     DEC96			    206		4,782     10+</p>
+<p>	  JAN97			    460		2,350    127+</p>
+<p>	  FEB97			    324		2,565     18+</p>
+<p>	  MAR97			    167		  777     69+</p>
+<p>	  APR97				3		  177	3-</p>
+<p>	  MAY97				1		  170</p>
+<p>	  JUN97						    37</p>
+<p>	  JUL97				7		   66	5-</p>
+<p>	  TOTAL			  1,293	     14,687    253+</p>
+<p>---</p>
+<p>MUNI-   DEC96			  4,505	     10,354    110-</p>
+<p>BOND    MAR97			    431		1,336     96+</p>
+<p>	  JUN97						    19</p>
+<p>	  TOTAL			  4,936	     11,709     14-</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

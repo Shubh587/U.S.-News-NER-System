@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306880" id="root" date="1997-01-14" xml:lang="en">
+<title>NETHERLANDS: Dutch central bank sets cash reserve requirements.</title>
+<headline>Dutch central bank sets cash reserve requirements.</headline>
+<dateline>AMSTERDAM 1997-01-14</dateline>
+<text>
+<p>The Dutch central bank said it would set a compulsory cash reserve requirement for the money market at 5.156 billion guilders for the period from Jan 17 to Jan 31.</p>
+<p>The new reserve will replace a 15-day cash reserve of 6.575 billion guilders which expires Friday before the start of trade.</p>
+<p>The compulsory cash reserve for commercial banks is one of several instruments the central bank uses to steer money market liquidity and short term interest rates.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

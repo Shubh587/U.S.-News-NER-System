@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67991" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: US stocks mixed, nearly unchanged in heavy volume.</title>
+<headline>US stocks mixed, nearly unchanged in heavy volume.</headline>
+<dateline>NEW YORK 1996-09-20</dateline>
+<text>
+<p>Wall Street stocks were steady, nearly unchanged at Friday's opening amid massive volume from the triple-witching expiry options and futures.</p>
+<p>The New York Stock Exchange had volume of 87.4 million. The smaller Nasdaq system recorded volume of 25.2 million.</p>
+<p>The Dow Jones industrials average was off one at 5866.</p>
+<p>The long bond yielded 1/32 less at 7.05 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

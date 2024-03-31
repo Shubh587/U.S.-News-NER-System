@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351717" id="root" date="1997-02-03" xml:lang="en">
+<title>PAKISTAN: Pakistani bourse shut for elections.</title>
+<headline>Pakistani bourse shut for elections.</headline>
+<dateline>KARACHI, Pakistan 1997-02-03</dateline>
+<text>
+<p>The Karachi Stock Exchange was shut on Monday because of national and provincial elections. It will reopen on Tuesday.</p>
+<p>On Sunday, the Karachi 100-share index soared 63.05 points, or 4.11 percent, to close at 1,597.26 in a turnover of 39.73 million shares. Gainers beat losers 188 to 30.</p>
+<p>Dealers said speculative buying was fuelled by hopes that the Pakistan Muslim League led by Nawaz Sharif will win the polls, forced by President Farooq Leghari's November 5 dismissal of Benazir Bhutto's government on disputed corruption charges.</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

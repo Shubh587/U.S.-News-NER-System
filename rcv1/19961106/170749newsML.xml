@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170749" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Republicans pick up Senate seat in Nebraska.</title>
+<headline>Republicans pick up Senate seat in Nebraska.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Republican businessman Chuck Hagel beat Democratic Gov. Ben Nelson Tuesday to win the Nebraska Senate seat left open by the retirement of Democrat Jim Exon, according to projections by the ABC television network.</p>
+<p>Hagel's win allows the Republicans to pick up a seat and makes it more difficult for Democrats to gain the three additional seats they need, along with the tie-breaking vote of Vice President Al Gore, to reclaim control of the Senate. Early in the campaign Nelson, a popular state governor, had been expected to win easily, but Hagel attacked him on state as well as national issues to came from behind in the final weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

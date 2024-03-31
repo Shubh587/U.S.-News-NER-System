@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619546" id="root" date="1997-05-28" xml:lang="en">
+<title>UK: OPTIONS - UK stock options suit mixed trading stance.</title>
+<headline>OPTIONS - UK stock options suit mixed trading stance.</headline>
+<dateline>LONDON 1997-05-28</dateline>
+<text>
+<p>Brisk trading took place in UK equity traded options on Wednesday as the stock market staggered about showing no sense of direction prompting a mix of trading strategies in stock options, dealers said.</p>
+<p>Among them was a complex deal in property company Land Securities in which a trader bought near-term calls -- possibly in a closing deal -- only to establish a bearishly oriented split synthetic position with medium-dated options.</p>
+<p>The deal was to 475 July 850 calls at 60p in the first part of the trade and then to buy 475 October 850 puts at 14p and to sell 475 October 900 calls at 36p.</p>
+<p>If the stock price declines sufficiently by October expiry, the long puts will make money and the short calls will boost the return if the share price sinks below 900p.</p>
+<p>But if the shares rally there is a risk of large losses owing to the short calls. At the close of business on the stock market, shares in Land Securities were up 5-1/2p at 908-1/2p.</p>
+<p>Over in brewer and distiller Guinness the main deal was from a buyer of 500 August 550 puts at 13p. The shares fell 14p to 582p.</p>
+<p>In contrast, in mobile phone company Vodafone, 500 October 260 puts were sold at 12-1/2p.</p>
+<p>Vodafone shares gained 1-1/2p to 269-1/2p.</p>
+<p>And ahead of their respective expiry dates, positions were rolled forward in supermarket chain Safeway and in British Sky Broadcasting.</p>
+<p>In Safeway, the deal was to buy back 1,000 July 360 calls at 13p and to sell 1,000 October 330 calls at 41-1/2p. And in BSkyB, 325 June 550 puts were bought back at 4p and then 325 December 550 puts sold at 24p.</p>
+<p>Safeway shares gained 2-1/2p to 357-1/2p while BSkyB were up 4p to 592-1/2p.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

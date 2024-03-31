@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="315720" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: U.S. cocoa and coffee exports -- Commerce.</title>
+<headline>U.S. cocoa and coffee exports -- Commerce.</headline>
+<dateline>WASHINGTON 1997-01-17</dateline>
+<text>
+<p>U.S. Commerce Department cocoa and coffee exports, in tonnes:</p>
+<p> -				 Domestic   Foreign</p>
+<p> -				  Exports   Re-Exports</p>
+<p> -  Cocoa Beans-X:   Nov 96     Nil   1,502</p>
+<p> -			 Oct 96     Nil   1,934</p>
+<p> -			 Nov 95     Nil     949</p>
+<p> - Cocoa Butter-Y:   Nov 96     366     505</p>
+<p> -			 Oct 96     386     679</p>
+<p> -			 Nov 95     212     811</p>
+<p>X-Whole or broken, raw or roasted. Y-Fat and oil included.  </p>
+<p>    COFFEES --    Nov96     Oct96     Nov95</p>
+<p>DOMESTIC EXPORTS (tonnes) --</p>
+<p>    -  Unroasted     41	 165	 148</p>
+<p>    -    Roasted  2,231     3,365     2,784</p>
+<p>    Concentrated    229	 358	 456</p>
+<p>FOREIGN RE-EXPORTS (tonnes) --</p>
+<p>    -  Unroasted  3,113     3,582     4,183</p>
+<p>    -    Roasted  1,062	 107	 185</p>
+<p>    Concentrated     43	   4	  18</p>
+<p>Coffees include decaffeinated and nondecaffeinated, and exclude husks and skins. Concentrated includes instant and nonflavored.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I0100144">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

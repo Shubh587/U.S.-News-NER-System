@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294457" id="root" date="1997-01-08" xml:lang="en">
+<title>CANADA: Caledonia finds Zambian cobalt prospect.</title>
+<headline>Caledonia finds Zambian cobalt prospect.</headline>
+<dateline>TORONTO 1997-01-08</dateline>
+<text>
+<p>Caledonia Mining Corp said on Wednesday that it had made a &quot;significant&quot; cobalt oxide discovery at the Bopalo prospect in Zambia.</p>
+<p>The discovery is in the Kadola licence area about 20 km east of Caledonia's Kadola West copper oxide deposit.</p>
+<p>A strong cobalt geochemical anomaly measuring 5000 metres by 250 metres was tested with three shallow reverse circulation drill holes, Caledonia said in a statement.</p>
+<p>All three holes intersected signficant cobalt mineralization over widths of between 13 and 24 metres, the company said.</p>
+<p>((Reuters Toronto Bureau 416 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

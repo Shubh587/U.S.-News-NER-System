@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689852" id="root" date="1997-06-26" xml:lang="en">
+<title>GERMANY: Drunk-driver hits Georgian airliner in Frankfurt.</title>
+<headline>Drunk-driver hits Georgian airliner in Frankfurt.</headline>
+<dateline>FRANKFURT 1997-06-26</dateline>
+<text>
+<p>A freight-carrier driven by a man who had three times the legal limit of alcohol in his blood ploughed into an Air Georgia plane minutes after it landed at Frankfurt airport, German police said on Thursday.</p>
+<p>Disembarking passengers watched in amazement as the 40-year-old driver apparently tried to steer the vehicle underneath the wing but hit the wing tip of the Soviet-made Tupolev aircraft.</p>
+<p>Frankfurt city police said in a statement the driver, who was uninjured, failed a preliminary breath test and that they would be conducting further blood tests to determine whether he should face charges.</p>
+<p>The extent of the damage caused to the plane airliner had yet to be assessed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

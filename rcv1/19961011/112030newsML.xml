@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112030" id="root" date="1996-10-11" xml:lang="en">
+<title>JAPAN: Japan ministry to simplify port procedures.</title>
+<headline>Japan ministry to simplify port procedures.</headline>
+<dateline>TOKYO 1996-10-11</dateline>
+<text>
+<p>Japan's Transport Ministry said on Friday it would take steps to simplify application procedures for shipping companies at the country's eight major international ports.</p>
+<p>The move will apply to the ports at Kobe, Tokyo, Kawasaki, Yokohama, Nagoya, Osaka, Shimonoseki and Kitakyushu, a Transport Ministry spokesman said.</p>
+<p>Deregulatory measures include cutting down on the number of documents required when entering or leaving the country's ports and accepting documents by facsimile, he said. Currently, many of the documents need to be presented in person.</p>
+<p>He said the measures were in reaction to calls for deregulation from the shipping industry, which grew stronger after the massive earthquake in Kobe early last year destroyed large sections of the city's port.</p>
+<p>Kobe has been facing stiff competition from other Asian ports since the devastation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

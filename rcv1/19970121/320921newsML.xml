@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320921" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: LSE Turnover/Indices - JAN 21.</title>
+<headline>LSE Turnover/Indices - JAN 21.</headline>
+<text>
+<p>FTSE INDICES			     VOLUME</p>
+<p>FTSE 100	4194.0  (4207.7)     Total Trades (Jan 17) 29,906</p>
+<p>Eurotrack 100 2036.53 (2016.38)</p>
+<p>Eurotrack 200 2068.82 (2056.68)</p>
+<p>FTSE 250	4580.2  (4583.4)	  Other Indices</p>
+<p>FT Act-350    2082.0  (2087.7)  FT Govt Secs  94.75  (95.03)</p>
+<p>					  FT Gold MN    N/A    (1753.21)</p>
+<p>FT-ACTUARIES INDICES</p>
+<p>FT 30	  2817.00  (2813.7)  All share    2055.17 (2055.83)</p>
+<p>ISEQ Index   2824.40  (2832.60) 500 Share    2111.70 (2110.58)</p>
+<p>					  Oils	   4206.54 (4174.02)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

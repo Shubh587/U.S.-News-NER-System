@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699183" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Clinton announces staff changes.</title>
+<headline>Clinton announces staff changes.</headline>
+<dateline>WASHINGTON 1997-07-01</dateline>
+<text>
+<p>President Clinton Tuesday announced a series of staff changes, including naming political consultant Paul Begala and ex-journalist Sidney Blumenthal to communications posts at the White House.</p>
+<p>Begala, a key political consultant in Clinton's 1992 presidential campaign, was named counsellor to the president for communications and strategy. He has been teaching at the University of Texas.</p>
+<p>Blumenthal, who worked for The New Yorker magazine, the New Republic and the Washington Post, will serve as assistant to the president for communications strategy and special projects.</p>
+<p>Clinton also elevated Michael Waldman, his director of speechwriting, to be an assistant to the president. He also promoted speechwriter J. Terry Edmonds to deputy director of the speechwriting staff.</p>
+<p>Clinton also promoted Stephanie Streett to become assistant to the president and director of presidential scheduling.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87502" id="root" date="1996-10-01" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE RESULTS.</headline>
+<dateline>LONDON 1996-10-01</dateline>
+<text>
+<p>Results of English league matches</p>
+<p>on Tuesday:</p>
+<p>Division one</p>
+<p> Grimsby		 1     Norwich		 4</p>
+<p> Ipswich		 1     Barnsley		1</p>
+<p> Oldham		  1     West Bromwich	 1</p>
+<p> Portsmouth	    2     Crystal Palace	2</p>
+<p> Southend		3     Sheffield United    2</p>
+<p> Tranmere		0     Oxford		  0</p>
+<p>Division two</p>
+<p> Bournemouth	   0     Walsall		 1</p>
+<p> Bristol City	  1     Brentford	     2</p>
+<p> Bury		    1     Burnley		 0</p>
+<p> Chesterfield	  2     Shrewsbury	    1</p>
+<p> Crewe		   3     Blackpool	     2</p>
+<p> Gillingham	    1     Notts County	  0</p>
+<p> Plymouth		1     Peterborough	  1</p>
+<p> Watford		 1     Preston		 0</p>
+<p> Wycombe		 4     Rotherham	     2</p>
+<p> York		    2     Bristol Rovers	2</p>
+<p>Postponed: Wrexham v Luton</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

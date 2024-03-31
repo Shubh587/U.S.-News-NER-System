@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253790" id="root" date="1996-12-12" xml:lang="en">
+<title>JAPAN: Toyota recalls 7,274 GM-made Cavaliers.</title>
+<headline>Toyota recalls 7,274 GM-made Cavaliers.</headline>
+<dateline>TOKYO 1996-12-12</dateline>
+<text>
+<p>Toyota Motor Corp said on Thursday that it is recalling 7,274 Toyota Cavalier cars produced by General Motors Corp (GM) to fix an engine control computer system.</p>
+<p>The recall affects models imported between October 24, 1995, and June 24, 1996. The cars were made at GM's Rosetown factory in Ohio for sale in Japan.</p>
+<p>Repair costs are estimated to total 70 million yen, a Toyota spokeswoman said.</p>
+<p>The fault in the computer system could cause stalling or an unstable revolution of the car engine.</p>
+<p>Toyota started selling Cavaliers in Japan in January this year with an annual sales target of 20,000 units. Total sales stood at 9,647 Cavaliers as of December 10.</p>
+<p>No accidents have been reported as a result of the defect, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

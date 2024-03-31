@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98351" id="root" date="1996-10-06" xml:lang="en">
+<title>FRANCE: MOTOR RACING-WORLD UNDERANCE CHAMPIONSHIP RESULT.</title>
+<headline>MOTOR RACING-WORLD UNDERANCE CHAMPIONSHIP RESULT.</headline>
+<dateline>NOGARO, France 1996-10-06</dateline>
+<text>
+<p>Leading placings in the</p>
+<p>tenth round of the world endurance championship on Sunday:</p>
+<p>1. Ray Bellm/James Weaver (Britain) McLaren four hours zero</p>
+<p>minutes 33.066 seconds</p>
+<p>2. Pierre-Henn Raphanel/Lindsey Owen-Jones (France) McLaren one</p>
+<p>minute 09 seconds behind</p>
+<p>3. Michel Ferte/Olivier Thevenin (France) Ferrari 153 laps</p>
+<p>4. Anders Olofsson (Sweden)/Luciano della Noce/Max Angelleli</p>
+<p>(Italy) Ferrari 153 laps</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOGARO, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555747" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: Air South April load factor rose to 60 pct.</title>
+<headline>Air South April load factor rose to 60 pct.</headline>
+<dateline>COLUMBIA, S.C. 1997-05-02</dateline>
+<text>
+<p>APRIL		 APRIL</p>
+<p>					 1997		  1996</p>
+<p> Load factor - percent		  60.2		52.0</p>
+<p> Revenue passenger miles	38,060,746	27,366,000</p>
+<p> Available seat miles	   63,247,606	52,589,000</p>
+<p> Passengers enplaned		  74,721	    57,864</p>
+<p>NOTE: Company's full name is Air South Airlines Inc.</p>
+<p>Year-to-date figures unavailable.</p>
+<p>Air South is privately held.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

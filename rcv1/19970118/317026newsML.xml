@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317026" id="root" date="1997-01-18" xml:lang="en">
+<title>USA: Echlin Inc president resigns.</title>
+<headline>Echlin Inc president resigns.</headline>
+<dateline>BRANFORD, Conn. 1997-01-17</dateline>
+<text>
+<p>Echlin Corp said on Friday its president, C. Scott Greer, resigned to pursue other business interests and that Chairman Frederick Mancheski would assume the duties until a successor was named.</p>
+<p>The company also said it remained committed to achieving its earnings per share growth target of 15 percent.</p>
+<p>Echlin makes motor vehicle parts.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRANFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

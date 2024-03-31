@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45781" id="root" date="1996-09-11" xml:lang="en">
+<title>SOUTH KOREA: Baseball-Results of S. Korean pro-baseball games.</title>
+<headline>Baseball-Results of S. Korean pro-baseball games.</headline>
+<dateline>SEOUL 1996-09-11</dateline>
+<text>
+<p>Results of South Korean</p>
+<p>pro-baseball games played on Tuesday.</p>
+<p>    Hyundai		  4	LG		   2</p>
+<p>    Samsung		  3	OB		   1</p>
+<p>    Hanwha		  10	Lotte		5</p>
+<p>    Ssangbangwool	 14	Haitai	     8</p>
+<p>Standings after games played on Tuesday (tabulate under won,</p>
+<p>drawn, lost, winning percentage, games behind first place)</p>
+<p>			  W   D    L     PCT	   GB</p>
+<p>    Haitai	   67   2   49    .576	    -</p>
+<p>    Hanwha	   65   1   52    .555	2 1/2</p>
+<p>    Ssangbangwool  66   2   53    .554	2 1/2</p>
+<p>    Hyundai	  64   5   53    .545	3 1/2</p>
+<p>    Samsung	  54   5   61    .471     12 1/2</p>
+<p>    Lotte	    50   6   59    .461     13 1/2</p>
+<p>    LG		 48   5   67    .421     18 1/2</p>
+<p>    OB		 47   6   67    .417	   19</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

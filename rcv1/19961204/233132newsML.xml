@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233132" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Fisher Scientific says in Mexican deal.</title>
+<headline>Fisher Scientific says in Mexican deal.</headline>
+<dateline>HAMPTON, N.H. 1996-12-04</dateline>
+<text>
+<p>Fisher Scientific International Inc said on Wednesday its Fisher Scientific Worldwide unit has bought the majority interest in Monterrey, Mexico-based Casa Rocas SA de CV.</p>
+<p>No terms were disclosed.</p>
+<p>Fisher said that Casa Rocas is a distributor of laboratory products, and an authorized dealer for many United States and European suppliers of laboratory workstations, diagnostic re-agents, scientific equipment and supplies.</p>
+<p>Fisher said the deal was its first equity investment in Mexico, and added that it has an option to buy the remaining equity in Casa Rocas from management.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMPTON, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

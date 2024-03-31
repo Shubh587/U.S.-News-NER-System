@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233501" id="root" date="1996-12-04" xml:lang="en">
+<title>UK: Tiny changes cause big ozone hole, study finds.</title>
+<headline>Tiny changes cause big ozone hole, study finds.</headline>
+<dateline>LONDON 1996-12-04</dateline>
+<text>
+<p>The Earth's protective ozone layer is apparently more sensitive than scientists thought and can be strongly affected by tiny changes in atmospheric chemicals, French researchers reported on Wednesday.</p>
+<p>They said computer models used to predict ozone depletion could be way off beam because they did not go into enough detail.</p>
+<p>Bernard Legras and colleagues at France's Laboratoire de Meteorologie Dynamique used a very delicate model of the atmosphere and found they could more accurately replicate growing holes in the ozone layer than existing models.</p>
+<p>Their model, which focused on the chemical chlorine monoxide, correctly accounted for the larger-than-predicted ozone hole over the Arctic in the winter of 1994-95, they wrote in a report in the science journal Nature.</p>
+<p>&quot;Under the conditions of the winter of 1994-95 the effect is large enough to account for the observed discrepancies of about 40 percent between modelled and observed ozone depletion in the Arctic environment,&quot; they wrote.</p>
+<p>Ozone, a form of oxygen, filters out harmful ultraviolet rays from the sun. But it is chemically very reactive and substances such as chlorine can cause ozone to break down and form other molecules.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

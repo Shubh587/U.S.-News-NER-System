@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="508532" id="root" date="1997-04-15" xml:lang="en">
+<title>BELARUS: SOCCER-BELARUSSIAN PREMIER DIVISION RESULTS.</title>
+<headline>SOCCER-BELARUSSIAN PREMIER DIVISION RESULTS.</headline>
+<dateline>MINSK 1997-04-15</dateline>
+<text>
+<p>Results on Tuesday of Belarussian</p>
+<p>first round premier league soccer matches played on Sunday:</p>
+<p> Dnepr (Mogilyov)	    2     Naftan-Devon (Novopolotsk) 1</p>
+<p> Torpedo (Minsk)	     0     Dynamo-93 (Minsk)	    3</p>
+<p> Shakhtyor (Soligorsk)     0     Lokomotiv-96 (Vitebsk)     1</p>
+<p> Molodechno		    0     Kommunalnik (Slonim)	 1</p>
+<p> Dynamo (Brest)		2     Ataka (Minsk)		  2</p>
+<p> Torpedo-Kadino (Mogilyov) 1     Dynamo (Minsk)		 4</p>
+<p> Nyeman (Grodno)	     0     Belshina (Bobruisk)	  2</p>
+<p> Transhmash (Mogilyov)     0     MPKTS (Mozyr)		  0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

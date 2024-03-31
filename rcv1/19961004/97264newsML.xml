@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97264" id="root" date="1996-10-04" xml:lang="en">
+<title>SPAIN: Spain seeks Legionnaires disease outbreak source.</title>
+<headline>Spain seeks Legionnaires disease outbreak source.</headline>
+<dateline>MADRID 1996-10-04</dateline>
+<text>
+<p>Spanish health authorities were trying on Friday to determine the source of an outbreak of the respiratory ailment Legionnaires' disease which has killed 10 people in a small town near Madrid.</p>
+<p>They suspect that the disease has been spread through the water supply at Alcala de Henares, about 25 km (15 miles) northeast of the Spanish capital. About 200 people have been affected by the illness, all of them elderly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

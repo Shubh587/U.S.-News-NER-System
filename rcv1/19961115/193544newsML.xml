@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193544" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: HP to unveil encryption breakthrough.</title>
+<headline>HP to unveil encryption breakthrough.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-15</dateline>
+<text>
+<p>Hewlett-Packard Co. said on Friday that it will unveil on Monday a breakthrough agreement in computer software encryption, a development that could eliminate a key impediment to the growth of electronic commerce via the Internet.</p>
+<p>A spokesman said H-P Chairman and Chief Executive Lewis Platt will provide details of a deal involving computer industry leaders, the Clinton administation and other governments at a press conference in Washington.</p>
+<p>The company confirmed that the technology will enable export of strong encryption capabilities, such as those that companies want to use for tasks ranging from confidential communications to electronic commerce.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

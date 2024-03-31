@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160876" id="root" date="1996-11-01" xml:lang="en">
+<title>FRANCE: Mexican ex-president escapes blazing French hotel.</title>
+<headline>Mexican ex-president escapes blazing French hotel.</headline>
+<dateline>PARIS 1996-11-01</dateline>
+<text>
+<p>Former Mexican president Miguel de la Madrid escaped unhurt from a blaze which devastated a hotel in the southern French town of Toulouse during the night, officials said on Friday.</p>
+<p>Radio reports said de la Madrid, Mexico's president from 1982-88, raised the alarm after waking up in the middle of the night to see his curtains on fire at the Hotel de l'Opera.</p>
+<p>A spokesman for the prefect, the area's government representative, said de la Madrid was not injured.</p>
+<p>Four people were overcome by fumes and treated in hospital, and a fireman was slightly injured. The blaze destroyed at least 10 rooms at the hotel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

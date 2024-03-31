@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="793852" id="root" date="1997-08-12" xml:lang="en">
+<title>TAIWAN: Taiwan establishes diplomatic ties with Chad.</title>
+<headline>Taiwan establishes diplomatic ties with Chad.</headline>
+<dateline>TAIPEI 1997-08-12</dateline>
+<text>
+<p>Taiwan on Tuesday said it had established diplomatic ties with the Central African state of Chad.  </p>
+<p>&quot;The Republic of China government has established diplomatic relations with the Republic of Chad, effective immediately,&quot; a foreign ministry official told a news conference.</p>
+<p>The announcement brings to 31 the number of countries that maintain official relations with Taiwan's exiled Republic of China government, although that number will fall back to 30 later this year when South Africa switches ties to communist China.</p>
+<p>Taiwan established formal ties with West Africa's small twin-island nation of Sao Tome and Principe in May.</p>
+<p>Chad, a landlocked and arid state in Central Africa, is one the world's poorest countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHAD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

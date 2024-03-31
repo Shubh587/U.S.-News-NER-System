@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237777" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Strouds Nov same-store sales down 2.4 pct.</title>
+<headline>Strouds Nov same-store sales down 2.4 pct.</headline>
+<dateline>CITY OF INDUSTRY, Calif. 1996-12-05</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month		$19.7	$16.7	 n/a	 -2.4</p>
+<p>Year-to-date    $150.9     $134.5	 n/a	 +1.3</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Month is 4 weeks ended November 30.</p>
+<p>Full company name is Strouds Inc.</p>
+<p>November 1995 sales figure is based on 7 more days than November 1996. Excluding those days, November 1996 same-store sales rose 1.4 pct from November 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CITY OF INDUSTRY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

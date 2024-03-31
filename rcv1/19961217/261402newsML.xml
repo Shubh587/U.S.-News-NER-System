@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261402" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Argentina wheat damage unknown -- USDA.</title>
+<headline>Argentina wheat damage unknown -- USDA.</headline>
+<dateline>WASHINGTON 1996-12-17</dateline>
+<text>
+<p>U.S. Agriculture Department meteorologist Mark Russberg said it would be several weeks before the extent of the damage to Argentina's wheat crop from torrential rain and wind last week could be assessed.</p>
+<p>&quot;As much as half or even a little more than half of the wheat was in the ground still when that event went through,&quot; he said in an interview with USDA Radio. &quot;We don't know exactly how much was hit and it's going to take a few weeks before we can fully assess exactly what the extent of the damage is.&quot;</p>
+<p>He noted it had been dry in southern Argentina for the last four days, which could help the crop dry out and recover.</p>
+<p>An Argentine government official Tuesday estimated the storms destroyed at least 200,000 hectares of wheat and damaged the quality of between 700,000 to one million tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

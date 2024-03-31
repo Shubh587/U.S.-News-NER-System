@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593797" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: IDEC says drug tests show positive results.</title>
+<headline>IDEC says drug tests show positive results.</headline>
+<dateline>SAN DIEGO 1997-05-19</dateline>
+<text>
+<p>IDEC Pharmaceuticals Corp on Monday said its Phase I/II tests of the drug called Primatized, an anti-CD4 monoclonal antibody, showed positive results in patients with chronic, severe asthma.</p>
+<p>IDEC and SmithKline Beecham Pharmaceuticals, a unit of SmithKline Beecham Plc, are co-developing the drug, which is also known as IDEC-CE9.1/SB210396. It is currently in Phase III clinical tests for treating rheumatoid arthritis.</p>
+<p>The Phase I/II tests were randomized, double-blinded and placebo-controlled. They assessed three dose levels (0.5, 1.5 and 3.0 mg/kg) of one intravenous infusion in 22 patients.</p>
+<p>In a statement, IDEC said the clinical investigators saw a significant dose-dependent improvement in lung function (increased morning and evening peak expiratory flow rate) and symptom scores in the 3.0 mg/kg group.</p>
+<p>The patients tolerated treatment with the antibody well, and the investigators reported no serious adverse events. Treatment produced a transient decrease in circulating CD4+ lymphocytes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

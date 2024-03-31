@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82455" id="root" date="1996-09-27" xml:lang="en">
+<title>ITALY: Bank of Italy says to keep monetary policy tight.</title>
+<headline>Bank of Italy says to keep monetary policy tight.</headline>
+<dateline>ROME 1996-09-27</dateline>
+<text>
+<p>Italian monetary policy will remain aimed at pushing average inflation below three percent in 1997, the Bank of Italy said in a statement.</p>
+<p>&quot;The recent relaxation of money market rates has taken into account the slowdown in prices already seen this year. Monetary policy maintains a restrictive trend needed to continue and consolidate these events,&quot; the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

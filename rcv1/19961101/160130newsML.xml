@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160130" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: U.S. rig count down 14 to 839 in latest week.</title>
+<headline>U.S. rig count down 14 to 839 in latest week.</headline>
+<dateline>NEW YORK 1996-11-01</dateline>
+<text>
+<p>The number of rigs exploring for oil and natural gas in the United States stood at 839 as of November 1, down 14 from the prior week and 75 above the year-ago total of 764, Baker Hughes Inc reported.</p>
+<p>The number of rigs drilling on land fell by 14 to 709, while rigs working offshore remained at 104. The number of rigs active in inland waters also remained at 26.</p>
+<p>The biggest change in individual states occurred in Texas, which showed a decrease of eight and Oklahoma, which showed a decrease of five. Kansas rose by three and California was down one.  </p>
+<p>A total of 346 rigs were exploring for crude oil, up 10 from last week. The number of rigs searching for gas fell by 12 to 491, while the number of miscellaneous drilling projects dropped by 12 to 14.</p>
+<p>There were 197 rigs drilling directionally, 68 drilling horizontally and 574 drilling vertically.</p>
+<p>In Canada, the number of working rigs rose by eight to 310 versus 210 a year ago.</p>
+<p>The weekly rig count reflects the number of rigs exploring for oil and gas, not those producing oil and gas.</p>
+<p>-- New York Energy Desk 212-859-1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I1300013">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I32510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

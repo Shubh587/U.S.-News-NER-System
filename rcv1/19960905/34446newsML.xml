@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34446" id="root" date="1996-09-05" xml:lang="en">
+<title>PERU: Peru's July lead output rises 5.6 percent.</title>
+<headline>Peru's July lead output rises 5.6 percent.</headline>
+<dateline>LIMA 1996-09-05</dateline>
+<text>
+<p>Peru's lead output rose 5.6 percent to 20,911 tonnes in July, compared with the same month last year, according to preliminary figures from the Energy and Mines Ministry released Thursday.</p>
+<p>Production rose 9.6 percent to 143,713 tonnes in the first seven months of the year compared with the same period last year, the ministry said.</p>
+<p>In 1995, lead output dipped 0.4 percent to 232,540 tonnes compared with 233,510 tonnes the previous year.</p>
+<p>Peru is the world's number three lead producer. State-owned Centromin is the country's largest producer of the metal.</p>
+<p>--Saul Hudson, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127566" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. barley weekly export sales highlights--USDA.</title>
+<headline>U.S. barley weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1996-10-18</dateline>
+<text>
+<p>U.S. barley major sales activity in the week ended Oct 10 reported by exporters for the following purchasing countries, in tonnes:</p>
+<p>Net Sales:     1996/97		 1997/98</p>
+<p>Mexico	     -600		    Nil</p>
+<p>Exports of 13,000 tonnes were down 17 percent from the previous week and 61 percent below the four-week average.</p>
+<p>The major export destination was Mexico (13,000)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="749062" id="root" date="1997-07-23" xml:lang="en">
+<title>CHILE: Chile reports $40.3 mln June trade surplus.</title>
+<headline>Chile reports $40.3 mln June trade surplus.</headline>
+<dateline>SANTIAGO 1997-07-23</dateline>
+<text>
+<p>Chile posted a trade surplus of $40.3 million in June compared with a $5.9 million surplus in the same month 1996, said the Central Bank in its fortnightly report.</p>
+<p>Exports rose to $1.4 billion last month from $1.2 billion in June last year.</p>
+<p>Imports came to $1.36 billion in June against $1.2 billion in the same month 1996.</p>
+<p>((-- Margaret Orgill, Santiago newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468844" id="root" date="1997-03-26" xml:lang="en">
+<title>SOUTH AFRICA: South Africa to outlaw corporal punishment.</title>
+<headline>South Africa to outlaw corporal punishment.</headline>
+<dateline>CAPE TOWN 1997-03-26</dateline>
+<text>
+<p>The South African government on Wednesday introduced draft legislation to outlaw whipping as a criminal sentence.</p>
+<p>The Department of Correctional Services said in a memorandum supporting the bill that it was in line with the new constitution guaranteeing human dignity and outlawing torture.</p>
+<p>The government outlawed corporal punishment in schools soon after President Nelson Mandela's African National Congress won the first democratic elections in April 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

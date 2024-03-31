@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278224" id="root" date="1996-12-27" xml:lang="en">
+<title>UK: London precious metals close narrowly mixed.</title>
+<headline>London precious metals close narrowly mixed.</headline>
+<text>
+<p>GOLD - Closed at $369.30/$369.80 vs $368.80/$369.10 on Tuesday. Very quiet re-start to trading post Christmas holiday. Seen remaining in narrow range until early January.</p>
+<p>SILVER - Crept higher to finish at $4.90/$4.92, up six cents.</p>
+<p>PLATINUM - Always under mild pressure mainly from light short selling. Finished down $3.25 at $368.75/$369.75.</p>
+<p>PALLADIUM - Closed at $116.00/$117.00, down $0.75.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

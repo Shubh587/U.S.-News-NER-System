@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237663" id="root" date="1996-12-05" xml:lang="en">
+<title>INDIA: Delhi bourse temporarily halts trade.</title>
+<headline>Delhi bourse temporarily halts trade.</headline>
+<dateline>NEW DELHI 1996-12-05</dateline>
+<text>
+<p>The Delhi Stock Exchange temporarily halted trade due to a technical problem with its computer system, bourse officials said.</p>
+<p>They said trade was expected to resume at 1:15 p.m. (0745 GMT). When dealing stopped, the exchange's benchmark index was up 1.29 points at 624.03.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

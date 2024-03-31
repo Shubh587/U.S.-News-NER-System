@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63536" id="root" date="1996-09-19" xml:lang="en">
+<title>PORTUGAL: SOCCER-PORTO WIN PORTUGUESE SUPERCUP.</title>
+<headline>SOCCER-PORTO WIN PORTUGUESE SUPERCUP.</headline>
+<dateline>LISBON 1996-09-18</dateline>
+<text>
+<p>League champions Porto beat Portuguese cup holders Benfica 5-0 (halftime 2-0) in their second leg match to win the Supercup on Wednesday.</p>
+<p>Porto won the Supercup 6-0 on aggregate after winning the first leg 1-0 a month ago.</p>
+<p>Scorers:</p>
+<p>Artur Oliveira (3rd min), Edmilson Pimenta (43rd), Jorge Costa (46th), Arnold Wetl (57th), Ljubimko Drulovic (85th).</p>
+<p>Attendance: 30,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

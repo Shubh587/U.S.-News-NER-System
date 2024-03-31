@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77286" id="root" date="1996-09-25" xml:lang="en">
+<title>FRANCE: Cargo ship runs aground off Corsica.</title>
+<headline>Cargo ship runs aground off Corsica.</headline>
+<dateline>AJACCIO, Corsica 1996-09-25</dateline>
+<text>
+<p>A Panamanian-registered cargo ship carrying grain ran aground on a small island off Corsica in the Mediterranean Sea early on Wednesday, police said.</p>
+<p>The eight crew members of the ship, the Fenes, were brought to safety by rescue workers after the 86-metre (280-foot) craft ran aground, they said.</p>
+<p>A small amount of fuel had spilled into the sea but the accident was not considered to be a serious pollution threat at present, officials said.</p>
+<p>The cause of the accident was under investigation, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AJACCIO, Corsica"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

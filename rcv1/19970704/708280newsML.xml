@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="708280" id="root" date="1997-07-04" xml:lang="en">
+<title>UK: London gold fixes at 11-1/2 year low, nervous.</title>
+<headline>London gold fixes at 11-1/2 year low, nervous.</headline>
+<text>
+<p>GOLD - Fixed at $325.20 vs $332.55 previously, lowest fix since January 1986. Heavy long liquidation in Asia follow U.S. fund selling. Europe relatively quiet. Price may consolidate given U.S. holiday.</p>
+<p>SILVER - Also sharply lower at $4.55/$4.57 down nine cents.</p>
+<p>PLATINUM - Down about $5.00 at $418.00/$420.00.</p>
+<p>PALLADIUM - Off $1.50 at $188.00/$192.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130620" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: US Midcontinent Products - Oct 21 1600 CDT Final.</title>
+<headline>US Midcontinent Products - Oct 21 1600 CDT Final.</headline>
+<text>
+<p>CTS/GAL   (OCT)	     GROUP THREE	 MIDCO</p>
+<p> NO. 2 LS DSL PROMPT	 74.50/74.75     71.75/72.00</p>
+<p> NO. 2 LS DSL ANY OCT	74.50/74.75     71.75/72.00</p>
+<p> PREMIUM UNL  PROMPT	 69.40/69.65     70.65/70.90</p>
+<p> PREMIUM UNL  ANY OCT	69.40/69.65     70.65/70.90</p>
+<p> GASOLINE UNL PROMPT	 66.40/66.65     67.65/67.90</p>
+<p> GASOLINE UNL ANY OCT	66.40/66.65     67.65/67.90</p>
+<p> JET KERO     PROMPT	 75.25/75.50     74.75/75.00</p>
+<p> JET KERO     ANY OCT	75.25/75.50     74.75/75.00</p>
+<p>NYMEX Nov heating oil 73.50 cts, unleaded 67.90 cts</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

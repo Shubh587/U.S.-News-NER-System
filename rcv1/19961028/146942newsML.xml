@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146942" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Boston Scientific, CorTrak form alliance.</title>
+<headline>Boston Scientific, CorTrak form alliance.</headline>
+<dateline>MINNEAPOLIS 1996-10-28</dateline>
+<text>
+<p>CorTrak Medical Inc, a manufacturer of drug delivery systems, said Monday it formed an alliance with Boston Scientific Corp relating to CorTrak's coronary iontophoresis drug products.</p>
+<p>As part of the alliance, Boston Scientific will distribute CorTrak's products internationally on an exclusive basis.</p>
+<p>CorTrak's iontophoresis technology uses a catheter and an electronic field to transport drugs through difficult tissue barriers and into the cells where therapy is needed more quickly and deeply than conventional drug delivery systems.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561296" id="root" date="1997-05-05" xml:lang="en">
+<title>SINGAPORE: Reuters expands Asian database.</title>
+<headline>Reuters expands Asian database.</headline>
+<dateline>SINGAPORE 1997-05-05</dateline>
+<text>
+<p>Reuters Holdings Plc said on Monday its Business Information Products has expanded its Asian database of on-line news and information to more than 700 Asian sources.</p>
+<p>A company statement said more than 200 sources had joined the service in the past few months.</p>
+<p>Reuters now offers access to 164 full text Asian publications from Malaysia, Indonesia, Vietnam, Japan, Cambodia, South Korea, Australia and New Zealand, the statement said.</p>
+<p>&quot;By the year 2000, we aim to offer more of a comprehensive Asian database world-wide with thousands of Asian sources available on-line,&quot; it quoted Mark Trasenster, Managing Director of Reuters Business Information Products, Asia as saying.</p>
+<p>Reuters had also signed contracts with several leading Asian publishers including Miller Freeman, Prospect Media and Nikon Mainichi Simbun-Sha.</p>
+<p>Their publications would be available on the Reuters database in the next three months, the statement said.</p>
+<p>Reuters Business Information Products, Asia, was established in 1994 and designed for corporate users. It enables business information to be retrieved from personal computers via dial-up or leased lines.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

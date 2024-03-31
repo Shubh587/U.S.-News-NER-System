@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123465" id="root" date="1996-10-17" xml:lang="en">
+<title>SOUTH KOREA: Seven killed in South Korean pile-up.</title>
+<headline>Seven killed in South Korean pile-up.</headline>
+<dateline>SEOUL 1996-10-17</dateline>
+<text>
+<p>Seven people were killed and some 25 injured on Thursday in a highway pile-up involving a bus, two trucks and three cars, police said.</p>
+<p>The accident occured in the early hours of Thursday morning near the central city of Chonan on a highway linking Seoul with the southern city of Pusan.</p>
+<p>Police said the bus was carrying about 28 people.</p>
+<p>A police officer contacted by telephone in Chonan said the accident happened when a truck en route for Seoul hit another truck from behind.</p>
+<p>&quot;About 15 minutes after the collision, the bus hit one of those trucks left on the highway,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

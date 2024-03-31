@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417802" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Tuesday.</p>
+<p>  Intel Corp	  15,016,800	 146 3/8    up     1/2</p>
+<p>  Cisco Systems     13,584,300	 55 3/4     up     1 1/2</p>
+<p>  Three Com Cp	12,716,900	 33 13/16   up     1</p>
+<p>  Microsoft Cp	7,963,500	 99 1/8     off    3/8</p>
+<p>  Oracle Corp	 7,573,100	 39 1/2     up     1/8</p>
+<p>  Cascade Comm	7,438,800	 28 1/8     off   1 15/16</p>
+<p>  Us Robotics	 7,094,000	 57 3/8     up     2</p>
+<p>  Worldcom Inc	6,729,800	 25 1/8     off    7/8</p>
+<p>  Systemsoft Corp   6,167,900	 11 13/16   off    5 3/16</p>
+<p>  Ascend Comm	 6,094,300	 58	   up     3 5/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

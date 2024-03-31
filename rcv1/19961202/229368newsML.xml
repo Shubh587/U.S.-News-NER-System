@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229368" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Incyte, Abbott expand pact.</title>
+<headline>Incyte, Abbott expand pact.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-02</dateline>
+<text>
+<p>Incyte Pharmaceuticals Inc and Abbott Laboratories Inc said Monday they expanded their database agreement, originally signed in December 1995.</p>
+<p>The expanded agreement provides Abbott with access to Incyte's PathoSeq microbial database and LifeSeq FL database of full-length genes.</p>
+<p>Abbott continues to have access to Incyte's LifeSeq human sequence and expression database and custom satellite services provided in the original agreement.</p>
+<p>The agreement provides for the payment of yearly subscription fees, on-site access fees, and satellite database fees, the companies said. In addition, Incyte could receive royalties on sales of products developed with Incyte technology and database information.</p>
+<p>Incyte designs, develops and markets of genomic database products, software tools, and related services.</p>
+<p>Abbott develops, makes and markets pharmaceutical, diagnostic, nutritional and hospital products.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

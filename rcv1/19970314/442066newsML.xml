@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442066" id="root" date="1997-03-14" xml:lang="en">
+<title>UK: IPE confirms trading suspended due to power cut.</title>
+<headline>IPE confirms trading suspended due to power cut.</headline>
+<dateline>LONDON 1997-03-14</dateline>
+<text>
+<p>The International Petroleum Exchange (IPE) confirmed that trading was suspended at 1830 GMT on Friday due to a power outage that blanked the main price display board on the trading floor.</p>
+<p>A spokeswoman for the exchange said they were uncertain when or if trading would resume on Friday.</p>
+<p>&quot;We are investigating the problem at the moment,&quot; she said.</p>
+<p>Trade sources said the main lighting system had also been knocked out and the exchange had reverted to emergency lighting.</p>
+<p>The Brent contract normally closes at 2015 GMT.</p>
+<p>--London newsroom 0171 542 542 4984</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

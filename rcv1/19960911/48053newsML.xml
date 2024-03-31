@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48053" id="root" date="1996-09-11" xml:lang="en">
+<title>ICELAND: Iceland's Keflavik airport Aug activity increases.</title>
+<headline>Iceland's Keflavik airport Aug activity increases.</headline>
+<dateline>REYKJAVIK 1996-09-11</dateline>
+<text>
+<p>Iceland's civil aviation administration issued on Wednesday the following figures for irport activity at Reykjavik's international airport at Keflavik.</p>
+<p> KEFLAVIK INT'L AIRPORT	   Aug 1996	    Aug 1995</p>
+<p> Freight export (in tonnes)	  671		   613</p>
+<p>	   import			  601		   497</p>
+<p>	   total			 1,272		 1,110</p>
+<p> Mail export (in tonnes)		37		    38</p>
+<p>	import (in tonnes)	     118		   118</p>
+<p>	total				155		   156</p>
+<p> Passengers			  140,800	     129,708</p>
+<p>-- Abigail Schmelz, Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ICEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REYKJAVIK"/>
+<dc element="dc.creator.location.country.name" value="ICELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

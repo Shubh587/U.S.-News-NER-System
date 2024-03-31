@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214948" id="root" date="1996-11-25" xml:lang="en">
+<title>UK: ERM bands - Why 15 percent isn't 15 percent.</title>
+<headline>ERM bands - Why 15 percent isn't 15 percent.</headline>
+<dateline>LONDON 1996-11-25</dateline>
+<text>
+<p>The fluctuation limits within the European exchange rate mechanism (ERM) -- both the so called 15 percent bands, or the narrower 2.25 percent limits -- do not work out exactly either side of the central rate.</p>
+<p>This is basically because the inverse of the upper limit of, say, mark/lira must equal the lower limit in lira/mark.</p>
+<p>Simply, a 10 percent rise of the mark against the lira does not equal a 10 percent fall in the lira against the mark.</p>
+<p>For example, if you take mark/lira at 1,000 lira per mark and there is a 10 percent rally you end up with 1,100. The mark is 100 lira higher. But if you invert this in terms of the lira/mark rate you start with 0.001 marks per lira, and a 10 percent move down would be equal to a move to 0.0009 marks per lira.</p>
+<p>Invert this, by dividing it into one, and you get 1,111.11 and it is this anomaly which must be allowed for when making sure the upper end of mark/lira equals its inverse in lira/mark.</p>
+<p>For the mathematicians among you the EU Commission's guide follows -</p>
+<p>-----------------------------------------------------</p>
+<p>Let x be the central ERM rate of for example mark per French franc.</p>
+<p>Then 1/x is the central rate of French franc per mark.</p>
+<p>The total band width is 30% or 0.3.</p>
+<p>-----------------------------------------------------</p>
+<p>The following conditions must be satisfied:</p>
+<p>x(1+ru) to the power of -1 = (1/x)(1-rl)</p>
+<p>ie. the inverse of the upper limit in mark per French franc must equal the lower limit in French franc per mark.</p>
+<p>and....ru + rl = 0.3 ie. the total band-width equals 30%</p>
+<p>where..ru is the upper range and rl is the lower range.</p>
+<p>-----------------------------------------------------</p>
+<p>Putting the two conditions together yields the following quadratic equation:</p>
+<p>ru squared + 1.7ru - 0.3 =0</p>
+<p>-----------------------------------------------------</p>
+<p>The solution to this is:</p>
+<p>ru = 0.161187 (or +16.1187% as the upper range)</p>
+<p>rl = 0.138813 (or -13.8813% as the lower range)</p>
+<p>-----------------------------------------------------</p>
+<p>Phil Smith, London Forex desk +44-171-542-6284.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

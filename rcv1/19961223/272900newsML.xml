@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272900" id="root" date="1996-12-23" xml:lang="en">
+<title>RUSSIA: SAS cancels Copenhagen-Minsk route.</title>
+<headline>SAS cancels Copenhagen-Minsk route.</headline>
+<dateline>MOSCOW 1996-12-23</dateline>
+<text>
+<p>Scandinavian Airlines System (SAS) said on Monday its regular flights between Copenhagen and the Belarus capital, Minsk, would be cancelled from January, just four months after the service was opened.</p>
+<p>SAS's Moscow office said in a statement the flights would be discontinued because the airline &quot;did not get the number of passengers it had anticipated for this destination&quot;.</p>
+<p>Officials declined further comment.</p>
+<p>SAS started the regular passenger flights in September. The company has been operating a 105-seater DC-9-41 three days a week on Mondays, Thursdays and Fridays.</p>
+<p>--Viktor Anoshkin, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

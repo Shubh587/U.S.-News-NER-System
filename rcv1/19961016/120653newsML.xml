@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120653" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: American matches BA's fare hike on certain flights.</title>
+<headline>American matches BA's fare hike on certain flights.</headline>
+<dateline>NEW YORK 1996-10-16</dateline>
+<text>
+<p>AMR Corp said Wednesday it matching British Airways Plc's fare increase on flights from the United Kingdom to the United States.</p>
+<p>AMR, the parent of American Airlines, said it would not raise fares on U.K.-bound flights originating in the U.S.</p>
+<p>British Airways said earlier it was increasing full published fares on its European routes by 2.5 percent on average from the middle of October. The carrier said it was considering increases on long-haul routes.</p>
+<p>BA said the fare hike was due to rising jet fuel prices, which have increased about 30 percent since mid-July.  </p>
+<p>USAir Group Inc said it had not changed its trans-Atlantic fares.  </p>
+<p>Trans World Airlines said it did not follow BA's fare increase because it did not affect TWA's markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

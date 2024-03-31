@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251344" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Southwest Airlines extends winter sale.</title>
+<headline>Southwest Airlines extends winter sale.</headline>
+<dateline>DALLAS 1996-12-12</dateline>
+<text>
+<p>Southwest Airlines Co said it has extended its 'Winter Freedom Sale' and fares may now be purchased through December 19, for travel from January 6 through March 6.</p>
+<p>The original offer, announced last week, applied to tickets purchased by December 12.</p>
+<p>Tickets must be purchased within one day of making reservations and are nonrefundable, but may be applied toward purchase of future travel on Southwest Airlines if unused. Fares start at $29 each way, based on roundtrip travel.</p>
+<p>--New York Newsdesk 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

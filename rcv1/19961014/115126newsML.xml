@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115126" id="root" date="1996-10-14" xml:lang="en">
+<title>SWITZERLAND: Deaths of Swiss couple go undetected for 19 days.</title>
+<headline>Deaths of Swiss couple go undetected for 19 days.</headline>
+<dateline>ZURICH 1996-10-14</dateline>
+<text>
+<p>An elderly Swiss couple lay dead in their home for 19 days without neighbours or family members noticing anything was amiss, police said on Monday.</p>
+<p>Aarau cantonal police said the 85-year-old husband emptied the mailbox in their single-family home for the last time on September 10. An autopsy showed he died of heart failure while sitting in front of the television set.</p>
+<p>The body of his disabled wife, 83, was found in a bathroom. She apparently died of hypothermia shortly after her husband.</p>
+<p>Their absence went unnoticed by neighbours and the mailman until a son living in France notified police, who broke down the door and found the corpses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

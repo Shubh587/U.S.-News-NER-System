@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44003" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Clinton signs bill funding District of Columbia.</title>
+<headline>Clinton signs bill funding District of Columbia.</headline>
+<dateline>KANSAS CITY, Mo 1996-09-10</dateline>
+<text>
+<p>President Clinton said Tuesday he had signed into law a bill providing $719 million in federal funding for the District of Columbia.</p>
+<p>According to a statement released by the White House in Kansas City, where Clinton was on a campaign trip, the largest part of the funds is $660 million for the federal goverment's general payment to the District.</p>
+<p>The money, which will come from the federal government's fiscal 1997 budget, also includes $52 million for retirement funds, $5.7 million for presidential inaugural expenses and $1 million for the area's drinking water problems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

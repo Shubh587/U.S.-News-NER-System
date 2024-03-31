@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="706262" id="root" date="1997-07-03" xml:lang="en">
+<title>FINLAND: FINNISH SHARES ON WALL STREET - CLOSING JULY 2.</title>
+<headline>FINNISH SHARES ON WALL STREET - CLOSING JULY 2.</headline>
+<dateline>HELSINKI 1997-07-03</dateline>
+<text>
+<p>Finnish shares traded on Wall</p>
+<p>Street closed as follows in New York on Wednesday July 2:</p>
+<p>							Previous     Helsinki</p>
+<p> SHARE	 USD	 Change    FIM*     Helsinki     change</p>
+<p>				($)		   close (FIM)   (FIM)</p>
+<p> NOKIA	 74-7/16   +1-11/16  388.76   384.00	 -2.00</p>
+<p> VALMET	34-3/16   +0-7/16    89.28   89.00	  -0.20</p>
+<p> RAUMA	 23-1/8    -0-1/4    120.77   120.30	 +1.10</p>
+<p>*USD/FIM 5.2227 at 0745/0445 GMT on Thursday.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 245, news@Reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

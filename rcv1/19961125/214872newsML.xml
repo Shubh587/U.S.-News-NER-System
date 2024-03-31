@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214872" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: MFRI Inc Q3 net rises, sales fall.</title>
+<headline>MFRI Inc Q3 net rises, sales fall.</headline>
+<dateline>NILES, Ill. 1996-11-25</dateline>
+<text>
+<p>Three Months		 Nine Months</p>
+<p>		     10/31/96    10/31/95    10/31/96    10/31/95</p>
+<p> Net sales    $25,326,000 $25,883,000 $70,281,000 $65,762,000</p>
+<p> Gross profit   6,150,000   4,834,000  16,296,000  12,790,000</p>
+<p>Income from operations</p>
+<p>		    2,239,000   1,620,000   5,319,000   3,798,000</p>
+<p> Net income     1,192,000     897,000   2,718,000   1,978,000</p>
+<p> Net per share	  .26	   .20	   .59	   .44</p>
+<p> Avg shares out 4,612,000   4,557,000   4,580,000   4,538,000</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NILES, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

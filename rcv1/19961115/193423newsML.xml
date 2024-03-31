@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193423" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: U.S. vice president Gore to travel to Bolivia.</title>
+<headline>U.S. vice president Gore to travel to Bolivia.</headline>
+<dateline>WASHINGTON 1996-11-15</dateline>
+<text>
+<p>U.S. vice president Al Gore will make a one-day trip to Bolivia next month to attend a hemispheric conference on sustainable development, the White House said on Friday.</p>
+<p>&quot;(Gore) will travel to Santa Cruz, Bolivia on Dec. 7 to lead the U.S. delegation to the Summit of the Americas on sustainable development,&quot; it said in a statement.</p>
+<p>Representatives from all 34 member countries of the Organisation of the American States are due to attend the two-day meeting in Santa Cruz de la Sierra to discuss joint efforts on environmental and social issues.</p>
+<p>Communist-ruled Cuba is the only country not invited to the conference, which is part of a hemispheric integration process launched at the Summit of the Americas held in Miami in December, 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

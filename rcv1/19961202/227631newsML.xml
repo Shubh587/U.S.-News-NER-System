@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227631" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 02-DEC.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 02-DEC.</headline>
+<text>
+<p>Tropical cyclone 08B, with winds of 50 mph, is located in the Bay of Bengal near 14N/86.0E and is moving off to the west at 5 mph.  This system will threaten shipping during the next 24-36 hours as it tracks towards the coast. Landfall is expected in extreme southern Andhra Pradesh India, near the boarder with Tamil Nadu. Winds of 40-45 mph are expected near landfall along with a storm surge. Rains will cause flooding and possible mudslides as the system moves inland later in the period.  </p>
+<p>Tropical cyclone 08s in the southwest Indian Ocean will threaten shipping during the next 48 hours. Winds are about 30 mph at this time but they may reach 55-60 mph in 48 hours.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS AT THIS TIME</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

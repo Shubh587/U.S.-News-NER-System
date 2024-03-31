@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100088" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: GM Q3 North American output exceeds forecast.</title>
+<headline>GM Q3 North American output exceeds forecast.</headline>
+<dateline>WARREN, Mich. 1996-10-07</dateline>
+<text>
+<p>General Motors Corp said Monday it produced 1,262,000 cars and trucks in North America in the third quarter, exceeding its internal projections by about 17,000 vehicles.</p>
+<p>GM attributed the better-than-expected output to an effective launch of 1997-model cars and trucks.</p>
+<p>In September the automaker produced 467,000 vehicles in the United States, Canada and Mexico, down from 491,000 a year ago, GM said.  </p>
+<p>GM said its North American production schedule for the fourth quarter remained unchanged from previous forecasts at 1,320,000 vehicles, down 3.8 percent from 1,372,000 cars and trucks built in the fourth quarter of 1995.</p>
+<p>GM attributed the decline in September output and the expected decline in the fourth quarter to several plants that were idled for model changeovers.</p>
+<p>The automaker is launching a number of new vehicles during the 1997-model year, including four new mid-size sedans and a trio of new minivans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARREN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

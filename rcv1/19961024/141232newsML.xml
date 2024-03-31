@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141232" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: America First Q3 unit loss with charge.</title>
+<headline>America First Q3 unit loss with charge.</headline>
+<dateline>SAN FRANCISCO 1996-10-24</dateline>
+<text>
+<p>SUMMARY FINANCIAL INFORMATION (UNAUDITED)</p>
+<p>(IN THOUSANDS EXCEPT RATIOS AND PER UNIT AMOUNTS)</p>
+<p>				     Quarter Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					 1996     1995     1996    1995</p>
+<p> Net earnings before SAIF $   5,452$   5,111$  16,292$ 12,089</p>
+<p> SAIF assessment	     (11,031)	  0 (11,031)	 0</p>
+<p> Net income (loss)	    (5,579)    5,111    5,261  12,089</p>
+<p>Income (loss) per unit --</p>
+<p>  after SAIF		     (0.66)     0.76     0.95    1.86</p>
+<p>Earnings per unit --</p>
+<p>  before SAIF			0.81     0.76     2.42    1.86</p>
+<p> Net interest margin	    2.65%    2.47%    2.58%   2.33%</p>
+<p>Note:  &quot;SAIF&quot; in the table above refers to a one-time assessment to recapitalize the Savings Association Insurance Fund on September 30, 1996.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

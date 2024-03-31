@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="784824" id="root" date="1997-08-07" xml:lang="en">
+<title>AUSTRALIA: AUSTRALIAN NATIONAL WEATHER - AUGUST 8.</title>
+<headline>AUSTRALIAN NATIONAL WEATHER - AUGUST 8.</headline>
+<text>
+<p>CAIRNS........................................Fine  26</p>
+<p>    TOWNSVILLE....................................Fine  25</p>
+<p>    BRISBANE...............................Mostly fine  22</p>
+<p>    SYDNEY.............................Dry gusty winds  17</p>
+<p>    CANBERRA.............A shower or two mainly ranges  11</p>
+<p>    MELBOURNE..................................Showers  12</p>
+<p>    HOBART.............................Periods of rain  11</p>
+<p>    ADELAIDE.............................A few showers  15</p>
+<p>    DARWIN........................................Fine  30</p>
+<p>    PERTH................................A few showers  20</p>
+<p>    ALICE SPRINGS.................................Fine  20</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

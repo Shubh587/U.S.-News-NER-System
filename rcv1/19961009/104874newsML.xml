@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104874" id="root" date="1996-10-09" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslav July copper output falls vs June.</title>
+<headline>Yugoslav July copper output falls vs June.</headline>
+<dateline>BELGRADE 1996-10-09</dateline>
+<text>
+<p>The Federal Statistical Office</p>
+<p>reported the following economic indicator details.</p>
+<p> YUGOSLAV NON-FERROUS ORES   July 96    June 96     July 95</p>
+<p> copper (thousand tonnes)	1,619	1,669	 1,784</p>
+<p> lead-zinc				77	   64	    41</p>
+<p> bauxite				  15	   38	    --</p>
+<p>NON-FERROUS METAL PRODUCTION</p>
+<p> electrolytic copper (tonnes) 11,927     12,173	 7,609</p>
+<p> refined lead			3,140	3,314	 1,031</p>
+<p> zinc				  2,660	1,812	    --</p>
+<p> aluminium ingots		  4,122	3,658	 1,329</p>
+<p> refined silver (kilos)	  5,292	7,337	 1,441</p>
+<p>-- Gordana Filipovic, Belgrade newsroom, +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

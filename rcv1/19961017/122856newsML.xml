@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122856" id="root" date="1996-10-17" xml:lang="en">
+<title>GUATEMALA: SOCCER-DOZENS KILLED AT GUATEMALA SOCCER STADIUM.</title>
+<headline>SOCCER-DOZENS KILLED AT GUATEMALA SOCCER STADIUM.</headline>
+<dateline>GUATEMALA CITY 1996-10-16</dateline>
+<text>
+<p>An avalanche of soccer fans tumbled down a flight of stairs into more spectators at a World Cup soccer qualifying match Wednesday, killing at least 79 people and leaving more than 150 injured, witnesses said.</p>
+<p>Some of the people died from suffocation in the crush of bodies. A Reuters photographer counted 79 bodies at the stadium at the match between between Guatemala and Costa Rica.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249788" id="root" date="1996-12-11" xml:lang="en">
+<title>PAKISTAN: Karachi port handles 54,181 tonnes cargo.</title>
+<headline>Karachi port handles 54,181 tonnes cargo.</headline>
+<dateline>KARACHI, Pakistan 1996-12-10</dateline>
+<text>
+<p>Pakistan's Karachi Port Trust said it had handled 54,181 tonnes of export and import cargo in the 24 hours to 7 a.m. (0200 GMT) on Wednesday, compared to 95,098 tonnes on in the previous 24 hours.</p>
+<p>Cargo handling in tonnes:</p>
+<p>					    Wednesday	Previous</p>
+<p>    Export cargo			13,000	   12,568</p>
+<p>    Import cargo			41,181	   82,530</p>
+<p>In the past 24 hours, six ships sailed and four berthed. In the next 24 hours, two ships were expected to sail and 12 were expected to arrive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

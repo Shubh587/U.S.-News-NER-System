@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776649" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS - WSC - 04-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS - WSC - 04-AUG.</headline>
+<text>
+<p>Active tropical systems dominate the Pacific Ocean. In the West, weakening Tropical Storm Victor came ashore near Hong Kong in southern China and brought heavy rain which caused flash flooding and some property damage. The storm has dissipated over land and showers will taper off the next couple days. Meanwhile, Typhoon Tina is gathering strength east of the northern Philippines, and is expected to turn to the north, possibly threatening Japan within the next couple of days. In the East, powerful Hurricane Guillermo has 155 mph winds but is a few hundred miles south of the southern tip of Baja California and moving out to sea to the west.  </p>
+<p>As flood cleanup continues along the Oder River and in Poland in northeastern Europe, drier weather during the next couple days will be more favorable. There is just a chance of a few showers.  </p>
+<p>Some river flooding continues to be a problem in east central Colorado after recent heavy monsoonal thunderstorms. For the next couple of days, the heaviest activity should shift west of this region, allowing flood cleanup to continue without major delay and threats of more flooding.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

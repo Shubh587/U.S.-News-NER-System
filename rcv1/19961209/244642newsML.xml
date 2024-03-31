@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244642" id="root" date="1996-12-09" xml:lang="en">
+<title>UK: UK longer leading index down 0.5% in Oct.</title>
+<headline>UK longer leading index down 0.5% in Oct.</headline>
+<dateline>LONDON 1996-12-09</dateline>
+<text>
+<p>The Office for National Statistics released the following revised indices on economic activity in Britain in October:</p>
+<p>    LONGER LEADING INDICATOR	  OCTOBER	 SEPTEMBER</p>
+<p>    Monthly change (percent)	  -0.5	     +0.1</p>
+<p>    Index				   98.1	     98.6</p>
+<p>SHORT LEADING INDICATOR</p>
+<p>    Monthly change (percent)	  +0.6	     +0.8</p>
+<p>    Index				   101.6	   101.0</p>
+<p>    COINCIDENT INDEX		    OCTOBER	 SEPTEMBER</p>
+<p>    Monthly change (percent)	  +0.2	     -0.1</p>
+<p>    Index				   101.8	   101.6</p>
+<p>    LAGGING INDEX			 SEPTEMBER     AUGUST</p>
+<p>    Monthly change			+0.8	     -0.3</p>
+<p>    Index				   104.0	   103.2</p>
+<p>NOTES - longer leader signals turning points in the economy some 13 months in advance, shorter leading index indicates turning points about five months in advance, coincident index moves in line with business cycle, lagging index shows turning points about 12 months after it happened.</p>
+<p>The ONS said the compilation and publication of cyclical indicators will cease with the February 1997 issue.  </p>
+<p>The longer leading index fell, having risen since December, due to falls in the contributions from interest rates and the yield curve, outweighing increases in the contributions from housing starts and CBI optimism, the ONS said.</p>
+<p>The shorter index showed the third successive month of strong growth with increased contributions from consumer confidence and CBI new orders outweighing a small fall in the contribution from seasonally adjusted new car registrations. The index is at its highest level since October 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

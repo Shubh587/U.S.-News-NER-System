@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220750" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Entergy Miss. nuke expected on line Thurs.</title>
+<headline>Entergy Miss. nuke expected on line Thurs.</headline>
+<dateline>NEW YORK 1996-11-27</dateline>
+<text>
+<p>Entergy Corp's 1,173 megawatt Grand Gulf 1 nuclear power plant will likely synchronize to the electricity grid Thursday morning, returning from a scheduled maintenance outage, a spokeswoman said Wednesday.</p>
+<p>&quot;It is expected to synchronize to the grid tomorrow morning,&quot; said spokeswoman Diane Park.</p>
+<p>The Port Gibson, Miss., plant was shut Oct 19 for refueling and maintenance.</p>
+<p>The unit is expected to take several days to reach full power, as several restart tests are required during power ascension, the spokeswoman said.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

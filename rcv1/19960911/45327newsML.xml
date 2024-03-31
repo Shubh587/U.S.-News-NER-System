@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45327" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. FERC okays MAPP regional transmission plan.</title>
+<headline>U.S. FERC okays MAPP regional transmission plan.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The U.S. Federal Energy Regulatory Commission approved a plan by the Mid-Continent Area Power Pool (MAPP) to turn itself into a regional transmission group, opening its membership to any electric utility or power generator inside and outside the region.</p>
+<p>The plan revised MAPP's original agreement in line with the commission's policy on regional transmission groups, including terms to broaden its membership and geographic area, coordinate with state authorities, provide open transmission service, and coordinate transmission planning.</p>
+<p>While approving the revision, the commission said MAPP would still have to file a new tariff by the end of this year to comply with FERC's new rule requiring utilities and power pools to offer transmission service to all power producers on the same terms that they provide themselves.</p>
+<p>MAPP, which is a power pool and regional electric reliability council, covers Nebraska, Iowa, Minnesota, North Dakota, South Dakota and Manitoba, Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

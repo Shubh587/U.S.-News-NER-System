@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276224" id="root" date="1996-12-25" xml:lang="en">
+<title>FRANCE: Homeless woman dies of cold in France.</title>
+<headline>Homeless woman dies of cold in France.</headline>
+<dateline>PARIS 1996-12-25</dateline>
+<text>
+<p>A 53-year-old homeless woman died of cold on Christmas Day as below-freezing temperatures swept through northern France, police said.</p>
+<p>The woman was found dead in a disused railway depot in the Channel port of Le Treport. Two male companions suffering from hypothermia were taken to hospital.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

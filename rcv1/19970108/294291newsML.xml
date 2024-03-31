@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294291" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 08-JAN					     .</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 08-JAN					     .</headline>
+<text>
+<p>Tropical Cyclone Drena is over southern New Caledonia, with top winds of 105 mph. Drena is moving southeast at 14 mph. Currently, damaging winds and flooding rains are occurring, but should taper off and end as the storm accelerates into the water southeast of the islands, weakening and turning extratropical within 48 hours.  </p>
+<p>Tropical Cyclone Rachel has 40 mph winds and is inland over northwestern Australia near 23s/119e, moving south at 9 mph. Rachel should be dissipated within 12 hours, but heavy rainfall continue to cause local flash flooding.  </p>
+<p>Tropical Cyclone Fabriola, with 40 mph winds, is over southern Madagascar and dissipating. Heavy rains continue to result in flash flooding across the mountainous terrain of southern Madagascar. Conditions will improve over the next couple days as the storm dissipates.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="NEWCAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

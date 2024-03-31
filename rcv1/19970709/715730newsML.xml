@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="715730" id="root" date="1997-07-09" xml:lang="en">
+<title>UK: London shipsales.</title>
+<headline>London shipsales.</headline>
+<dateline>LONDON 1997-07-09</dateline>
+<text>
+<p>Secondhand tonnage brokers reported the sale of the following vessels.</p>
+<p>Some of these sales may not be final as they may be subject to survey, inspection or other conditions.</p>
+<p>TANKERS.</p>
+<p>Bay Ridge - (built 1979) 224,428 dwt sold for $9.7 million for conversion in to a floating production, storage and offloading unit.</p>
+<p>Leonis - (built 1994) 85,020 dwt sold for $38 million.</p>
+<p>Scorpius - (built 1994) 85,020 dwt sold for $38 million.</p>
+<p>Some brokers said that the Leonis and Scorpius  were sold en-bloc for $72 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="765510" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: TABLE-First Commercial Bancorp Q2 results.</title>
+<headline>TABLE-First Commercial Bancorp Q2 results.</headline>
+<dateline>SACRAMENTO, Calif. 1997-07-29</dateline>
+<text>
+<p>(In thousands, except net loss per share)</p>
+<p>				   Three Month Ended  Six Month Ended</p>
+<p>					  June 30,	   June 30,</p>
+<p>				 1997     1996(1)    1997     1996(1)</p>
+<p>Condensed Consolidated</p>
+<p>Statements of Income</p>
+<p> Net interest income     $   1,809    1,805    3,372    2,984</p>
+<p> Provision for loan losses	--	450	 --    1,050</p>
+<p> Net income (loss)		 348	 15	570  (1,145)</p>
+<p>Net income (loss)</p>
+<p>  per share			  .41	.02	.67   (1.82)</p>
+<p>Weighted average common</p>
+<p>shares and common share</p>
+<p>equivalents outstanding  846,127  703,376  846,127  630,392</p>
+<p>(1) The per share data has been adjusted to reflect the</p>
+<p>one for 125 reverse stock split completed in December 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

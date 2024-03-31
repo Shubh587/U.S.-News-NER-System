@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="726066" id="root" date="1997-07-14" xml:lang="en">
+<title>USA: More computer problems nag at Mars mission.</title>
+<headline>More computer problems nag at Mars mission.</headline>
+<dateline>PASADENA, Calif. 1997-07-14</dateline>
+<text>
+<p>The Mars Pathfinder mission continued to be plagued by pesky computer problems on Monday, but scientists said they were sure they could overcome them.</p>
+<p>The mission's deputy project manager Brian Muirhead said the computer aboard the Mars lander reset itself as scientists were downloading information from it on Sunday night, prematurely ending its communications session with Earth. The problem persisted on Monday.</p>
+<p>&quot;The lander was handling a number of activities when the reset occurred,&quot; Muirhead said, adding it appeared the system thought it was overloaded and reset its programme.</p>
+<p>He said that during Monday night's download the computer would only be asked to do one task at a time in what he called a &quot;serialized approach.&quot;</p>
+<p>He described the problem as more &quot;frustrating&quot; than a set-back to the mission. &quot;If we can fix it we will. If we can't we will work around it as we are doing tonight,&quot; he said.</p>
+<p>The lander's computer, in its shortened communications session on Sunday, was able to confirm the Mars rover &quot;Sojourner&quot; had positioned itself against a large rock called &quot;Yogi&quot; and deployed its alpha proton X-ray spectrometer against the rock to study its chemical composition.</p>
+<p>The computer also relayed pictures of the rover nestled up against the rock. &quot;They look very happy together,&quot; Muirhead said.</p>
+<p>A fender-bender last Thursday, in which the rover rode up on to the rock, and continuing computer glitches, have delayed the examination of &quot;Yogi,&quot; but scientists at NASA's Jet Propulsion Laboratory said they hoped the results of the Sojourner's analysis would be sent back to Earth on Monday night.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

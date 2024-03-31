@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91480" id="root" date="1996-10-02" xml:lang="en">
+<title>FRANCE: Spanish prince meets French president.</title>
+<headline>Spanish prince meets French president.</headline>
+<dateline>PARIS 1996-10-02</dateline>
+<text>
+<p>Crown Prince Felipe of Spain and President Jacques Chirac of France discussed European and other international issues when the prince met Chirac at the Elysee presidential palace in Paris on Wednesday, officials said.</p>
+<p>Chirac told the 28-year-old prince that France appreciated his visit and asked him to transmit his best wishes to his father King Juan Carlos, the officials said.</p>
+<p>The prince, who was accompanied by Spanish Foreign Minister Abel Matutes, later flew to Toulouse, in southwest France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

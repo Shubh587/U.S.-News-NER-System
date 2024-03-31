@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137001" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Earthquake jolts California wilderness area.</title>
+<headline>Earthquake jolts California wilderness area.</headline>
+<dateline>LOS ANGELES 1996-10-23</dateline>
+<text>
+<p>An earthquake measuring 4.1 on the open-ended Richter scale shook a wilderness area north of Los Angeles on Wednesday but there were no immediate reports of damage or injuries.</p>
+<p>A spokesman for the California Institute of Technology said the tremor struck at 3:09 p.m. local time (2209 GMT) and was centred about eight miles (12 km) north-northwest of the town of Ojai.</p>
+<p>&quot;We felt a real sharp jerk,&quot; said Bruce Mandell, a member of the Ojai Fire Department in the town some 60 miles (90 km) northwest of Los Angeles.</p>
+<p>&quot;It was more like a sonic boom than an earthquake,&quot; he said, comparing it to the noise when the space shuttle flies overhead to land at Edwards Air Force base.</p>
+<p>Mandell said windows shook in the firehouse, but they had received no reports of damage and had not responded to any emergency calls.</p>
+<p>He said the area of the epicentre was sparsely populated scrubland and forest in the Los Padres Wilderness area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

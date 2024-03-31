@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106217" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: GPU says storm hit 35,000 NJ power customers.</title>
+<headline>GPU says storm hit 35,000 NJ power customers.</headline>
+<dateline>NEW YORK 1996-10-09</dateline>
+<text>
+<p>General Public Utilities Corp said Wednesday it had restored electricity to 32,000 customers in New Jersey after strong winds and heavy rains swept up the east coast Tuesday, but that 3,000 were still without power.</p>
+<p>The storm, the remnants of tropical storm Josephine, still had enough punch to snap tree limbs and knock down power lines in the coastal regions, but transmission and generation facilities were not hurt, company spokesman Ron Morano said.</p>
+<p>GPU's New Jersey outages were concentrated in Ocean, Morris and Union Counties, he said.</p>
+<p>As of 0800 EDT, 3,000 customers were still without power, he said, adding there were still new outages being reported early Wednesday.</p>
+<p>GPU provides electric service to 940,000 customers in New Jersey.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175461" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Parallel Petroleum Corp Q3 net rises.</title>
+<headline>Parallel Petroleum Corp Q3 net rises.</headline>
+<dateline>MIDLAND, Texas 1996-11-07</dateline>
+<text>
+<p>Three months ended September 30:		1996	 1995</p>
+<p> Revenues					$3,974,208  $1,104,579</p>
+<p> Net income				     1,007,291	 2,483</p>
+<p>    Per share					   .06	   N/A</p>
+<p> Weighted average shares outstanding   15,695,106  15,389,679</p>
+<p> Nine months ended September 30:	    1996	    1995</p>
+<p> Revenues					$9,693,448  $3,420,657</p>
+<p> Net income				     2,581,898     137,759</p>
+<p>    Per share					   .17	   .01</p>
+<p>Weighted average shares outstanding</p>
+<p>						   15,579,175  15,307,572</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDLAND, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

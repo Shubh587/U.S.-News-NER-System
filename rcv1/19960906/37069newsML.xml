@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37069" id="root" date="1996-09-06" xml:lang="en">
+<title>LITHUANIA: Lithuania's Mazeikiu refinery restarts.</title>
+<headline>Lithuania's Mazeikiu refinery restarts.</headline>
+<dateline>VILNIUS 1996-09-06</dateline>
+<text>
+<p>Lithuania's Mazeikiu oil refinery ended a 10-day shutdown on Friday, the Baltic News Service (BNS) reported.</p>
+<p>Supply problems had forced the troubled refinery to close on August 26.</p>
+<p>BNS quoted a plant official as saying that Mazeikiu had received 100,000 tonnes of crude from its Russian suppliers and was expecting 300,000 tonnes in the next few days.</p>
+<p>The refinery is hoping for two $9.5 million loans from Merrill Lynch and is negotiating a $40 million loan deal with Chase Manhattan.</p>
+<p>The problem-plagued refinery processed 1.3 million tonnes of crude in the first six months of this year, 25 percent of its capacity, and posted a loss of 56 million litas.</p>
+<p>-- Riga newsroom +3717-22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VILNIUS"/>
+<dc element="dc.creator.location.country.name" value="LITHUANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

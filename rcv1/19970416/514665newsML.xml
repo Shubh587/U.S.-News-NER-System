@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514665" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: BTG Inc. wins $128 million government contract.</title>
+<headline>BTG Inc. wins $128 million government contract.</headline>
+<dateline>FAIRFAX, Va. 1997-04-16</dateline>
+<text>
+<p>BTG Inc. said Wednesday it won a $128 million contract to modernise the U.S. State Department's world-wide communications infrastructure.</p>
+<p>The programme is focused on the acquisition of computer hardware to replace current systems, but also has a significant requirement for software and maintenance services, the company said.</p>
+<p>BTG, based in Fairfax, Va., provides information technology services and products to government and commercial clients.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFAX, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

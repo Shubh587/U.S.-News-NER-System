@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53198" id="root" date="1996-09-13" xml:lang="en">
+<title>LEBANON: Israeli aircraft strike in south Lebanon.</title>
+<headline>Israeli aircraft strike in south Lebanon.</headline>
+<dateline>IQLIM AL-TOUFAH, Lebanon 1996-09-13</dateline>
+<text>
+<p>Israeli helicopters fired rockets at suspected Hizbollah bases in south Lebanon on Friday, security souces said.  </p>
+<p>They said two Israeli helicopters fired two rockets into the Jabal al-Rafi' area in the Iqlim al-Toufah mountain ridges, a bastion of pro-Iranian Hizbollah guerrillas.</p>
+<p>There was no immediate report on casualties in the air attack which occurred at 9:50 a.m. (0650 GMT).</p>
+<p>Earlier, Israeli security sources said Israeli soldiers ambushed a group of guerrillas who had infiltrated into Israel's south Lebanon occupation zone on Friday, killing one.</p>
+<p>It was not immediately known if any Israeli soldiers were wounded in the exhange of fire that followed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IQLIM AL-TOUFAH, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

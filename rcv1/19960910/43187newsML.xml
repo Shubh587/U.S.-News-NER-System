@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43187" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: IBM sees strong demand for new mainframes.</title>
+<headline>IBM sees strong demand for new mainframes.</headline>
+<dateline>NEW YORK 1996-09-10</dateline>
+<text>
+<p>International Business Machines Corp said it is seeing strong customer demand for its new models of mainframe computers that it announced earlier Tuesday and that it may sell out of all it can make this year.</p>
+<p>&quot;Customers have been enthusiastic about embracing the new server,&quot; said Ross Mauri, vice president of System 390 hardware development at IBM. He added that it was likely that IBM will be &quot;sold out of what we can produce this year,&quot; based on the initial customer reaction.</p>
+<p>So far, IBM has installed about 14 of the S/390 Parallel Enterprise Servers - Generation 3 in an early customer program.  </p>
+<p>IBM has also installed three of the S/390 Multiprise 2000 line, which is targeted to medium-sized customers who may wish to purchase a whole package of hardware, software and storage.</p>
+<p>&quot;The feedback is phenomenal,&quot; Mauri said. &quot;We have seen quite a bit of demand out there.&quot;</p>
+<p>IBM executives said they believed there are several reasons fueling the customer demand for the new models, which are almost twice as fast as currently available CMOS-based mainframes. The new models are less expensive to operate, and depending on what models a company has now, they can use up to 90-95 percent less power, resulting in a big cost savings.  </p>
+<p>The new mainframes also can take up to 90-95 percent less floor space, depending on the current systems installed.</p>
+<p>Other factors fueling the customer interest are new software links that connect the mainframes to the Internet and to UNIX-based systems. IBM unveiled a new version of its mainframe operating system, called OS/390 Release 2, which includes many features and Internet gateway connections that let corporations integrate some of the vast amounts of data in their mainframe databases with the Internet.</p>
+<p>IBM declined to give any specifics about prices, saying that it tailors each offering to unique customer requirements.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

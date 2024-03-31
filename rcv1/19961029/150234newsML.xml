@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150234" id="root" date="1996-10-29" xml:lang="en">
+<title>BRAZIL: Brazil airline Transbrasil expands flight routes.</title>
+<headline>Brazil airline Transbrasil expands flight routes.</headline>
+<dateline>RIO DE JANEIRO 1996-10-29</dateline>
+<text>
+<p>Brazilian airline Transbrasil is launching new flights to Florida, Europe and Argentina, the company said in a statement.</p>
+<p>The company has added four flights a week from Rio de Janeiro via Brasilia to Miami and Orlando to its existing daily flights from Sao Paulo to Miami and Orlando.</p>
+<p>The new flights will leave Rio de Janeiro Tuesdays, Thursdays, Saturdays and Sundays, Transbrasil said.</p>
+<p>The airline is also launching a new route to Europe November 24, with four flights a week from Rio de Janeiro to London. Transbrasil already operates flights to Vienna and Amsterdam.</p>
+<p>And in December, Transbrasil's flight from the southern Brazilian city of Curitiba to the Foz do Iguacu falls will be extended to continue on to Cordoba in Argentina.</p>
+<p>-- Simona de Logu, Rio de Janeiro newsroom, 5521 507 4151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

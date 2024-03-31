@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27716" id="root" date="1996-09-02" xml:lang="en">
+<title>UK: Hong Kong June air cargo trade by region.</title>
+<headline>Hong Kong June air cargo trade by region.</headline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>Statistics made available by the Hong Kong civil aviation department show cargo handled in June on scheduled flights ex-Hong Kong totalled 61,700 tonnes imports and 62,772 tonnes exports.</p>
+<p>Non-scheduled flights for the same period ex-Hong Kong totalled 96.8 tonnes with total imports 98.5 tonnes.</p>
+<p>Regional figures (rounded) are shown in the table below.</p>
+<p>			    JUNE 1996 - ALL FLIGHTS</p>
+<p>			    UNLOADED    LOADED     PCT CHNG FROM JUNE</p>
+<p>								 1995</p>
+<p>AFRICA			130.3	 246.7	  1.60</p>
+<p>ASIA OTHERS	     4,137.0     4,638.0	  6.03</p>
+<p>AUSTRALIA		 3,695.0     2,319.0	 -0.22</p>
+<p>CONTINENTAL EUROPE    9,979.0     7,952.0	  6.88</p>
+<p>JAPAN		     5,938.5     9,537.8	 -4.92</p>
+<p>MAINLAND CHINA	  1,682.0     2,753.0	  8.68</p>
+<p>MIDDLE EAST		 852.0     1,293.0	  1.88</p>
+<p>S.E.ASIA		 16,587.6     9,574.2	  4.36</p>
+<p>S. AMERICA		   98.4	  51.6	-22.91</p>
+<p>TAIWAN		    8,891.1     5,977.2	  6.67</p>
+<p>UK			  3,540.2     3,315.2	 11.78</p>
+<p>U.S/CANADA		6,565.2    15,212.5	 12.15</p>
+<p>TOTAL		    62,097.0    62,867.5	  5.31</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

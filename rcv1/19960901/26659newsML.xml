@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26659" id="root" date="1996-09-01" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 01-SEP.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 01-SEP.</headline>
+<text>
+<p>Hurricane Edouard remains a threat to shipping and coastal regions at this time. The storm, currently 220 miles south of Nantucket Island, and is moving north at 16 mph. Top winds are 105 mph. Large ocean swells will occur from the Bahamas to Bermuda and along the East Coast of the USA. Edouard is expected to make landfall Monday morning, so all interests along the coast should keep updated on the progress of the storm.  </p>
+<p>Hurricane Fran, with 75 mph winds, is northwest of Dan Juan Puerto Rico. Fran will continue its west northwest track with top winds remaining near 75 mph today, and will be a threat mainly to shipping during the next 24-36 hours. It may threaten the Bahamas' early Wednesday, however this is still uncertain.  </p>
+<p>Tropical Storm Gustav, with 40 mph winds, is 1040 miles east of the Leeward Islands, moving west northwest at 14 mph, and is expected to weaken within the next 24-36 hours.</p>
+<p>Tropical Storm Orson is centered about 310 miles southeast of Tokyo, Japan, with top winds near 80 mph. Orson is has begunb to poleward and is expected to continue to track norhteastward for the next 24 hours. Tropical storm 22W activity is expected to reamin the same as it tracks norhtward form near 33.3n/175.6e for the next 36 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

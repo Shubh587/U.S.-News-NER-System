@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261197" id="root" date="1996-12-17" xml:lang="en">
+<title>NEW ZEALAND: National Bank lowers NZ floating, fixed rates.</title>
+<headline>National Bank lowers NZ floating, fixed rates.</headline>
+<dateline>WELLINGTON 1996-12-18</dateline>
+<text>
+<p>National Bank of New Zealand said late on Tuesday it was cutting its New Zealand floating mortgage rate to 9.95 percent from 10.75 percent.</p>
+<p>Its fixed one-year rate falls to 8.95 percent from 9.95 percent, while its two year fixed rate drops to 9.25 percent from 9.50 percent. The three year fixed rate goes to 9.25 percent from 8.95 percent.</p>
+<p>The fixed rate change is effective immediately, while the floating rate is effective immediately for new customers and from January 24 for existing customers.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

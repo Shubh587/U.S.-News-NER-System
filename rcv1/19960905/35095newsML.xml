@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35095" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Reuters 10-year municipal bond index up.</title>
+<headline>Reuters 10-year municipal bond index up.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>Reuters said its 10-year tax-exempt general obligation bond index rose 12 basis points (0.12 percentage points) to 5.22 percent on Thursday from its reading of 5.10 percent last week.</p>
+<p>The figure is the highest to date for the 6-week old index, which hit its low point on Aug. 8 at 4.93 percent.</p>
+<p>Calculated each Thursday, the index represents the non-weighted average yield on 15 state and local municipal bonds of 10-year maturity and ratings ranging from A-minus to AAA.</p>
+<p>The issues are from Maryland; North Carolina; Texas Permanent School Fund; Columbus, Ohio; Fairfax County, Va.; Connecticut; Florida Board of Education; Wisconsin; Atlanta, Georgia; Shelby County, Tenn.; California; New York State; Pennsylvania; Dade County, Fla. and Tucson, Ariz.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

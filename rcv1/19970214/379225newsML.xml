@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379225" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 14-FEB.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 14-FEB.</headline>
+<text>
+<p>Tropical Cyclone Josie, with 100 mph winds, is southwest of Madagascar near 26s/40e, moving south southeast at 12 mph. Josie is expected to weaken steadily this period while moving southeastward into the waters south of Madagascar during the next 24-36 hours. Josie is still a significant threat to shipping.  </p>
+<p>Moisture from the remains of Tropical Cyclone Gillian combined with a frontal system over eastern Australia. Heavy rainfall will result, and may lead to local flooding and possibly property damage. Cotton and sorghum crops may also be damaged.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS AT THIS TIME</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

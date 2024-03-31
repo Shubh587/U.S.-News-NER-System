@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87539" id="root" date="1996-10-01" xml:lang="en">
+<title>SWITZERLAND: SOCCER-SWISS PREMIER DIVISION RESULT/STANDINGS.</title>
+<headline>SOCCER-SWISS PREMIER DIVISION RESULT/STANDINGS.</headline>
+<dateline>GENEVA 1996-10-01</dateline>
+<text>
+<p>Swiss premier division result and standings on Tuesday:</p>
+<p>Neuchatel 1 Sion  3</p>
+<p>Standings (played, won, drawn, lost goals for, against, points):</p>
+<p> Neuchatel    14  8  4   2  20  14  28</p>
+<p> Lausanne     14  8  3   3  28  17  27</p>
+<p> Sion	   13  6  5   2  23  15  23</p>
+<p> Grasshopper  14  5  7   2  21  15  22</p>
+<p> St Gallen    14  5  6   3  10  12  21</p>
+<p> Aarau	  13  5  3   5  13  11  18</p>
+<p> Basle	  14  4  6   4  25  21  18</p>
+<p> Zurich	 14  4  6   4  16  17  18</p>
+<p> Lucerne	14  3  7   4  19  21  16</p>
+<p> Servette     14  3  5   6  15  18  14</p>
+<p> Lugano	 14  2  6   6  10  21  12</p>
+<p> Young Boys   14  1  0  13   9  27   3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

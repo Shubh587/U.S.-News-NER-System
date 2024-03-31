@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200055" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Shuttle Columbia blasts off to mission.</title>
+<headline>Shuttle Columbia blasts off to mission.</headline>
+<dateline>CAPE CANAVERAL, Fla. 1996-11-19</dateline>
+<text>
+<p>The U.S. space shuttle Columbia roared off its Florida launch pad on Tuesday, carrying NASA's oldest active astronaut.</p>
+<p>The $2 billion spaceship, the oldest of NASA's four shuttles, lifted off at 2:55 p.m. EST (1955 GMT) after a 11-day delay caused by rocket booster problems and high wind.  </p>
+<p>Columbia's five-member crew included Story Musgrave, who at 61 will become the oldest person in space. This will be his sixth space flight, matching the record held by veteran NASA astronaut and moon walker John Young.</p>
+<p>Seven hours after blastoff, Columbia's crew will release the first of two satellites, a U.S.-German space telescope. The orbiting observatory will fly free for nearly two weeks, before the shuttle returns to pick it up.</p>
+<p>A second satellite will be dropped off to test an innovative process for manufacturing ultra-pure semiconductors for the electronics industry. It will orbit close to the shuttle for three days and will also be retrieved.</p>
+<p>Astronauts Tom Jones and Tammy Jernigan will make two spacewalks to practice construction of NASA's planned international space station. Columbia is due to return to earth at the Kennedy Space Center on Dec. 5.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

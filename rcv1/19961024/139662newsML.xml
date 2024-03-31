@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139662" id="root" date="1996-10-24" xml:lang="en">
+<title>UK: UK delivered grain trades - Oct 24.</title>
+<headline>UK delivered grain trades - Oct 24.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1415 gmt, in Sterling a tonne -</p>
+<p>No milling wheat 11 pct protein trade was reported.</p>
+<p>Feed wheat Norfolk/Suffolk Oct 102.50.</p>
+<p>Liverpool Feb 106.00 Mar 107.00.</p>
+<p>Southampton Oct 101.00.</p>
+<p>Tilbury Nov 102.00/102.50.</p>
+<p>East Devon Jan/Mar 104.50.</p>
+<p>Feed barley to Norfolk/Suffolk Dec 101.00.</p>
+<p>Suffolk/Essex Nov 102.50.</p>
+<p>Preston Nov 102.50.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

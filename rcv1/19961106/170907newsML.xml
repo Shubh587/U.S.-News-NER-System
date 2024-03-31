@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170907" id="root" date="1996-11-06" xml:lang="en">
+<title>SWITZERLAND: French tighten controls on Swiss beef imports.</title>
+<headline>French tighten controls on Swiss beef imports.</headline>
+<dateline>BERNE 1996-11-06</dateline>
+<text>
+<p>France has slapped restrictions on cattle imports from Switzerland which has the highest incidence of &quot;mad cow&quot; disease after Britain, the Swiss Economics Ministry said on Wednesday.</p>
+<p>The French measures that came into effect on November 1 require that imported animals come from herds known to be free of the disease Bovine Spongiform Encephalopathy (BSE).</p>
+<p>They also bar cattle born before December 1, 1990, when Switzerland imposed rules aimed at stopping the spread of BSE.</p>
+<p>Berne's Federal Veterinary Office last week said Swiss law already required export cattle to meet these two standards.</p>
+<p>BSE or mad cow disease is a brain-wasting affliction that scientists say may cause a human equivalent, Creutzfeldt-Jakob Disease.</p>
+<p>Germany and Austria have barred imports of Swiss beef due to human health fears over BSE. Italy recently lifted a ban but requires cattle to come from BSE-free herds and to be clearly marked as Swiss.</p>
+<p>Switzerland has reported 226 BSE cases from 1990 through October despite new rules in December 1990 that forbid feeding cattle beef bone and remains that could help spread the disease.</p>
+<p>The Swiss cabinet in September proposed the slaughter of up to 230,000 cattle in a bid to stamp out mad cow disease in Switzerland and restore consumer confidence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

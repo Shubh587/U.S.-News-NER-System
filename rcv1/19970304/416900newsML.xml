@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="416900" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Chase unit sells $300 mln capital securities.</title>
+<headline>Chase unit sells $300 mln capital securities.</headline>
+<dateline>NEW YORK 1997-03-04</dateline>
+<text>
+<p>The following issue of floating rate capital securities from Chase Capital III, a unit of Chase Manhattan Corp, was priced on Tuesday, according to lead manager Chase Securities Inc.</p>
+<p>BORROWER CHASE CAPITAL III</p>
+<p>AMT $300 MLN	 COUPON 3MO LIBOR +55 MATURITY 3/01/2027</p>
+<p>TYPE FLT-RATE CAP  ISS PRICE 98.558     FIRST PAY DATE 9/1/97</p>
+<p>LAST MOODY'S AA3   YIELD LIBOR +67.5    PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P BBB-PLUS			     CALLABLE NON CALL 10</p>
+<p>((U.S. corporate bond unit, 212 859-1672))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

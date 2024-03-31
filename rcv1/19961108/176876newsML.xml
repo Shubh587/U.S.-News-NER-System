@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176876" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Foster Wheeler unit gets $174.4 million contract.</title>
+<headline>Foster Wheeler unit gets $174.4 million contract.</headline>
+<dateline>CLINTON, N.J.</dateline>
+<text>
+<p>Foster Wheeler Energy International Inc. said Friday that a subsidiary won a $174.4 million contract to supply equipment for a Chinese power plant.</p>
+<p>The contract is between its Foster Wheeler Energy Corp. subsidiary and Hebei Electric Power Corp., which is part of a joint venture operating the plant.</p>
+<p>The plant will be located in Yijing, a town near Handan City in Hebei Province.</p>
+<p>Foster Wheeler's stock fell 25 cents to $34.75 on the New York Stock Exchange at midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLINTON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

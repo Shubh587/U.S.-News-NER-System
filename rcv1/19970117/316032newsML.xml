@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="316032" id="root" date="1997-01-17" xml:lang="en">
+<title>UK: Study finds genetic vulnerability to infection.</title>
+<headline>Study finds genetic vulnerability to infection.</headline>
+<dateline>LONDON 1997-01-17</dateline>
+<text>
+<p>Dutch doctors said on Friday they had found that some people have a strong genetic susceptibility to infections, which could explain why some people die of meningitis while others do not even get sick.</p>
+<p>Some people, they found, produce too little of a chemical that kick-starts the immune system and too much of another that slows it down.</p>
+<p>Dr Rudi Westendorp of University Hospital Leidenand colleagues tested 190 close relatives of people who had suffered serious infections from meningococci bacteria, which are one of the causes of sometimes-deadly meningitis.</p>
+<p>Up to 30 percent of all people carry meningococci in their bodies with no ill effects at all. Doctors have been trying to find out why some people develop infections including meningitis, an inflammation of the tissue surrounding the brain.</p>
+<p>Westendorp's group exposed the immune system cells in the relatives' blood to a bacterial toxin and then measured the levels of cytokines -- chemicals used as signals by the body's immune system.</p>
+<p>One of the cytokines, TNF, helps stimulate immune response while the other, interleukin-10 (IL-10), tones it down.</p>
+<p>They found that relatives of patients who had died of meningococcal infection produced about half as much TNF as the relatives of those who survived. The relatives of the dead patients produced twice as much IL-10.</p>
+<p>They also studied 26 pairs of twins and found a clear genetic tendency for production of both interleukin-10 and TNF.</p>
+<p>&quot;Families characterised by low TNF production had a tenfold increased risk for fatal outcome, whereas high IL-10 production increased the risk 20-fold,&quot; they wrote in a report in the Lancet medical journal.</p>
+<p>They said it was not clear if their findings could be applied to other infectious diseases.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

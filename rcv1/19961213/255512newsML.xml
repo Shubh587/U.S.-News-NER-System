@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255512" id="root" date="1996-12-13" xml:lang="en">
+<title>INDIA: India RBI SGL account trades-gilts/t bills-Dec 13.</title>
+<headline>India RBI SGL account trades-gilts/t bills-Dec 13.</headline>
+<dateline>BOMBAY 1996-12-13</dateline>
+<text>
+<p>The Reserve Bank of India (RBI) announced the following transactions in dated government securities and treasury bills through its Subsidiary General Ledger (SGL) account on December 13</p>
+<p>  Name of the			Amount     Price	   YTM</p>
+<p>  instrument		    (Face value) (In rupees) Indicative</p>
+<p>				   million rupee</p>
+<p>OUTRIGHT TRANSACTIONS</p>
+<p>---------------------</p>
+<p>* Government of India</p>
+<p>dated securities</p>
+<p>  13.50% 1997			  70.00	101.95    10.5407</p>
+<p>  13.50% 1997			  20.00	101.85    10.6860</p>
+<p>  13.50% 1997			  50.00	101.91    10.5988</p>
+<p>  13.50% 1998 (CONVERSION)	 50.00	102.09    11.7441</p>
+<p>  13.50% 1998 (CONVERSION)	 50.00	102.00    11.8170</p>
+<p>  11.64% 2000			  50.00	 95.00    13.4165</p>
+<p>  13.55% 2001			 100.00	100.27    13.4686</p>
+<p>  11.50% 2007			 100.00	 84.70    14.3149</p>
+<p>  Total				 490.00</p>
+<p>.</p>
+<p>* State Government Securities  --- N I L ---</p>
+<p>.</p>
+<p>* Treasury Bills</p>
+<p>91 day bills (maturity-wise)</p>
+<p>  21/12/1996			  174.00	 99.8086   8.7254</p>
+<p>  28/12/1996			  100.00	 99.6213   9.2247</p>
+<p>  28/12/1996			  100.00	 99.6315   8.9753</p>
+<p>  28/12/1996			   50.00	 99.6315   8.9753</p>
+<p>  11/01/1997			  150.00	 99.4273   7.2298</p>
+<p>  01/03/1997			  100.00	 98.2675   8.2275</p>
+<p>  01/03/1997			  100.00	 98.2572   8.2773</p>
+<p>  08/03/1997			   50.00	 98.1038   8.2771</p>
+<p>  08/03/1997			   12.00	 98.1038   8.2771</p>
+<p>  Total				 836.00</p>
+<p>.</p>
+<p>* 364 Day Bills (maturity-wise)  NIL</p>
+<p>.</p>
+<p>* REPO TRANSACTIONS @</p>
+<p>-------------------</p>
+<p>(Other than with RBI)</p>
+<p>  Name of the	  Amount	  Price	 Repo Rate  Repo</p>
+<p>  instrument	   Face value    (In rupees) (% pa)    Period</p>
+<p>			   million rupee			     (Days)</p>
+<p>* Government of India</p>
+<p>Dated Securities</p>
+<p>  12.50 % 2004		100.00     94.90     6.75	  8</p>
+<p>	 Total		  100.00</p>
+<p>.</p>
+<p>* Treasury Bills</p>
+<p>91 day bills (maturity-wise) --- N I L ---</p>
+<p>.</p>
+<p>* 364 day bills (maturity-wise)  --- N I L ---</p>
+<p>.</p>
+<p>@ Relate to the first leg of Repos</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

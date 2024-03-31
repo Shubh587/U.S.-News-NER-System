@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="334600" id="root" date="1997-01-27" xml:lang="en">
+<title>CHILE: Chile Central Bank chief hurt in car accident.</title>
+<headline>Chile Central Bank chief hurt in car accident.</headline>
+<dateline>SANTIAGO 1997-01-27</dateline>
+<text>
+<p>Chilean Central Bank President Carlos Massad suffered a broken arm Monday when his car was rammed by another on a crowded Santiago avenue, the bank said.</p>
+<p>Massad was being treated for the fracture in a hospital and was in good condition after the crash in the Providencia neighborhood, said a brief statement from the bank.</p>
+<p>Massad, who took office in September, is responsible for Chilean monetary policy.</p>
+<p>The statement did not say if the Central Bank chief was being driven by a chauffer, as is generally the case, or was driving himself.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

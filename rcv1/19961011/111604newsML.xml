@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111604" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U.S. cotton ginnings - USDA.</title>
+<headline>U.S. cotton ginnings - USDA.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>USDA reported all U.S. cotton ginnings with comparison (running bales, linters not included. W-withheld):</p>
+<p>			1996	  1995</p>
+<p>	  Al	59,550	 65,050</p>
+<p>	  Az	50,400	 36,000</p>
+<p>	  Ar     253,250	153,250</p>
+<p>	  Ca	26,850	  7,600</p>
+<p>	 Fla	   W		W</p>
+<p>	  Ga     198,600	186,350</p>
+<p>	  La     266,850	354,450</p>
+<p>Cotton Ginnings continued -- (running bales):</p>
+<p>			  1996	 1995</p>
+<p> Ms		   480,500     564,000</p>
+<p> Mo		    47,950	12,850</p>
+<p> NM		     2,450	   Nil</p>
+<p> NC		    21,600	23,000</p>
+<p> Ok			 W	     Nil</p>
+<p> SC		    61,750	15,850</p>
+<p> Tn		   148,400	69,000</p>
+<p> Tx		   518,400     954,550</p>
+<p> US		 2,143,850   2,454,650</p>
+<p>Cotton Ginnings continued --</p>
+<p>USDA also reported American Pima cotton ginnings:</p>
+<p>			  1996	     1995</p>
+<p>	 Az		 W		 W</p>
+<p>	 Ca		 W		 W</p>
+<p>	 NM		 W		 W</p>
+<p>	 TX		 W		 W</p>
+<p> Other Sts	     Nil		Nil</p>
+<p>	 U.S.	     W	     1,800</p>
+<p>W - Withheld to avoid disclosing individual gins</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

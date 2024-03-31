@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525020" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: U.S. bill auction rates average 5.21, 5.38 pct.</title>
+<headline>U.S. bill auction rates average 5.21, 5.38 pct.</headline>
+<dateline>WASHINGTON 1997-04-21</dateline>
+<text>
+<p>The U.S. Treasury said its</p>
+<p>auction of three and six-month bills brought these results:</p>
+<p>91-DAY BILLS DUE JULY 24, 1997 * $6.095 BILLION</p>
+<p>	 DISCOUNT INVESTMENT PRICE</p>
+<p> Low	  5.18   5.32   98.691   HIGH SINCE 5.26%--24.Mar.97</p>
+<p> High	 5.21   5.35   98.683   ACCEPTED AT HIGH   38 PCT</p>
+<p> Average    5.21   5.35   98.683   AVG RATE LAST WK    5.15</p>
+<p>182-DAY BILLS DUE OCT 23, 1997 * $6.004 BILLION</p>
+<p> Low	  5.36   5.59   97.290   LOW SINCE 5.30%--07.Apr.97</p>
+<p> High	 5.38   5.61   97.280   ACCEPTED AT HIGH   33 PCT</p>
+<p> Average    5.38   5.61   97.280   AVG RATE LAST WK    5.42</p>
+<p> U.S. TREASURY (GOVERNMENT DEBT)		 MATURITY 24.Jul.97</p>
+<p> MATURITY/TYPE    91-DAY BILLS		   PAY DATE 24.Apr.97</p>
+<p> TYPE OF DEBT     STRAIGHT			 LAUNCHED 21.Apr.97</p>
+<p> ISSUED/ACCEPTED   6.095 BLN USD		 CUSIP    9127942S2</p>
+<p> BIDS SUBMITTED   40.048			   COUNTRY	  USA</p>
+<p> NONCOMPETITIVE    1.333			    AUCTION AVERAGES</p>
+<p> NY FED DISTRICT    N.A.			   DISCOUNT     5.21</p>
+<p> FOREIGN INSTITN  427.83 MLN		     PRICE	98.683</p>
+<p> BIDDING RANGE     5.18-5.21 PCT		 YIELD	  5.35</p>
+<p>	 COVER (Bids Over Amount Auctioned) = 6.571 TIMES</p>
+<p>	 TAIL  (High  Minus Average  Yield) = 0 BASIS PTS</p>
+<p> U.S. TREASURY (GOVERNMENT DEBT)		 MATURITY 23.Oct.97</p>
+<p> MATURITY/TYPE    182-DAY BILLS		  PAY DATE 24.Apr.97</p>
+<p> TYPE OF DEBT     STRAIGHT			 LAUNCHED 21.Apr.97</p>
+<p> ISSUED/ACCEPTED   6.004 BLN USD		 CUSIP    9127945R1</p>
+<p> BIDS SUBMITTED   36.177			   COUNTRY	  USA</p>
+<p> NONCOMPETITIVE    1.032			    AUCTION AVERAGES</p>
+<p> NY FED DISTRICT    N.A.			   DISCOUNT     5.38</p>
+<p> FOREIGN INSTITN   2.579			   PRICE	97.280</p>
+<p> BIDDING RANGE     5.36-5.38 PCT		 YIELD	  5.61</p>
+<p>	 COVER (Bids Over Amount Auctioned) = 6.025 TIMES</p>
+<p>	 TAIL  (High  Minus Average  Yield) = 0 BASIS PTS</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

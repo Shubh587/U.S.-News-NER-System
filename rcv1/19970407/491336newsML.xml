@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491336" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Triangle licenses Mitsubishi drug.</title>
+<headline>Triangle licenses Mitsubishi drug.</headline>
+<dateline>DURHAM, N.C. 1997-04-07</dateline>
+<text>
+<p>Triangle Pharmaceuticals Inc said Monday it exercised its option to acquire a license from Mitsubishi Chemical Corp for the rights to MKC-442 worldwide except in certain East Asian countries, including Japan, China and Taiwan.</p>
+<p>MKC-442, a drug candidate intended for the treatment of HIV infection and AIDS, is a molecule that binds to an enzyme called reverse transcriptase and blocks its normal functioning.  </p>
+<p>The company said additional data from an ongoing clinical trial for MKC-442 is being presented at a conference in Atlanta. In this trial, MKC-442 &quot;was well-tolerated and only one patient, receiving the lowest dose...experienced a rash.&quot;</p>
+<p>A Triangle spokesman said issues including drug metabolism, viral resistance and interactions with other HIV drugs will need to be explored before definitive efficacy studies of MKC-442 in combination therapy can begin. The company said they intend begin studies later this year.</p>
+<p>A company spokesman said the clinical phase of the first of pharmacokinetic interaction studies is completed with the Merck &amp; Co Inc protease inhibitor, Crixivan.</p>
+<p>Triangle said the license agreement will require payment of a license initiation fee and certain milestone and royalty payments to Mitsubishi. Final details of the licensing agreement are still being negotiated, it added.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURHAM, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

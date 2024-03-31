@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137036" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: AMEX, CBOE to waive fees on new flex options.</title>
+<headline>AMEX, CBOE to waive fees on new flex options.</headline>
+<dateline>CHICAGO 1996-10-23</dateline>
+<text>
+<p>The American Stock Exchange and the Chicago Board Options Exchange said Wednesday they would waive all transaction fees on their new flex options on individual shares for the first three months of trade.</p>
+<p>The exchanges are scheduled to begin trading Thursday in the flex options -- 15 stocks for the AMEX and 10 for the CBOE.</p>
+<p>Flex -- short for flexible exchange -- options allow investors to customize contract terms including strike prices and expiration dates.</p>
+<p>Flex options on selected stock indices have been availble since 1993.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

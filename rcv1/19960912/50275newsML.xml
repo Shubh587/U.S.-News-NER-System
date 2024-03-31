@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50275" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Suiza completes deal to buy Swiss Dairy.</title>
+<headline>Suiza completes deal to buy Swiss Dairy.</headline>
+<dateline>DALLAS 1996-09-12</dateline>
+<text>
+<p>Suiza Foods Corp said Thursday it has completed its acquisition of Swiss Dairy for about $54 million.</p>
+<p>In completing the deal, Suiza extended its $160 million credit line by $90 million, using about $45 million to fund the Swiss Dairy acquisition, the company said.</p>
+<p>Suiza Foods is a Dallas-based holding company that consolidates distribution-oriented food businesses. Swiss Dairy is based in Riverside, Calif.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

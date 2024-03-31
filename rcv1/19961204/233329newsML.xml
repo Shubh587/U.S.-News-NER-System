@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233329" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: SyStemix gets OK for gene therapy trials.</title>
+<headline>SyStemix gets OK for gene therapy trials.</headline>
+<dateline>PALO ALTO, Calif 1996-12-04</dateline>
+<text>
+<p>SyStemix Inc said the U.S. Food and Drug Administration accepted its Investigational New Drug (IND) application to initiate a Phase I/II gene therapy trial for treatment of HIV-infected patients.</p>
+<p>A therapeutic gene, called Rev M10, will be inserted into patients' hematopoietic stem cells, which can both self-renew and develop into all the cells of the blood and immune system.</p>
+<p>Pre-clinical studies show the gene-modified stem cell passes on its protective gene to new stem cells it produces and to &quot;daughter cells,&quot; including T-cells, macrophages and other cells that are vulnerable to destruction by HIV.</p>
+<p>Systemix is collaborating with Sandoz AG.  </p>
+<p>These studies also indicate that Rev M10 gene prevents HIV from replicating within cells, trapping the virus and limiting its spread to uninfected cells.</p>
+<p>SyStemix' trial will be the first using hematopoietic stem cells as delivery vehicles for a therapeutic gene against HIV infection, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

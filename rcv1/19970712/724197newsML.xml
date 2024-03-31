@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="724197" id="root" date="1997-07-12" xml:lang="en">
+<title>UK: CRICKET-SCOTLAND V AUSTRALIA MATCH ABANDONED DUE TO RAIN.</title>
+<headline>CRICKET-SCOTLAND V AUSTRALIA MATCH ABANDONED DUE TO RAIN.</headline>
+<dateline>EDINBURGH 1997-07-12</dateline>
+<text>
+<p>The one-day (50 overs) cricket match between Scotland and Australia was abandoned on Saturday due to rain.</p>
+<p>Scores: Australia 278-9 innings closed (M.Slater 95; K.Sheridan 5-65). Scotland 95-6 in 21.5 overs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDINBURGH"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

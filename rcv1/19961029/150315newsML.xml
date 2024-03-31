@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150315" id="root" date="1996-10-29" xml:lang="en">
+<title>MEXICO: Situr 9-mos net loss vs profit.</title>
+<headline>Situr 9-mos net loss vs profit.</headline>
+<dateline>MEXICO CITY 1996-10-28</dateline>
+<text>
+<p>1996			  1995</p>
+<p>	Oper loss	   1.15 bln   profit   264.5 million</p>
+<p>	Net  loss	  622.2 million   profit   52.94 million</p>
+<p>	Revs		  1.40 bln		1.67  bln</p>
+<p>	  NOTE: All figures in Mexican pesos.</p>
+<p>	  Full company name is Grupo Situr, S.A.</p>
+<p>-- Mexico City newsroom (525) 728 9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

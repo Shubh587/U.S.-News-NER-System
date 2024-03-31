@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="507587" id="root" date="1997-04-14" xml:lang="en">
+<title>LEBANON: Yields mixed on Lebanese t-bills.</title>
+<headline>Yields mixed on Lebanese t-bills.</headline>
+<dateline>BEIRUT 1997-04-14</dateline>
+<text>
+<p>The Bank of Lebanon shaved a single point off yields on three-and six-month treasury bills on Monday but kept one- and two-year yields unchanged for the fifth successive week.</p>
+<p>The Bank announced the following interest rates for its April 17 issues (previous week in brackets):</p>
+<p>    Term		     Discount		     Yield</p>
+<p>				(percent)		   (percent)</p>
+<p>    Three months	  13.26 (13.27)	     13.71 (13.72)</p>
+<p>    Six months	    13.48 (13.49)	     14.45 (14.46)</p>
+<p>    12 months	     13.20 (13.20)	     15.20 (15.20)</p>
+<p>    24 months   (Interest payable twice yearly) 16.08 (16.08)</p>
+<p>-Beirut editorial (961 1) 602057 745307 745308</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

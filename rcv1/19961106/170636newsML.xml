@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170636" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Smith victory now seen in New Hampshire.</title>
+<headline>Smith victory now seen in New Hampshire.</headline>
+<dateline>WASHINGTON 1996-11-06</dateline>
+<text>
+<p>New Hampshire Republican Sen. Bob Smith won his re-election bid to Democrat Dick Swett, a switch in outcome based on larger election returns, according to revised network television projections Wednesday.</p>
+<p>Soon after the state's polls closed Tuesday evening, television networks projected a narrow victory for Swett. However, a later count showed Smith to be victorious and prevented Swett from becoming the first Democratic senator from the state in 21 years. The state, usually a reliable Republican stronghold, also voted for President Clinton.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

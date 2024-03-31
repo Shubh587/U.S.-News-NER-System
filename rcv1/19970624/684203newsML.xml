@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="684203" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: U.S. Oilmill data - Census Bureau.</title>
+<headline>U.S. Oilmill data - Census Bureau.</headline>
+<dateline>WASHINGTON 1997-06-24</dateline>
+<text>
+<p>U.S. Census Bureau oilmill stocks (X-1,000 Bu, Y-Mln Lbs, Z-Short Tons, R-Revised).</p>
+<p>			 May 97     Apr 97	May 96</p>
+<p>	Soybeans-X   78,164     89,248	92,488</p>
+<p> Soy Crude Oil-Y  1,074.6    1,074.4-R     696.3</p>
+<p>  Soycake/Meal-Z  214,825    241,183     265,629</p>
+<p>  Soy Millfeed-Z   41,702     38,875	45,938</p>
+<p>SOYOIL FACTORY AND WAREHOUSE STOCKS (Mln Lbs):</p>
+<p>	   Crude    1,811.9    1,929.3     1,531.7</p>
+<p>	 Refined	231.6	233.7-R     227.2</p>
+<p>	   Total    2,142.5    2,163.6-R   1,760.0</p>
+<p>STOCKS OF OTHER OILSEEDS (Short Tons):</p>
+<p>			  May 97	Apr 97	 May 96</p>
+<p>    Cottonseed   2,344,928   2,677,438	926,252</p>
+<p>	 Peanuts	10,846	 6,093-R	    W</p>
+<p> Sunflowerseed	     W	     W		W</p>
+<p> Safflowerseed	     W	     W		W</p>
+<p>N/A-not available. R-Revised. W-Withheld to avoid disclosing data for individual companies.  </p>
+<p>STOCKS OF OTHER OILSEED PRODUCTS:</p>
+<p>			May 97    Apr 97     May 96</p>
+<p>CRUDE OILS (Mln Lbs) --</p>
+<p>    Cottonseed     19.3	 22.0	 39.9</p>
+<p>	    Corn     45.2	 43.2	 22.7</p>
+<p> Sunflowerseed	  W	    W	 37.2</p>
+<p>CAKE/MEAL (Short Tons) --</p>
+<p>    Cottonseed   75,893     49,633     55,824</p>
+<p>	 Peanuts    2,105	3,599-R    3,117</p>
+<p> Sunflowerseed	  W	    W	    W</p>
+<p>R-Revised. W-Data withheld.</p>
+<p>OUTPUT OF OTHER OILSEED PRODUCTS:</p>
+<p>					 May 97    Apr 97     May 96</p>
+<p> CRUDE OILS-X --- Cottonseed    109.1     103.7	101.9</p>
+<p>		   Sunflowerseed	  W	   W	    W</p>
+<p>				Corn    182.5     188.3	175.9</p>
+<p>			    Peanut     13.3	17.9-R     36.7</p>
+<p> CAKE/MEAL-Y ---- Cottonseed  159,774   152,158    147,149</p>
+<p>		   Sunflowerseed	  W	   W	    W</p>
+<p>			    Peanut    9,426    14,585     24,825</p>
+<p>X-Mln Lbs. Y-Short Tons. R-Revised. W-Withheld.</p>
+<p>    ------OUTPUT:			    Jan-May 97  Jan-May 96</p>
+<p> SOY PRODUCTS--Crushings (1,000 Bu)	 618,069     567,962</p>
+<p>		   Crude Oil (Mln Lbs)	6,399,599   6,345,126</p>
+<p>		   Cake/Meal (Short Tons)  13,639,983  12,597,524</p>
+<p>		    Millfeed (Short Tons)     996,086     940,030</p>
+<p>CRUSHINGS OF OTHER OILSEEDS:</p>
+<p>		    Cottonseed (Shrt Tons)  1,790,537   1,831,981</p>
+<p>			 Peanuts (Shrt Tons)    108,047     194,658</p>
+<p>		 Sunflowerseed (Shrt Tons)	    W	     W</p>
+<p>W-Withheld</p>
+<p>OILSEED PRODUCT OUTPUT:</p>
+<p>					  Jan-May 97  Jan-May 96</p>
+<p> CRUDE OILS-X ----- Cottonseed	 674.1	 697.9</p>
+<p>		     Sunflowerseed	    00	     W</p>
+<p>				  Corn	 924.0	 902.0</p>
+<p>				Peanut	  86.0	 163.7</p>
+<p> CAKE/MEAL-Y -------Cottonseed     899,099     827,722</p>
+<p>		     Sunflowerseed	     W	     W</p>
+<p>				Peanut	62,203     110,532</p>
+<p>X-Mln Lbs. Y-Short Tons. W-Withheld</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

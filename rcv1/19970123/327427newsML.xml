@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327427" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Trusted Information, IBM in encryption pact.</title>
+<headline>Trusted Information, IBM in encryption pact.</headline>
+<dateline>GLENWOOD, Md. 1997-01-23</dateline>
+<text>
+<p>Trusted Information Systems said on Thursday it formed a patent and software license agreement with International Business Machines Corp, to accelerate the use of strong data encryption.</p>
+<p>Under the terms of the agreement, IBM would acquire the right to license and distribute Trusted Information's patented RecoverKey technology within the IBM SecureWay Key management framework, as well as in IBM products which will need key recovery technology, the company said.  </p>
+<p>RecoveryKey an electronic backup key used to unscramble data in the event the original encryption key gets lost. A key is digital string which is used to scramble data. It is generated randomly by software, the company said.</p>
+<p>The company was not immediately available to provide financial details.</p>
+<p>Under the terms of the pact, IBM said it could incorporate RecoverKey into its suite of software products. IBM could also create a software toolkit using RecoverKey to be licensed by other vendors for their own cryptographic applications.</p>
+<p>Trusted Information also said IBM was also licensing its Key Recovery Center software.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLENWOOD, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766473" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: Texas hotel evacuates hundreds in gas leak.</title>
+<headline>Texas hotel evacuates hundreds in gas leak.</headline>
+<dateline>FORT WORTH, Texas 1997-07-30</dateline>
+<text>
+<p>A natural gas leak forced the evacuation of hundreds of guests and staff from a Fort Worth hotel and a nearby bank Wednesday.</p>
+<p>Fire chiefs ordered the evacuation of about 300 people from the Holiday Inn hotel and the bank after a road construction crew punctured a high-pressure natural gas line and winds blew the fumes towards the hotel.</p>
+<p>A pregnant woman was among six people sent to a hospital and another six received medical treatment at the scene.</p>
+<p>&quot;They were complaining of light-headedness, dizziness and nausea,&quot; Fort Worth Fire Department spokesman Steve Kerr said. &quot;It was nothing life-threatening but we wanted to play it safe, especially with the pregnant lady.&quot;</p>
+<p>A spokesman for Lone Star Gas said the leak was sealed within an hour and the danger had passed. Hotel guests were allowed back to their rooms after fire crews checked the building for pockets of trapped gas.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

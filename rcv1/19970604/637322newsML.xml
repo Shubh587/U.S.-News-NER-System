@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637322" id="root" date="1997-06-04" xml:lang="en">
+<title>GERMANY: Turkish Airlines adds extra Berlin flights.</title>
+<headline>Turkish Airlines adds extra Berlin flights.</headline>
+<dateline>FRANKFURT 1997-06-04</dateline>
+<text>
+<p>Turkish Airlines is adding three new flights between Berlin and Turkey, the Berlin airport authority said.</p>
+<p>The first - a fifth weekly flight from Berlin Schoenefeld to Istanbul - was launched by the Turkish national carrier on June 3, a statement said.</p>
+<p>Turkish Airlines will also start weekly flights to Berlin from Trabzon on June 10 and from Izmir on June 17, it added.</p>
+<p>The airline will then fly a total of 11 weekly services from Berlin to Turkey, with five flights to Istanbul, three to Ankara and one to Trabzon, Izmir and Adana. - Reuters Air Cargo Newsroom. Tel +44 171 542 7706 Fax+5017</p>
+<p>www.racs.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

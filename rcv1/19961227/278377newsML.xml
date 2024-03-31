@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278377" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: U.S. jobless claims fall in latest week.</title>
+<headline>U.S. jobless claims fall in latest week.</headline>
+<dateline>WASHINGTON 1996-12-27</dateline>
+<text>
+<p>The number of Americans filing new claims for unemployment benefits declined to 335,000 in the week ended December 21 from 350,000 in the previous week, the Labor Department said on Friday.</p>
+<p>The drop was sharper than expected by Wall Street economists, who had forecast jobless claims of 346,000.</p>
+<p>The department had initially reported claims for first-time jobless benefits totalling 351,000 for the previous week.</p>
+<p>The four-week moving average, considered a more accurate gauge of employment trends because it irons out weekly volatility, edged down slightly last week to 341,250 from 342,250 a week earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

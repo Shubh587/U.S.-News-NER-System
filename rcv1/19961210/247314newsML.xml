@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247314" id="root" date="1996-12-10" xml:lang="en">
+<title>SWITZERLAND: UN opens human rights office in Zaire.</title>
+<headline>UN opens human rights office in Zaire.</headline>
+<dateline>GENEVA 1996-12-10</dateline>
+<text>
+<p>The United Nations said it opened its first human rights office in Zaire on Tuesday to help strengthen the rule of law and investigate human rights violations in the vast central African country.</p>
+<p>A statement from the U.N. human rights office in Geneva said two human rights observers would be based in the capital, Kinshasa. The only other U.N. human rights field operations in the troubled African region are in Rwanda and Burundi.</p>
+<p>The Burundi operation, with five observers, has been crippled by a lack of funds and hostility from the minority Tutsi military government and the army that are battling a worsening Hutu rebellion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

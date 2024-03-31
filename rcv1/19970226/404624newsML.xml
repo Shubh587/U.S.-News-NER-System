@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404624" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: SmithKline Kytril tabs covered by Medi-Cal.</title>
+<headline>SmithKline Kytril tabs covered by Medi-Cal.</headline>
+<dateline>PHILADELPHIA 1997-02-26</dateline>
+<text>
+<p>SmithKline Beecham Plc said on Wednesday that Kytril (granisetron hydrochloride) tablets are now reimbursed by Medi-Cal for each day a patient receives chemotherapy treatment in a physician's office.</p>
+<p>Kytril tablets are indicated for the prevention of nausea and vomiting associated with cancer chemotherapy.</p>
+<p>Currently, Medi-Cal reimburses for intravenous Kytril and Zofran antiemetics (medication that prevents nausea and vomiting) only on the first day of a course of chemotherapy when given in a physician's office.</p>
+<p>Medi-Cal is the Medicaid program of the state of California, and the largest state Medicaid program in the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

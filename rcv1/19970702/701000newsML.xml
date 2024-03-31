@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701000" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: Magellan Technology forms subsidiary.</title>
+<headline>Magellan Technology forms subsidiary.</headline>
+<dateline>DRAPER, Utah 1997-07-02</dateline>
+<text>
+<p>Magellan Technology Inc said it has formed Magellan Service Co, a wholly owned subsidiary that will specialize in contractual support of Department of Defense avaiation, logistics and maintenance operations.</p>
+<p>The company said it had named Irving Monclova, a retired U.S. army colonel who served in Vietnam, as president and chief operating officer of the subsidiary.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DRAPER, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763159" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: Majority of House backs encryption export relaxation.</title>
+<headline>Majority of House backs encryption export relaxation.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-29</dateline>
+<text>
+<p>A majority of the House of Representatives is backing a bill strongly opposed by the Clinton administration to lift strict U.S. export controls on computer encoding technology, the bill's author said Tuesday.</p>
+<p>Representative Bob Goodlatte, Republican of Virginia, said 250 members have agreed to co-sponsor his Security and Freedom Through Encryption Act, including 158 Republicans and 92 Democrats.</p>
+<p>&quot;The momentum is very strong,&quot; Goodlatte said, noting the bill had gained about 60 supporters in the last week.</p>
+<p>The bill could be voted on by the full House in the fall Goodlatte said. But the Clinton administration has vowed to veto the proposal and prospects for export liberalisation in the Senate remain murky.</p>
+<p>A Senate proposal backed by Sen. John McCain, Republican of Arizona, and Sen. Bob Kerrey, Democrat of Nebraska, that is more to the administration's liking remains mired in the Commerce Committee more than a month after the panel approved the bill. The Senate Judiciary Committee has asked to review the legislation and is considering crafting its own compromise approach.</p>
+<p>If Goodlatte's bill became law, U.S. companies would be permitted to export so-called strong encryption products, which scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>Encryption has become an increasingly critical technology to safeguard electronic commerce and global communications over the Internet. Scrambling prevents hackers from intercepting in-transit data, which could include anything from sensitive medical records to a credit card number or electronic mail message.</p>
+<p>But the same codes can be used by criminals to hide their communications from law enforcement agencies, so the administration permits export of strong encryption only if the products allow the government to unscramble the messages by gaining access to the software keys.</p>
+<p>Proponents of the bill argue that criminals would not make their keys available or would purchase foreign-manufactured software lacking so-called key recovery. The bill would not require use of key recovery in export products and would prohibit the government from requiring such features in domestic products as well.</p>
+<p>The Goodlatte bill was approved by the House International Relations Committee last week and previously by the Judiciary Committee.</p>
+<p>The Commerce, National Security and Intelligence committees will still consider the legislation and could water down the bill to meet the administration's concerns. But Goodlatte said he believed that when the bill reached the House floor, the Rules Committee would classify amendments added by the three as separate from the bill itself.</p>
+<p>Jerry Berman, executive director of the Centre for Democracy and Technology, said his group was organising a high-tech, grass-roots lobbying campaign on behalf of the bill.</p>
+<p>Internet users who visit a Web site devoted to the encryption issue (http://www.crypto.org), will be able to find out their representative's position on the issue along with information for attending local meeting with lawmakers held in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

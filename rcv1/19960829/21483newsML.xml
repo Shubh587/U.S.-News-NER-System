@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21483" id="root" date="1996-08-29" xml:lang="en">
+<title>CHILE: CCU Chile spends $12 mln on distribution.</title>
+<headline>CCU Chile spends $12 mln on distribution.</headline>
+<dateline>SANTIAGO 1996-08-29</dateline>
+<text>
+<p>Compania Cervecerias Unidas Chile is spending about $12 million to improve its distribution system, including with new computer software imported from the United States, the brewery said.</p>
+<p>The plans also include new, lighter trucks for more efficient stock delivery, CCU said in a statement.</p>
+<p>The new computer network is already in operation in Santiago and will start working in the Sixth Region, which includes Rancagua, next year, it said.</p>
+<p>--Roger Atwood, Santiago newsroom +56-2-699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54971" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: National Health Q2 loss widens.</title>
+<headline>National Health Q2 loss widens.</headline>
+<dateline>PHOENIX 1996-09-16</dateline>
+<text>
+<p>Three Months Ended July 31  Six Months Ended July 31</p>
+<p>			     1996	1995	  1996	 1995</p>
+<p>Total Revenues  $4,972,322 $3,464,116 $10,088,033 $6,968,768 Net Income (Loss)</p>
+<p>			(443,794)   (49,012)   (346,721)  (271,828)</p>
+<p>Primary Earnings</p>
+<p>  (Loss) Per Share   (0.11)     (0.01)	(0.09)     (0.07)</p>
+<p>Weighted Average</p>
+<p>Shares Outstanding</p>
+<p>			3,866,376  3,791,220   3,851,049  3,791,220</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

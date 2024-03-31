@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60510" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Delta to buy four planes for Delta Express.</title>
+<headline>Delta to buy four planes for Delta Express.</headline>
+<dateline>ATLANTA 1996-09-18</dateline>
+<text>
+<p>Delta Air Lines Inc said Wednesday it has agreed to buy four Boeing 757 aircraft from American International Group unit International Lease Finance Corporation for an undisclosed price.</p>
+<p>The aircraft are currently operated by American Trans Air. They are to be delivered to Delta during the fourth quarter, the company said.</p>
+<p>Terms of the sale were not disclosed.</p>
+<p>Delta said the planes will be used by the Delta Express low-fare operation, which begins October 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

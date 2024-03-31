@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120198" id="root" date="1996-10-16" xml:lang="en">
+<title>NEW ZEALAND: New, ex-overseas vehicle registrations up in Sept.</title>
+<headline>New, ex-overseas vehicle registrations up in Sept.</headline>
+<dateline>AUCKLAND 1996-10-17</dateline>
+<text>
+<p>New and ex-overseas vehicle registrations rose 16 percent to 19,518 in September from 16,788 a year ago, The Land Transport and Safety Authority said on Thursday.</p>
+<p>New and ex-overseas car registrations rose to 14,790 from 12,428, while those for trucks fell to 2,445 from 2,545.</p>
+<p>Bus and coach registrations rose to 117 from 59 and tractors were up at 176 from 115.</p>
+<p>-- Wellington Newsroom (64-4-4734746)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUCKLAND"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

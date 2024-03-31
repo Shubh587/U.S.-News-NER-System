@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431809" id="root" date="1997-03-10" xml:lang="en">
+<title>JAPAN: Japan Securities puts NCB share lending on alert.</title>
+<headline>Japan Securities puts NCB share lending on alert.</headline>
+<dateline>TOKYO 1997-03-10</dateline>
+<text>
+<p>Japan Securities Finance Co Ltd, which lends and borrows stocks to and from brokerage firms, said on Monday that it was putting shares of Nippon Credit Bank Ltd (NCB) on a warning alert for possible lending problems in the future.</p>
+<p>Brokerages borrow stocks from Japan Securities for clients wishing to sell them to establish short positions in margin transactions.</p>
+<p>The warning by Japan Securities was a signal to the market that it may have to limit or suspend fresh lending of NCB stocks to brokerages in due course.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60554" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: National Transaction names new president.</title>
+<headline>National Transaction names new president.</headline>
+<dateline>HUDSON, Mass. 1996-09-18</dateline>
+<text>
+<p>National Transaction Network Inc said Wednesday it has appointed L. Barry Thomson as president and Kenneth Kubler as executive vice president and general manager.  </p>
+<p>Thomson is president and chief executive officer of International Verifact Inc, which bought 85 percent of National Transaction earlier this month. He replaces Paul Siegenthaler, who resigned as president and CEO after the acquisition, the company said.</p>
+<p>Prior to joining National Transaction Kubler was general manager of Dataserve, a former BellSouth Corp company. His position as executive vice president and general manager at National Transaction are newly created, said National Transaction Chief Financial Officer Milton Alpern.</p>
+<p>International Verifact provides electronic payment processes for retailers, financial institutions, governments and other businesses.</p>
+<p>National Transaction specializes in designing and maintaining electronic payment systems for retailers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302017">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUDSON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

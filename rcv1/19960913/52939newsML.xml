@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52939" id="root" date="1996-09-13" xml:lang="en">
+<title>HONG KONG: ING Baring sets call warrants on Thailand 50 Index.</title>
+<headline>ING Baring sets call warrants on Thailand 50 Index.</headline>
+<dateline>HONG KONG 1996-09-13</dateline>
+<text>
+<p>ING Barings Financial Products said it intended to issue 25 million American-style composite call warrants linked to the Stock Exchange of Thailand 50 Index.</p>
+<p>One warrant represents one index.</p>
+<p> STRIKE PRICE  100 PCT OF CLOSING     PREMIUM	 13.70 PCT</p>
+<p> ISSUE PRICE   13.70 PCT OF CLOSING   GEARING	 6.73X</p>
+<p> EXPIRATION    12.SEPT.97		 LISTING	 LUXEMBOURG</p>
+<p>MIN EXER LOT  1,000 WARRANTS</p>
+<p> NOTE	    GOVERNING LAW IS ENGLISH</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

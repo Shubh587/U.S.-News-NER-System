@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560346" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Lucent introduces new modem chip set.</title>
+<headline>Lucent introduces new modem chip set.</headline>
+<dateline>BERKELEY HEIGHTS, N.J. 1997-05-05</dateline>
+<text>
+<p>Lucent Technologies said Monday it introduced a next generation modem chip set that can download data and graphics at up to 56 kilobits per second on notebook computers and other personal computers.</p>
+<p>In a statement, Lucent said the Mars chip set, with an integrated peripheral component interface, operates on 3.3 volts of power, consuming nearly 40 percent less power than the 5.0 volt-modem chips now on the market.  </p>
+<p>Lucent said the chip set will enable notebook personal computer makers to design smaller, more integrated systems. The product eliminates the need for bridge chips, reducing the number of devices on the computer's sytem board, it said.</p>
+<p>Samples of the chip, which is produced by Lucent's microelectronics group, will be shipped to Toshiba Corp and other manufacturers, it said.</p>
+<p>The chip will also be used this summer in end-user modems that will be part of a field trial of the K56flex technology involving AOL Networks, a subsidiary of America Online Inc .</p>
+<p>America Online owns the world's largest private dial-up network. The K56flex technology is the most widely supported 56 kilobits per second modem protocol that is offered by more than 650 Internet service providers, it said.</p>
+<p>The chip set is priced at $65 in production quantities of 10,000 or more, it said. It will be available in production quantities by July, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERKELEY HEIGHTS, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

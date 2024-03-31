@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60511" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Data Dimensions wins MCI Year 2000 order.</title>
+<headline>Data Dimensions wins MCI Year 2000 order.</headline>
+<dateline>BELLEVUE, Wash. 1996-09-18</dateline>
+<text>
+<p>Data Dimensions Inc said Wednesday it has been retained by MCI Communications Corp for an initial Year 2000 assessment and tools survey.</p>
+<p>The project will help MCI Communications change its computer and software programs to process dates correctly after December 31, 1999.</p>
+<p>Data Dimensions stock was up as high as 3 1/4 to 35 3/8 Wednesday afternoon.  </p>
+<p>The Bellevue, Washington-based company quoted MCI as saying that once the assessment is complete, MCI will seek to make Data Dimensions &quot;one of the key players in our (millennium) conversion strategy.&quot;</p>
+<p>The millennium problem arises from computer programs that use two-digit date codes to perform computations and decision-making functions. Many of these computer programs may fail if they are unable to interpret date codes after the year 2000.  </p>
+<p>Data Dimensions began offering millennium consulting services in 1991 and has specialized in the field since 1993. It said it has provided Year 2000 consulting services for more than 120 organizations worldwide, including more than two dozen of the U.S. Fortune 500 companies.</p>
+<p>Data Dimensions is among the companies cited by a J.P. Morgan &amp; Co analyst who in August listed some companies that were expected to profit from handling date-processing problems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELLEVUE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

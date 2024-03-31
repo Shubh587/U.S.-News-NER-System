@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85018" id="root" date="1996-09-30" xml:lang="en">
+<title>AUSTRALIA: RTRS-Corporate Express falls into loss.</title>
+<headline>RTRS-Corporate Express falls into loss.</headline>
+<dateline>SYDNEY 1996-09-30</dateline>
+<text>
+<p>Six months ended Aug 31</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Operating profit		     0.36 vs  2.82</p>
+<p>    Net				 loss 1.56 vs profit 1.90</p>
+<p>    Dividend (cents)			nil vs nil</p>
+<p>    Sales				  140.76 vs 62.36</p>
+<p>    Shr (cents)			loss 2.0 vs profit 3.9</p>
+<p>NOTE: Corporate Express Ltd is office supplies retailer. Major shareholder is Corporate Express Inc</p>
+<p>-- Sydney Newsroom 61-2 973-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

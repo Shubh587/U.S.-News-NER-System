@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100904" id="root" date="1996-10-07" xml:lang="en">
+<title>BELGIUM: Five Belgians killed when train hits car.</title>
+<headline>Five Belgians killed when train hits car.</headline>
+<dateline>BRUSSELS 1996-10-07</dateline>
+<text>
+<p>Five Belgians were killed on Monday when a morning rush-hour train crushed their car at a level crossing on the line between the port of Antwerp and the city of Liege in the east, a state railways spokeswoman said.</p>
+<p>The identity of the three men and two women and their ages were not yet known. &quot;They were all young,&quot; she said. No one on the train was hurt. The cause of the crash was still unclear.</p>
+<p>As a result of the accident, which happened at 8.50 a.m. (0650 GMT) just east of Antwerp, rail traffic between the two towns was blocked all morning, the spokeswoman said. International trains were not affected, she added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

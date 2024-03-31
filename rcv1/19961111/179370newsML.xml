@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179370" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Texaco LA hydrotreater exploded - local radio.</title>
+<headline>Texaco LA hydrotreater exploded - local radio.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>A hydrotreater at Texaco Inc's 64,000 barrel per day Wilmington oil refinery in the Los Angeles area exploded into flames early Monday morning, according to local radio station KFWB News.</p>
+<p>The radio station said the shock of the initial explosion could be felt for blocks around the facility, and that over 100 firefighters were at the scene fighting the blaze.</p>
+<p>A hydrotreater pulls sulphur out of diesel and other distillates to prepare the fuels for sale in the California markets, which has some of the strictest environmental specifications in the world.  </p>
+<p>It was not immediately clear if anyone was injured in the blast or if the fire was still burning.</p>
+<p>But Brian Humphreys, a spokesman for the Los Angeles Fire Department, said there were no reports of deaths or injuries.</p>
+<p>The refinery also has 32,300 barrels per day of catalytic cracking capacity, according to the National Petroleum Refining Association.</p>
+<p>A catalytic cracker turns lighter feedstocks like residual fuel or diesel into light-end, high-profit fuels like gasoline.</p>
+<p>-- New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

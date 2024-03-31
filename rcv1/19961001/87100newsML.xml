@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87100" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Clean tankers fixtures and enquiries - 2218 GMT.</title>
+<headline>Clean tankers fixtures and enquiries - 2218 GMT.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>FIXTURES</p>
+<p>UK/CONT -</p>
+<p>Tiger 35 mogas 6/10 Ventspils/USAC W135 Vitol.</p>
+<p>Prodicos 35 mogas 5/10 ARA/USAC or USG/Caribs W130 Vitol.</p>
+<p>Athenian Fidelity 25 prompt Cont/Med W190 cnr.</p>
+<p>WESTERN HEMISPHERE -</p>
+<p>Mormacsun 30 4/10 Caribs/USAC W195 Axel Johnson.</p>
+<p>Port Alexandre 35 jet 10-12/10 Caribs/USAC rnr Adam.</p>
+<p>-- New York Commodities Desk, 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

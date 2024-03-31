@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="501321" id="root" date="1997-04-10" xml:lang="en">
+<title>UK: UK new construction orders +3.0 in 3mths to Feb.</title>
+<headline>UK new construction orders +3.0 in 3mths to Feb.</headline>
+<dateline>LONDON 1997-04-10</dateline>
+<text>
+<p>UK new construction orders were 3.0 percent up in the three months to February versus the previous three months and 1.0 percent higher on the same period in 1996, the Department of the Environment said.</p>
+<p>			  3/mth vs 3/mth	3/mth vs same 1996 (pct)</p>
+<p>    Total		   +3.0			 +1.0</p>
+<p>    Private housing     -1.0			+36.0</p>
+<p>    Infrastructure     -10.0			 +6.0</p>
+<p>    Public non-housing  -4.0			-17.0</p>
+<p>    Private industrial +13.0			+17.0</p>
+<p>    Private commercial +17.0			-14.0</p>
+<p>In current prices, the total value of new orders in February alone was 1.98 billion stg.</p>
+<p>-- London Newsroom +44 171 542 5109</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

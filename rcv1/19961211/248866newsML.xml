@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248866" id="root" date="1996-12-11" xml:lang="en">
+<title>RUSSIA: Russia launches military satellite.</title>
+<headline>Russia launches military satellite.</headline>
+<dateline>MOSCOW 1996-12-11</dateline>
+<text>
+<p>Russia launched a military satellite from the Baikonur cosmodrome in Kazakhstan on Wednesday, a space official said.</p>
+<p>A spokesman for the Military Space Forces' headquarters told Reuters the Kosmos-2335 satellite was launched at 3 p.m. (1200 GMT) using a two-stage light Tsiklon-2 booster.</p>
+<p>The spokesman said the satellite would be used &quot;in the interests of the defence ministry&quot;. He gave no further details.</p>
+<p>The first Kosmos satellite was launched in 1962. Most of these probes were used as spy satellites in the Soviet era.</p>
+<p>Russian media reported last month that the country had been without photo reconnaisance satellites for nearly two months, after the last operable one burned up on re-entry to the atmosphere on September 28.</p>
+<p>At the time a Military Space Forces official denied the reports saying &quot;it is impossible that a superpower such as Russia could be without such satellites&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

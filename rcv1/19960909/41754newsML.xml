@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41754" id="root" date="1996-09-09" xml:lang="en">
+<title>UK: Hamburgische LB sets 250 million mark step-up bond.</title>
+<headline>Hamburgische LB sets 250 million mark step-up bond.</headline>
+<dateline>LONDON 1996-09-09</dateline>
+<text>
+<p>The following bond was announced by lead manager Hamburgische Landesbank.</p>
+<p> BORROWER   HAMBURGISCHE LANDESBANK</p>
+<p> AMT    250 MLN DEM   COUPON     *4.0	MATURITY  **22.DEC.00</p>
+<p> TYPE	 STEP-UP   ISS PRICE  100	 PAY DATE  S-16.SEP.96</p>
+<p> LISTING    HAMBURG   DENOMS (K) 10	  S-SHORT FIRST COUPON</p>
+<p> GOV LAW    GERMAN    HOME CTRY  GERMANY   TAX PROVS   =</p>
+<p> NOTES	*TO 23.DEC.96 THEN 5.40 PCT THEREAFTER</p>
+<p>	    **CALLABLE AT PAR 23.DEC.96</p>
+<p>		 OEFFENTLICHE PFANDBRIEFE</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

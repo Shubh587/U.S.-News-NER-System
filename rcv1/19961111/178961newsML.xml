@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178961" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: N.Y. exchanges closing - Nov 8.</title>
+<headline>N.Y. exchanges closing - Nov 8.</headline>
+<text>
+<p>Dmk  1.5045/50 Lit	1512/1514! st one   -11.4/-11</p>
+<p> Stg  1.6478/88 Bfr	 30.99/01!    two   -22.6/-22</p>
+<p> Can  1.3313/18 Dkr	5.7865/95!  three   -35/-34.3</p>
+<p> Sfr  1.2640/50 Nkr	6.3173/48!    six    -75/-72</p>
+<p> Yen  111.70/75 Aus Sc    10.58/60! twelve   -174/-170</p>
+<p> Ffr  5.0865/95 Port     152.10/30! cn one  -25.8/-25.3</p>
+<p> Dfl  1.6866/76 Skr	6.5929/04!    two  -54.5/-53.5</p>
+<p> Mex  7.9010/10 Spain    126.65/70!  three    -82/-81</p>
+<p> ECU  1.2709/19 Sing     1.4000/10!    six   -157/-154</p>
+<p> .	   Australia     0.7865/75! twelve   -288/-283</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

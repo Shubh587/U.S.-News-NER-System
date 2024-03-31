@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810855" id="root" date="1997-08-02" xml:lang="en">
+<title>USA: Train crash in Idaho kills one, ignites small fires.</title>
+<headline>Train crash in Idaho kills one, ignites small fires.</headline>
+<dateline>BOISE, Idaho 1997-08-01</dateline>
+<text>
+<p>A freight train slammed into a large truck near Boise Friday, killing the truck's driver instantly and igniting small fires along a mile of track, officials said.</p>
+<p>Joseph Urquidi, who was driving the Idaho Power Co. utility truck, was killed in the fiery crash in Ada County, 10 miles southwest of Boise.</p>
+<p>&quot;He was ejected from the truck. He was instantly dead,&quot; said Lt. Dale Woodcook of the Ada County sheriff's office.</p>
+<p>Urquidi had stopped the truck on the tracks for unknown reasons, apparently heard the train approaching, but was not able to get out of the way in time, Woodcook said.</p>
+<p>The train was travelling 70 miles per hour just before impact. The collision tore the truck apart, spraying fuel from the truck and train onto dry brush, lighting several small fires around the mile-long crash site.</p>
+<p>&quot;It was a mess,&quot; Woodcook said.</p>
+<p>The train was carrying some explosive materials, but the fires were put out before any could ignite, he said.</p>
+<p>An engineer on the train suffered minor injuries. A sheriff's deputy who inhaled fumes from the fires was taken to a local hospital for treatment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

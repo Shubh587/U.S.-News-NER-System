@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228347" id="root" date="1996-12-02" xml:lang="en">
+<title>JAPAN: Strong earthquake hits Japan's southern island.</title>
+<headline>Strong earthquake hits Japan's southern island.</headline>
+<dateline>TOKYO 1996-12-03</dateline>
+<text>
+<p>A strong earthquake shook Japan's southernmost main island of Kyushu on Tuesday morning but there were no immediate reports of damage, authorities said.</p>
+<p>Japan's Metereological Agency said the quake, which struck at 7:18 a.m. (2218 GMT), registered five on Japan's seven point scale in the city of Miyazaki. A five can violently shake houses.  </p>
+<p>Reporters for NHK television in the city of Miyazaki said there was violent shaking but there was no visible damage in the center of the city.</p>
+<p>They said fire engines and ambulances patrolled the streets looking for fires or building collapses.</p>
+<p>Utility companies said there was no damage to electrical systems or gas lines.</p>
+<p>The quake measured 6.3 on the open-ended Richter scale and was centered 30 km (18 miles) off the coast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

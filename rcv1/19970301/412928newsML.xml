@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="412928" id="root" date="1997-03-01" xml:lang="en">
+<title>PHILIPPINES: U.S. fighter jets make emergency stop in Manila.</title>
+<headline>U.S. fighter jets make emergency stop in Manila.</headline>
+<dateline>MANILA 1997-03-01</dateline>
+<text>
+<p>Two U.S. airforce fighter jets and a tanker plane made an emergency landing at Manila's international airport on Saturday after one of the jets suffered a technical problem, U.S. pilot Lt. Col. Richard Kessel said.</p>
+<p>Kessel said the left engine of his plane malfunctioned forcing him to request an emergency landing. No one was hurt.</p>
+<p>They were on their way to Townsville, Australia, from Kadena airforce base in Japan. He declined to give information about their mission.</p>
+<p>Kessel has asked the U.S. embassy in Manila for assistance in organising repairs.</p>
+<p>The emergency landing did not affect international and domestic commercial flight schedules, an airport official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

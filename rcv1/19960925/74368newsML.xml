@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74368" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S. Post Office plots to be relevant in digital age.</title>
+<headline>U.S. Post Office plots to be relevant in digital age.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>Long derided as the &quot;snail mail&quot; alternative to zippier electronic mail, the U.S. Postal Service is plotting its own foray into cyberspace.</p>
+<p>Although still in various stages of testing and development, Post Office projects include a digital postal meter that can be filled online, a service to verify the autheticity of e-mail and an archive for digital data.</p>
+<p>The postal service has a long history of nurturing new communications technologies, Paul Raines, programme manager for electronic commerce services, noted.</p>
+<p>&quot;The Postal Service has always been there as a sort of enabler of technology,&quot; Raines said, noting the services' early support of railroads, telegraphs and airplanes.</p>
+<p>The postal service contracted for air delivery of mail in the early days of powered flight while the rest of the government hesitated. Eventually, the service built a network of beacons, towers and airfields to speed service.</p>
+<p>Much of the Post Office's thrust on the Internet is to create an infrastructure of standards and universally accepted practices. The technology, in many cases, is decades old.</p>
+<p>For example, in the 1970s, researchers developed a system called public key encryption for ensuring the security and authenticity of e-mail or other electronic documents.</p>
+<p>Everyone using the system gets two software &quot;keys,&quot; one kept secret and one made publicly available.</p>
+<p>A user runs any document through a special programme that codes the document with the private software key. The document can be decoded only with the companion public key. Anyone who receives the document can be sure of its source with the public key.</p>
+<p>The process can also work in reverse. To send a secret message, the message is encoded with the intended recipient's public key. It can then only be decoded with the private key.</p>
+<p>But for the system to work, some entity must disseminate the public keys and insure that keys are registered in the names of their true owners. The Post Office may be perfectly suited for such a job.</p>
+<p>The first service, time-stamping and authenticating e-mail, is basically a simple variation on public key encryption. Each message is encoded using the Post Office's own private key and can be verified against the service's public key.</p>
+<p>&quot;That can be important for a legal document if you want to prove that it existed at a certain date and time or if you were submitting your taxes to the IRS electronically and you want to prove that you had it in by April 15,&quot; Raines said.</p>
+<p>Next year, the service will begin trials for a wider ranging encryption key programme, registering pairs of keys for individuals and businesses to avoid duplication and then making public keys accessible.</p>
+<p>The Post office also plans to expand existing service on its Web site (http://www.usps.gov), called MoversNet, with encryption. The service offers advice for movers, tips for packing, discounts on van rentals and other information.</p>
+<p>Eventually, using encryption, people will be able to register a change of address over the Internet for mail forwarding.</p>
+<p>Not everyone supports the Post Office's new drive in electronic commerce, with opposition particularly among companies that offer competing services.</p>
+<p>A leading bank lobbying group, the American Bankers Association, blasted the Post office's plans in a letter to the service earlier this month.</p>
+<p>&quot;The USPS should stick to its primary mission of delivering mail,&quot; the banking group wrote.</p>
+<p>Services under consideration, which banks might also provide, are &quot;inappropriate diversions from USPS' charter mission,&quot; the bankers added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

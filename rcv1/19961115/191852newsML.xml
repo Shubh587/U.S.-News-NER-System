@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191852" id="root" date="1996-11-15" xml:lang="en">
+<title>UK: L-Finance sets 1.0 bln French Franc Jan 2007 bond.</title>
+<headline>L-Finance sets 1.0 bln French Franc Jan 2007 bond.</headline>
+<dateline>LONDON 1996-11-15</dateline>
+<text>
+<p>The following bond was announced by lead manager Banque nationale de Paris.</p>
+<p> BORROWER   BADEN-WUERTEMBERG L-FINANCE</p>
+<p>GUARANTOR  LANDESKREDITBANK BADEN-WUERTEMBERG, THE STATE</p>
+<p>		DEVELOPMENT AGENCY OF BADEN-WUERTTEMBERG</p>
+<p> AMOUNT 1.0 BLN FFR   COUPON    *4.125     MATURITY    11.JAN.07</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  101.675   PAY DATE  L-11.DEC.96</p>
+<p> FULL FEES  2.00	REOFFER    100</p>
+<p> NOTES     *TILL 11.JAN.99 THEN TEC-10 LESS 117 BP THEREAFTER.</p>
+<p>		L-LONG FIRST COUPON (FIXED AT 4.475 PCT)</p>
+<p> MOODY	AAA	 LISTING    PARIS     PAY FREQ    =</p>
+<p> S&amp;P	  AAA	 DENOMS (K) 10-100 1M SALE LIMS US/UK/FR/GE</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA 1</p>
+<p> GOV LAW    ENGLISH   MGT/UND    0.325     SELL CONC  1.675</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57650" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: BASEBALL-MONDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-MONDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games on Monday (home team in CAPS):</p>
+<p>		  American League</p>
+<p> New York	 10  TORONTO	    0</p>
+<p> Cleveland	 4  CHICAGO	    3</p>
+<p> KANSAS CITY     6  Minnesota	  5</p>
+<p> SEATTLE	   6  Texas		0</p>
+<p> Milwaukee	at  BALTIMORE -- postponed</p>
+<p>		  National League</p>
+<p> Atlanta	   5  NEW YORK	   2</p>
+<p> Los Angeles     6  COLORADO	   4</p>
+<p> San Diego	 2  SAN FRANCISCO    1 (in 11)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

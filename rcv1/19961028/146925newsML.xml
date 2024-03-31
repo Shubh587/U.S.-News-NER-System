@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146925" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Peoples sees $283,000 SAIF impact.</title>
+<headline>Peoples sees $283,000 SAIF impact.</headline>
+<dateline>MASSILLON, Ohio 1996-10-28</dateline>
+<text>
+<p>Peoples Financial Corp said on Monday it expected earnings to be reduced by about $283,000 after taxes, due to the impact of recapitalizing its share of the Savings Association Insurance Fund.</p>
+<p>Recent U.S. legislation required all institutions insured by the SAIF to pay a one-time special assessment of $0.657 for every $100 of insured deposits held on March 31, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MASSILLON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75001" id="root" date="1996-09-25" xml:lang="en">
+<title>SLOVAKIA: Direct equity trades on the Slovak BSE - Sept 25.</title>
+<headline>Direct equity trades on the Slovak BSE - Sept 25.</headline>
+<dateline>BRATISLAVA 1996-09-25</dateline>
+<text>
+<p>The following is a list of direct equity trades on the Bratislava Stock Exchange on Wednesday:</p>
+<p>   ISSUE	 Min. Price  Max. Price   Volume   Turnover</p>
+<p>		     (SKK)	 (SKK)     (shares) (SKK 000's)</p>
+<p> BIOTIKA		990	   990	     98	   97</p>
+<p> CHEMOLAK	   1,837	 1,890	 20,071     37,534</p>
+<p> NAFTA		2,020	 2,030	  4,600	9,304</p>
+<p> PLASTIKA	   1,125	 1,125	    167	  188</p>
+<p> SLOVNAFT	     880	   955	     57	   54</p>
+<p> TATRA KUPON FUND 2,200	 2,400	     83	  185</p>
+<p> VSZ		    590	   590		7	    4</p>
+<p> VUB KUPON	    630	   820	181,772    140,189</p>
+<p> VUB BANK	   1,700	 1,700	     67	  114</p>
+<p>-- Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

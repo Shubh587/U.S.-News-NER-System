@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810130" id="root" date="1997-08-19" xml:lang="en">
+<title>AUSTRALIA: Australia plans bill on financial payment reforms.</title>
+<headline>Australia plans bill on financial payment reforms.</headline>
+<dateline>CANBERRA 1997-08-18</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Tuesday the government would soon release for comment details of legislation aimed at reducing risk in the financial payments system.</p>
+<p>Costello said in a statement the legislation would ensure the effectiveness of the money market's new &quot;shadow&quot; real time gross settlements (RTGS) system and providing greater assurance for netting arrangements for low-value retail payments.  </p>
+<p>&quot;Control of risk in the payments system is a worldwide policy concern of governments and central banks,&quot; Costello said.</p>
+<p>Under changes due to be introduced by the Reserve Bank from early 1998, large payments will be made on an RTGS basis.</p>
+<p>Existing arrangements for meeting net, rather than gross, obligations will continue for low-value payments.</p>
+<p>&quot;There are, however, some uncertainties attaching to the effectiveness of the existing multilateral netting arrangements and the proposed RTGS arrangements in the event of the failure of one of the participants in that system, however unlikely we all hope that eventuality will be,&quot; Costello said.  </p>
+<p>The planned legislation will exempt real time transactions and transaction settling multilateral net system obligations arising from the low value clearing streams from the zero hour rule.</p>
+<p>It will also prevent multilateral netting arrangements for low-value retail payments being set aside as &quot;unfair preferences&quot;; clarify netting obligations and allow unsettled cheques of a failed drawee bank to be treated as dishonoured.</p>
+<p>Costello did not say when the legislation would be released for public comment or when the final draft would be introduced in parliament.  </p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

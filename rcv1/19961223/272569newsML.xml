@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272569" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Novadigm says gets Internet &quot;push&quot; patent.</title>
+<headline>Novadigm says gets Internet &quot;push&quot; patent.</headline>
+<dateline>MAHWAH, N.J. 1996-12-23</dateline>
+<text>
+<p>Novadigm Inc on Monday said it received a patent for its proprietary processes used in Internet &quot;push-pull&quot; technology, where customized information is directly broadcast to networked personal computers.</p>
+<p>Novadigm's patent describes the processes needed to generate unique reference information for each target end user and to 'difference' the model with the actual-state of the target, yielding very specific updates to distributed content automatically, they said.</p>
+<p>Key elements of the technology protected by the patent are already employed by users of Novadigm's software management product, Enterprise Desktop Manager, they added.</p>
+<p>The firm said it plans to expand its licensing progam to include the patented processes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAHWAH, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

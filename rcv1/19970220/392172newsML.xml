@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="392172" id="root" date="1997-02-20" xml:lang="en">
+<title>CHINA: Tianjin Automobile gains permission for expansion.</title>
+<headline>Tianjin Automobile gains permission for expansion.</headline>
+<dateline>TIANJIN 1997-02-20</dateline>
+<text>
+<p>Tianjin Automobile Industrial Co. Ltd has received official approval for an expansion project worth 2.1 billion yuan (253 million US dollars), Xinhua news agency said on Thursday.</p>
+<p>The agency said the project was aimed at expanding production of the Charade compact car.</p>
+<p>Tianjin Automobile currently has annual production volume of 150,000 vehicles, second in China only to Shanghai Volkswagen, it said.</p>
+<p>The agency gave no details.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIANJIN"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

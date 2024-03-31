@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="549600" id="root" date="1997-04-30" xml:lang="en">
+<title>NORWAY: SOCCER-LATE SOLSKJAER GOAL SAVES NORWAY.</title>
+<headline>SOCCER-LATE SOLSKJAER GOAL SAVES NORWAY.</headline>
+<dateline>OSLO 1997-04-30</dateline>
+<text>
+<p>Ole Gunnar Solskjaer saved Norway from an embarrassing World Cup defeat by Finland with an 83rd minute goal in their group three qualifier on Wednesday.</p>
+<p>The 1-1 draw kept Norway, who had a 100 per cent record after three games and a goal tally of 9-0, at the top of the group with 10 points.</p>
+<p>Norway dictated the game in the first half but fell behind on the hour to a goal by Antti Sumiala.</p>
+<p>The Finns then defended in depth until Solskjaer's late strike.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

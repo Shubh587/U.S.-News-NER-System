@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21870" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Virginia nuke resumes limited power output.</title>
+<headline>Virginia nuke resumes limited power output.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>Virginia Power Co's 911 megawatt North Anna nuclear unit 1 resumed limited output early Thursday after tripping off line Wednesday, a company spokesman said.</p>
+<p>The unit is currently operating at 30 percent of capacity and will hold at that level for an undetermined period for restart testing, spokesman William Byrd said Thursday.</p>
+<p>&quot;It can (hold at 30 percent) for as long as 10 to 12 hours, or perhaps even longer,&quot; Byrd said.</p>
+<p>The unit, located at Mineral, Va. will ramp up to full power following the 30 percent test hold, the spokesman said.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

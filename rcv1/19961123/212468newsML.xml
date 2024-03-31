@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212468" id="root" date="1996-11-23" xml:lang="en">
+<title>USA: U.S. transport plane with 11 aboard crashes.</title>
+<headline>U.S. transport plane with 11 aboard crashes.</headline>
+<dateline>SAN FRANCISCO 1996-11-22</dateline>
+<text>
+<p>A military transport plane with 11 people on board crashed into the Pacific Ocean off the northern California coast on Friday, the U.S. Coast Guard said.</p>
+<p>Coast Guard planes and helicopters located the wreckage of the Air National Guard C-130 based in Portland, Oregon, Coast Guard spokesman Jeff Murphy said. One survivor in critical condition has been rescued, but the fate of the other 10 people on board remains unknown, he said.</p>
+<p>The C-130 was flying from Portland to San Diego on Friday evening when it reported an electrical failure and then lost contact with a Seattle communications centre, the Coast Guard said.</p>
+<p>The plane went down about 48 nautical miles west of Cape Mendocino on the northern California coast, it said.</p>
+<p>Murphy said the Coast Guard sent a C-130 and two helicopters to the crash site to search for survivors. A Coast Guard search and rescue ship was on its way to the area and another helicopter would be leaving soon, Murphy said. The search would continue all night, he said.</p>
+<p>The lost plane was attached to the 304th squadron of the Air National Guard, the Coast Guard said. The cause of the crash was unknown.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

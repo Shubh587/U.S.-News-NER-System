@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179435" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Acer enters graphics workstation market.</title>
+<headline>Acer enters graphics workstation market.</headline>
+<dateline>SAN JOSE, Calif. 1996-11-11</dateline>
+<text>
+<p>Acer Inc's Acer America Corp said it is offering graphics workstations running Intel Corp chips at half the cost of traditional workstations.</p>
+<p>The company its AcerPower Graphics Workstation runs Microsoft Corp Windows NT software and an Intel 200 megahertz Pentium Pro chip and carries an estimated street price of $7,500, about half the price of rival workstations.</p>
+<p>Acer said the machines are aimed at the graphics design segment of the workstation market dominated by Sun Microsystems Inc and Silicon Graphics Inc.  </p>
+<p>The company's announcement did not specify when the new workstation line would begin shipping to customers.</p>
+<p>In addition, Acer America said it enhanced its entire AcerPower commercial PC line with 14 new minitower and desktop models pricing 15 to 25 percent cheaper than similiarly configured PCs from Compaq Computer Corp and Hewlett-Packard Co. AcerPower PCs start at $1,250.</p>
+<p>Acer said its graphics workstations come loaded with 40 megabytes of memory and a graphics accelerator chip from Diamond Multimedia Systems Inc that can perform three-dimensional rendering similar to that offered on Sun and Silicon Graphics machines using non-Intel microprocessors.</p>
+<p>Graphics workstations are used by architects, graphics professionals and other computer-aided designers.</p>
+<p>Acer America is a unit of Acer Inc of Taiwan.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

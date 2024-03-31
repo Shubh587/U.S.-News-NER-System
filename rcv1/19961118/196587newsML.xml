@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196587" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: EarthLink Network launches nationwide ISDN service.</title>
+<headline>EarthLink Network launches nationwide ISDN service.</headline>
+<dateline>NEW YORK 1996-11-18</dateline>
+<text>
+<p>Internet service provider EarthLink Network Inc has launched its nationwide Integrated Services Digital Network (ISDN) service, a high-speed link between its customers and the Internet via telephone lines.</p>
+<p>Using an external ISDN modem and appropriate computer hardware, computer users get access to the Internet at up to 128 kilobits per second, more than four times the speed that most home computer owners access the Internet.</p>
+<p>EarthLink, based in Pasadena, Calif., said its ISDN service will make it easier to order and install an ISDN line for Internet access.</p>
+<p>EarthLink will provide ISDN Internet access for $34.95 per month for 100 hours, with a $50 set-up fee. The charge for usage beyond 100 hours is $0.99 per hour.</p>
+<p>EarthLink said it has partnered with Telamon Corp as its ISDN fulfillment partner. EarthLink will take the order for both the ISDN line and any hardware required from the customer, and forward the order to Telamon who will confirm the order and place it with the telephone company.  Telamon will also warehouse and ship the ISDN hardware.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303851" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Pakistan buys Australian/U.S. wheat for Feb -trade.</title>
+<headline>Pakistan buys Australian/U.S. wheat for Feb -trade.</headline>
+<dateline>CHICAGO 1997-01-13</dateline>
+<text>
+<p>Pakistan over the weekend bought a total of 315,000 tonnes wheat, 180,000 tonnes of which was Australian origin and 135,000 tonnes of which was U.S. wheat for February 1-28 delivery, several U.S. exporters said.  </p>
+<p>One U.S. exporter said the deal included U.S. soft white wheat at about $152.00 a tonne, FOB, and Australian white milling wheat.</p>
+<p>No other details were available.</p>
+<p>((Doris Frankel 312-983-7305))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

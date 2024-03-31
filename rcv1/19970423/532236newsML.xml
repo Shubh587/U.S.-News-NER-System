@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532236" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Bad weather delays U.S. weather satellite.</title>
+<headline>Bad weather delays U.S. weather satellite.</headline>
+<dateline>CAPE CANAVERAL, Fla 1997-04-23</dateline>
+<text>
+<p>NASA postponed the launch of a much-needed $220 million weather satellite on Wednesday because of stormy weather at the launch site.</p>
+<p>The launch of the Atlas rocket carrying the GOES-K weather satellite had been scheduled for early on Thursday but was delayed 24 hours because of storms and gusty winds in the Cape Canaveral area, NASA spokesman George Diller said.</p>
+<p>The satellite's blastoff was rescheduled for 1:49 a.m. EDT (0549 GMT) on Friday, when weather conditions were forecast to be near-perfect.</p>
+<p>GOES-K is to serve as a much-needed spare for two older satellites already stationed in orbit 22,300 miles (35,890 km) above the equator. Those satellites have suffered technical problems and forecasters are eager to have a back-up in place should one of them fail.</p>
+<p>Meteorologists across North America rely on the twin satellites to warn of thunderstorms, flash floods and other severe weather. The GOES network also provides early detection and tracking of hurricanes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

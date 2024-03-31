@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636250" id="root" date="1997-06-04" xml:lang="en">
+<title>CANADA: GM Canada sales rise 9.2 pct in May.</title>
+<headline>GM Canada sales rise 9.2 pct in May.</headline>
+<dateline>OSHAWA, Ontario 1997-06-04</dateline>
+<text>
+<p>General Motors of Canada Ltd, a wholly owned unit of General Motors Corp, said on Wednesday its sales for May were as follows:</p>
+<p>		     PCT CHANGE	    1997	     1996</p>
+<p>   Total	    +9.2		   45,364	   41,548</p>
+<p>   Cars	    +10.1		   27,090	   24,606</p>
+<p>   Trucks	   +7.9		   18,274	   16,942</p>
+<p>   YEAR-TO-DATE  PCT CHANGE	    1997	     1996</p>
+<p>   Total	   +13.3		  183,537	  162,056</p>
+<p>   Cars	    +12.8		  105,650	   93,702</p>
+<p>   Trucks	  +13.9		   77,887	   68,354</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSHAWA, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

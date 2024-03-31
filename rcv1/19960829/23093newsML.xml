@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23093" id="root" date="1996-08-29" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia Apr-Jun c/a def revised down.</title>
+<headline>RTRS-Australia Apr-Jun c/a def revised down.</headline>
+<dateline>CANBERRA 1996-08-29</dateline>
+<text>
+<p>The Australian Bureau of Statistics revised down its estimates of Australia's current account deficit for the three months to June by a total of A$224 million. The previous three months were not revised.  </p>
+<p>The current account deficit for the fiscal year to June is now estimated at A$20.298 billion, down from A$20.541 previously estimated.</p>
+<p>The bureau's trend estimates -- moving averages intended to remove volatility -- now show an improving current account deficit.</p>
+<p>Recent months' sharply volatile seasonally adjusted figures had created a slightly worsening trend picture in June.</p>
+<p>The trend estimates now show the current account deficit improving continuously since early 1995, except in April 1996, when it was barely changed.  </p>
+<p>In trend terms, the current account deficit was A$1.506 billion in July, down from A$1.578 billion in June.</p>
+<p>-- Canberra Bureau 61-6 273-2370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

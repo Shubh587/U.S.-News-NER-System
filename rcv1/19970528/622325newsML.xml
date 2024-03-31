@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622325" id="root" date="1997-05-28" xml:lang="en">
+<title>IRAN: Quakes hit two Iranian cities - agency.</title>
+<headline>Quakes hit two Iranian cities - agency.</headline>
+<dateline>TEHRAN 1997-05-28</dateline>
+<text>
+<p>Two earthquakes jolted cities in north and northwestern Iran on Wednesday, one measuring 4.8 on the Richter scale hit Ardabil and the other measuring 4.6 struck Astara, the official Iranian news agency IRNA said.</p>
+<p>It said there were no reports yet on possible casualties or damage in Ardabil, in northwestern Iran, and Astara in the north. Earthquakes of force four or more are powerful enough to cause heavy damage in a populated area.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

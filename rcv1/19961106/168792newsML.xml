@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168792" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: U.S. power output rises 4.1 pct vs. year ago - EEI.</title>
+<headline>U.S. power output rises 4.1 pct vs. year ago - EEI.</headline>
+<dateline>NEW YORK 1996-11-06</dateline>
+<text>
+<p>Electricity deliveries in the continental U.S. totaled 60,053 gigawatt hours (GWh) for the week ended Nov 2, up 4.1 percent from the same period in 1995, Edison Electric Institute said Wednesday.</p>
+<p>The amount of power supplied in the country's south central region rose most from a year ago, up 10.3 percent at 8,262 gigawatt hours (GWh), while weekly deliveries in the Pacific Northwest fell 2.3 percent to 3,290 GWh.</p>
+<p>The latest electricity output in the contingous 48 states rose 2.5 percent from the previous reporting week.</p>
+<p>Year-to-date domestic power production totaled about 2.81 million GWh, up 2.3 percent from the same period in 1995, EEI said.</p>
+<p>--New York Power Desk 212-859-1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

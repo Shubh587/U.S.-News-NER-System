@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69858" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: PacifiCorp Centralia starts one unit.</title>
+<headline>PacifiCorp Centralia starts one unit.</headline>
+<dateline>LOS ANGELES 1996-09-23</dateline>
+<text>
+<p>The 670-megawatt unit at the Centralia power plant in southwest Washington state, which tripped off-line Thursday, was restarted early Saturday morning, but the plant's other unit was shut for a similar problem Saturday afternoon, said PacifiCorp on Monday.</p>
+<p>The unit which was shut Saturday due to a &quot;somewhat routine&quot; tube leak should be back up by this afternoon, said PacifiCorp spokesman Bob French.</p>
+<p>PacifiCorp owns a 47.5 percent stake in Centralia and operates the coal-fired plant.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

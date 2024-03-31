@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162703" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: PG&amp;E Calif. nuclear unit seen up Mon night.</title>
+<headline>PG&amp;E Calif. nuclear unit seen up Mon night.</headline>
+<dateline>LOS ANGELES 1996-11-04</dateline>
+<text>
+<p>Pacific Gas and Electric Co's 1,087 megawatt (MW) Diablo Canyon nuclear unit 1 is expected to begin ramping up late Monday afternoon, and to reach full power before midnight, a company spokesman said.</p>
+<p>The Avila Beach, Calif., unit was reduced to about 50 percent power Sunday night for condenser cleaning.</p>
+<p>PG&amp;E said earlier Monday that the unit would be back to full power by mid-afternoon, but the schedule was slightly delayed.</p>
+<p>&quot;This is a very short-term curtailment,&quot; the company spokesman said. &quot;It will be about 24 hours between the time the unit was ramped down to the time it reaches 100 percent power.&quot;</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

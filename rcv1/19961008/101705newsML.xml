@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101705" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: LOOP tanker loadings expected to resume Tuesday.</title>
+<headline>LOOP tanker loadings expected to resume Tuesday.</headline>
+<dateline>NEW YORK 1996-10-08</dateline>
+<text>
+<p>Crude oil tankers are expected to resume loading at the Louisiana Offshore Oil Port (LOOP) later Tuesday, depending on weather conditions.</p>
+<p>&quot;(Loadings) are expected to resume today, as soon as the weather allows for it,&quot; a LOOP official told Reuters.</p>
+<p>Four or five tankers were reported lining up outside the storm waiting to make deliveries.</p>
+<p>Pipeline operations and deliveries were not affected by the delay in shipping.</p>
+<p>The LOOP is the only deep-water port in U.S. waters and has been shut since Saturday by heavy seas from Tropical Storm Josephine sweeping through the Gulf of Mexico.</p>
+<p>The port is about 20 miles south of Grand Isle, Louisiana.</p>
+<p>--Jacqueline Wong, New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

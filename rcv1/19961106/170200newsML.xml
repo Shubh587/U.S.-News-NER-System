@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170200" id="root" date="1996-11-06" xml:lang="en">
+<title>INDIA: India's corporate debt issues in October - SBI Caps.</title>
+<headline>India's corporate debt issues in October - SBI Caps.</headline>
+<dateline>BOMBAY 1996-11-06</dateline>
+<text>
+<p>The following is a table of Indian corporate debt issues in October, compiled by securities firm SBI Capital Markets Ltd.</p>
+<p>ISSUER INSTRUMENT RATING AMOUNT  GREEN- COUPON MATURITY LISTING</p>
+<p>				(RS.MLN) SHOE   (PCT)    (YRS)    ON</p>
+<p>					   OPTION</p>
+<p>--------------------------------------------------------------- HFC    Bonds*     None	500   --     17.50	6	--</p>
+<p>PSIDC  Bonds*     None	500   --     16.00	5	--</p>
+<p>RSEB   Bonds*     LAA(so)  2000   --  17.25-17.50   7     NSE#</p>
+<p>NPC    Taxable</p>
+<p>	 bond*	A	   500   50  17.75-18.00  7-10   NSE#</p>
+<p>	 Tax-free</p>
+<p>	 bond*	 --	  --   --     10.50     10	--</p>
+<p>KSEB   Bonds*     AA(so)   1500   30     17.00	7	--</p>
+<p>KBJNL  Bonds*     A(so)    1500  120     17.50	7	--</p>
+<p>IRBI   Bonds*	--	 800   --     13.85     10     C,D,</p>
+<p>									  Chennai</p>
+<p>NOTE: * Private placement, # Proposed</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

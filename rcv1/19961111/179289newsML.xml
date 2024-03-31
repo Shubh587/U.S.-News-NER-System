@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179289" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Cardinal says modem upgradable to 56K,ISDN.</title>
+<headline>Cardinal says modem upgradable to 56K,ISDN.</headline>
+<dateline>LANCASTER, Pa 1996-11-11</dateline>
+<text>
+<p>Cardinal Technologies Inc on Monday said its new 33.6 thousand bit per second (Kbps) modem can be upgraded to 56 Kbps as well as 128 Kbps Integrated Services Digital Networks, or ISDN, for faster Internet connections.</p>
+<p>Modems are hardware that allow computers to communicate via telephone lines.</p>
+<p>Cardinal said the modem will use U.S. Robotics Corp's &quot;x2&quot; 56 Kbps technology. The technology takes advantage of the digital connections already in place between the telephone network and equipment used by many Internet service providers and corporate remote access servers.</p>
+<p>Cardinal says its new modem will start at about $149 and should be available during the first quarter of 1997.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANCASTER, Pa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

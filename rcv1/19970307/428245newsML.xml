@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="428245" id="root" date="1997-03-07" xml:lang="en">
+<title>USA: Group asks SEC to look into Nasdaq pilot program.</title>
+<headline>Group asks SEC to look into Nasdaq pilot program.</headline>
+<dateline>WASHINGTON 1997-03-06</dateline>
+<text>
+<p>The Electronic Traders Association, citing operational flaws, said Thursday it asked Securities and Exchange Commission to take a closer look at the 90-day pilot order handling program for 50 Nasdaq stocks.</p>
+<p>In a March 5 letter to Richard Lindsey, director of market regulations, ETA said its members encountered problems when attempting to execute orders electronically on the basis of quotes publicly displayed by Nasdaq market makers.</p>
+<p>&quot;These problems severely undercut the Commission's actions to enhance Nasdaq pricing efficiency and competition and to improve the quality of Nasdaq order handling,&quot; ETA wrote.</p>
+<p>Last year the SEC approved new stock order-handling rules that call for a wider display of limit orders -- those in which a customer wants to buy or sell a stock at a specific price and not at the prevailing market price.</p>
+<p>A three month pilot is now underway as part of the implementation of the SEC's Order Handling and private electronic communications network, or ECN.</p>
+<p>Some of the problems ETA members encountered include market markers frequently will only fill an order up to the minimum size required by the pilot program even though they post quotation sizes well in excess of the minimum required.  </p>
+<p>ETA said Nasdaq has been programmed to reject Small Order Execution System (SOES) orders which may have the net effect of encouraging order-entry firms to sidestep the program by entering into a preferencing arrangment.</p>
+<p>Another ETA concern was that many SOES orders are arbitrarily &quot;timed out&quot; by the Nasdaq system, causing executions to be discouraged rather than executed.</p>
+<p>ETA said there was no formal mechanism for monitoring and enforcing compliance with the SEC's Order Handling and ECN display rules.</p>
+<p>The group said a &quot;sounder course of action would be to extend the Pilot Program.&quot; They also asked the SEC for an opportunity to discuss the points in their letter in the &quot;not too distant future.&quot;</p>
+<p>Nasdaq said they had just received a copy of the letter and was not prepared to comment at this time. SEC policy prohibits the agency from commenting on any correspondence, even to confirm it had received the letter.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

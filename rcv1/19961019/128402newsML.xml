@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128402" id="root" date="1996-10-19" xml:lang="en">
+<title>ITALY: CYCLING-WORLD CUP STANDINGS.</title>
+<headline>CYCLING-WORLD CUP STANDINGS.</headline>
+<dateline>BERGAMO, Italy 1996-10-19</dateline>
+<text>
+<p>World Cup standings after</p>
+<p>the Tour of Lombardy cycle race on Saturday:</p>
+<p> 1. Johan Museeuw (Belgium)			 162 points</p>
+<p> 2. Andrea Ferrigato (Italy)			126</p>
+<p> 3. Michele Bartoli (Italy)			 124</p>
+<p> 4. Stefano Zanini (Italy)			   88</p>
+<p> 5. Andrea Tafi (Italy)				87</p>
+<p> 6. Lance Armstrong (U.S.)			   81</p>
+<p> 7. Fabio Baldato (Italy)			    77</p>
+<p> 8. Alexandre Gonchenkov (Russia)		  67</p>
+<p> 9. Gabriele Colombo (Italy)			 58</p>
+<p> 10. Andrea Tohmil (Ukraine)			 56</p>
+<p> 10 equal. Fabiano Fontanelli (Italy)	    56</p>
+<p> 12 equal. Udo Bolts (Germany)		     50</p>
+<p> 12 equal. Pascal Richard (Switzerland)	  50</p>
+<p> 12 equal. Davide Rebellin (Italy)		 50</p>
+<p> 12 equal. Nicola Minali (Italy)		   50</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERGAMO, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

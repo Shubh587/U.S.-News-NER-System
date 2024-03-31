@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90208" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Mazda September US car sales fall.</title>
+<headline>Mazda September US car sales fall.</headline>
+<dateline>DETROIT 1996-10-02</dateline>
+<text>
+<p>Mazda Motor Corp</p>
+<p>			Sep 1-30, 1996     Sep 1-30, 1995 *Pct Chng</p>
+<p> Domestic Car	     5,250	     7,967	    -31.4</p>
+<p> Domestic Truck	   3,004	     3,370	     -7.1</p>
+<p> Import Car		 5,867	     7,849	    -22.1</p>
+<p> Import Truck		 909		 817	    +15.9</p>
+<p>		  Jan 1-Sep 30, 1996 Jan 1-Sep 30, 1995 *Pct Chng</p>
+<p> Domestic Car	    69,717	    85,974	    -19.3</p>
+<p> Domestic Truck	  33,880	    36,263	     -7.0</p>
+<p> Import Car		80,263	    96,792	    -17.4</p>
+<p> Import Truck	    10,617	    11,588	     -8.8</p>
+<p>* Pct change based on daily selling rate. Sale days 24 in latest month vs 25, 231 for year to date vs 230 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

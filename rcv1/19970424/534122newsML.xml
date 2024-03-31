@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534122" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Federal Reserve report 1 (H.3/H.4.1) - April 24.</title>
+<headline>Federal Reserve report 1 (H.3/H.4.1) - April 24.</headline>
+<text>
+<p>Two weeks ended April 23 - daily avgs-millions (H.3)</p>
+<p> Free reserves................379  vs..rvsd...876</p>
+<p> Bank borrowings..............228  vs.........344</p>
+<p> Seasonal loans................86  vs..........61</p>
+<p> Extended loans...............nil  vs........unch</p>
+<p> Excess reserves..............607  vs.......1,220</p>
+<p> Required reserves (adj)...46,015  vs......47,436</p>
+<p> Required reserves.........46,272  vs......47,312</p>
+<p> Total reserves............47,879  vs......47,532</p>
+<p> Non-borrowed reserves.....47,651  vs......48,189</p>
+<p> Monetary base (unadj)....466,349  vs.....464,800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

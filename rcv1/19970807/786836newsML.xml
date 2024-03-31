@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786836" id="root" date="1997-08-07" xml:lang="en">
+<title>DENMARK: DANISH JUNE UNEMPLOYMENT FALLS TO 8.0 PCT.</title>
+<headline>DANISH JUNE UNEMPLOYMENT FALLS TO 8.0 PCT.</headline>
+<dateline>COPENHAGEN 1997-08-07</dateline>
+<text>
+<p>Denmark's seasonally adjusted unemployment was 8.0 percent of the workforce in June 1997, down from 8.1 percent in May, the National Statistics Office said on Thursday.  </p>
+<p>				 June 1997	May 1997    June 1996</p>
+<p>    Unemployment rate     8.0 pct	  8.1 pct     8.8 pct*</p>
+<p>    Total unemployed	221,600	  224,200*    243,800*</p>
+<p>	    *Revised</p>
+<p>All above figures seasonally adjusted.</p>
+<p>NOTE - A panel of economists polled by Reuters had on average forecast seasonally adjusted June year-on-year unemployment of 8.0 percent.</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33-969652.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101263" id="root" date="1996-10-07" xml:lang="en">
+<title>VIETNAM: Vietnam reports new execution.</title>
+<headline>Vietnam reports new execution.</headline>
+<dateline>HANOI 1996-10-07</dateline>
+<text>
+<p>Vietnam said on Monday it had put to death a man convicted of murder, marking the latest in a series of recent reported executions.</p>
+<p>The Lao Dong (Labour) newspaper said Pham Van Manh, born in 1972, had attacked a colleague with a knife during an argument last year in a town near Hanoi.</p>
+<p>He then ran amok killing a passer-by, the report said. His execution took place on October 2.</p>
+<p>Executions in Vietnam are carried out by firing squad and normally go unreported. However, details of several have appeared in the country's state-controlled media in recent weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

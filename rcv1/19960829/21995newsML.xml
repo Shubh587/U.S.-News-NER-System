@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21995" id="root" date="1996-08-29" xml:lang="en">
+<title>BANGLADESH: Bangladesh rescues five Indian fishermen at sea.</title>
+<headline>Bangladesh rescues five Indian fishermen at sea.</headline>
+<dateline>COX'S BAZAR, Bangladesh 1996-08-29</dateline>
+<text>
+<p>Bangladeshi fishermen rescued five crew of a wrecked Indian trawler in the Bay of Bengal on Thursday, police said.</p>
+<p>They said the five were seen floating at high sea, some 100 km (60 miles) from Cox's Bazar coast, holding on to their battered vessel.</p>
+<p>The Indians told the rescuers their trawler had been damaged and its engine stopped working in a storm last month. &quot;We survived by eating fish and water from the sea,&quot; one survivor told police at Cox's Bazar.</p>
+<p>No other details were available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COX'S BAZAR, Bangladesh"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186343" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: New York grain freight fixtures - Nov 13.</title>
+<headline>New York grain freight fixtures - Nov 13.</headline>
+<dateline>NEW YORK 1996-11-13</dateline>
+<text>
+<p>TBM 52,000 tons hss USG/Japan end-Nov/early Dec no combo $25.25 Dreyfus.</p>
+<p>Despina 52,000 tonnes hss USG/Japan 20-25/11 $26.00 no combo 11 days MSK (adds vessel name, amends).</p>
+<p>-- New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

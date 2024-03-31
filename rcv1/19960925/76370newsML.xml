@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76370" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: UK manufacturers, distributors stocks fall in Q2.</title>
+<headline>UK manufacturers, distributors stocks fall in Q2.</headline>
+<dateline>LONDON 1996-09-25</dateline>
+<text>
+<p>The Office for National Statistics issued the following revised data on manufacturers, wholesalers and retailers stocks in the second quarter of 1996-</p>
+<p>    STOCKS (in mln stg)     Q2		Q1	    Q2,95</p>
+<p>    TOTAL			 -92 (-174)    913	   528</p>
+<p>    MANUFACTURING	    -215 (-318)    188	   538</p>
+<p>    WHOLESALING		 262  (149)    252	   -1</p>
+<p>    RETAILING		    27  (62)     352	   246</p>
+<p>MANUFACTURING BREAKDOWN</p>
+<p>    MATERIALS AND FUEL	 60  (-32)    107	    n/a</p>
+<p>    WORK IN PROGRESS	   97   (52)    -45	    n/a</p>
+<p>    FINISHED GOODS	    -372 (-338)    126	    n/a</p>
+<p>The ONS said the ratio of stocks to output fell to 91.5 at the end of the second quarter from 91.7 at the end of March.This compares with an initial estimate of 91.3 for Q2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

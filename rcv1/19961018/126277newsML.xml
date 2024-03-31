@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126277" id="root" date="1996-10-18" xml:lang="en">
+<title>SOUTH AFRICA: S.African average T-Bill rate 15.01 pct.</title>
+<headline>S.African average T-Bill rate 15.01 pct.</headline>
+<dateline>PRETORIA 1996-10-18</dateline>
+<text>
+<p>The average discount rate for South African three-month Treasury Bills fell to 15.01 percent at the latest weekly tender after holding steady at 15.04 percent last week, the Reserve Bank said.</p>
+<p>Applications for the 700 million rand of bills on offer totalled 2.072 billion rand. The average price was 96.260 rand percent.</p>
+<p>The average rate for six-month bills was 14.78 percent from 14.73 percent. Applications for the 200 million rand of bills on offer totalled 815 million rand. The average price was 92.630 rand percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRETORIA"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

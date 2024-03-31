@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129840" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Dyneco, Coltec in licensing deal.</title>
+<headline>Dyneco, Coltec in licensing deal.</headline>
+<dateline>MINNEAPOLIS 1996-10-21</dateline>
+<text>
+<p>Dyneco Corp said Monday it entered into a technology and patent licensing agreement with Coltec Industries Inc.</p>
+<p>The agreement gives Coltec exclusive rights to manufacture and sell vacuum pumps based on patents and technology related to DynEco's Orbital Vane mechanisms. The pumps are in the range of 1/2 to 10 horsepower.</p>
+<p>Financial terms were not disclosed.</p>
+<p>The license covers North and South America, Southeast Asia and the Pacific Rim, including Japan, China, South Korea and Australia.</p>
+<p>The annual market for vacuum pumps is estimated at more than $50 million in the United States alone, Dyneco said.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

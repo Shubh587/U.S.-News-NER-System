@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578307" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: MedImmune, BioTransplant get trial okay.</title>
+<headline>MedImmune, BioTransplant get trial okay.</headline>
+<dateline>GAITHERSBURG, Md. 1997-05-13</dateline>
+<text>
+<p>MedImmune Inc said Tuesday that it and BioTransplant Inc received clearance from the U.S. Food and Drug Administration to begin human clinical trials with MEDI-507, a humanized form of their organ transplant drug BTI-322.</p>
+<p>MedImmune said that one-year follow-up results from a Phase I/II trial in which the BTI-322 monoclonal antibody was given at the time of organ transplantation reduced the incidence of kidney graft rejection episodes by 58 percent compared with conventional triple drug therapy alone.</p>
+<p>From laboratory studies, it appears that BTI-322 and MEDI-507 are eliminating only those T cells which initiate organ rejection while not affecting other T cells, it said.</p>
+<p>The conventional triple drug regimen consists of cyclosporine, azathioprine and steroids.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAITHERSBURG, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

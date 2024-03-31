@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550666" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Fed looks at year 2000 issue in bank mergers.</title>
+<headline>Fed looks at year 2000 issue in bank mergers.</headline>
+<dateline>CHICAGO 1997-04-30</dateline>
+<text>
+<p>U.S. Federal Reserve will scrutinize proposed bank mergers to make sure the institutions involved will prepare computers for the year 2000, a Fed official said on Wednesday.</p>
+<p>Many computer programs used by banks and others store only the last two digits of the year. Such programs could become inoperable or make serious errors in the year 2000, mistakenly treating the digits &quot;00&quot; as 1900.</p>
+<p>Fed examiners are already questioning banks about fixing the year 2000 problem, often called the millennium bug, according to John Wixted, senior vice president at the Federal Reserve Bank of Chicago.</p>
+<p>But unanticipated problems could arise in acquisitions of banks, he said, speaking at a conference here sponsored by the Chicago Fed.</p>
+<p>&quot;We're beginning to pay closer attention to this issue as it relates to merger and acqusitions activity,&quot; Wixted said. &quot;We've noted that there are a number of companies that have been readying themselves for sale or maybe made decisions that they don't want to remain independent...who haven't paid a lot of attention to the year 2000 issue and why should they.&quot;</p>
+<p>A bank that acquires such a company could then face unexpected costs to overhaul computer systems for the year 2000.</p>
+<p>So the Fed is asking banks to be sure to evaluate potential year 2000 computer problems as part of doing due diligence on acquisition targets, Wixted said. Banks should be able to &quot;size,&quot; or quantify, the potential costs, he said.</p>
+<p>&quot;We're also going to be questions of  people filing acquisitions to see how well prepared they are in terms not only of integrating different operating systems but also dealing with year 2000 issues,&quot; he added.</p>
+<p>--Aaron Pressman ((--202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

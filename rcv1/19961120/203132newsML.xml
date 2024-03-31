@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203132" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Ford sets monthly export record in October.</title>
+<headline>Ford sets monthly export record in October.</headline>
+<dateline>DEARBORN, Mich. 1996-11-20</dateline>
+<text>
+<p>Ford Motor Co said Wednesday it exported 30,357 vehicles in the month of October, setting a new monthly record for car and truck exports.</p>
+<p>The previous record was 23,523, set in February 1996. In October 1995, the U.S. No. 2 automaker shipped 17,884 vehicles.</p>
+<p>A spokesman for Ford said increases came from across the board, with South America, Japan, Mexico, Australia, New Zealand and Taiwan posting particularly strong gains.</p>
+<p>Ford said in October of this year it shipped more than 18,300 vehicles from North American plants, with the Ranger compact pickup truck topping the list, followed by the Taurus sedan.</p>
+<p>More than 11,600 vehicles were exported from European plants. The Mondeo compact sedan was the most popular car shipped from Europe.</p>
+<p>For the first 10 months of this year, Ford has exported 208,000 units, an increase of 10.3 percent over the 188,658 shipped a year-ago period.</p>
+<p>Ford exports vehicles to 150 markets around the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203786" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Science Dynamics to remain on Nasdaq.</title>
+<headline>Science Dynamics to remain on Nasdaq.</headline>
+<dateline>CHERRY HILL, N.J. 1996-11-20</dateline>
+<text>
+<p>Science Dynamics Corp said Wednesday it has been informed that Nasdaq has found the company in compliance with requirements for continued listing on the Nasdaq SmallCap Market.</p>
+<p>The company said the qualification was aided by two factors: the acquisition of Innovative Communications Technology and the large orders received for the company's 3-Way Call Detection System and Automated Operator System.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHERRY HILL, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37576" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: CompuCom stock falls.</title>
+<headline>CompuCom stock falls.</headline>
+<dateline>NEW YORK 1996-09-06</dateline>
+<text>
+<p>CompuCom Systems Inc. stock fell Friday, a day after the computer network services supplier announced it expected earnings to drop in the next six to nine months.</p>
+<p>The stock fell $2 to $8.75 on Nasdaq in early afternoon.</p>
+<p>The Dallas-based company, which sells desktop computers and network integration services to corporate customers, said Thursday it expected revenue growth to stay strong as it explored new markets, but that earnings growth could be reduced for six to nine months.</p>
+<p>CompuCom said it opened a 305,000 square-foot facility in New Jersey that triples its custom configuration and distribution capabilities.</p>
+<p>It also lauched a programme to market its local area networks to resellers. The company said it expects this network market, which will include distribution, configuration and help desk resources, will grow at the rate of 40 percent a year for the next decade. Local area networks link personal computers together in network.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

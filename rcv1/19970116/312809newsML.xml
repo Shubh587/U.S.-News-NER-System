@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312809" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Dollar General revises date of stock split.</title>
+<headline>Dollar General revises date of stock split.</headline>
+<dateline>NASHVILLE, Tenn 1997-01-15</dateline>
+<text>
+<p>Dollar General Corp said Wednesday it will distribute new shares as part of a five-for-four stock split at an earlier date than it had orginally planned.</p>
+<p>The company said it will give out the shares on February 12 rather than February 17.</p>
+<p>Its board of directors approved the split on January 13 for shareholders of record as of February 3.</p>
+<p>Dollar General is a chain of more than 2,691 neighborhood stores operating in 24 states, with distribution centers in Kentucky, Georgia and Oklahoma.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

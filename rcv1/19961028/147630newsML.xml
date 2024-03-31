@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147630" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Kansas City/Hutchinson truck ship/receipts - Oct 28.</title>
+<headline>Kansas City/Hutchinson truck ship/receipts - Oct 28.</headline>
+<text>
+<p>shown in 1,000 bushels</p>
+<p>		  Kansas City	     Hutchinson, Kan.</p>
+<p>	   Shipments    Receipts    Shipments    Receipts</p>
+<p> Wheat	  42	    9	  36		 21</p>
+<p> Corn	    1	  206	   0		  1</p>
+<p> Soybns	  0	  163	   0		 42</p>
+<p> Sorghum	 0	   24	 197	    1,052</p>
+<p> Oats	    1	    0	   0		  0</p>
+<p> Total	  45	  402	 233	    1,117</p>
+<p>KC barge shipments....0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

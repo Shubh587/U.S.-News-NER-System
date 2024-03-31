@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263515" id="root" date="1996-12-18" xml:lang="en">
+<title>UK: Bumblebee flying could aid aicraft design.</title>
+<headline>Bumblebee flying could aid aicraft design.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-12-18</dateline>
+<text>
+<p>Any good scientist knows insects should not be able to fly -- their bodies are too fat for their tiny wings to lift.</p>
+<p>But an expert on aerodynamics and insect flight said on Wednesday he had solved the mystery and come up with data that will fascinate aircraft designers.</p>
+<p>Reporting in the science journal Nature, Charles Ellington said insects create a complex pattern of vortices when they flutter their wings. Ellington said he had mapped out this pattern for the first time.</p>
+<p>Each vortex acted to lift the insect up into the air.</p>
+<p>&quot;They increase the lift because they are a region of low pressure and that is acting to suck the wing upwards, creating lift force,&quot; he said in a telephone interview.</p>
+<p>Experts knew this must be happening. They just did not know how.</p>
+<p>Ellington and his colleagues used a hawkmoth -- a large moth that moves its wings relatively slowly and thus would be easier to study. Its wing movement is typical of many insects.</p>
+<p>They tethered the moth with thread inside a small wind tunnel and blew smoke into it. They photographed the patterns made by the smoke as it passed over the wings of the frantically flapping moth.</p>
+<p>They then constructed a mechanical model of the moth that was much bigger and flapped more slowly, while still accurately modelling the motion of the wings.</p>
+<p>They were amazed to see a complicated pattern of loops and spirals spinning away from the wings. Just as one vortex died out -- which would create an effect known as stalling, making the bug (or aircraft) plunge earthwards -- another vortex would kick in and stabilise it.</p>
+<p>&quot;This is so unlike what we had expected all along that this is a shock, really,&quot; Ellington said.</p>
+<p>His findings could probably be applied to aircraft design, he said, especially helicopters which also use vortices to create lift.</p>
+<p>&quot;The first thing I did when we discovered this was turn to the literature on aerodynamics on rotary wings, helicopters, propellers and things like that because they have the same type of aerodynamics,&quot; he said.</p>
+<p>But nothing had been written about such effects. &quot;It's something we are going to start looking at,&quot; he added. &quot;It's a way to get something like two or three times more lift.&quot;</p>
+<p>Other experts said the findings could shed light on the mysteries that still surround bird flight.</p>
+<p>&quot;It remains to be discovered whether similar effects occur in the flapping flight of birds,&quot; commented R McNeill Alexander, an expert in biomechanics at the University of Leeds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

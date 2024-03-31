@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242062" id="root" date="1996-12-08" xml:lang="en">
+<title>PAKISTAN: CRICKET-NEW ZEALAND BEAT PAKISTAN BY SEVEN WICKETS.</title>
+<headline>CRICKET-NEW ZEALAND BEAT PAKISTAN BY SEVEN WICKETS.</headline>
+<dateline>KARACHI, Pakistan 1996-12-08</dateline>
+<text>
+<p>New Zealand beat Pakistan by seven wickets in the third and final one-day international on Sunday. Pakistan won the series 2-1.</p>
+<p>Scores: Pakistan 234-4 in 50 overs, New Zealand 235-3 in 45.1 overs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238980" id="root" date="1996-12-05" xml:lang="en">
+<title>FRANCE: Bomb targets Corsican regional authority.</title>
+<headline>Bomb targets Corsican regional authority.</headline>
+<dateline>AJACCIO, Corsica 1996-12-05</dateline>
+<text>
+<p>A bomb damaged a building owned by the regional authority for northern Corsica overnight but caused no injuries, police said on Thursday.</p>
+<p>The small device exploded late on Wednesday in Biguglia outside the northern capital Bastia, blowing out the windows of the building.</p>
+<p>No one claimed responsibility for the attack but Corsican separatists seeking greater autonomy for the Mediterranean resort island have carried their guerrilla campaign to mainland France in recent months and frequently target public buildings.</p>
+<p>The Corsican National Liberation Front (FLNC) &quot;Historical Wing&quot; said it bombed a tax office in the southern French city of Perpignan on Tuesday, badly damaging the building but causing no injuries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AJACCIO, Corsica"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47409" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Merrill's final on Florida Housing Finance.</title>
+<headline>Merrill's final on Florida Housing Finance.</headline>
+<text>
+<p>AMT: 61,575,000     DATE: 09/11/96	NYC Time: 1030	CUSIP: NA</p>
+<p>ISSUER: Florida Housing Finance Agency			    ST: FL</p>
+<p>ISSUE: Homeowner mortgage, 1996 Series 3 (AMT)		TAX STAT: Exempt-REV</p>
+<p>M/SP/F: Aa/AA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: See Notes							    SURE BID: Y</p>
+<p>DUE: 7/1/98, 1/1 &amp; 7/1/99-28			    SR MGR: Merrill Lynch</p>
+<p>1ST CPN: 01/01/97					   DOLLAR BID: 99.20</p>
+<p>CALL: 1/1/07 at 102, dtp 1/1/09			 TIC 6.07</p>
+<p>DELIVERY: 9/25/96 approx				  ORDERS: 1 HR</p>
+<p>PAYING AGENT: The Bank of New York Trust Co. of Florida, Jacksonville</p>
+<p>L.O.: Bryant, Miller and Olive; &amp; Goodloe, Golden &amp; Siplin</p>
+<p>F.A.: NA</p>
+<p>LAST SALE: None</p>
+<p>NOTES: Dated 9/1/96; TIC from 9/25/96; Super Sinker Step Term Bond for</p>
+<p>NOTES: 1/1/17-7/1/22 maturities</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>07/01/98		325,000     4.300     4.300		 .250</p>
+<p>01/01/99		365,000     4.500     4.500		 .250</p>
+<p>07/01/99		385,000     4.500     4.500		 .250</p>
+<p>01/01/00		385,000     4.600     4.600		 .250</p>
+<p>07/01/00		400,000     4.600     4.600		 .250</p>
+<p>01/01/01		405,000     4.750     4.750		 .250</p>
+<p>07/01/01		425,000     4.750     4.750		 .250</p>
+<p>01/01/02		425,000     4.900     4.900		 .250</p>
+<p>07/01/02		445,000     4.900     4.900		 .250</p>
+<p>01/01/03		445,000     5.050     5.050		 .250</p>
+<p>07/01/03		470,000     5.050     5.050		 .250</p>
+<p>01/01/04		470,000     5.200     5.200		 .250</p>
+<p>07/01/04		495,000     5.200     5.200		 .250</p>
+<p>01/01/05		500,000     5.300     5.300		 .250</p>
+<p>07/01/05		520,000     5.300     5.300		 .250</p>
+<p>01/01/06		525,000     5.400     5.400		 .250</p>
+<p>07/01/06		550,000     5.400     5.400		 .250</p>
+<p>01/01/07		555,000     5.500     5.500		 .250</p>
+<p>07/01/07		585,000     5.500     5.500		 .250</p>
+<p>01/01/08		590,000     5.600     5.600		 .250</p>
+<p>07/01/08		620,000     5.600     5.600		 .250</p>
+<p>01/01/09		625,000     5.700     5.700		 .250</p>
+<p>07/01/09		655,000     5.700     5.700		 .250</p>
+<p>01/01/10		665,000     5.800     5.800		 .250</p>
+<p>07/01/10		695,000     5.800     5.800		 .250</p>
+<p>01/01/11		705,000     5.900     5.900		 .250</p>
+<p>07/01/11		740,000     5.900     5.900		 .250</p>
+<p>01/01/12		750,000     5.950     5.950		 .250</p>
+<p>07/01/12		785,000     5.950     5.950		 .250</p>
+<p>01/01/13		800,000     6.000     6.000		 .250</p>
+<p>07/01/13		835,000     6.000     6.000		 .250</p>
+<p>01/01/14		855,000     6.050     6.050		 .250</p>
+<p>07/01/14		890,000     6.050     6.050		 .250</p>
+<p>07/01/16	    3,840,000     6.200	 NRO		  NRO</p>
+<p>07/01/22	   16,195,000	  NA	 NRO		  NRO</p>
+<p>07/01/24	    6,600,000     6.300	 NRO		  NRO</p>
+<p>07/01/28	   16,055,000     6.350	 NRO		  NRO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

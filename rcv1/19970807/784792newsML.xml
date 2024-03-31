@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="784792" id="root" date="1997-08-07" xml:lang="en">
+<title>PERU: Peru bus crash kills 20, injures 40 - radio.</title>
+<headline>Peru bus crash kills 20, injures 40 - radio.</headline>
+<dateline>LIMA 1997-08-07</dateline>
+<text>
+<p>Twenty people were killed and 40 injured when two minibuses collided in northern Peru early on Thursday, the local radio station Cadena Peruana De Noticias reported.</p>
+<p>The report of the accident near the city of Trujillo, 340 miles (550 km) north of Lima, could not be confirmed immediately.</p>
+<p>There has been a rash of major road crashes in Peru, where most people travel on poorly maintained highways in buses that are often overloaded.</p>
+<p>Seventeen people were killed and 40 injured in a minibus collision in the north five days ago. Two days earlier, 23 people died and about 50 were injured when a crowded bus overturned on the high plains between the tourist towns of Cusco and Nasca.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

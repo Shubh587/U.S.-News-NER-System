@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314179" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: Logansport Financial Corp Q4 full results.</title>
+<headline>Logansport Financial Corp Q4 full results.</headline>
+<dateline>LOGANSPORT, Ind. 1997-01-17</dateline>
+<text>
+<p>(Dollars in thousands)</p>
+<p>				 Quarter ended 12/31    YTD 12/31</p>
+<p>					 1996    1995     1996     1995</p>
+<p> Interest income		  1,458   1,327    5,653    4,775</p>
+<p> Interest expense		   741     633    2,719    2,468</p>
+<p> Net interest income		717     694    2,934    2,307</p>
+<p> Provision for loan losses	  3	11	 12	 20</p>
+<p>Net interest income after</p>
+<p>   provision for loan loss	714     683    2,922    2,287</p>
+<p>Total other income and</p>
+<p>gain (loss) on security</p>
+<p>   sales				  7	88	 82	179</p>
+<p> Total other expense (a)	  294     286    1,584    1,032</p>
+<p> Income before income taxes     427     485    1,420    1,434</p>
+<p> Income tax expense		 152     181	507	526</p>
+<p> Net income			  $275    $304     $913     $908</p>
+<p> Shr				   $0.21   $0.23	$0.69    NA</p>
+<p>(a) Includes $200,000 SAIF assessment Per shr for year ended December 31, 1995 not applicable because shares were not issued until June 13, 1995.</p>
+<p>	   ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOGANSPORT, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

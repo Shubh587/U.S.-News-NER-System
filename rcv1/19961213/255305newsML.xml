@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255305" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Sun Chemical consolidates operations in Chile.</title>
+<headline>Sun Chemical consolidates operations in Chile.</headline>
+<dateline>FORT LEE, N.J. 1996-12-13</dateline>
+<text>
+<p>Sun Chemical Latin America, a unit of  Sun Chemical Corp, Friday said it has consolidated its operations in Chile under the name Sun Chemical Chile SA.</p>
+<p>The move joins Quimica Flesch SA, Indutinta SA and Aquaprint SAS under the newly-formed business umbrella.</p>
+<p>Sun Chemical manufacturers printing inks, organic pigments and is a supplier of graphic arts plates and films.</p>
+<p>((-- New York Newsdesk +1 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LEE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

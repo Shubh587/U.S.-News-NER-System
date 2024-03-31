@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36339" id="root" date="1996-09-05" xml:lang="en">
+<title>GERMANY: West German Q2 GDP rises 1.0 pct from Q1.</title>
+<headline>West German Q2 GDP rises 1.0 pct from Q1.</headline>
+<dateline>BONN 1996-09-05</dateline>
+<text>
+<p>The Economics Ministry reported the following economic indicator:</p>
+<p>W.GERMAN GDP	 Q2 96	 Q1 96	 Q4 95	Q3 95</p>
+<p> qtr/qtr	     +1.0	  unch	  unch	 unch</p>
+<p>E.GERMAN GDP</p>
+<p> qtr/qtr	     +5.0	  -3.5(-2.5)  unch(+0.5) +0.5</p>
+<p>NOTE - Quarter-on-quarter figures are adjusted for inflation (1991 prices) and for seasonal and calendar factors.</p>
+<p>They are rounded to the nearest half pct point. The Federal Statistics Office earlier gave the bulk of the third quarter GDP figures. Previously announced data in brackets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

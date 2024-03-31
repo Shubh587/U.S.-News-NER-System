@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96633" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Hewlett-Packard wins $100 million NASA deals.</title>
+<headline>Hewlett-Packard wins $100 million NASA deals.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>Hewlett-Packard Co. said Friday that it won several contracts with a potential value of $100 million from the National Aeronautics &amp; Space Administration (NASA).</p>
+<p>The contracts cover scientific and engineering workstation procurement contracts for mechanical computer-aided design and geographic information systems.</p>
+<p>The contracts cover a four year period. Hewlett-Packard will provide workstations, as well as peripherals, software, training and support services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

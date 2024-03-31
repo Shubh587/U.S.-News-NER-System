@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99253" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Cambridge Biotech says court stay issued.</title>
+<headline>Cambridge Biotech says court stay issued.</headline>
+<dateline>WORCESTER, Mass. 1996-10-07</dateline>
+<text>
+<p>Cambridge Biotech Corp said Monday that the First Circuit U.S. Court of Appeals in Boston has imposed a temporary stay on a U.S. District Court order upholding the company's reorganization plan.</p>
+<p>The stay was issued solely to maintain the status quo pending review by the U.S. Court of Appeals, the company said.</p>
+<p>The stay was sought by Institut Pasteur and Pasteur Sanofi Diagnostics after the U.S. District Court in Boston turned down its initial request for a stay.  </p>
+<p>The two companies have objected to the assumption of various patent licenses owned by the firms and licensed to Cambridge Biotech, according to Cambridge Biotech.</p>
+<p>The court actions follow a decision on September 27 by the U.S. District Court upholding Cambridge Biotech's reorganization plan and dismissing an appeal by Pasteur.  The U.S. Bankruptcy Court previously confirmed the plan and overruled objections by Pasteur.</p>
+<p>Cambridge Biotech filed for protection under Chapter 11 in July 1994.  </p>
+<p>Institut Pasteur is a research organization.</p>
+<p>Pasteur Sanofi Diagnostics is a subsidiary of Elf Sanofi SA.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WORCESTER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

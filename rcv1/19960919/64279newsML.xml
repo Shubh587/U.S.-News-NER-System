@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64279" id="root" date="1996-09-19" xml:lang="en">
+<title>ISRAEL: Israel confirms two Israeli dead in Lebanon.</title>
+<headline>Israel confirms two Israeli dead in Lebanon.</headline>
+<dateline>JERUSALEM 1996-09-19</dateline>
+<text>
+<p>The Israeli army, confirming reports from south Lebanon, said two of its soldiers were killed on Thursday in clashes with pro-Iranian Hizbollah guerrillas.</p>
+<p>The announcement, held up for hours by the army pending notification of the dead soldiers' families, also said Israeli troops killed three Hizbollah gunmen.</p>
+<p>&quot;An Israeli army officer and a soldier were killed and eight wounded in encounters with Hizbollah terrorists this morning,&quot; the army said, giving the officer's rank as lieutenant.</p>
+<p>&quot;In the encounter, three Hizbollah terrorists were killed and numerous others were hit. In response to the incident, Israeli aircraft attacked Hizbollah targets...to silence the source of mortars that fired at Israeli army and SLA positions in the western and eastern sectors of the security zone.</p>
+<p>&quot;The pilots reported good hits on their targets. The planes returned safely to base.&quot;</p>
+<p>It was the most serious attack against Israeli troops inside their border occupation zone since five soldiers were killed and six wounded in a Hizbollah attack on June 10.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

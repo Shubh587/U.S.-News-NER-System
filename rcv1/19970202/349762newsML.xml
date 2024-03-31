@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349762" id="root" date="1997-02-02" xml:lang="en">
+<title>RUSSIA: Chirac-Yeltsin talks extended half an hour.</title>
+<headline>Chirac-Yeltsin talks extended half an hour.</headline>
+<dateline>MOSCOW 1997-02-02</dateline>
+<text>
+<p>Talks between Russian President Boris Yeltsin and French leader Jacques Chirac were extended by 30 minutes on Sunday, Interfax news agency said, quoting well-informed sources.</p>
+<p>Interfax said the talks had been extended to allow further discussion of security issues and bilateral relations. Chirac's departure had been rescheduled for 6 p.m. (1500GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

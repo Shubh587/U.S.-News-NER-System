@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809426" id="root" date="1997-08-19" xml:lang="en">
+<title>UK: BP gets court injunction against Greenpeace.</title>
+<headline>BP gets court injunction against Greenpeace.</headline>
+<dateline>EDINBURGH 1997-08-19</dateline>
+<text>
+<p>British Petroleum on Tuesday won a court injunction banning the environmental group Greenepace from disrupting or attempting to disrupt its search for oil in the Foinaven field in the north Atlantic.</p>
+<p>The interim interdict was granted by an Edinburgh court pending a full hearing of the case.  </p>
+<p>The ruling follows an eight-day protest last week by Greenpeace members who boarded the Stena Dee floating oil platform as it was headed from Norway to the Foinaven field some 100 miles off the coast of Scotland.</p>
+<p>The protest, which ended on Sunday, was aimed at halting oil exploration in the area.</p>
+<p>BP has also launched a lawsuit against Greenpeace claiming 1.4 million pounds ($2.3 million) in damages for the disruption to its operations.</p>
+<p>Greenpeace says the action could bankrupt its operations in Britain.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDINBURGH"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

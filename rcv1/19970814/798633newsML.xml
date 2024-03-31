@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798633" id="root" date="1997-08-14" xml:lang="en">
+<title>KENYA: Seven Kenyan policemen killed in Mombasa attack.</title>
+<headline>Seven Kenyan policemen killed in Mombasa attack.</headline>
+<dateline>MOMBASA, Kenya 1997-08-14</dateline>
+<text>
+<p>Heavily armed attackers killed seven policemen on Wednesday night in the Kenyan port of Mombasa, police sources said on Thursday.</p>
+<p>They said the seven and an unspecified number of civilians were killed in attacks on two police stations at Likoni. A Reuters correspondent in Mombasa went to the local morgue and counted the bodies of 10 victims of the violence.  </p>
+<p>The police sources said the assailants appeared well organised and withdrew immediately after the attacks. They also set fire to a number of buildings and vehicles.</p>
+<p>It was unclear who the attackers were and what their motive was but Mombasa police were due to make a full statement later on Thursday.</p>
+<p>The city on the Indian Ocean is about 500 km (310 miles) southeast of the capital Nairobi and is a centre of Kenya's tourist industry as well as its main port.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOMBASA, Kenya"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

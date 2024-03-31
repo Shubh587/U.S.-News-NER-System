@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558690" id="root" date="1997-05-04" xml:lang="en">
+<title>USA: Kasparov builds slight edge against chess computer.</title>
+<headline>Kasparov builds slight edge against chess computer.</headline>
+<byline>Grant McCool</byline>
+<dateline>NEW YORK 1997-05-03</dateline>
+<text>
+<p>World chess champion Garry Kasparov built an advantage out of the opening in the first game on Saturday of his $1.1 million re-match against the world's strongest chess-playing computer.</p>
+<p>The Russian grandmaster, playing with the white pieces and the first move against IBM supercomputer Deep Blue, set out to exploit the machine's inability to plan far ahead by restricting the number of squares it could control.</p>
+<p>&quot;Deep Blue made some sensible moves in the opening, but then it mades some moves that could give it problems in the long term,&quot; said U.S. grandmaster Patrick Wolff.</p>
+<p>Other experts observing the game in a high-rise office complex in the center of Manhattan said Kasparov had given Deep Blue few targets to aim at in the opening flurry of moves and had a slight edge.</p>
+<p>Deep Blue is an IBM RS/6000 SP parallel processor with specialized microchips for chess.</p>
+<p>The contest is part chess match and part research project to help build computers that can make complex, simultaneous calculations at high speeds. Among the applications for the technology developed for Deep Blue are weather forecasting, air traffic control, data mining and molecular dynamics.</p>
+<p>In their first match in Philadelphia in February 1996, the computer shocked the chess world by winning the first game, but Kasparov recovered to win the overall contest. The computer's victory was the first time a program had defeated a reigning world champion in classical chess, in which games can last several hours.</p>
+<p>In each game, the players have two hours each to play 40 moves, then one hour each for the next 20 moves and an additional 30 minutes each to complete the game. The winner of the six-game match will receive $700,000 and the loser $400,000.</p>
+<p>Kasparov strode into the playing room confidently and grinned broadly for the dozens of assembled photographers and TV crews from all over the world. He and the computer's human operator, scientist Hsu Feng-hsiung, shook hands. Hsu was sitting opposite Kasparov at a wooden chess board, a black video display screen and keyboard at his side. Hsu typed in all the moves on the keyboard and played Deep Blue's move on the board.</p>
+<p>Before the first move and as the game progressed, Kasparov held his head in his hands in concentration, almost as though he were praying.</p>
+<p>&quot;Garry developed his pieces in such a way that there is nothing concrete,&quot; International Master David Levy of England said. &quot;By doing that he allows the program to use its own judgement about where to put its pieces and its judgement isn't quite as good as his.&quot;</p>
+<p>The opening chosen by Kasparov, who is considered by most experts to be the strongest player in the history of the ancient game, is named after Richard Reti, a Czech grandmaster who played in the 1910s and 1920s. Experts said the theory behind the opening was to control the center of the board by careful placement of bishops and knights.</p>
+<p>Deep Blue, which can examine hundreds of millions of positions per second, calculates at twice the speed it did in the last match, IBM scientists said. More significantly, the software was infused with more chess knowledge by U.S. grandmaster Joel Benjamin.</p>
+<p>Chess playing is considered ideal for computers because the game involves a specific number of physical objects governed by simple, clearly defined rules. Information on the contest is carried on the IBM Web site www.chess.ibm.com.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

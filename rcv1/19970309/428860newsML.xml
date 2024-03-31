@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="428860" id="root" date="1997-03-09" xml:lang="en">
+<title>PORTUGAL: SOCCER-PORTUGUESE CUP SIXTH ROUND RESULTS.</title>
+<headline>SOCCER-PORTUGUESE CUP SIXTH ROUND RESULTS.</headline>
+<dateline>LISBON 1997-03-09</dateline>
+<text>
+<p>Results of sixth round matches in</p>
+<p>the Portuguese Soccer Cup on Sunday:</p>
+<p> Salgueiros	2 Porto	     3</p>
+<p> Boavista	  2 Infesta	   0 </p>
+<p> Estrela Amadora 1 Sandinenses     2 </p>
+<p> Portimonense    2 Estoril	   3 </p>
+<p> Setubal	   1 Braga	     2-after extra time (90 mins:</p>
+<p>1-1)</p>
+<p> Benfica	   3 Desportivo Aves 1-after extra-time (90 mins:</p>
+<p>1-1)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

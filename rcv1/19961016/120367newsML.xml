@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120367" id="root" date="1996-10-16" xml:lang="en">
+<title>YEMEN: Yemen cabinet approves Eritrea accord.</title>
+<headline>Yemen cabinet approves Eritrea accord.</headline>
+<dateline>ADEN 1996-10-16</dateline>
+<text>
+<p>Yemen's cabinet on Wednesday approved an accord with Eritrea to set up a court to resolve their territorial dispute over Red Sea islands on busy oil tanker routes, Yemeni state radio reported.</p>
+<p>It said the cabinet approved the accord signed in Paris in October that will lead to creation of a five-judge arbitration court in London. It will start work by April 1997.</p>
+<p>The accord must now be approved by Yemen's parliament.</p>
+<p>Arab Yemen and African Eritrea, facing each other across the Red Sea, both claim sovereignty over the small, arid Hanish islands. The dispute led to clashes in which at least 12 people died last December.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ERTRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADEN"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

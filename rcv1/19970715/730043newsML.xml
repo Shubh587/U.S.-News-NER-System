@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730043" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Enron Corp Q2 loss.</title>
+<headline>Enron Corp Q2 loss.</headline>
+<dateline>HOUSTON 1997-07-15</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $1.71   profit	 $0.46</p>
+<p> Shr loss diluted	 $1.71   profit	 $0.43</p>
+<p> Net			420,000   profit     117,000</p>
+<p> Revs		   3,240,000		2,961,000</p>
+<p> Avg shrs		 248,000		  246,000</p>
+<p> Avg shrs diluted     248,000		  271,000</p>
+<p>			  MONTHS</p>
+<p> Shr loss		   $0.83   profit	 $1.31</p>
+<p> Shr loss diluted	 $0.83   profit	 $1.22</p>
+<p> Net			198,000   profit	   330</p>
+<p> Revs		   8,584,000		6,015,000</p>
+<p> Avg shrs		 248,000		  245,000</p>
+<p> Avg shrs diluted     248,000		  270,000</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTES: 1997 losses include $100 million pretax charge to reflect depressed MTBE margins. This equal to $74 million after taxes, or $0.30/shr. Losses also include previously announced J-block charge of $675 million. This equal to $450 million after taxes, or $1.81/shr. Q2 per share before charges was $0.40.</p>
+<p>First Call consensus was $0.39.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

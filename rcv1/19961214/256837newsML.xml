@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256837" id="root" date="1996-12-14" xml:lang="en">
+<title>UK: RUGBY UNION-ENGLAND BEAT ARGENTINA 20-18. [corrected 14:25 gmt 15/12]</title>
+<headline>RUGBY UNION-ENGLAND BEAT ARGENTINA 20-18. [corrected 14:25 gmt 15/12]</headline>
+<dateline>LONDON 1996-12-14</dateline>
+<text>
+<p>(Corrects try scorer from Mark Regan to Jason Leonard.)</p>
+<p>England beat Argentina 20-18 (halftime 9-9) in their international at Twickenham on Saturday:</p>
+<p>Scorers:</p>
+<p>England - Try: Jason Leonard. Penalties: Mike Catt (5).</p>
+<p>Argentina - Penalties: Gonzalo Queseda (6).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

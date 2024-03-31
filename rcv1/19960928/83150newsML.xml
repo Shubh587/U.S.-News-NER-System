@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83150" id="root" date="1996-09-28" xml:lang="en">
+<title>USA: Natural gas line explodes in Los Angeles.</title>
+<headline>Natural gas line explodes in Los Angeles.</headline>
+<dateline>LOS ANGELES 1996-09-27</dateline>
+<text>
+<p>An underground natural gas line exploded near downtown Los Angeles late Friday, ripping up a 300-yard section of a street and injuring at least five people.</p>
+<p>According to officials, the line exploded during routine tests conducted by a local utility.</p>
+<p>One of the injured included a member of the work crew.</p>
+<p>Local television and radio stations reported evacuations were underway and that one building may have sustained structural damage caused by flying shards, some the size of dining room tables.</p>
+<p>The cause of the explosion is under investigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

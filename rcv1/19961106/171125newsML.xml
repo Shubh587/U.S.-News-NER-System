@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171125" id="root" date="1996-11-06" xml:lang="en">
+<title>NEW ZEALAND: NZ M-3 money supply rose 0.1 pct in September.</title>
+<headline>NZ M-3 money supply rose 0.1 pct in September.</headline>
+<dateline>WELLINGTON 1996-11-06</dateline>
+<text>
+<p>The Reserve Bank on Wednesday released the following estimated money supply figures for September:</p>
+<p>    M3		   Sept 1996	Aug 1996	  Sept 1995</p>
+<p>    mthly change	0.1 pct	  1.4 pct	   1.8 pct</p>
+<p>    yr-on-yr change  13.8 pct	 15.8 pct	  10.2 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

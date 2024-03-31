@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203536" id="root" date="1996-11-20" xml:lang="en">
+<title>SPAIN: Madrid cargo volume down in October, ahaead in year.</title>
+<headline>Madrid cargo volume down in October, ahaead in year.</headline>
+<dateline>MADRID 1996-11-20</dateline>
+<text>
+<p>Cargo traffic at Madrid's Barajas airport slipped six percent in volume terms in October compared with the same month last year to 19,886 tonnes, the airport authority said.</p>
+<p>The accumulated total is still 2.5 percent ahead of 1995 at 194,301 tonnes, with domestic traffic up 4.4 percent and international traffic only 1.7 percent higher.</p>
+<p>Charter traffic, both national and international, was the only category to show modest growth in the month.</p>
+<p>International cargo accounted for 14,223 tonnes and domestic for 5,663 of the total.</p>
+<p>Passenger numbers rose by just over eight percent. -- Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

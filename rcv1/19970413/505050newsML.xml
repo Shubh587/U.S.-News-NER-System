@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="505050" id="root" date="1997-04-13" xml:lang="en">
+<title>HONG KONG: TENNIS-HONG KONG OPEN FINAL SCORE.</title>
+<headline>TENNIS-HONG KONG OPEN FINAL SCORE.</headline>
+<dateline>HONG KONG 1997-04-13</dateline>
+<text>
+<p>Scores in the unfinished Hong</p>
+<p>Kong Open men's tennis final on Sunday (prefix number denotes</p>
+<p>seeding):</p>
+<p>1-Michael Chang (U.S.) leads 5-Patrick Rafter (Australia) 6-3</p>
+<p>5-3, interrupted by rain, match resumes on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

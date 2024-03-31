@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204737" id="root" date="1996-11-20" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australian 26-week T-note yields 6.285 pct.</title>
+<headline>RTRS - Australian 26-week T-note yields 6.285 pct.</headline>
+<dateline>SYDNEY 1996-11-20</dateline>
+<text>
+<p>The Reserve Bank of Australia said the result of this week's T-note tender was as follows:</p>
+<p> 26-week -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS300 million   6.285	 6.28-6.29   6.305</p>
+<p>		  (RBA take-up A$100 million, pct allotted at top 60)</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104843" id="root" date="1996-10-09" xml:lang="en">
+<title>UGANDA: South African leader in Uganda for one-day visit.</title>
+<headline>South African leader in Uganda for one-day visit.</headline>
+<dateline>KAMPALA 1996-10-09</dateline>
+<text>
+<p>South African President Nelson Mandela arrived in Uganda on Wednesday to attend celebrations to mark the country's 34th anniversary of independence from Britain.</p>
+<p>Mandela, 78, was welcomed by President Yoweri Museveni at Entebbe airport and driven to the capital for private talks. The South African leader was scheduled to leave Uganda later on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="UGANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KAMPALA"/>
+<dc element="dc.creator.location.country.name" value="UGANDA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

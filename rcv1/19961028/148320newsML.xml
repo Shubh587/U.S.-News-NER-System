@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148320" id="root" date="1996-10-28" xml:lang="en">
+<title>UK: SBC sets call warrants on Electrolux AB.</title>
+<headline>SBC sets call warrants on Electrolux AB.</headline>
+<dateline>LONDON 1996-10-28</dateline>
+<text>
+<p>Swiss Bank Corp says it has issued one million American-style call warrants, on Electrolux AB.</p>
+<p>One warrant controls one share.</p>
+<p> STRIKE PRICE    420.00 SEK		PREMIUM	20.0 PCT</p>
+<p> ISSUE PRICE     39.00 SEK		 GEARING	8.0 TIMES</p>
+<p> MATURITY DATE   22.JUN.98		 PAYDATE	30.OCT.96</p>
+<p> LISTING	   STOCKHOLM		 MIN EXER LOT 100</p>
+<p>SPOT REFERENCE  382.00 SEK</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

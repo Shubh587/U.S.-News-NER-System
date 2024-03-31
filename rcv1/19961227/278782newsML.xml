@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278782" id="root" date="1996-12-27" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's Nov unemployment rate rises to 2.2 pct.</title>
+<headline>S.Korea's Nov unemployment rate rises to 2.2 pct.</headline>
+<dateline>SEOUL 1996-12-27</dateline>
+<text>
+<p>South Korea's seasonally-adjusted unemployment rate rose to 2.2 percent in November from 1.9 percent a year earlier, provisional figures from the National Statistical Office showed on Friday.</p>
+<p>					Nov/96	 Oct/96	 Nov/95</p>
+<p>Unemployment (pct) 2.2 1.9 1.9</p>
+<p>					  (2.0)	  (1.8)	  (1.8)</p>
+<p>NOTE: Unemployment rate in brackets calculated before taking seasonal factors into account.</p>
+<p>The ratio of economically active population stood at 62.8 percent in November, up from a year earlier's 62.4 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

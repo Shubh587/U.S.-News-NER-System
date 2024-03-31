@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87751" id="root" date="1996-10-01" xml:lang="en">
+<title>UK: Baltic Freight Index rose to 1,003.</title>
+<headline>Baltic Freight Index rose to 1,003.</headline>
+<text>
+<p>LONDON, Oct 1 , Reuter - The Baltic Freight Index for spot dry cargo shipping rates rose to 1,003 today from 1,000 on Sep 30, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route			   Index    Rate    Prev Index  Rate</p>
+<p>   1   US GULF/ARA	  0994     9.029    0994     9.029</p>
+<p>   1a  TRANSATLANTIC RV   0875  6629.000    0875  6629.000</p>
+<p>   2   US GULF/JAPAN	1353    19.329    1351    19.307</p>
+<p>   2a  SKAW P/USG/F EAST  1131  9721.000    1127  9243.000</p>
+<p>   3   NOPAC/JAPAN	  1150    10.607    1148    10.593</p>
+<p>   3a  JAPAN-SK/NOPAC/RV  0827  6529.000    0813  6414.000</p>
+<p>   6   HR OR HR-RB/JAPAN  1105    11.400    1104    11.388</p>
+<p>   7   HR/ROTTERDAM	 1017     4.950    1017     4.950</p>
+<p>   8   QLAND/ROTTERDAM    0712     7.825    0711     7.819</p>
+<p>   9   FE/NOPAC/SKAW-P    0425  3714.000    0421  3686.000</p>
+<p>  10   TUBARAO/ROTTERDAM  0975     4.925    0979     4.944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

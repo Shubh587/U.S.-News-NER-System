@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366387" id="root" date="1997-02-10" xml:lang="en">
+<title>UK: LSE Turnover/Indices - Feb 10.</title>
+<headline>LSE Turnover/Indices - Feb 10.</headline>
+<text>
+<p>FTSE INDICES			     VOLUME</p>
+<p>FTSE 100	4307.7  (  N/A )     Total Trades (Feb 07) N/A</p>
+<p>Eurotrack 100 2125.21 (  N/A  )</p>
+<p>Eurotrack 200 2156.20 (  N/A  )</p>
+<p>FTSE 250	4596.70 (  N/A )	  Other Indices</p>
+<p>FT Act-350    2128.10 (  N/A )  FT Govt Secs  96.32 (96.30)</p>
+<p>					  FT Gold MN  1703.00(1705.49)</p>
+<p>FT-ACTUARIES INDICES</p>
+<p>FT 30	   2839.90 (  N/A  ) All share  2100.56 (2099.88)</p>
+<p>ISEQ Index    2975.75 (  N/A  ) 500 Share  2139.33 (2142.53)</p>
+<p>					  Oils	 4257.12 (4301.46)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

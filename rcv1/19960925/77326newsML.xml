@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77326" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: UK shares open slightly firmer despite Dow drop.</title>
+<headline>UK shares open slightly firmer despite Dow drop.</headline>
+<dateline>LONDON 1996-09-25</dateline>
+<text>
+<p>UK shares opened firmer, with the FTSE 100 recovering more than it lost on Tuesday, despite Wall Street's drop overnight.</p>
+<p>At 0739 GMT, the FTSE 100 was 14.3 points higher at 3,924.8.</p>
+<p>Tuesday's decline brought losses in the blue chip index to 63.8 points, or more than 1.5 percent, over the last three trading sessions. The Dow, up three points when London markets closed, settled 20.71 points lower at 5,874.03 in the wake of the Federal Reserve's decision not to tighten credit policy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

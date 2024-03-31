@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360607" id="root" date="1997-02-06" xml:lang="en">
+<title>Netherlands: U.N. Court elects American judge as president.</title>
+<headline>U.N. Court elects American judge as president.</headline>
+<dateline>THE HAGUE 1997-02-06</dateline>
+<text>
+<p>The International Court of Justice has elected Judge Stephen Schwebel of the United States as its new president for a three-year term, the court's registry said on Thursday.</p>
+<p>He replaces Mohammed Bedjaoui of Algeria as president of the court, which is the main judicial organ of the United Nations and settles disputes between states according to international law.</p>
+<p>Schwebel, born in New York City on March 10, 1929, has been a member of the court since January 1981.</p>
+<p>Admitted to the bar of New York state in 1955, he was later professor of international law at John Hopkins University, Washington D.C., and a State Department legal adviser.</p>
+<p>The court is made up of 15 judges elected for terms of nine years by the U.N. Security Council and the General Assembly.</p>
+<p>Five judges are elected every three years, after which all 15 judges elect a new president for the next three years.</p>
+<p>Judge Christopher Weeramantry of Sri Lanka was elected vice-president of the court.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

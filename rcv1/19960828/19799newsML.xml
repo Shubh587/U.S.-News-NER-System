@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19799" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Baltic Freight Index fell to 1,116.</title>
+<headline>Baltic Freight Index fell to 1,116.</headline>
+<text>
+<p>Spot dry cargo shipping rates fell to 1,116 today from 1,119 on Aug 27, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route			   Index    Rate    Prev Index  Rate</p>
+<p>   1   US GULF/ARA	  1176    10.679    1183    10.743</p>
+<p>   1a  TRANSATLANTIC RV   1065  8064.000    1073  8129.000</p>
+<p>   2   US GULF/JAPAN	1477    21.100    1477    21.107</p>
+<p>   2a  SKAW P/USG/F EAST  1420 11643.000    1420 11643.000</p>
+<p>   3   NOPAC/JAPAN	  1163    10.729    1163    10.729</p>
+<p>   3a  JAPAN-SK/NOPAC/RV  0929  7336.000    0938  7400.000</p>
+<p>   6   HR OR HR-RB/JAPAN  1101    11.356    1100    11.350</p>
+<p>   7   HR/ROTTERDAM	 1124     5.475    1124     5.475</p>
+<p>   8   QLAND/ROTTERDAM    0711     7.813    0703     7.725</p>
+<p>   9   FE/NOPAC/SKAW-P    0482  4214.000    0493  4314.000</p>
+<p>  10   TUBARAO/ROTTERDAM  1064     5.375    1060     5.356</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

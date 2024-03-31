@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555307" id="root" date="1997-05-02" xml:lang="en">
+<title>UK: Reuters 7th ex-UK Asia/Mideast air cargo report.</title>
+<headline>Reuters 7th ex-UK Asia/Mideast air cargo report.</headline>
+<dateline>LONDON 1997-05-02</dateline>
+<text>
+<p>Below are the current average ex-UK to Asia/Australasia/Middle East GBP air cargo market rates per kg for a 100kg shipment, with a volume-to-weight ratio of six-to-one.</p>
+<p>		   May 2	April 18</p>
+<p>			  NORTH ASIA</p>
+<p> LON-HKG	 1.15	  1.18</p>
+<p> LON-NRT	 1.88	  1.90</p>
+<p> LON-PEK	 1.45	  1.50</p>
+<p> LON-SEL	 1.65	  1.68</p>
+<p> LON-SHA	 1.50	  1.50</p>
+<p> LON-TPE	 1.22	  1.24</p>
+<p>	     SOUTH-EAST ASIA/AUSTRALASIA</p>
+<p> LON-AKL	2.55	   N.A.</p>
+<p> LON-BKK	1.12	   1.12</p>
+<p> LON-JAK	1.08	   1.08</p>
+<p> LON-KUL	1.00	   1.00</p>
+<p> LON-MNL	1.38	   1.40</p>
+<p> LON-SIN	1.10	   1.15</p>
+<p> LON-SYD	1.95	   1.95</p>
+<p>			MIDDLE EAST</p>
+<p> LON-BAH	0.85	   0.85</p>
+<p> LON-DXB	0.72	   0.73</p>
+<p> LON-TLV	1.05	   1.05</p>
+<p>		 INDIAN SUB-CONTINENT</p>
+<p> LON-BOM	0.76	   0.76</p>
+<p> LON-DEL	0.72	   0.74</p>
+<p> LON-KHI	1.08	   1.08</p>
+<p>*The rates quoted in this report were obtained by Reuters journalists on a confidential basis from a range of airlines, large forwarders and smaller cargo agents based at the three miaan London airports.</p>
+<p>*All prices are quoted in sterling per kilo</p>
+<p>*The tariffs represent average rates calculated from a range of preices and are indicative of current market activity. - Reuters Air Cargo Newsroom Tel+44 171 542 7706 Fax+5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="MEAST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

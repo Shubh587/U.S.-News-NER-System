@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108275" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Affymetrix in deal with Merck.</title>
+<headline>Affymetrix in deal with Merck.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-10</dateline>
+<text>
+<p>Affymetrix Inc said it entered an agreement in which Merck and Co Inc will use its GeneChip technology to monitor the expression of human genes.</p>
+<p>Under terms of the agreement, Affymetrix will supply Merck with GeneChip instruments and custom DNA probe arrays containing genes that Merck selected. Merck will evaluate the ability of the system to quantitatively detect differences in gene expression. If successful it is expected that the two companies will negotiate an expanded supply agreement to explore a significant portion of the genes contained in Merck's Gene index project, Affymetrix said.</p>
+<p>Affymetrix said it intends to establish its GeneChip system as the platform of choice for acquiring, analyzing and managing complex genetic information to improve the diagnosis, monitoring and treatment of disease.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

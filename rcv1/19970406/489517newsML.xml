@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489517" id="root" date="1997-04-06" xml:lang="en">
+<title>AUSTRIA: TENNIS-AUSTRIA BEAT CROATIA 3-2 IN DAVIS CUP TIE.</title>
+<headline>TENNIS-AUSTRIA BEAT CROATIA 3-2 IN DAVIS CUP TIE.</headline>
+<dateline>GRAZ, Austria 1997-04-06</dateline>
+<text>
+<p>Austria beat Croatia 3-2</p>
+<p>in their European/African group one Davis Cup tie on Sunday.</p>
+<p>Results:</p>
+<p>Goran Ivanisevic (Croatia) beat Thomas Muster (Austria) 6-7</p>
+<p>(5-7) 7-5 6-7 (5-7) 6-2 7-5</p>
+<p>Gilbert Schaller (Austria) beat Sasa Hirszon (Croatia) 6-3 6-3</p>
+<p>7-5</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAZ, Austria"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756092" id="root" date="1997-07-25" xml:lang="en">
+<title>UK: London daily sugar price - July 25.</title>
+<headline>London daily sugar price - July 25.</headline>
+<text>
+<p>Per Tonne						Last	   Net</p>
+<p>Daily Ind			    Raw	   169.20     +1.60</p>
+<p>CIF Contract			 Raw	   281.90     +1.60</p>
+<p>Carib/UK F.E.			Raw	    27.00     -----</p>
+<p>FOB Equiv			    Raw	   254.90     +1.60</p>
+<p>No5 FOB Contract		   White	 342.50     +1.00</p>
+<p>PLEASE SEE NEW DISPLAY  0#SUGAR.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

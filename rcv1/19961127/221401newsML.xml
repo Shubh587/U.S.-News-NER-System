@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221401" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: U.S. economy slowed more than thought in third quarter.</title>
+<headline>U.S. economy slowed more than thought in third quarter.</headline>
+<dateline>WASHINGTON 1996-11-27</dateline>
+<text>
+<p>Weak consumer spending and reduced production for inventories braked the economy's expansion more sharply during the third quarter than previously thought, the Commerce Department said Wednesday.</p>
+<p>The nation's gross domestic product expanded at a revised 2 percent annual rate in the three months from July through September instead of 2.2 percent as estimated a month ago.</p>
+<p>That was less than half the hearty 4.7 percent pace of increase in national output posted during the second quarter. But it still exceeded Wall Street economists' forecasts of an even more abrupt slowdown in third-quarter GDP to a 1.7 percent rate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444894" id="root" date="1997-03-15" xml:lang="en">
+<title>FRANCE: CYCLING-ITALY'S BAFFI WINS SEVENTH STAGE IN PARIS-NICE RACE.</title>
+<headline>CYCLING-ITALY'S BAFFI WINS SEVENTH STAGE IN PARIS-NICE RACE.</headline>
+<dateline>ANTIBES, France 1996-03-17</dateline>
+<text>
+<p>Italian Adriano Baffi won the 160-km seventh stage of the Paris-Nice race from Saint-Andre-des-Alpes on Saturday.</p>
+<p>World champion Johan Museeuw of Belgium finished second and Gian-Matteo Fagnini of Italy was third.</p>
+<p>Frenchman Laurent Jalabert retained the overall lead.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANTIBES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

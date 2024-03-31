@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50610" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Clinton declares Puerto Rico, West Virginia disasters.</title>
+<headline>Clinton declares Puerto Rico, West Virginia disasters.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>President Clinton on Wednesday declared Puerto Rico and West Virginia disaster areas because of extensive hurricane damage.</p>
+<p>After this week's Hurricane Hortense, the White House said federal funding for disaster housing, grants, low-cost loans to cover uninsured property losses for individuals and business owners in Guyama, Loiza, Ponce and Toa Baja.</p>
+<p>Because of damage from Hurricane Fran, the White House said similar assistance will also be made availabe in West Virginia to the following counties: Berkeley, Grant, Hampshire, Hardy, Mineral, Morgan, Pendleton.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687001" id="root" date="1997-06-25" xml:lang="en">
+<title>UK: BP's N.Sea Magnus field down for two weeks in Augu.</title>
+<headline>BP's N.Sea Magnus field down for two weeks in Augu.</headline>
+<dateline>LONDON 1997-06-25</dateline>
+<text>
+<p>The Magnus oilfield in the British sector of the North Sea will be shut down for the last two weeks of August for planned maintenance, a spokesman for operator British Petroleum said on Wednesday.</p>
+<p>The field, part of the Brent system, is currently producing just under 100,000 barrels of crude oil per day. The crude is transported via the Ninian system to the terminal at Sullom Voe.</p>
+<p>--London Newsroom +44 171 542 8978</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

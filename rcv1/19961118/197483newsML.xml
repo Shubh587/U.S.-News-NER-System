@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197483" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Compaq introduces handheld PC Companion.</title>
+<headline>Compaq introduces handheld PC Companion.</headline>
+<dateline>LAS VEGAS 1996-11-18</dateline>
+<text>
+<p>Compaq Computer Corp on Monday introduced its PC companion, a portable, pocket-size computer, and said it will sell in North America for between $499 and $699.</p>
+<p>The unit, which supports many of the features of desktop computers and weighs less than one pound, will be announced in additional countries when local language software becomes available, the company said.  </p>
+<p>Compaq said the unit will use Microsoft Corp's Windows CE operating system, Pocket versions of Microsoft's spreadsheet and word processing programs are included with the product.</p>
+<p>Documents can be shared between the Compaq PC companion and the personal computer using the file translation capabilities of the Microsoft Handheld PC Explorer. Compaq said.</p>
+<p>Microsoft Windows CE has included a Pocket Internet Explorer browser and e-mail client for connecting to the Internet, and sending and receiving electronic mail, Compaq said.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

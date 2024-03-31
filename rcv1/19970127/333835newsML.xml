@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333835" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: VeriSign commercializes new encryption standard.</title>
+<headline>VeriSign commercializes new encryption standard.</headline>
+<dateline>SAN FRANCISCO 1997-01-27</dateline>
+<text>
+<p>VeriSign Inc, hoping to push some recent Internet encryption research into use, announced Monday that it has begun commercializing several products based on new industry encryption standards.</p>
+<p>First it has taken the Secure Electronic Transactions (SET) standard developed last year by an industry group led by Visa and MasterCard and started online distribution of digital IDs based on SET to Visa customers.</p>
+<p>At an conference here sponsored by RSA Data Security Inc, VeriSign also demonstrated digital ID smart cards using a PC/SC standard to get access to Internet sites.  </p>
+<p>In a partnership with Schlumberger Inc, which also manufactures the smart cards, Litronic, which makes readers of smart cards, and Microsoft Corp on whose Internet Explorer 3.0 browser the smart cards will work, VeriSign showed how the smart cards would be useful for providing secure access to restricted Internet sites, or for transactions on the Net.</p>
+<p>&quot;We are starting to see the industry support this Visa- MasterCard intitative with a lot of product efforts,&quot; VeriSign Chief Executive Stratton Sclavos said about SET.  </p>
+<p>Smart cards are credit card-shaped plastic cards that hold a microchip that endows them with computer intelligence and processing capabilities. As officials from VeriSign, Spyrus Inc and others described here, an employee would use the smart card to get access from anywhere to a corporate network and have all the key personal information as if the computer was programmed for that person's use. Likewise, a consumer might use the smart card in many different sites to do Internet-based transactions from kiosks or ATMs and so on.</p>
+<p>Sclavos forecast that Internet transactions requiring security will gain consumer acceptance in 1998 or 1999.  </p>
+<p>He said 1997 will be the year that security apparatus is installed or deployed by merchants, banks and other companies. Then once deployed, consumers will start using it about a year later.</p>
+<p>Security remains a key concern of consumers about electronic commerce and Internet transactions, he said.</p>
+<p>VeriSign also announced its so-called private label digital ID program in which it is making encryption products for large customer-oriented companies, like brokerage firms, to distribute to customers for access to online accounts.</p>
+<p>And it announced a new service for the Electronic Data Interchange market that allows EDI to take place over the Internet instead of proprietary networks.</p>
+<p>Mountain View, Calif-based VeriSign considers itself the leader in providing digital certification for Internet access and electronic commerce. It has issued digital IDs based on other encryption technology it developed to about 500,000 people and on 14,000 Web sites, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

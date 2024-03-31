@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482172" id="root" date="1997-04-02" xml:lang="en">
+<title>USA: AMD launches new K6 chip.</title>
+<headline>AMD launches new K6 chip.</headline>
+<dateline>SUNNYVALE, Calif. 1997-04-02</dateline>
+<text>
+<p>Advanced Micro Devices Wednesday said it has begun shipments of its sixth-generation AMD-K6 MMX processor.</p>
+<p>In a statement, the company said it has already shipped thousands of units and is accelerating production in order to ship hundreds of thousands of AMD-K6 devices this quarter and millions more during the balance of the year.</p>
+<p>Advanced Micro said the AMD-K6 processor is the fastest x86 processor for desktop computers.</p>
+<p>Industry analysts expect the chip to allow Advanced Micro to compete more effectively with industry giant Intel Corp's oferings.</p>
+<p>AMD-K6 family members introduced today include products at clock frequencies of 233, 200 and 166 MHz.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

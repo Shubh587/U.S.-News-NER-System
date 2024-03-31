@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37429" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Big cocaine shipment seized in Houston.</title>
+<headline>Big cocaine shipment seized in Houston.</headline>
+<dateline>HOUSTON 1996-09-06</dateline>
+<text>
+<p>More than 2,600 pounds (1,180 kg) of cocaine worth an estimated $117 million were found aboard a Colombian ship at the Port of Houston, the U.S. Customs Service said on Friday.</p>
+<p>The drug was discovered on Thursday inside two 13-foot (3.9 metres) long rollers like those used in newspaper presses, spokeswoman Judy Turner said. It was the largest cocaine seizure ever made at the port, she said.</p>
+<p>Turner said the ship and was en route to Tampico, Mexico. It was not detained and none of the crew was arrested because there was no indication any one on board knew about the cocaine shipment, Turner added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

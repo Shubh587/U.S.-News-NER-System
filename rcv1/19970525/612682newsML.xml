@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612682" id="root" date="1997-05-25" xml:lang="en">
+<title>UK: Clinton to address British cabinet.</title>
+<headline>Clinton to address British cabinet.</headline>
+<dateline>LONDON 1997-05-25</dateline>
+<text>
+<p>U.S. President Bill Clinton will address new British Prime Minister Tony Blair's cabinet during a visit to London next week, the Sunday Times reported.</p>
+<p>Clinton is to have lunch on Thursday with Blair, who swept to power in a landslide election victory on May 1.</p>
+<p>The Sunday Times said the U.S. president's visit to the prime minister's official residence, 10, Downing Street, would be timed to coincide with the closing minutes of a regular cabinet meeting.</p>
+<p>&quot;The president is expected to address ministers for about five minutes, although some diplomats fear he may carry on for longer,&quot; the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

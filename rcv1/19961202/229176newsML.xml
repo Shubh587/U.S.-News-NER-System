@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229176" id="root" date="1996-12-02" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-12-02</dateline>
+<text>
+<p>COAL - Kleovoulos of Rhodes - 100,000 tonnes coal Richards Bay/Taranto $6.60 fio scale load/30,000 shinc end Dec Deiulemar.</p>
+<p>El Dorado - 130,000 tonnes coal Richards Bay/Rotterdam $6.25 fio scale load/25,000 shinc 1-10/1 Cobelfret.</p>
+<p>TBN - 40,000 tonnes coal Xingang/Piombino $16 fio 4,000 shinc/7,000 shinc 1-15/12 Duferco.</p>
+<p>ORE - Marshal Govorov - 90,000 tonnes ore Ponta da Ubu/Misurata $6.25-$6.50 fio scale load/40,000 shinc 20-30/12 Medmar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

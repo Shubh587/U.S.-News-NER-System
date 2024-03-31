@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231209" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: PRESALE - Urbandale CSD, Iowa.</title>
+<headline>PRESALE - Urbandale CSD, Iowa.</headline>
+<text>
+<p>AMT: 5,000,000	DATE: 12/04/96	NYC Time: 1100	CUSIP: 917219</p>
+<p>ISSUER: Urbandale CSD						   ST: IA</p>
+<p>ISSUE: School							    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 12/01/96							     SURE BID: Y</p>
+<p>DUE: 6/1/03-09						SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: 6/1/04 @ par					  NIC</p>
+<p>DELIVERY: 30 days					   ORDERS:</p>
+<p>PAYING AGENT: Norwest Bank Iowa, Des Moines</p>
+<p>L.O.: Ahlers, Cooney, Dorweiler, Haynie, Smith &amp; Albee, Des Moines</p>
+<p>F.A.: Evensen Dodge, Inc., Minneapolis</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2003		    625,000</p>
+<p>2004		    650,000</p>
+<p>2005		    675,000</p>
+<p>2006		    700,000</p>
+<p>2007		    750,000</p>
+<p>2008		    775,000</p>
+<p>2009		    825,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

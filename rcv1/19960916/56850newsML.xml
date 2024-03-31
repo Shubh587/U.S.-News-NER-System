@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56850" id="root" date="1996-09-16" xml:lang="en">
+<title>SWEDEN: Ericsson wins Singapore taxi radio deal.</title>
+<headline>Ericsson wins Singapore taxi radio deal.</headline>
+<dateline>STOCKHOLM 1996-09-16</dateline>
+<text>
+<p>Swedish telecoms group LM Ericsson AB said on Monday it had received an order for 3,000 Mobitex radio modems from Comfort Taxi in Singapore.</p>
+<p>The financial details of the contract were not released.</p>
+<p>The company said in a statement that Comfort Taxi was expanding its Cablink system, developed by CEI Technologies, which involved computerised tracking and dispatching.</p>
+<p>Ericsson said currently half of Comfort's fleet of 10,000 taxis were equipped with Cablink and this order would lift the number to 8,000.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I72200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

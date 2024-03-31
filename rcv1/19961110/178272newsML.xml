@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178272" id="root" date="1996-11-10" xml:lang="en">
+<title>USA: AT&amp;T to offer credit for WorldNet glitch.</title>
+<headline>AT&amp;T to offer credit for WorldNet glitch.</headline>
+<dateline>BRIDGEWATER, N.J. 1996-11-10</dateline>
+<text>
+<p>AT&amp;T Corp said customers affected by the AT&amp;T WorldNet Service electronic mail failure will be offered a choice of either a 30-minute phone card or a credit of a half-month of standard service on AT&amp;T WorldNet Service.</p>
+<p>Approximately 50,000 customers were affected by the outage, the company said.</p>
+<p>On Friday, AT&amp;T said that half of its 425,000 WorldNet Internet users have been hit by an electronic mail problem that halted message delivery. Electronic mail messages were sent, but they could not be received immediately, AT&amp;T said.  </p>
+<p>AT&amp;T said on Friday the messages that were blocked were stored in a database.</p>
+<p>The phone card is good for making long distance calls from any phone and has a retail value of $10.50, AT&amp;T said.</p>
+<p>The cash value of the AT&amp;T WorldNet Service credit, for approximately half a month standard service, will depend on the customer's billing plan, the company said.</p>
+<p>Affected customers will receive further information on the two offers in their e-mail boxes, AT&amp;T said.</p>
+<p>Customers were told that a server failure damaged a database and the back-up database that contained messages for delivery, AT&amp;T said. The outage started 1425 EST November 7, 1996 and service was restored November 8 at 2200 EST.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGEWATER, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

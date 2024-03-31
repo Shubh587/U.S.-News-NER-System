@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300104" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: U.S. 1996 corn in major states -USDA.</title>
+<headline>U.S. 1996 corn in major states -USDA.</headline>
+<dateline>WASHINGTON 1997-01-10</dateline>
+<text>
+<p>USDA final 1996 corn production and yields in major states, and final revised 1995.</p>
+<p>    -    PRODUCTION, 1,000 bushels:    YIELD, bushels/acre:</p>
+<p>    -    1996----Prev.'96	1995     1996--Prev.  1995</p>
+<p> IL  1,468,800  1,479,600  1,130,000   136.0  137.0  113.0</p>
+<p> IN    670,350    675,800    598,900   123.0  124.0  113.0</p>
+<p> IA  1,718,100  1,736,000  1,402,200   138.0  140.0  123.0</p>
+<p> KS    357,200    364,250    244,280   152.0  155.0  124.0</p>
+<p> MN    868,750    847,000    731,850   125.0  121.0  119.0</p>
+<p> NE  1,186,900  1,188,000    854,700   143.0  144.0  111.0</p>
+<p> OH    305,250    313,000    375,100   111.0  114.0  121.0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

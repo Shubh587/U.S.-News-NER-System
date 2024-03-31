@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21201" id="root" date="1996-08-29" xml:lang="en">
+<title>SOUTH AFRICA: Dutch Queen Beatrix to visit S.Africa in October.</title>
+<headline>Dutch Queen Beatrix to visit S.Africa in October.</headline>
+<dateline>JOHANNESBURG 1996-08-29</dateline>
+<text>
+<p>Queen Beatrix of The Netherlands will pay a four-day state visit to South Africa in October, the first by a ruling Dutch monarch, the South African foreign ministry said on Thursday.</p>
+<p>She will be accompanied by several officials who will sign a cultural agreement with South Africa, where the Dutch were the first European settlers in 1652.</p>
+<p>The queen will be accompanied by her husband Prince Claus on the September 30 to October 3 visit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

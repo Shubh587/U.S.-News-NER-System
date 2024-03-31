@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253069" id="root" date="1996-12-12" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-12-12</dateline>
+<text>
+<p>COAL - Sunny Clipper - 100,000 tonnes Hampton Roads/Tarano end Dec $6.55 fio 30,000 shinc/30,000 shinc Ilva.</p>
+<p>Chariot - 60,000 tonnes Xingang/Dunkirk option Terneuzen 16-22/12 $16.00 fio 6,000 shex/25,000 shinc Brade Carriers.</p>
+<p>TBN 65,000 tonnes Gladstone/Wedel Dec/Jan approx. $14.25 fio 35,000 shinc/15,000 shex BHP.</p>
+<p>TBN 55,000 tonnes Roberts Bank/Gijon 10-20/1 approx. $13.50 fio five shinc Enem.</p>
+<p>ORE - TBN 160,000 tonnes Ponta da Madeira/Kure 1-15/2 $9.30 fio scale load/35,000 shinc Tsukiboshi.  </p>
+<p>Carbunesti - 120,000 tonnes Tuburao/Kaohsiung end Jan $9.90 fio 40,000 shinc/38,000 shinc China Steel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

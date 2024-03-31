@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170525" id="root" date="1996-11-06" xml:lang="en">
+<title>UK: UK October car sales rise lifts year-to-date total.</title>
+<headline>UK October car sales rise lifts year-to-date total.</headline>
+<dateline>LONDON, DATE</dateline>
+<text>
+<p>British new car sales</p>
+<p> OCTOBER			154,733 vs 136,605   - up 13.27 pct</p>
+<p> 1996 Yr to date	  1,811,967 vs 1,730,771 - up  4.69 pct</p>
+<p> Total yr to date by marque, mkt share in pct vs year ago</p>
+<p> Ford	   360,139 (19.88 pct) vs 369,031 (21.32 pct)</p>
+<p> GM  Vauxhall 254,707 (14.06 pct) vs 261,011 (15.08 pct)</p>
+<p> Rover Group  190,044 (10.49 pct) vs 199,296 (11.51 pct)</p>
+<p> Peugeot	136,855  (7.55 pct) vs 129,986  (7.51 pct)</p>
+<p> Renault	121,238  (6.69 pct) vs 111,188  (6.42 pct)</p>
+<p> VW	     102,206  (5.64 pct) vs 72,196   (4.17 pct)</p>
+<p> Nissan	  84,081  (4.64 pct) vs 81,764   (4.72 pct)</p>
+<p> Fiat	    76,064  (4.20 pct) vs 62,888   (3.63 pct)</p>
+<p> Citroen	 69,873  (3.86 pct) vs 72,467   (4.19 pct)</p>
+<p> Toyota	  55,422  (3.06 pct) vs 49,239   (2.84 pct)</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON, DATE"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

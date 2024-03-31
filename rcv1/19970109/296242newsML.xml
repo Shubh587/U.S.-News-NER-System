@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296242" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: U.S. says bad apples, water caused illness.</title>
+<headline>U.S. says bad apples, water caused illness.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1997-01-09</dateline>
+<text>
+<p>Contaminated well water and the use of apples that had fallen to the ground likely caused two recent outbreaks of intestinal illness from unpasteurized apple cider, federal health experts said on Thursday.</p>
+<p>The Centers for Disease Control and Prevention (CDC) said 31 people became ill in New York state in September and October after drinking a local mill's cider made from apples that had been washed with water from a contaminated well. The cider was contaminated by a microscopic parasite called cryptosporidium.</p>
+<p>In Connecticut, 14 people were sickened in October by E. coli bacteria in cider made from apples that had fallen to the ground, sometimes called &quot;drop&quot; apples.</p>
+<p>&quot;The practice of using drop apples for making apple cider is common, and apples can become contaminated by resting on ground contaminated with manure,&quot; CDC medical epidemiologist Dr. Jono Mermin said.</p>
+<p>Researchers are still investigating the cause of an October outbreak of E. coli infections in the West which caused illness in 66 people, 12 of whom suffered kidney failure, and one death. The outbreak was linked to unpasteurized commercial apple juice.</p>
+<p>Both E. coli and cryptosporidium can live up to four weeks in unpasteurized apple juice or cider and can cause illness at very low concentrations. The CDC said E. coli isn't always killed by preservatives, and cryptosporidium is resistant to common disinfectants such as bleach, iodine and sodium hydrozide.</p>
+<p>Boiling unpasteurized cider can kill the contaminants, though it does affect the taste. &quot;You can just bring it to a rolling boil and that's enough,&quot; Mermin said. &quot;You don't have to boil it more than that.&quot;</p>
+<p>Apple juice that has been pasteurized or comes as a frozen concentrate is safe, he said.</p>
+<p>E. coli, a bacteria which only lives in mammals, can cause diarrhea, often with bloody stools. Most people recover completely within a week, but some develop a form of kidney failure called Hemolytic Uremic Syndrome.</p>
+<p>Cryptosporidiosis, the illness caused by the parasite, causes diarrheal illness that usually lasts about two weeks, but can be more severe and long-lasting in people with weakened immune systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I0100206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

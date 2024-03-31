@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261867" id="root" date="1996-12-17" xml:lang="en">
+<title>FRANCE: Trichet confirms five pct M3 growth target.</title>
+<headline>Trichet confirms five pct M3 growth target.</headline>
+<dateline>PARIS 1996-12-17</dateline>
+<text>
+<p>Bank of France governor Jean-Claude Trichet on Tuesday confirmed the central bank objective of an M3 money supply growth limited to five percent in the medium term.</p>
+<p>He also said at a news conference that the Bank's monetary policy council would continue to closely watch the M3 and P1 monetary aggregates.</p>
+<p>He noted that M3 and P1 had shown significant rises of in the region of four percent in the last 12 months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

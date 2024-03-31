@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="705103" id="root" date="1997-07-03" xml:lang="en">
+<title>USA: U.S. shuttle crew activates space lab.</title>
+<headline>U.S. shuttle crew activates space lab.</headline>
+<dateline>CAPE CANAVERAL, Fla 1997-07-03</dateline>
+<text>
+<p>The crew of the U.S. space shuttle Columbia completed activation of their $86 million space laboratory on Thursday, NASA officials said.</p>
+<p>&quot;Things are progressing well and the team is looking forward to another two weeks of science,&quot; mission operations director Jeff Bantle told a news conference.</p>
+<p>Columbia's seven astronauts, working in a bus-sized laboratory, started up the last of their 33 major scientific experiments overnight.</p>
+<p>The shuttle's 16-day mission will investigate fire in space, the manufacture of new alloys and the growth of protein crystals to aid medical research.</p>
+<p>Scientists hope the shuttle's combustion experiments will lead to more efficient and cleaner ways of burning fuel.</p>
+<p>The reusable solid rocket boosters that helped Columbia soar into space were returned to Cape Canaveral on Wednesday. Initial inspections revealed no unusual damage, NASA spokesman Joel Wells said.</p>
+<p>Columbia and its seven astronauts are due back to Earth on July 17.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

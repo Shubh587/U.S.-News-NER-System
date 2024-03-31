@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809687" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Oncogene cancer compound Phase I started.</title>
+<headline>Oncogene cancer compound Phase I started.</headline>
+<dateline>UNIONDALE, N.Y. 1997-08-19</dateline>
+<text>
+<p>Oncogene Science Inc said Tuesday that Pfizer Inc, its collaborative partner for the discovery and development of novel, small molecule anticancer drugs, has initiated Phase I clinical trials in the United States for CP-358,774 in cancer patients.</p>
+<p>CP-358,774 is an orally active, small-molecule inhibitor of the epidermal growth factor receptor activity.</p>
+<p>It is representative of a new class of anticancer drugs that target the underlying molecular mechanism involving oncogenes and tumor suppressor genes which play critical roles in the conversion of normal cells into a cancerous state.</p>
+<p>Oncogene said that clinical development of CP-358,774 is being funded and managed by Pfizer under terms of a collaborative research and development agreement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNIONDALE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

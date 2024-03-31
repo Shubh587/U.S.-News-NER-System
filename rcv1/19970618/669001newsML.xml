@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669001" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: U.S. stocks steady but lower.</title>
+<headline>U.S. stocks steady but lower.</headline>
+<dateline>NEW YORK 1997-06-18</dateline>
+<text>
+<p>Wall Street stocks held steady in early-afternoon trade Wednesday, with the Dow industrials down about 45 points at 7716.</p>
+<p>The Nasdaq composite was off 10 points at 1433.</p>
+<p>Analysts said the market was absorbing a downturn in the technology sector spurred by Gateway 2000 Inc and Seagate Technology Inc. Both companies warned of lower-than-expected results after the bell Tuesday.</p>
+<p>The 30-year bond was up 8/32 with a 6.70 percent yield. The S&amp;P index futures were off 4.15 points at 898.60.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

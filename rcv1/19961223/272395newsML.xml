@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272395" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Louisiana Land finds hydrocarbons at well.</title>
+<headline>Louisiana Land finds hydrocarbons at well.</headline>
+<dateline>NEW ORLEANS 1996-12-23</dateline>
+<text>
+<p>The Louisiana Land and Exploration Co said it found a potentially significant accumulation of hydrocarbons in one of its major 3-D generated exploratory prospects in south Louisiana.</p>
+<p>The company said it found the hydrocarbons in the Lower Miocene Discorbis 30 Sand at the Fresh Water Bayou C-1 well in Vermilion Parish. The hydrocarbons are in addition to about 50 feet of net gas pay in the Discorbis 26 Sand previously logged at the well.</p>
+<p>The company said it still needs to perform production testing, which will take about three to four weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

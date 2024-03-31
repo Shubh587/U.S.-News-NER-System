@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417575" id="root" date="1997-03-04" xml:lang="en">
+<title>MEXICO: Mexico crude port reopen as wind speeds decline.</title>
+<headline>Mexico crude port reopen as wind speeds decline.</headline>
+<dateline>MEXICO CITY 1997-03-04</dateline>
+<text>
+<p>Mexico crude ports Pajaritos in Veracruz state and Dos Bocas in Tabasco state reopened at 0630 local/1230 GMT Tuesday as wind speeds in the region relaxed, port officials told Reuters.</p>
+<p>The ports shut to crude shipping Sunday at between 1530 and 1600 local as wind speeds reached 45 km per hour and waves were nine feet high.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

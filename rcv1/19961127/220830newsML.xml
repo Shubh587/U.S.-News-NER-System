@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220830" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS - WSC - 27-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS - WSC - 27-NOV.</headline>
+<text>
+<p>Tropical Cyclone Chantelle, with 75 mph winds, is in the South Indian Ocean near 9s/77e, moving west at 12 mph. This system will continue to intensify and move west southwest over open water, threatening shipping. Top winds by 48 hours could be near 115 mph.  </p>
+<p>Tropical Depression 40W will be fairly weak in the eastern Philippine Sea, only a moderate threat to shipping. This system will continue to weaken and will likely dissipate over open waters by 24-36 hours.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS AT THIS TIME</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47808" id="root" date="1996-09-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian High Court orders by-election.</title>
+<headline>RTRS-Australian High Court orders by-election.</headline>
+<dateline>CANBERRA 1996-09-11</dateline>
+<text>
+<p>The High Court of Australia on Wednesday ordered a by-election for the Sydney electorate of Lindsay.</p>
+<p>Chief Justice Gerard Brennan quashed the March 2 election for the seat after the winning Liberal Party candidate, Jackie Kelly, was found inelligible under the Constitution.</p>
+<p>Kelly was a government employee and held dual Australian and New Zealand nationality when she stood for the lower house of parliament, the house of representatives, where the Liberal-National Coalition government holds a substantial majority. No date has been set for the by-election.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

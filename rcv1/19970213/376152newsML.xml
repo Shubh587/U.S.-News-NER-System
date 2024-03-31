@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="376152" id="root" date="1997-02-13" xml:lang="en">
+<title>USA: CBOT T-bonds options vol/open interest - Feb 12.</title>
+<headline>CBOT T-bonds options vol/open interest - Feb 12.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: T-BONDS		 CALL</p>
+<p>			 EVE   PJA   DAY   GIVE		  OPTS   OPEN INTEREST</p>
+<p>YR MTH		TRDS  TRDS  TRDS   UPS  TRFRS ADJST  EXER   CLOSE   CHANGE</p>
+<p>-- ---	     ----- ----- ------ ----- ----- ----- ------ ------- -------</p>
+<p>97 MAR TOTAL	  51   103  48567 25227   425  7724	9  299232   3233-</p>
+<p>97 APR TOTAL			  600   200   100		    15385    430+</p>
+<p>97 JUN TOTAL			 9417  1902	  1696	   139194   2202+</p>
+<p>97 SEP TOTAL			  526    56			    10040    440+</p>
+<p>97 OCT TOTAL								     300</p>
+<p>97 DEC TOTAL								    2040</p>
+<p>COMMODITY: T-BONDS		 PUT</p>
+<p>97 MAR TOTAL	  40    53  34764 12724   227  4262    397  248034    562+</p>
+<p>97 APR TOTAL			 2100   400	   190	    10625   1310+</p>
+<p>97 MAY TOTAL								     100</p>
+<p>97 JUN TOTAL			 4643  1080	  1700	    82472   1942+</p>
+<p>97 SEP TOTAL			   41     1			     2161     37+</p>
+<p>97 OCT TOTAL								     500</p>
+<p>97 DEC TOTAL								     100</p>
+<p>CMMDTY TOTAL	  91   156 100658 41590   752 15572    406  810183   3690+</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

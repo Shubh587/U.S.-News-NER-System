@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="458703" id="root" date="1997-03-21" xml:lang="en">
+<title>ALBANIA: Table of selected indicators for Balkan countries.</title>
+<headline>Table of selected indicators for Balkan countries.</headline>
+<text>
+<p>Moody's	 GDP (%)	  CPI (%)   FOREIGN  RES($bln)</p>
+<p>			95    96   97   95    96   97     95   96   97</p>
+<p>ALBANIA     -   13.4  10.0  na    6.0   9.5  na     na   na   na</p>
+<p>BULGARIA    B3   2.6 -11.0 -6.0  32.9 396.4 696.0   1.2  0.5 1.0</p>
+<p>BOSNIA&amp;H    -    7.5  35.0 25.0   na    na   na     na   na   na</p>
+<p>GREECE	Baa1 2.0   2.6  3.5   8.1   7.3   5.0  15.7  19   na</p>
+<p>CROATIA     Baa3 1.7   5.0  6.5   3.7   3.5  4.0    2.3  1.9  na</p>
+<p>ROMANIA     Ba3  7.1  4.1  -2.0   27.8 56.9 89.5    1.6  2.1 2.7</p>
+<p>SLOVENIA    A3   3.9  3.5   4.0    8.6  8.8  9.2    1.8  2.4 2.9</p>
+<p>YUGOSLAVIA   -   na    5.8  2.0  120   57.8  na     0.1  0.2 0.2</p>
+<p>MACEDONIA    -  -1.5   2.0  4.0    9.0  5.0  4.0     na  na  na</p>
+<p>TURKEY	B1   8.0   7.5  5.5   93.5 79.8 80.0   12.4 16.5 17</p>
+<p>----------------------------------------------------------------</p>
+<p>NOTE:  Data compiled from official statistics as well as private and official research publications. Figures for 1996 are mostly estimates and for 1997 forecasts.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191031" id="root" date="1996-11-14" xml:lang="en">
+<title>DENMARK: Danish November consumer confidence +6 (Oct +5).</title>
+<headline>Danish November consumer confidence +6 (Oct +5).</headline>
+<dateline>COPENHAGEN 1996-11-14</dateline>
+<text>
+<p>Denmark's consumer confidence indicator was +6 in November, up from +5 in October 1996, the National Statistics Office said on Thursday.</p>
+<p>		   Nov 96	    Oct 96	   Nov 95</p>
+<p>		    +6		   +5		 +9</p>
+<p>NOTE: The survey asks a cross section of Denmark's population its views on current personal and national economic trends, along with consumer intentions for coming months. Changes in consumer confidence are indicated by a higher or lower weighted rating, rather than by index.</p>
+<p>--Steve Weizman, Copenhagen newsroom +45-33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472380" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: NTSB official calls parts flaw in accident detectable.</title>
+<headline>NTSB official calls parts flaw in accident detectable.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1997-03-27</dateline>
+<text>
+<p>A crack in a fan hub that caused a Delta Air Lines jet engine to fly apart last year, killing two people, should have been detected during a routine inspection, the head of a federal safety panel said Thursday.</p>
+<p>National Transportation Safety Board member John Goglia spoke during a public hearing into a July 6, 1996, accident in which an engine blew apart as a Delta MD-88 plane was gaining speed for takeoff from an airport in Pensacola, Fla.</p>
+<p>NTSB metallurgists found fatigue cracks in one of the tierod holes drilled into the fan hub and concluded it was the result of manufacturing.</p>
+<p>&quot;The metallurgists tell me that they believe the crack had progessed out of the hole and was visible on the surface,&quot; Goglia said. &quot;If that were the case, then it was clearly missed on inspection.&quot;</p>
+<p>Delta workers told investigators during the hearing that a visual technique called flourescent penetrant inspection, which involves coating a part in a penetrating fluid that allows cracks to be detected using a special light, is inadequate for finding flaws.</p>
+<p>&quot;There are better methods,&quot; James Maucere, Delta's director of compliance and quality assurance, told the NTSB panel Thursday. Since then, the airline has begun using a second method, an eddy current test which uses an electrical field to detect cracks.</p>
+<p>&quot;Flourescent penetrant inspection is the recommended procedure by the manufacturer,&quot; Maucere said. &quot;But I think eddy current is a much better procedure for that particular hub, for those holes.&quot;</p>
+<p>Delta inspector Jose Hilerio said Wednesday that the flourescent method was &quot;not a very good inspection technique,&quot; because it was difficult to see the inner walls of the three-inch-deep bolt holes.</p>
+<p>Earlier this year, the Federal Aviation Administration proposed that both methods be used to check for flaws in the 125-pound titanium fan hubs of Pratt &amp; Whitney JT8D-200 series turbofan engines. The FAA estimates that there are 2,624 engines of the affected design worldwide, including 1,279 engines installed on aircraft registered in the United States.</p>
+<p>Two people were killed and another seriously injured when debris from the failed engine penetrated the cabin holding 142 passengers on Delta Flight 1288 from Pensacola to Atlanta. Pilots aborted their takeoff before the plane left the ground.</p>
+<p>In another matter, the NTSB will also investigate an incident Thursday in which an 18-foot-long section of a wing flap fell off a Delta Air Lines 767 jet approaching Dallas-Ft. Worth from Orlando.</p>
+<p>Authorities said the wing flap plunged into a field just a few feet from a major intersection in the Dallas suburb of Carrollton, missing a residential neighborhood and a nursing home by about 100 yards. No one was injured and the plane with 189 passengers landed safely minutes later.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

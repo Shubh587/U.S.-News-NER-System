@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352249" id="root" date="1997-02-03" xml:lang="en">
+<title>GERMANY: German states ban pig exports due to swine fever.</title>
+<headline>German states ban pig exports due to swine fever.</headline>
+<dateline>BONN 1997-02-03</dateline>
+<text>
+<p>Germany's federal and state Agriculture Ministries agreed on Monday to ban the export of pigs for slaughter from areas of four regional states affected by swine fever, the Bonn agriculture ministry said.</p>
+<p>German authorities have so far ordered the slaughter of over 14,000 pigs to try to contain the outbreak, and Belgium has banned the import of all German pigs.</p>
+<p>Bonn Agriculture Ministry state secretary Franz-Josef Feiter said no pigs intended for slaughter would be allowed to leave the affected local regions for 60 days after the last recorded case.</p>
+<p>In addition, no pigs for breeding would be exported from the states of North Rhine-Westphalia, Lower Saxony, Mecklenburg-Vorpommern or Saxony-Anhalt during that period.</p>
+<p>A spokesman for the Lower Saxony Agriculture Ministry said it was hoped that the partial ban would prove convincing to the EU veterinary committee meeting in Brussels on Tuesday and prevent it urging the EU to impose an export ban for all of Germany.</p>
+<p>Switzerland earlier on Monday banned the import of live pigs and pork meat from four German states.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

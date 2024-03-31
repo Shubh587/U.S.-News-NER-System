@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214829" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Sequus says antibiotic gets market OK.</title>
+<headline>Sequus says antibiotic gets market OK.</headline>
+<dateline>MENLO PARK, Calif. 1996-11-25</dateline>
+<text>
+<p>Sequus Pharmaceuticals Inc said Monday it has received market clearance for its drug, Amphotec, which is used to treat invasive aspergillosis.</p>
+<p>The antifungal antibiotic is used in patients in whom renal impairment or unacceptable toxicity precludes the use of conventional amphotericin B deoxycholate, the company said.</p>
+<p>Sequus said it will market Amphotec directly through its 45-person sales force.  It said the product will be shipped to wholesalers and will be available to physicians by the end of the year.</p>
+<p>Amphotec is marketed as Amphocil in 17 countries outside the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

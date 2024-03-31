@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773333" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: GeoResources still working on oil well.</title>
+<headline>GeoResources still working on oil well.</headline>
+<dateline>WILLISTON, N.D. 1997-08-01</dateline>
+<text>
+<p>GeoResources Inc said Friday it  was working toward completion on its Ballantyne-State/Steinhaus H1  horizontal oil well located in the Wayne Field, Bottineau County,  N.D.</p>
+<p>The completion process has taken substantially longer than the company  originally estimated, primarily because the wellbore was found to  contain substantially more leftover drill cuttings than expected,  it said.</p>
+<p>GeoResources said time and expense was needed to clean the well thoroughly  to achieve its potential.  Preliminary swab cleaning and testing indicate  the well should be oil productive and have oil production potential  similar to the company's other horizontal wells in the Wayne Field,  it said. The company said it was continuing completion operations  as quickly as possible and hopes to have the well producing on a down  hole pump within a few weeks.</p>
+<p>-- ((Reuters Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILLISTON, N.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

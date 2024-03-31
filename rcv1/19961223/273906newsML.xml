@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273906" id="root" date="1996-12-23" xml:lang="en">
+<title>GERMANY: German police say nine killed in hospital fire.</title>
+<headline>German police say nine killed in hospital fire.</headline>
+<dateline>HAMBURG 1996-12-23</dateline>
+<text>
+<p>Nine elderly people were killed in a fire at a psychiatric hospital in northern Germany, police said on Monday.</p>
+<p>Police said they did not know the cause of the fire, but they said arson could not be ruled out.  </p>
+<p>The fire broke out at the hospital in the town of Rickling north of Hamburg late on Sunday. Initial reports had said only two people had been killed in the blaze.</p>
+<p>Police said they had found seven additional bodies on Monday in the smouldering remains of a building where the patients lived.</p>
+<p>The police said that 23 people who lived in the wooden building had been evacuated without injury, but that the inmates had at first been unsure how many others had actually been inside when the fire started.</p>
+<p>The victims were all aged between 55 and 85 and some had lived in the building for 25 years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

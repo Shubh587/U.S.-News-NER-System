@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48642" id="root" date="1996-09-12" xml:lang="en">
+<title>CZECH REPUBLIC: TENNIS-CZECH OPEN WOMEN'S RESULTS.</title>
+<headline>TENNIS-CZECH OPEN WOMEN'S RESULTS.</headline>
+<dateline>KARLOVY VARY, Czech Republic 1996-09-12</dateline>
+<text>
+<p>Second round results at the Czech Open women's tennis tournament on Thursday (prefix number denotes seeding):</p>
+<p>8-Henrietta Nagyova (Slovakia) beat Katarzyna Nowak (Poland) 6-1 6-4</p>
+<p>Lenka Cenkova (Czech Rep) beat Janette Husarova (Slovakia) 7-5 6-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARLOVY VARY, Czech Republic"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

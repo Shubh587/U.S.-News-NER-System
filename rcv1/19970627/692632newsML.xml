@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="692632" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: U.S. Supreme Court rejects Virginia redistricting.</title>
+<headline>U.S. Supreme Court rejects Virginia redistricting.</headline>
+<dateline>WASHINGTON 1997-06-27</dateline>
+<text>
+<p>The Supreme Court on Friday affirmed a ruling that struck down as unconstitutional Virginia's only majority-black congressional district.</p>
+<p>The justices rejected appeals by Virginia Republican Attorney General James Gilmore and by civil rights groups arguing that the redistricting plan should be upheld.</p>
+<p>At issue was Virginia's Third Congressional District, which is 64 percent black and stretches about 225 miles from Richmond to Hampton Roads.</p>
+<p>Democrat Robert Scott of Newport News was elected from the district in 1992, becoming the first black member of Congress from Virginia since the Reconstruction-era after the Civil War. He won re-election in 1994 and 1996.</p>
+<p>The three-judge federal court panel struck down the district, created in 1991 by the Democratic-controlled legislature, on the grounds that race had been the main factor in drawing the boundaires.</p>
+<p>The judges ordered the Virginia legislature to redraw the boundaries before the 1998 elections.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

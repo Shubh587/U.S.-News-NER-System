@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="471884" id="root" date="1997-03-27" xml:lang="en">
+<title>TAIWAN: One killed, 20 injured in Taiwan train accident.</title>
+<headline>One killed, 20 injured in Taiwan train accident.</headline>
+<dateline>TAIPEI 1997-03-27</dateline>
+<text>
+<p>A passenger train derailed in northeastern Taiwan on Thursday, killing a truck driver and injuring 20 people, police said.</p>
+<p>&quot;The first car of the train derailed while the second burst into fire as it smashed into a cement truck near Wai Ao station in (the town of) Touchen,&quot; a police officer told Reuters.</p>
+<p>Truck driver Lin Chun-yi, 32, was killed, while 20 of the train's 380 passengers were injured, the officer said.</p>
+<p>Preliminary investigations showed the accident occurred because the truck had stopped too close to the railway tracks, the officer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

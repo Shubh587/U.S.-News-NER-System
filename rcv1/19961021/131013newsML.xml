@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131013" id="root" date="1996-10-21" xml:lang="en">
+<title>FRANCE: Mayor of Algiers killed during gunbattle.</title>
+<headline>Mayor of Algiers killed during gunbattle.</headline>
+<dateline>PARIS 1996-10-21</dateline>
+<text>
+<p>The mayor of Algiers was killed in the Algerian capital on Monday when he was apparently hit by a stray bullet from a gunbattle between Moslem guerrillas and security forces, residents and officials said.</p>
+<p>A resident reached by telephone said &quot;it seems&quot; that Mayor Ali Boucetta was hit by a stray bullet in Telemely district of Algiers as the security forces were storming a nearby hideout for Islamist rebels. A government official confirmed Boucetta's death but gave no details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

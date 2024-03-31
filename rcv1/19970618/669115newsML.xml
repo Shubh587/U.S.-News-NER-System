@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669115" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: SOCCER-U.S. NIPS ISRAEL IN INTERNATIONAL FRIENDLY.</title>
+<headline>SOCCER-U.S. NIPS ISRAEL IN INTERNATIONAL FRIENDLY.</headline>
+<dateline>JACKSONVILLE, Florida 1997-06-17</dateline>
+<text>
+<p>The U.S.</p>
+<p>national soccer team beat Israel's national team 2-1 (halftime</p>
+<p>1-0) in an international friendly at Alltel Stadium Tuesday.</p>
+<p>Scorers:</p>
+<p>USA - Alexi Lalas (28th minute), Jovan Kirovski (68th)</p>
+<p>Israel - Moshe Glam (83rd)</p>
+<p>Attendance: 8,436</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSONVILLE, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66191" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Federal Reserve business loans fell in Sept 11 wk.</title>
+<headline>Federal Reserve business loans fell in Sept 11 wk.</headline>
+<text>
+<p>ONE WEEK ENDED SEPTEMBER 11</p>
+<p> U.S. business Loans.......361,904 down......91</p>
+<p> Excluding acceptances.....360,191 down......82</p>
+<p> Govt, agency securities...271,925 down...2,868</p>
+<p> Trading account............20,667 down...1,538</p>
+<p> CDs, major time deposits..138,492 up.......315</p>
+<p> U.S. commercial paper.....737,288 up.....3,442</p>
+<p> Financial companies.......546,175 up.....2,834</p>
+<p> New York business loans....41,889 up.......204</p>
+<p> Excluding acceptances......41,646 up.......198</p>
+<p> CDs/major time deposits... 22,557 down.....363</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

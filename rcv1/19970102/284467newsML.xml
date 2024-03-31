@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284467" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Houston Ship Channel closed due to fog - pilots.</title>
+<headline>Houston Ship Channel closed due to fog - pilots.</headline>
+<dateline>HOUSTON 1997-01-02</dateline>
+<text>
+<p>The Houston Ship Channel remained closed due to fog that shrouded the shipping lane for the second straight day, delaying 23 in-bound and 10 out-bound ships, the ship channel pilots association said.</p>
+<p>The channel, used by tankers to reach Houston's refinery row and by deep-draft ships to reach the Port of Houston, has been closed since 0700 CST/1300 GMT Wednesday after a heavy fog rolled in, a pilot dispatcher said.  </p>
+<p>Shipping officials were uncertain when the fog might clear enough to open the channel, which connects the Port of Houston and refinery row to Galveston Bay and the Gulf of Mexico.</p>
+<p>Visibility was less than a mile along some sections of the channel, and was expected to improve slowly through the day, meteorologist Jill Hasling with Houston's Weather Research Center said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72603">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

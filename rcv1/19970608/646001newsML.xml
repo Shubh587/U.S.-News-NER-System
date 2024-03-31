@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646001" id="root" date="1997-06-08" xml:lang="en">
+<title>INDIA: Indian chief minister escapes landmine blast.</title>
+<headline>Indian chief minister escapes landmine blast.</headline>
+<dateline>GUWAHATI, India 1997-06-08</dateline>
+<text>
+<p>A landmine exploded in the northeastern Indian state of Assam on Sunday, minutes after state chief minister Prafulla Kumar Mahanta's convoy passed the spot, police said.</p>
+<p>No casualties were reported.</p>
+<p>Police said the blast occurred at 1:05 p.m. (0735 GMT) in the centre of Guwahati, Assam's biggest city and its commercial capital.</p>
+<p>City police chief K. Saikia said police were investigating. No group had claimed responsibility for the blast.</p>
+<p>Several separatist groups, some tribal and others with Maoist ideologies, operate in northeastern India and accuse New Delhi of ignoring the region's economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUWAHATI, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

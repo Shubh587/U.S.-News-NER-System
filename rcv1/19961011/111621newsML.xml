@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111621" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U of Michigan consumer sentiment Oct prelim 94.8.</title>
+<headline>U of Michigan consumer sentiment Oct prelim 94.8.</headline>
+<dateline>NEW YORK 1996-10-11</dateline>
+<text>
+<p>The University of Michigan's preliminary index of consumer sentiment for October rose to 94.8 compared to 94.7 in the final September index, financial market sources said on Friday.</p>
+<p>The current conditions component rose to 104.7 in the October preliminary report against the 102.0 reading in the final September.</p>
+<p>The expectations index fell to 88.5 in the preliminary October data versus the 90.1 in the final September, the sources added. The data are released only to paying subscribers.</p>
+<p>-- N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

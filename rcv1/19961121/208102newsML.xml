@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208102" id="root" date="1996-11-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-News appoints new Australian editor.</title>
+<headline>RTRS-News appoints new Australian editor.</headline>
+<dateline>SYDNEY 1996-11-21</dateline>
+<text>
+<p>News Ltd, the Australian offshoot of international media group, The News Corp Ltd, said it had appointed David Armstrong as editor-in-chief of The Australian national newspaper, replacing Paul Kelly who would take up the new position of international editor.</p>
+<p>The changes would take effect next Monday, News Ltd chairman Ken Cowley said.</p>
+<p>Armstrong, 49, was editor-in-chief of the South China Morning Post newspaper between 1993, when News Corp controlled that newspaper, and 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

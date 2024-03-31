@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714301" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: High Plains Wheat - Basis bids rolled to September.</title>
+<headline>High Plains Wheat - Basis bids rolled to September.</headline>
+<dateline>KANSAS CITY, Mo. 1997-07-08</dateline>
+<text>
+<p>Many grain terminals in Kansas and Oklahoma rolled basis bids for hard red winter wheat out to be calculated against the KCBT September futures contract instead of the July contract, dealers said Tuesday.</p>
+<p>Meanwhile, grain elevators in northern Kansas were said to be overwhelmed with the amount of wheat coming off the fields. Truck shortages were severe in some places, forcing elevators to either pile wheat on the ground or shut down completely.</p>
+<p>&quot;We got reports yesterday that elevators in north-central Kansas are actually shutting down and not taking any more wheat,&quot; a south-central Kansas dealer said.</p>
+<p>&quot;There's not enough trucks to haul. In fact, you've got some terminal elevators with huge amounts of space but there's no way to get the grain to them,&quot; another Kansas dealer said.</p>
+<p>Dealers said they expected to see harvest slow down Tuesday in and around Salina, Kansas, because of rains.  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     -33  +  N     -34  +  N	     2.8450</p>
+<p> Dodge City	-48  +  U     -38  +  N	     2.7725</p>
+<p> Hutchinson	-16  +  U     - 6  +  N	     3.0925</p>
+<p> Newton	    -17  +  U     - 9  +  N	     3.0825</p>
+<p> Salina	    -16  +  U     - 7  +  N	     3.0925</p>
+<p> Topeka	    - 4  +  U     + 0  +  N	     3.2125</p>
+<p> Wichita	   -17  +  U     - 9  +  N	     3.0825</p>
+<p> Kansas City     + 0  +  U     + 8  +  N	     3.2525</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+ 1  +  U     +10  +  N	     3.2625</p>
+<p> Galveston	 +27  +  U     unq  +  N	     3.5225</p>
+<p> Houston	   +27  +  U     +29  +  N	     3.5225</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +10  +  N     +10  +  N	     3.2750</p>
+<p> Enid		-11  +  U     - 2  +  N	     3.1425</p>
+<p> Guymon	    -44  +  U     -34  +  N	     2.8125</p>
+<p>(Note: N=KCBT July. unq- unquoted, na - not applicable)</p>
+<p>((--Kansas City bureau, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

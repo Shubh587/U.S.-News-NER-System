@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242840" id="root" date="1996-12-09" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD RESULT.</title>
+<headline>CRICKET-SHEFFIELD SHIELD RESULT.</headline>
+<dateline>HOBART, Australia 1996-12-09</dateline>
+<text>
+<p>Tasmania and Victoria drew on the fourth and final day of their Sheffield Shield cricket match at Bellerive Oval on Monday.</p>
+<p>Scores: Victoria 431-9 declared (Dean Jones 145, Laurie Harper 77, David Saker 66 not out) and 204-3 (Ian Harvey 62 not out, Warren Ayres 56); Tasmania 481-8 declared (Michael DiVenuto 119, David Boon 118, Shaun Young 113) and 311-2 declared (Jamie Cox 132, Dene Hills 124 not out).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOBART, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

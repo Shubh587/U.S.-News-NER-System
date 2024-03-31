@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322488" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: Banco Safra prices $200 million Dec 2004 bond.</title>
+<headline>Banco Safra prices $200 million Dec 2004 bond.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>The following bond has been priced by joint lead managers Bear Stearns and UBS.</p>
+<p> BORROWER   BANCO SAFRA (ACTING THROUGH CAYMAN BRANCH)</p>
+<p> AMT    $200 MLN	COUPON     8.375     MATURITY   *20.DEC.04</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.75     PAY DATE   S29.JAN.97</p>
+<p> FULL FEES  50 BP     REOFFER    99.75     SPREAD	+218 BP</p>
+<p> MOODY	B1	  LISTING    LUX	 PAY FREQ    =</p>
+<p> S&amp;P	  =	   DENOMS (K) 100-10  SALE LIMITS US/UK/BR/CI</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    N.Y	 HOME CTRY  BRAZIL    TAX PROVS   =</p>
+<p> MGT/UND    20 BP     SELL CONC  30 BP     PRAECIPUUM  =</p>
+<p> NOTES     *PUT AND CALL OPTION 20.DEC.99 AT 99.5 AND 20.DEC.01</p>
+<p>		AT 99.625</p>
+<p>		S-SHORT FIRST COUPON</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CAYI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

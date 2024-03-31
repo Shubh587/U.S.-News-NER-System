@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185220" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Caterpillar says to build England facility.</title>
+<headline>Caterpillar says to build England facility.</headline>
+<dateline>PEORIA, Ill. 1996-11-13</dateline>
+<text>
+<p>Caterpillar Inc said Wednesday it will build a plant in England to manufacture steel track shoes for earthmoving equipment which the company builds in Europe. A spokeswoman declined to say what the company will spend on the plant.</p>
+<p>The 46,500-sq.-ft. facility in Skinningrove, about 20 miles south of Middlesbrough, will initially employ about 35, the company said in a statement. It is slated to be in operation in late 1997, Caterpillar said.</p>
+<p>Caterpillar had $16 billion in sales and revenues in 1995. It said it has five other manufacturing and distribution facilties in England.</p>
+<p>- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PEORIA, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

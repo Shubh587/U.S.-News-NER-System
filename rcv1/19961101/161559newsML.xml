@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161559" id="root" date="1996-11-01" xml:lang="en">
+<title>FRANCE: Bomb blasts tax office in French Basque region.</title>
+<headline>Bomb blasts tax office in French Basque region.</headline>
+<dateline>BORDEAUX, France 1996-11-01</dateline>
+<text>
+<p>A bomb blasted a government tax and customs office in the French Basque town of Ustaritz early on Friday, causing damage but no injuries, police said.</p>
+<p>They said the explosive was connected to a 13-kg (28 pound) gas container, a method used by the Iparretarrak (Those of the North) separatist guerrilla group.</p>
+<p>The building was bombed last January.</p>
+<p>Iparreterrak has staged sporadic attacks to demand autonomy for the Basque region which straddles the Franco-Spanish border. The Spanish Basque group ETA (Basque Homeland and Freedom) has been waging a much more violent campaign for Basque independence in Spain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BORDEAUX, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

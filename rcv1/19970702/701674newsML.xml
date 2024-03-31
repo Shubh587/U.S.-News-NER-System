@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701674" id="root" date="1997-07-02" xml:lang="en">
+<title>CHILE: Chile's Endesa, YPF sign gas deal.</title>
+<headline>Chile's Endesa, YPF sign gas deal.</headline>
+<dateline>SANTIAGO 1997-07-02</dateline>
+<text>
+<p>Chilean power giant Empresa Nacional de Electricidad (Endesa) said it has signed an agreement with Argentine energy company YPF SA to supply natural gas to Endesa's new Taltal power plant in northern Chile.</p>
+<p>The contract commits YPF to supplying 900,000 cubic meters of gas a day for 15 years, said Endesa in a statement.</p>
+<p>The power plant is one of several Endesa plans to build as part of a billion dollar energy scheme which includes building a natural gas pipeline to pump gas across the Atacama Desert from Argentina.</p>
+<p>((-- Margaret Orgill, Santiago newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

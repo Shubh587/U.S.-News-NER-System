@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500097" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: IRS's Dolan - about $90 bln U.S. taxes uncollected.</title>
+<headline>IRS's Dolan - about $90 bln U.S. taxes uncollected.</headline>
+<dateline>WASHINGTON 1997-04-10</dateline>
+<text>
+<p>About $90 billion in taxes that should be collected remain uncollected in any one year, Michael Dolan, deputy commissioner at the Internal Revenue Service, said Thursday.</p>
+<p>His comment was in response to a question by Sen. Richard Durbin, an Illinois Democrat, at a congressional hearing. Durbin later commented that if that revenue were able to be collected it could help efforts to lower the budget deficit.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514389" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: IBM launches new Web software.</title>
+<headline>IBM launches new Web software.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1997-04-15</dateline>
+<text>
+<p>International Business Machines Corp and its Lotus Development unit on Tuesday unveiled a range of Internet software and tools designed to expand its offerings in the fastest-growing segment of its software business.</p>
+<p>&quot;The fastest growing part of our software business is software related to the network and distributed computing,&quot; John M. Thompson, senior vice president and group executive of IBM Software, told Reuters at a press briefing. &quot;I'm trying to remix the business to get a bigger percentage of our software revenues from there.&quot;  </p>
+<p>Revenues from IBM's networking and distributed computing software products grew more than 30 percent last year while revenues from the software unit as a whole grew only 4 percent, he said.</p>
+<p>In launching Tuesday its Network Computing Framework strategy and announcing new Web server software and other products, IBM said it is also trying to position itself as the provider of choice for Web server and electronic commerce software for corporations. And it is doing so at a time when corporate customers are finally turning to the Web with real business operations, like sales and supplier accounts.  </p>
+<p>&quot;It's happening, We've noticed an acceleration in the last six months,&quot; said Irving Wladawsky-Berger, general manager of IBM's Internet division, referring  to the number of corporate customers building intranet or electronic commerce operations. &quot;There are still a large number of pilots going on, but I think everybody knows this is serious for them and they can afford to do it,&quot; he added.</p>
+<p>IBM surveyed some 10,000 customers about their intranet intentions and needs before developing these products.  </p>
+<p>&quot;Customers told us they want to develop new applications for Net commerce and the network and at the same time leverage all of today's applications,&quot; they already have, Thompson said.</p>
+<p>Besides servers, IBM and Lotus announced software called Enterprise Connectors to allow companies to integrate data stored on existing in-house computer systems with Web servers to create intranets and build Web-based operations. They also announced application development packages for electronic commerce or transactions.  </p>
+<p>The server products start with &quot;Lotus Go,&quot; which IBM calls an entry-level server for businesses just starting Web-based business operations and needing quick and easy deployment.</p>
+<p>The other four servers build on Lotus Go with various sophisticated enhancements and applications.</p>
+<p>They include the &quot;Lotus Domino Mail&quot; server, which is an electronic mail, messaging and chat server in one and &quot;Lotus Domino,&quot; an Internet application and messaging dispenser or server.</p>
+<p>Fourth, &quot;IBM DB2 Universal Database&quot; is a database server that can manage multimedia as well as traditional data and scale to very large projects. The fifth server is the IBM Transaction Series server for doing secure transactions in a high volume electronic commerce business.</p>
+<p>Using technology of its Tivoli systems unit, IBM announced software for managing traffic on Web sites and two firewall and security-enhancing software products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

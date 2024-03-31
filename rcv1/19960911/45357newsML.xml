@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45357" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Fed changes rules on revenues from underwriting.</title>
+<headline>Fed changes rules on revenues from underwriting.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The Federal Reserve said on Wednesday it was changing the way in which subsidiaries of bank holding companies calculate revenues from underwriting and dealing in certain securities.</p>
+<p>Current rules specify that the revenue a bank holding company derives from underwriting and dealing cannot exceed 10 percent of the holding company's total revenue.</p>
+<p>The Fed said it was amending the rule, effective Nov 12, so that interest earned on debt securities a member bank holds for its own account would not be treated as revenue from securities underwriting and dealing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

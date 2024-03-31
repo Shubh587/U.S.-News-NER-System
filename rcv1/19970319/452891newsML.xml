@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452891" id="root" date="1997-03-19" xml:lang="en">
+<title>NEW ZEALAND: Fletcher's Piakau-1 producing 1,400 bpd.</title>
+<headline>Fletcher's Piakau-1 producing 1,400 bpd.</headline>
+<dateline>WELLINGTON 1996-03-20</dateline>
+<text>
+<p>Fletcher Challenge on Thursday reported oil flows of about 1,400 barrels a day from its Piakau-1 well in Taranaki.</p>
+<p>The company said that during a five-hour production test on Wednesday, the well's flow rate was about 1,400 barrels with a gas to oil ratio of about 1000 standard cubic feet of gas to each barrel.</p>
+<p>The side-tracked well was sunk to re-test the potential of the Tikorangi limestone in the Piakau segment of the Ahuroa-Piakau prospect.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

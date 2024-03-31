@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101701" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Dyersburg names William Shropshire CFO.</title>
+<headline>Dyersburg names William Shropshire CFO.</headline>
+<dateline>DYERSBURG, Tenn. 1996-10-08</dateline>
+<text>
+<p>Dyersburg Corp said on Tuesday that William Shropshire, a former Charter Bancshares executive, has joined the fabrics manufacturer as executive vice president-chief financial officer.</p>
+<p>Dyersburg said Shropshire assumes the chief financial officer responsibilities from Paul Hallock, who had been serving as interim chief financial officer since April.</p>
+<p>Shropshire had been chief financial officer at Charter Bancshares Inc since 1990, Dyersburg said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DYERSBURG, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

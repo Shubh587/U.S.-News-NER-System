@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261341" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Hannaford Bros Co Nov sales $233.5 mln.</title>
+<headline>Hannaford Bros Co Nov sales $233.5 mln.</headline>
+<dateline>SCARBOROUGH, Me. 1996-12-17</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total</p>
+<p>Month	 $233.5     $206.4	 13.1</p>
+<p>Year-to-date$2,656.8   $2,291.2     16.0</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Month is  four  weeks ended November 23.</p>
+<p>NOTE: Sales for the week including Thanksgiving are included in 1995 results but due to the later date of the holiday, they will be included in December sales this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCARBOROUGH, Me."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

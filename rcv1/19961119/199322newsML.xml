@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="199322" id="root" date="1996-11-19" xml:lang="en">
+<title>CANADA: Canadian Exchanges Closing - Nov 19.</title>
+<headline>Canadian Exchanges Closing - Nov 19.</headline>
+<text>
+<p>T-BILLS</p>
+<p> CAN.DOLLAR 1.3418-23	1M   2.84  CALL LOAN 2.95</p>
+<p>   CAD/DEM  1.1215-25	2M   2.87</p>
+<p>   CAD/JPY  83.15-25	 3M   2.87</p>
+<p>   CAD/CHF  0.9466-76	WI   2.89  CANADA BONDS YIELD</p>
+<p>   GBP/CAD  2.2480-90	6M   3.04     2YR    104.11 3.879</p>
+<p>				   WI   3.05     5YR    107.35 5.234</p>
+<p> CANADA DOLLAR FORWARDS    1Y   3.32    10YR    106.40 6.135</p>
+<p>	 1MTH 26.3-25.8	WI   3.30    30YR    115.25 6.756</p>
+<p>	 2MTH 57-56</p>
+<p>	 3MTH 83.5-82.5</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

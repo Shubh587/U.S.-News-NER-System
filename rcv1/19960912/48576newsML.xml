@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48576" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Boca Research to make 56 Kbps analog modem.</title>
+<headline>Boca Research to make 56 Kbps analog modem.</headline>
+<dateline>BOCA RATON, Fla</dateline>
+<text>
+<p>Boca Research Inc said it planned to start making an analog modem that will enable computer users to get on the Internet at rates of up to 56 Kbps bits per second across standard phone lines.</p>
+<p>&quot;Rockwell's got the technology, and we plan to ship it,&quot; it said, referring to Rockwell Semiconductor Systems, which developed the modem.</p>
+<p>Based in Boca Raton, Florida, the company makes products to transmit information on personal computers and computer networks.</p>
+<p>Its stock was trading at 12 1/4 on Thursday against a 9 3/4 close a day earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOCA RATON, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

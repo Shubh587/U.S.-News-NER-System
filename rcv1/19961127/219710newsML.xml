@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219710" id="root" date="1996-11-27" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa's JSE says trade halted again for tests.</title>
+<headline>S.Africa's JSE says trade halted again for tests.</headline>
+<dateline>JOHANNESBURG 1996-11-27</dateline>
+<text>
+<p>The Johannesburg Stock Exchange said on Wednesday it had halted trading shortly after it opened the market at 0957 GMT, after an initial two-and-a-half hour delay.</p>
+<p>&quot;We have halted the system again. We are not happy with its performance,&quot; JSE president Roy Andersen told Reuters.</p>
+<p>The system failed twice on Monday after the installation of of new software at the weekend and was again interrupted for an hour on Tuesday.</p>
+<p>Andersen said earlier the JSE would release a statement on whether trade would be extended to cover lost time.</p>
+<p>-- Johannesburg newsroom, +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

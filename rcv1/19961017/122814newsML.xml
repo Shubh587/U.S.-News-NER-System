@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122814" id="root" date="1996-10-17" xml:lang="en">
+<title>FRANCE: TENNIS-TOULOUSE GRAND PRIX RESULTS.</title>
+<headline>TENNIS-TOULOUSE GRAND PRIX RESULTS.</headline>
+<dateline>TOULOUSE, France 1996-10-17</dateline>
+<text>
+<p>Results in the $400,000</p>
+<p>men's Toulouse tennis Grand Prix on Thursday (prefix number</p>
+<p>denotes seeding):</p>
+<p>Second round:</p>
+<p>8-Mark Woodforde (Australia) beat Thomas Johansson (Sweden) 6-3</p>
+<p>7-6 (7-3)</p>
+<p>Orlin Stanoichev (Bulgaria) beat Thierry Guardiola (France) 5-7</p>
+<p>7-5 6-3</p>
+<p>Bernd Karbacher (Germany) beat Filip Dewulf (Belgium) 6-4 7-6</p>
+<p>(12-10)</p>
+<p>Magnus Larsson (Sweden) beat 5-Marc Rosset (Switzerland) -</p>
+<p>walkover</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOULOUSE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="311047" id="root" date="1997-01-16" xml:lang="en">
+<title>ITALY: BIATHLON-WORLD CUP RESULTS.</title>
+<headline>BIATHLON-WORLD CUP RESULTS.</headline>
+<dateline>ANTERSELVA, Italy 1997-01-16</dateline>
+<text>
+<p>Leading results of a</p>
+<p>men's 20 km World Cup biathlon on Thursday:</p>
+<p> 1. Ludwig Gredler (Austria)	  56 minutes 37.9 seconds</p>
+<p> 2. Ricco Gross (Germany)	     56:38.2</p>
+<p> 3. Sergei Rojkov (Russia)	    57:03.1</p>
+<p> 4. Pavel Mouslimov (Russia)	  57:19.0</p>
+<p> 5. Patrick Favre (Italy)	     57:24.2</p>
+<p> 6. Jon Age Tyldum (Norway)	   57:37.6</p>
+<p> 7. Vadim Sashurin (Belarus)	  57:54.8</p>
+<p> 8. Pieralberto Carrara (Italy)     57:58.5</p>
+<p>9. Ole Einar Bjoerndalen (Norway)  58:04.2</p>
+<p>10.Patrice Bailly-Salins (France)  58:23.5</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANTERSELVA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

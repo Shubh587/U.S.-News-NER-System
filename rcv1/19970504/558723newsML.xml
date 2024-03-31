@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558723" id="root" date="1997-05-04" xml:lang="en">
+<title>USA: Champion Kasparov, computer open second chess game.</title>
+<headline>Champion Kasparov, computer open second chess game.</headline>
+<byline>Grant McCool</byline>
+<dateline>NEW YORK 1997-05-04</dateline>
+<text>
+<p>The supercomputer Deep Blue and world chess champion Garry Kasparov, locked in a 21st century style battle between man and machine, opened Sunday's second game with a centuries-old system.</p>
+<p>The Russian grandmaster and the computer program took only 20 minutes for their opening flurry of 17 moves, following the theory of the Ruy Lopez or Spanish game, named after a 16th- century Spanish priest who played chess.</p>
+<p>Kasparov stylishly won Saturday's first game of the six-game re-match with the IBM system. Kasparov beat Deep Blue over six games in Philadelphia 15 months ago. The winner of the re-match will collect $700,000 and the loser $400,000. One point is awarded for a win and a 1/2 point for a draw.</p>
+<p>&quot;This is the most classical of all openings played for hundreds of years,&quot; grandmaster commentator Yasser Seirawan of the United States told hundreds of spectators watching the game on close-circuit TV in a Manhattan office complex.</p>
+<p>Kasparov and Deep Blue's human operator, scientist Murray Campbell, were sitting in a small room on the 35th floor of the building. Campbell had a computer screen and keyboard at his side, typing in all the moves and making Deep Blue's moves over a standard wooden chess board.</p>
+<p>In Philadelphia, the computer won the first game, but Kasparov recovered with three wins and two draws in the remaining games to win the match.</p>
+<p>Deep Blue was playing with the white pieces and the advantage of the first move after losing on Saturday with black. The game was finely balanced as it progressed out of the opening into the middlegame.</p>
+<p>&quot;Having won the first game, Kasparov is not taking chances with black,&quot; grandmaster Arthur Bisguier of the United States said. &quot;The position in this system slightly favors white but it takes a lot of strategy in order to win.&quot;</p>
+<p>Experts said that chess-playing computers tend to prefer open, tactical positions where their massive calculating powers give them an edge. Kasparov's plan was to steer the program into positions where long-range planning and his vast experience and intuition would trouble his opponent.</p>
+<p>The meeting of human brain and silicon chip is part chess match and part research project to help build computers that can make complex, simultaneous calculations at high speeds. Among the applications for the technology developed for Deep Blue are weather forecasting, air traffic control, data mining and molecular dynamics.</p>
+<p>Chess playing is considered ideal for computers because the game involves a specific number of physical objects governed by simple, clearly defined rules. Information on the contest is carried on the IBM Web site www.chess.ibm.com.</p>
+<p>IBM officials said that in Saturday's first game, the site received more than five million retrievals from all over the world during the opening hour alone.</p>
+<p>Kasparov, considered by most experts to be the best player in the history of chess, has no advance information of Deep Blue's most recent games or improvements made to its program. Deep Blue, an IBM RS/6000 SP parallel processor with specialized microchips for chess, calculates hundreds of millions of moves per second.</p>
+<p>IBM computer scientists have also infused Deep Blue with more knowledge of chess with the help of full-time grandmaster consultant Joel Benjamin, a former U.S. champion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

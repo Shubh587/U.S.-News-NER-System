@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457344" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: U.S. soybean weekly export sales highlights--USDA.</title>
+<headline>U.S. soybean weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1997-03-20</dateline>
+<text>
+<p>USDA soybean export sales highlights in latest reporting week:</p>
+<p>Net sales of 428,400 MT exceeded the previous week by one-tenth, but were 2 percent under the 4-week average.</p>
+<p>Major increases for Japan (168,800 MT), Taiwan (117,400 MT), South Korea (44,000 MT), and Malaysia (43,000 MT) were partly offset by decreases for Indonesia (60,000 MT) and unknown destinations (55,900 MT).</p>
+<p>Sales activity for the 1997/98 marketing year of 149,200 MT were primarily for Indonesia (60,000 MT switched from 1996/97), unknown destinations (57,700 MT), and Brazil (30,000 MT).</p>
+<p>Exports of 488,800 MT were 28 percent below the previous week and 32 percent less than the 4-week average.  The primary destinations were Japan (97,500 MT), Germany (85,100 MT), Taiwan (64,200 MT), South Korea (59,000 MT), and Mexico (51,700 MT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

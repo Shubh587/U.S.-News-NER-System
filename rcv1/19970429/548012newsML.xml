@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="548012" id="root" date="1997-04-29" xml:lang="en">
+<title>UK: UK delivered grain trades - Apr 29.</title>
+<headline>UK delivered grain trades - Apr 29.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1415 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to London May 111.00 Jun 112.00</p>
+<p>Northampton Spot 111.00 May 113.00</p>
+<p>Liverpool May 116.50</p>
+<p>Feed wheat to Norfolf/Suffolk May 95.00/95.50/96.00</p>
+<p>Shropshire/Cheshire Jun 97.00</p>
+<p>Avon range May 96.00</p>
+<p>Devon Jul 100.00</p>
+<p>East Anglia asa 93.00</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

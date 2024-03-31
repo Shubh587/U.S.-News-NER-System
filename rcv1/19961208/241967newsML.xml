@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241967" id="root" date="1996-12-08" xml:lang="en">
+<title>BRAZIL: MOTOR RACING-BPR GT TWO HOURS RESULT.</title>
+<headline>MOTOR RACING-BPR GT TWO HOURS RESULT.</headline>
+<dateline>CURITIBA, Brazil 1996-12-08</dateline>
+<text>
+<p>Result of the BPR GT Two Hours sportscar race on Sunday:</p>
+<p>1. Nelson Piquet (Brazil)/Johnny Cecotto (Venezuela) McLaren F1 GTR 88 laps</p>
+<p>2. Fabien Giroix (France)/Maurizio Sala (Brazil) McLaren F1 GTR 8.826 seconds behind</p>
+<p>3. John Nielsen (Denmark)/Thomas Bscher (Germany) McLaren F1 GTR 20.375 seconds</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CURITIBA, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168610" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Digital introduces new software.</title>
+<headline>Digital introduces new software.</headline>
+<dateline>MAYNARD, Mass. 1996-11-06</dateline>
+<text>
+<p>Digital Equipment Corp said Wednesday that its software to search and index information on the computer desktop is available and has been priced at $29.95.</p>
+<p>The software is known as AltaVista Search My Computer PX. It is for use with Windows 95 and Windows NT documents on personal computers.</p>
+<p>The company said it will be available for downloading on the World Wide Web on December 5, or from resellers beginning December 16.</p>
+<p>Until November 18, a special price of $19.95 is available for AltaVista Visionary Club members on the World Wide Web.</p>
+<p>The software is designed to give Internet and intranet users a tool for finding information and to seamlessly search from the World Wide Web to their personal computer and back again without changing applications or learning new interfaces, Digital said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAYNARD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

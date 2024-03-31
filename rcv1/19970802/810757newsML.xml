@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810757" id="root" date="1997-08-02" xml:lang="en">
+<title>AUSTRALIA: Death toll rises to six in Australia landslide.</title>
+<headline>Death toll rises to six in Australia landslide.</headline>
+<dateline>THREDBO, Australia 1997-08-02</dateline>
+<text>
+<p>The death toll in Australia's ski lodge disaster rose to six on Saturday with the discovery of three more bodies, police said.  </p>
+<p>The dead include four men and two women, police said.</p>
+<p>Only one body has so far been recovered.</p>
+<p>&quot;There were six dead at the latest count,&quot; a police spokeswoman told Reuters. Previously, police had put the confirmed death toll at three.</p>
+<p>The confirmation of the latest toll came as rescue crews continued attempts to pull from the rubble the only known survivor of a landslide which engulfed two ski lodges late on Wednesday, burying 20 people.</p>
+<p>The slide hit just before midnight on Wednesday at the Thredbo Alpine Village in the Snowy Mountains, 400 km (250 miles) south of Sydney.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THREDBO, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

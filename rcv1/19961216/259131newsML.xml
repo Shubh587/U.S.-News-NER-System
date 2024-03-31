@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259131" id="root" date="1996-12-16" xml:lang="en">
+<title>FRANCE: Remains of WW1 soldiers found in France.</title>
+<headline>Remains of WW1 soldiers found in France.</headline>
+<dateline>LILLE, France 1996-12-16</dateline>
+<text>
+<p>Construction workers in northern France have unearthed the remains of 27 World War One soldiers believed to be British, the Commonwealth War Graves Commission said on Monday.</p>
+<p>The mass grave, in the village of Monchy-le-Preux in the Pas-de-Calais department, was hastily dug in 1917, the commission said.</p>
+<p>It said identity tags on three of the bodies should enable them to be rapidly identified.</p>
+<p>The grave was found by workers digging foundations for a factory.</p>
+<p>It contained bones, remnants of uniform, medals, buttons and insignia which were sent to the commission's offices to be examined.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LILLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

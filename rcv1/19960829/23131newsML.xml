@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23131" id="root" date="1996-08-29" xml:lang="en">
+<title>JAPAN: Japan DIC to inject 120 bln yen to Resolution bank.</title>
+<headline>Japan DIC to inject 120 bln yen to Resolution bank.</headline>
+<dateline>TOKYO 1996-08-29</dateline>
+<text>
+<p>The Deposit Insurance Corp of Japan (DIC) said on Thursday that it had decided to pump 120 billion yen into the Resolution and Collection Bank Ltd in order to help increase the bank's capital.</p>
+<p>The bank's job is to take over the assets of failed credit unions and collect bad loans. It is considered to be a Japanese version of the Resolution Trust Corp of the United States.</p>
+<p>Parliament passed financial bills in June to reorganise Tokyo Kyodo Bank, a bank originally set up in 1995 to take over the assets and business of two failed credit unions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139268" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Scientific-Atlanta Inc.</title>
+<headline>Scientific-Atlanta Inc.</headline>
+<dateline>ATLANTA, Ga. 1996-10-24</dateline>
+<text>
+<p>1996			1995</p>
+<p> Oper shr		   $0.14		    $0.05</p>
+<p> Oper net		  10,800		    4,100</p>
+<p> Revs		     261,700		  242,200</p>
+<p> Avg shrs		  77,700		   77,000</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Operating net excludes gain $3.4 million, or $0.04/shr, vs loss 13.2 million, or $0.17/shr, from discontinued operations.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

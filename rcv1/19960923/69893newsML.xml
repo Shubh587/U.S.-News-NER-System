@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69893" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Wendy's, Exxon open Dallas location.</title>
+<headline>Wendy's, Exxon open Dallas location.</headline>
+<dateline>DUBLIN, Ohio 1996-09-23</dateline>
+<text>
+<p>Wendy's International Inc said its first Dallas, Texas, location combining a Wendy's restaurant, a convenience store, and an Exxon Corp motor fuel facility opened Monday.</p>
+<p>A second location will open in late October, Wendy's said.</p>
+<p>While several combined Wendy's-Exxon retail locations are in operation across the U.S., the new Dallas area facilities are the first in the nation designed and constructed by the respective parent companies.</p>
+<p>Both locations feature a Wendy's restaurant with a complete menu, a Tiger Mart store offering convenience products, an Exxon motor fuel facility, and a car wash.</p>
+<p>The new restaurants are operated by Wendy's, with the Tiger Marts, adjacent motor fuel facilities and car washes operated by Exxon.  -- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

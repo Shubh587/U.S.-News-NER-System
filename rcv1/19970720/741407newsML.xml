@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="741407" id="root" date="1997-07-20" xml:lang="en">
+<title>MADAGASCAR: Madagascar inflation falls, growth rate increases.</title>
+<headline>Madagascar inflation falls, growth rate increases.</headline>
+<dateline>ANTANANARIVO 1997-07-20</dateline>
+<text>
+<p>Inflation in Madagascar this year has fallen below seven percent and economic growth has doubled to between 3.5 and four percent, Prime Minister Pascal Rakotomavo said on Sunday in a progress report prepared for the National Assembly.</p>
+<p>World Bank figures show the inflation rate as 39 percent in 1994, 37 percent in 1995 and eight percent in 1996.</p>
+<p>Economic growth, only 0.2 per cent in 1994, was estimated at just below two percent in 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANTANANARIVO"/>
+<dc element="dc.creator.location.country.name" value="MADAGASCAR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

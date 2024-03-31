@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122825" id="root" date="1996-10-17" xml:lang="en">
+<title>BRAZIL: SOCCER-BRAZIL BEAT LITHUANIA 3-1 IN FRIENDLY.</title>
+<headline>SOCCER-BRAZIL BEAT LITHUANIA 3-1 IN FRIENDLY.</headline>
+<dateline>TERESINA, Brazil 1996-10-16</dateline>
+<text>
+<p>Brazil beat Lithuania</p>
+<p>3-1 (halftime 2-1) in a friendly soccer international on</p>
+<p>Wednesday.</p>
+<p>Scorers:</p>
+<p>Brazil - Ronaldo (14th, 45th and 70th minutes)</p>
+<p>Lithuania - Buitkus (21st)</p>
+<p>Attendance; 60,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TERESINA, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

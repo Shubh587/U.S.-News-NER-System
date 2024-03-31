@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309672" id="root" date="1997-01-15" xml:lang="en">
+<title>UK: UK cocoa imports fell in November.</title>
+<headline>UK cocoa imports fell in November.</headline>
+<dateline>LONDON 1997-01-15</dateline>
+<text>
+<p>UK cocoa imports in tonnes issued by UK Customs - cocoa beans whole or broken, raw or roasted:</p>
+<p>			   NOV     OCT   JAN/NOV 1996    JAN/NOV 1995</p>
+<p> TOTAL		 5,699   6,789     203,799	    139,764</p>
+<p> Sierra Leone	  226	89	 2,146		1,326</p>
+<p> Ivory Coast	   nil     nil	34,706	     36,023</p>
+<p> Ghana		   nil   3,550     113,030	     62,271</p>
+<p> Nigeria	     4,658   1,021	33,319	     29,358</p>
+<p> Cameroon		260     nil	 1,876		  171</p>
+<p> Sao Tome-Principe   nil     nil	   310		   18</p>
+<p> Tanzania		 54	99	 1,205		  975</p>
+<p> Mexico		  nil     nil	   914		3,340</p>
+<p> Indonesia	     500     200	 3,775		3,201</p>
+<p> Papua New Guinea    nil     389	 3,071		1,568</p>
+<p> Vanuatu		 nil     191	 1,307		  412</p>
+<p> Others		  nil   1,250	 8,140		1,101</p>
+<p>		     Cocoa butter, fat and oil</p>
+<p> TOTAL		   723     375	 8,806	     10,633</p>
+<p> Turkey		  nil     nil	    60		  342</p>
+<p> Ghana		   206     205	 4,178		3,032</p>
+<p> Nigeria		  66     nil	   299		  126</p>
+<p> Indonesia	     100	20	 1,000		1,320</p>
+<p> Malaysia		120	60	 1,799		5,264</p>
+<p> Others		  231	90	 1,470		  549</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

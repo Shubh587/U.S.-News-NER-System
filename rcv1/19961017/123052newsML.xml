@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123052" id="root" date="1996-10-17" xml:lang="en">
+<title>CANADA: Manitoba Pork forward contract AM prices - Oct 17.</title>
+<headline>Manitoba Pork forward contract AM prices - Oct 17.</headline>
+<dateline>WINNIPEG 1996-10-17</dateline>
+<text>
+<p>Manitoba Pork opening forward contract prices in Canadian dollars per hundred lbs (Cwt) for Oct 17 including minimum guaranteed price --</p>
+<p>CONTRACT  PREVIOUS     OPEN AM  OPEN AM   OPENING RANGE</p>
+<p> DATE     PM CLOSE     FIXED    MINIMUM    AT 0930 CDT</p>
+<p>Dec  96   80.71	  80.48     75.50     77.09-83.04</p>
+<p>Jan  97   80.35	  80.13     75.14     76.74-82.68</p>
+<p>Feb  97   78.78	  78.44     73.45     75.05-81.00</p>
+<p>Mar  97   75.42	  75.01     70.04     71.63-77.56</p>
+<p>Apr  97   74.82	  75.45     70.48     72.06-78.00</p>
+<p>May  97   77.20	  77.82     72.85     74.44-80.37</p>
+<p>Jun  97   78.30	  78.78     73.83     75.41-81.32</p>
+<p>Jul  97   76.82	  77.30     72.36     73.94-79.84</p>
+<p>Aug  97   72.49	  72.20     67.25     68.84-74.74</p>
+<p>Sep  97   67.64	  67.36     62.43     64.01-69.89</p>
+<p>Note: Manitoba Government Price Index (C$ per cwt) -</p>
+<p>    Oct 15	 89.26</p>
+<p>Manitoba's Hog Price Range:  83.50-85.00 per cwt</p>
+<p>CAN/U.S. DOLLAR EXCHANGE RATE: 1.3545</p>
+<p>Source: Manitoba Pork.</p>
+<p>(Winnipeg bureau 204 947 3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

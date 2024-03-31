@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101831" id="root" date="1996-10-08" xml:lang="en">
+<title>SAN MARINO: SOCCER-BELGIUM BEAT SAN MARINO 5-1 IN EURO UNDER-21 QUALIFIER.</title>
+<headline>SOCCER-BELGIUM BEAT SAN MARINO 5-1 IN EURO UNDER-21 QUALIFIER.</headline>
+<dateline>SAN MARINO 1996-10-08</dateline>
+<text>
+<p>Belgium beat San Marino 5-1</p>
+<p>(halftime 1-1) in their European under-21 group seven soccer</p>
+<p>qualifier on Tuesday.</p>
+<p>Scorers:</p>
+<p>San Marino - Mpenza (12th)</p>
+<p>Belgium - De Luigi (22th, pen), Baseggio (48th, 87th),</p>
+<p>J'Bari (65th), Vanhoudt (85th)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="SMARNO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MARINO"/>
+<dc element="dc.creator.location.country.name" value="SAN MARINO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

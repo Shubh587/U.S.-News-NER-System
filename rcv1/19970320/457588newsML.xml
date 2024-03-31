@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457588" id="root" date="1997-03-20" xml:lang="en">
+<title>ITALY: Tremors hit southern Italy, no damage reported.</title>
+<headline>Tremors hit southern Italy, no damage reported.</headline>
+<dateline>NAPLES, Italy 1997-03-20</dateline>
+<text>
+<p>A series of earth tremors shook areas of southern Italy and the Aeolian Islands off Sicily early on Thursday causing panic but no apparent damage, seismologists and the fire brigade said.</p>
+<p>Hundreds of worried Neapolitans called the fire brigade and several people took to the streets in the inland town of Benevento.</p>
+<p>The tremors, which began shortly after midnight, measured 4.0 on the open-ended Richter scale, Italy's earthquake monitoring centre said.</p>
+<p>Naples and its hinterland were struck by a powerful earthquake in 1980 which killed thousands of people.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPLES, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350248" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Cabletron cuts price of enterprise switches.</title>
+<headline>Cabletron cuts price of enterprise switches.</headline>
+<dateline>WASHINGTON, D.C. 1997-02-03</dateline>
+<text>
+<p>Cabletron Systems Inc said it will unveil Tuesday a new module for its enterprise-class network switching system that provides switched and Fast Ethernet connections at a significantly lower price per connection.</p>
+<p>The company said its new SmartModule would offer 24 ports, or connections, of switched Ethernet and four ports of Fast Ethernet connectivity, for use in high-density switched Ethernet workgroup settings.  </p>
+<p>It said its MMAC-Plus SmartSwitch for Ethernet and Fast Ethernet is list priced at $23,995. However, analysts said the street price was expected to run roughly half the list price.</p>
+<p>With the new module, customers realize a reduction in configuration cost, the company said. Previously, backbone connections required a separate Fast Ethernet SmartSwitch module.</p>
+<p>Esmerelda Silva, an analyst who follows the networking switch market for International Data Corp, said the price for the new system comes in at under $500 per port, or connnection, compared to the roughly $700 per port previously available from Cabletron.</p>
+<p>Comparable backbone switches from other leading providers with this level of functionality run up to $1,500 per port, said Trent Waterhouse, a Cabletron marketing manager in its LAN switching unit.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON, D.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

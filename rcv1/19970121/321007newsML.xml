@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321007" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: Hong Kong stocks in London close down, off lows.</title>
+<headline>Hong Kong stocks in London close down, off lows.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>Hong Kong stocks dropped in London trading on Tuesday but recouped some of their early losses as comments from U.S. Fed chairman Alan Greenspan pepped up markets on both sides of the Atlantic, dealers said.</p>
+<p>The Hang Seng London Reference index closed down 76.70 points or 0.56 percent at 13,656.09, after the Hang Seng index in the territory closed down 0.98 percent at 13,732.79.</p>
+<p>&quot;Greenspan's comments were read as being positive,&quot; one trader said. In testimony to the U.S. Senate, the Fed chief played down near-term inflationary pressures and made no repeat of his warning last December of &quot;irrational exuberance&quot; in markets.</p>
+<p>-- Paul Carrel, London Newsroom +44 171 542 4026</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

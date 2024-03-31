@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15270" id="root" date="1996-08-26" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Q2 industrial production falls.</title>
+<headline>RTRS-Australian Q2 industrial production falls.</headline>
+<dateline>CANBERRA 1996-08-26</dateline>
+<text>
+<p>Australian industrial production fell 1.0 percent in seasonally adjusted terms in the June quarter, the Australian Bureau of Statistics (ABS) said on Monday.</p>
+<p>Despite the June quarter fall, industrial production was up 3.2 percent over the past year, the ABS said.  </p>
+<p>In original terms industrial production rose 2.4 percent in the quarter, while the trend series showed a 0.6 percent rise.</p>
+<p>Industrial Production index, seasonally adjusted gross product at 1989/90 prices</p>
+<p>					  qtr/qtr  June Index   June/June</p>
+<p>    Mining(ex services)	    +0.7	 122.1	 +7.4</p>
+<p>    Manufacturing		    -1.6	 108.3	 +2.5</p>
+<p>    Electricity, gas, water	-0.3	 110.9	 +0.5</p>
+<p>    Total Industrial		 -1.0	 111.2	 +3.2</p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

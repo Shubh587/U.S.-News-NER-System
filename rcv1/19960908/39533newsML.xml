@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39533" id="root" date="1996-09-08" xml:lang="en">
+<title>ALBANIA: SOCCER-ALBANIAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-ALBANIAN FIRST DIVISION RESULTS.</headline>
+<dateline>TIRANA 1996-09-08</dateline>
+<text>
+<p>Results of the opening round of</p>
+<p>matches in the Albanian first division on Saturday:</p>
+<p> Skenderbeu  2  Teuta	     1</p>
+<p> Albpetrol   1  Olimpik	   3</p>
+<p> Vllaznia    1  Laci		0</p>
+<p> Tomorri     2  Partizani	 1</p>
+<p> Flamurtari  2  Bylis	     1</p>
+<p> Lushnja     2  Apollonia	 2</p>
+<p> Shqiponja   0  Besa		0</p>
+<p> Shkumbini   3  Albania Tabak   0</p>
+<p> Tirana	4  Elbasani	  0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

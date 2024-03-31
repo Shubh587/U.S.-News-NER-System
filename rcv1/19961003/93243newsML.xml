@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93243" id="root" date="1996-10-03" xml:lang="en">
+<title>UK: London Stock Exchange outlines new trading system.</title>
+<headline>London Stock Exchange outlines new trading system.</headline>
+<byline>Simon Cowell</byline>
+<dateline>LONDON 1996-10-03</dateline>
+<text>
+<p>The London Stock Exchange outlined the framework for its new automated order-driven trading system on Thursday, marking the start of a new way of life in one of the world's busiest stock markets.</p>
+<p>But the overhaul of the market, which has been dogged with controversy through nine-months of consultations, is unlikely to be introduced by Spring 1997 as originally hoped, and the end of the year is now been talked of as a more feasible target.</p>
+<p>The Exchange hopes the plans to move to an electronic order book for Britain's FTSE 100 index of leading companies will reduce costs, improve the speed and efficiency of the market and help fight off increasing competition from overseas exchanges.</p>
+<p>It is also designed to address regulators' concerns about transparency and fairness and provide a level playing field for investors large and small.</p>
+<p>&quot;The trading environment we plan to deliver will combine the most important features of the current system with the increased flexibility and liquidity that a successful order book will bring,&quot; said Gavin Casey, chief executive of the Exchange.</p>
+<p>The existing system of telephone trading with prices set exclusively by dealers authorised to act as market-makers will, at least for the time being, be kept for non-FTSE 100 stocks.</p>
+<p>Consultations with the market on the appropriate structure in the future for non-FTSE 100 stocks is likely to lead to an extension of the order book to smaller stocks and, ultimately perhaps, the disappearance of market-makers completely.</p>
+<p>Under the Exchange's plans, investors will place buy or sell orders through market firms for inclusion on an order book. Once on that, the trade will be executed automatically when a willing counterparty appears at the desired price.</p>
+<p>The negotiation of large trades away from the order book will, however, be allowed enabling firms to continue to commit capital to large trades and provide liquidity to the market.</p>
+<p>Rules to govern the interaction of such trades with the order book will act to preserve the integrity of price formation without inhibiting risk taking, the Exchange said.</p>
+<p>Detailed draft rules outlining the regulatory basis for the order book structure will be released next week and finalised around the end of the year.</p>
+<p>But fears that the proposed system will undermine the retail market are likely to persist.</p>
+<p>An arrangement with firms that provide principal services to the retail market such as Merrill Lynch, BZW and Kleinwort Benson, will enable trading of orders that are below the minimum size for the order book -- 1,000 shares for stocks below five pounds each and 500 for stocks above that -- at the best order book price, according to the Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

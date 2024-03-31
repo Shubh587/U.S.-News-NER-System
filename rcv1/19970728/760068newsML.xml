@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760068" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: Wang settles lawsuit.</title>
+<headline>Wang settles lawsuit.</headline>
+<dateline>DENVER 1997-07-28</dateline>
+<text>
+<p>Wang Laboratories Inc has agreed to pay $650,000 in Wang stock to Systemcare Inc to settle a lawsuit, an attorney for Systemcare said on Monday.</p>
+<p>Systemcare originally filed a claim for $1.5 million. The settlement follows a decision in late June by the federal appeals court here that reversed itself and re-opened Systemcare's lawsuit against Wang.</p>
+<p>Systemcare alleged Wang violated anti-trust law by requiring purchases of its software support services to also purchase its hardware support services.</p>
+<p>Systemcare services Wang-built computer hardware. Wang had denied it conditioned the purchase of software suport on the purchase of hardware maintenance, except when a service contract was in effect.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

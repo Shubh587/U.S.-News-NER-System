@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578232" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: Raytheon says awarded $500 mln contract.</title>
+<headline>Raytheon says awarded $500 mln contract.</headline>
+<dateline>BEDFORD, Mass. 1997-05-13</dateline>
+<text>
+<p>Raytheon Corp said Tuesday it was awarded a $500 million contract by the Air Force Electronic Systems Center at Hanscom Air Force Base, Massachusetts.</p>
+<p>Raytheon said the indefinite delivery/indefinite quantity prime contract is for its command and control product lines program.</p>
+<p>The company said the comand and control program is designed to reduce the development time and costs associated with buying software-intensive command and control systems.</p>
+<p>Raytheon said that under its five-year contract, it will develop systems that reuse commercial off-the-shelf hardware and software, or that reuse software developed by the government for previous applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

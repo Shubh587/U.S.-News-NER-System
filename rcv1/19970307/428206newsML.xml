@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="428206" id="root" date="1997-03-07" xml:lang="en">
+<title>USA: Ford names new chief information officer.</title>
+<headline>Ford names new chief information officer.</headline>
+<dateline>DEARBORN, Mich. 1997-03-06</dateline>
+<text>
+<p>Ford Motor Co said Thursday it named Bernard Mathaisel as executive director and chief information officer, a new position.</p>
+<p>Mathaisel's role will be to provide a single point of responsibility for information technology throughout Ford. He will report to Kenneth Dabrowski, vice president of quality and process leadership, who reports to Ford Automotive Operations President Jacques Nasser.</p>
+<p>Mathaisel, who will have about eight people reporting to him, was a partner in Ernst &amp; Young's Strategic Advisory Consulting Practice. He also served as corporate vice president and chief information officer of Walt Disney Co.</p>
+<p>Mathaisel holds a bachelor of science in aeronautical engineering and a master of science in operations research from the Massachusetts Institute of Technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

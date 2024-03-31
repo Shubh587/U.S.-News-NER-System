@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251200" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Dow Jones aims corporate news at PCs via Web.</title>
+<headline>Dow Jones aims corporate news at PCs via Web.</headline>
+<dateline>NEW YORK 1996-12-12</dateline>
+<text>
+<p>Dow Jones &amp; Co Inc said Thursday it would offer its DowVision corporate desktop news delivery service via the Internet beginning in January.</p>
+<p>Dow Jones' Business Information Services unit said its DowVision service would offer a package of news from Dow sources, including the Wall Street Journal, plus front-page headlines from other top U.S. papers and the Financial Times.</p>
+<p>Dow Jones officials said the company planned to market its World Wide Web-enabled product to corporate users at prices starting at $100 a month per subscriber for groups as small as 15 users, with lower prices for larger numbers of subscribers.  </p>
+<p>DowVision is a four-year-old product with more than 100,000 subscribers, according to Dorthea Coccoli Palsho, president of Dow Jones' Buinesss Information unit.</p>
+<p>The product is targeted at corporate readers, including executives, sales agents and public relations representatives, the company official said.</p>
+<p>The DowVision product competes with news delivery systems from WavePhore Inc, which have added Web access to their existing delivery systems, and an emerging class of Web-centered delivery systems from companies such as Pointcast Inc.</p>
+<p>DowVision's move on to the Internet follows the launch of the Wall Street Journal Interactive edition earlier this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="174035" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Numero sees Q2 profits topping $100,000.</title>
+<headline>Numero sees Q2 profits topping $100,000.</headline>
+<dateline>VAN NUYS, Calif. 1996-11-06</dateline>
+<text>
+<p>Numero Uno Pizza Corp said on Wednesday it anticipated second quarter profits for the fiscal year to exceed $100,000.</p>
+<p>The company said income from the sale of the Indonesian or Filipino licenses were reflected in the $4,900 profit for its first fiscal quarter, but a significant portion of that income will be recognised in the second quarter.</p>
+<p>The company said its net operating profits for the first quarter increased by more than $280,000 over the same period last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VAN NUYS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

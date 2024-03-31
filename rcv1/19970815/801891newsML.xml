@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="801891" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: Compaq to unveil new server line.</title>
+<headline>Compaq to unveil new server line.</headline>
+<dateline>NEW YORK 1997-08-15</dateline>
+<text>
+<p>Compaq Computer Corp is expected to unveil a new line of network servers on Monday, extending its efforts to penetrate the high-end computer market.</p>
+<p>Compaq, the world's largest personal computer maker, has scheduled a press conference for Monday in San Francisco to launch the line.</p>
+<p>Compaq declined to comment on details and pricing for the new products ahead of the official launch, but a spokeswoman said the new servers would incorporate a higher level of fault-tolerant capabilities.</p>
+<p>Fault tolerance refers to a computer system's ability to swap tasks to backup units to ensure uninterrupted operation should one component in the system fail. The feature is an important one for businesses that rely on 24-hour, seven-day systems operation.</p>
+<p>The introduction of the new line of servers is part of an overall effort at Compaq to broaden the company's product line beyond its industry-leading personal computer business.</p>
+<p>Other moves include Compaq's acquisition of high-end systems maker Tandem Computers Inc, which is expected to close later this month.</p>
+<p>((-- R. Melville, Wall Street desk, 212-859-1731))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

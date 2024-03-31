@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245195" id="root" date="1996-12-10" xml:lang="en">
+<title>CANADA: Dynacor to start gold production in Peru.</title>
+<headline>Dynacor to start gold production in Peru.</headline>
+<dateline>MONTREAL 1996-12-10</dateline>
+<text>
+<p>Dynacor Mines Inc said on Tuesday it plans to start production at its Acari gold mine in Peru next month.</p>
+<p>Dynacor said it is now completing construction of its mill, whose initial capacity of 60 tons per day will be increased to 350 tons per day as soon as development of the mine is advanced enough to ensure a sustained supply.</p>
+<p>Dynacor said it has an ore reserve of 6,300 tons ready to be processed, with an average content of 0.28 ounces per ton.</p>
+<p>By the beginning of the year, Dynacor said it will have another 9,000 tons of ore, which can supply the mill in its first nine months of operation.</p>
+<p>((Reuters Toronto Bureau 416 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

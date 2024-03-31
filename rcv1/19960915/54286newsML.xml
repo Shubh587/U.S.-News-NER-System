@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54286" id="root" date="1996-09-15" xml:lang="en">
+<title>NORTH KOREA: N.Korea wins $282 million in investment deals.</title>
+<headline>N.Korea wins $282 million in investment deals.</headline>
+<dateline>RAJIN, North Korea 1996-09-15</dateline>
+<text>
+<p>North Korea signed $282 million worth of contracts with foreign investors at a three day forum on investment in the Rajin-Sonbong free-trade zone, a North Korean official said on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RAJIN, North Korea"/>
+<dc element="dc.creator.location.country.name" value="NORTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

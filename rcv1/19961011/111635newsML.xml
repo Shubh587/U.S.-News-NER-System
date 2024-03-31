@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111635" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U.S. supply/demand soybean product estimates--USDA.</title>
+<headline>U.S. supply/demand soybean product estimates--USDA.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>USDA supply/demand soybean</p>
+<p>product estimates (Oil in million bls, Meal in 1,000 short tons):</p>
+<p>    Soybean Oil ----- 1996/97		 1995/96</p>
+<p>    -		10/01/96  09/01/96  10/01/96  09/01/96</p>
+<p> Beginning Stocks   2,010   2,010	 1,137   1,137</p>
+<p> Production	  15,400  15,175	15,263  15,288</p>
+<p> Total Supply	17,485  17,260	16,500  16,535</p>
+<p> Domestic Use	13,550  13,550	13,450  13,450</p>
+<p> Exports		1,700   1,650	 1,040   1,075</p>
+<p> Total Use	   15,250  15,200	14,490  14,525</p>
+<p>     Soybean Meal ---- 1996/97		 1995/96</p>
+<p>    -		10/01/96  09/01/96  10/01/96  09/01/96</p>
+<p> Beginning Stocks     200     225	   223     223</p>
+<p> Production	  32,685  32,185	32,557  32,572</p>
+<p> Total Supply	32,975  32,500	32,860  32,875</p>
+<p> Domestic Use	26,750  26,550	26,800  26,850</p>
+<p> Exports		6,000   5,750	 5,860   5,800</p>
+<p> Total Use	   32,750  32,300	32,660  32,650</p>
+<p>    Soybean Meal ---- 1996/97		 1995/96</p>
+<p>    -		10/01/96  09/01/96  10/01/96  09/01/96</p>
+<p> Ending Stocks	 225	 200	  200     225</p>
+<p> Average Price    225-245   245-265    236.00   235.00</p>
+<p>Note-Soymeal Average Price in dollars/short ton, simple average of 48 pct, Decatur. Soyoil Average Price (cents/lb) is simple average of crude soyoil, Decatur. Total Supply includes imports. 1994/95 soyproduct production estimates are based on October year crush of 1,403 million bu. Soy products marketing seasons begin Oct 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

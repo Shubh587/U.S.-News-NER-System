@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137612" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: First American Financial Q3 shr $1.20.</title>
+<headline>First American Financial Q3 shr $1.20.</headline>
+<dateline>SANTA ANA, Calif. 1996-10-23</dateline>
+<text>
+<p>Quarter ended September 30		1996		 1995</p>
+<p> Revenues			     $411,304,000     $331,328,000</p>
+<p> Income before income taxes	 23,569,000	 15,520,000</p>
+<p> Net income			     13,769,000	  9,320,000</p>
+<p> Net income per share			 1.20		  .81</p>
+<p>Nine months ended September 30:</p>
+<p> Revenues			    1,172,054,000	885,722,000</p>
+<p>Income (loss) before income taxes</p>
+<p>					    71,378,000	(4,152,000)</p>
+<p> Net income (loss)		    41,778,000	(2,252,000)</p>
+<p> Net income (loss) per share		3.65		(.20)</p>
+<p> Average shares outstanding	 11,440,000	 11,405,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA ANA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

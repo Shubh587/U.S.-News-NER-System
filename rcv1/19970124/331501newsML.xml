@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331501" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Circus Circus exits Windsor, Ont., casino.</title>
+<headline>Circus Circus exits Windsor, Ont., casino.</headline>
+<dateline>LAS VEGAS 1997-01-23</dateline>
+<text>
+<p>Hilton Hotels Corp and Caesars World Inc on Thursday said they jointly redeemed the shareholder interests held by Circus Circus Enterprises Inc in Windsor Casino Limited.</p>
+<p>In a statement, the company said the shareholder agreement, the three companies had equally split the management fees from operating the Windsor casino. The fees will now be split equally between the two remaining shareholders.</p>
+<p>A spokesman for Hilton said the fees have averaged about $24 million to $25 million a year. Windsor Casino Ltd is the management company for the casino in Windsor, Ontario, Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

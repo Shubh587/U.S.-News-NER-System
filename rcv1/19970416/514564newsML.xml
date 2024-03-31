@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514564" id="root" date="1997-04-16" xml:lang="en">
+<title>UK: Bank Austria sets 100 mln rand 3-yr bond.</title>
+<headline>Bank Austria sets 100 mln rand 3-yr bond.</headline>
+<dateline>LONDON 1997-04-16</dateline>
+<text>
+<p>The following bond was announced by lead manager Hambros.</p>
+<p> BORROWER   BANK AUSTRIA</p>
+<p> AMT    100 MLN RAND  COUPON     15.0	MATURITY    16.MAY.00</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  101.05    PAY DATE    16.MAY.97</p>
+<p> FULL FEES  1.50	LISTING    LUX	 PAY FREQ    =</p>
+<p> MOODY/S&amp;P  AAA/AAA   DENOMS (K) 5-50-500  SALE LIMITS US/UK/ZA</p>
+<p> NEG PLG    NO	  CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   HOME CTRY  AUSTRIA   TAX PROVS   STANDARD</p>
+<p> MGT/UND    0.50	SELL CONC  1.0	 PRAECIPUUM  0.125</p>
+<p> NOTES	ISSUED OFF THE EMTN PROGRAMME</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

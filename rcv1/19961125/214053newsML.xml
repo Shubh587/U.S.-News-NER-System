@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214053" id="root" date="1996-11-25" xml:lang="en">
+<title>PARAGUAY: Paraguayan cattle output up 5.0 pct in Jan/Sept.</title>
+<headline>Paraguayan cattle output up 5.0 pct in Jan/Sept.</headline>
+<dateline>ASUNCION 1996-11-25</dateline>
+<text>
+<p>Paraguay's cattle raising sector rose 5.0 percent in January-September from the same period a year ago, the Central Bank said Monday.</p>
+<p>The Bank did not provide figures, just percentage changes.</p>
+<p>-- Jose Maria Amarilla Asuncion Newsroom 595 21 444527</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PARA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASUNCION"/>
+<dc element="dc.creator.location.country.name" value="PARAGUAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

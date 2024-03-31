@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494158" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: U.S. test CPI seen sensible, but just a first step.</title>
+<headline>U.S. test CPI seen sensible, but just a first step.</headline>
+<byline>Scott Gerlach</byline>
+<dateline>NEW YORK 1997-04-08</dateline>
+<text>
+<p>The U.S. Labor Department releases its experimental new Consumer Price Index (CPI) this week, and most analysts agree the changes in calculation methodology make sense.</p>
+<p>The new report, called CPI-U-XG, will be released for the first time at 1100 EDT/1500 GMT on Thursday. Like the current CPI, it will reflect monthly price changes in food, housing, apparel, transportation, medical care, entertainment and other goods and services.  </p>
+<p>But calculation of the experimental CPI relies on a geometric mean formula rather than arithmetic mean.</p>
+<p>The geometric method compresses differences between numbers in a series and therefore undercuts the arithmetic mean in all cases except when the numbers are identical. It is the process already used in calculating the Federal Reserve's industrial production statistics and the inflation measures of the Commerce Department's Gross Domestic Product report.  </p>
+<p>&quot;The geometric mean, philosophically, gives you a different weighting scheme than the arithmetic mean and in principle should be a little better,&quot; said Charles Lieberman, chief economist at Chase Securities Inc.</p>
+<p>Like the current CPI, the experimental index assigns weights to various sectors of goods and services. The difference comes in calculating price changes within each sector.  </p>
+<p>Because geometric mean smoothes disparate values, the difference between standard CPI and the experimental index will be greatest at times of dramatic price shifts. CPI-U-XG measures relative increases or decreases rather than an absolute change from the prior level.</p>
+<p>A geometric approach better accounts for consumers' habit of substituting less-expensive items for those that have gained in price, the Bureau of Labor Statistics has said.  </p>
+<p>&quot;The intuitive idea is that by taking the average of the weights, you don't overweight what happened to be cheaper the last time around,&quot; said David Wyss, research director at DRI/McGraw Hill.</p>
+<p>While Labor has not released an official estimate of the magnitude of change the new index will represent, analysts said it should shave a tenth or two from annual CPI estimates and affect the monthly figures nearly imperceptibly.</p>
+<p>Many economists have said for years that Labor overestimated consumer price increases. Proposals to revamp the CPI have become more vocal in recent months, however.  </p>
+<p>A congressionally appointed panel led by economist Michael Boskin estimated CPI bias at about 1.1 percentage points per year, and it recommended the BLS implement a geometric mean index as one partial offset.</p>
+<p>Geometric mean alone cannot make such a sizeable dent in the CPI, however, and that has some analysts fearing further tinkering.</p>
+<p>Many compensation contracts base annual increases on the CPI, and the Treasury's new inflation-protected securities offer a payout linked to the index.  </p>
+<p>&quot;If they move toward trying to beat the index until it confesses to lower inflation, that will be a little troublesome for the holders of these issues,&quot; said Dan Seto, senior economist at The Nikko Securities Co International Inc.</p>
+<p>For now, the geometric index remains experimental. On Thursday it will report monthly and annual price changes for December 1990 to February 1997. The BLS will continue to release both arithmetic and geometric CPI for the foreseeable future.</p>
+<p>&quot;This release, because it is a matter of calculation and not significant changes in the sampling, I don't think is a problem,&quot; Seto said. &quot;But recognize, it is the first step of many.&quot;</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1868 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

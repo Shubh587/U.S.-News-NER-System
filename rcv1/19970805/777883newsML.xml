@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777883" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: TABLE - Aladdin Q2 net profit vs loss.</title>
+<headline>TABLE - Aladdin Q2 net profit vs loss.</headline>
+<dateline>NEW YORK 1997-08-05</dateline>
+<text>
+<p>Three-month period    Six-month period ended</p>
+<p>			  ended June 30,		  June 30,</p>
+<p>		    1997	     1996	 1997	   1996</p>
+<p>Sales	   $8,281	   $6,756    $16,374	$13,944</p>
+<p>Combination and reorganization</p>
+<p>			 -	    5,444	    -	  5,444</p>
+<p>Net income (loss)</p>
+<p>		  $2,294	 $(4,597)     $4,476     $(6,387)</p>
+<p>Earnings (loss) per share</p>
+<p>		   $0.23	  $(0.46)	$0.44	$(0.64)</p>
+<p>Weighted average</p>
+<p>number of shares outstanding</p>
+<p>		  10,083	   10,075     10,084	  9,950</p>
+<p>(U.S. dollars, in thousands-except for per share amount)</p>
+<p>NOTE:  Aladdin Knowledge Systems Ltd said its net income for the second quarter and first six months of 1996 included $6.44 million for combination and reorganization expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

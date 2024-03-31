@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179345" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: BISYS wins Putnam Savings contract.</title>
+<headline>BISYS wins Putnam Savings contract.</headline>
+<dateline>LITTLE FALLS, N.J. 1996-11-11</dateline>
+<text>
+<p>BISYS Group Inc said on Monday that Putnam Savings Bank has entered a multi-year outsourcing agreement with BISYS.</p>
+<p>BISYS said Putnam Savings selected BISYS TOTALPLUS to provide bank-wide automation for retail and commercial services, mortgage banking, credit/loan administration, financial management, integrated marketing and sales services, electronic banking, decision-support systems and bank operations.</p>
+<p>The terms of the deal with the Connecticut-based bank were not immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LITTLE FALLS, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

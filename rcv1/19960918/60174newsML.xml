@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60174" id="root" date="1996-09-18" xml:lang="en">
+<title>AUSTRALIA: Internet guru sees Asian restrictions failing.</title>
+<headline>Internet guru sees Asian restrictions failing.</headline>
+<byline>Justin McCamish</byline>
+<dateline>MELBOURNE, Australia</dateline>
+<text>
+<p>Efforts by Asian nations to restrict access to the Internet and censor its contents can be sidestepped easily and are likely to fail, a world authority on Internet security said Wednesday.</p>
+<p>&quot;I think they (restrictions) are of limited effectiveness,&quot; Bill Cheswick of Bell Laboratories said in an interview.</p>
+<p>Cheswick also said the rise of intranets -- internal corporate networks that mimic the Internet -- have made it easier for hackers to attack corporate computers.</p>
+<p>His comments follow a resolution by Southeast Asian broadcasters and officials at an ASEAN forum meeting this month to police the Internet and block access to sites that run counter to Asian values.</p>
+<p>The resolution comes as Singapore and Chinese authorities tighten limits on Internet access, citing concerns about offensive material.</p>
+<p>The restrictions, which prevent access to some sites on the vast, worldwide computer network, can go some way to curbing free speech, but computer hackers can evade them, said Cheswick.</p>
+<p>&quot;You can sneak these things in,&quot; he said, explaining that a hacker could break into a government computer system, hide banned material there using encryption techniques and alert other Internet users on how to access it.</p>
+<p>&quot;You've got encryption, you've got steganography (messages hidden in innocuous text). I can encode this data, so ... I can get it through,&quot; he said after addressing an Asia-Pacific Internet conference in Melbourne.</p>
+<p>Asian leaders are mainly concerned about pornography in cyberspace as well as information that could spark religious and racial tensions and the activist activities of exiled dissidents.</p>
+<p>Singapore, seen at the forefront of Internet regulation within the Association of Southeast Asian Nations (ASEAN), forces its Internet service providers to use computer &quot;proxy servers&quot; which block requests for undesirable material.</p>
+<p>ASEAN is comprised by Singapore, Brunei, Malaysia, Indonesia, the Philippines, Thailand and Vietnam. Australia has also expressed concern about the use of the Internet for pedophile rings.</p>
+<p>Britain's Financial Times last week reported that dozens of World Wide Web sites had been closed to Chinese Internet users in an effort by Beijing to muzzle publication of anti-Communist party views.</p>
+<p>Cheswick pointed Wednesday to a recent U.S. example where hackers, aggrieved by government calls to regulate the Internet, tampered with the Web page of the U.S. Justice Department, swapping a swastika for the department's logo.</p>
+<p>Hacking via the Internet, which boasts over 35 million users, is on the increase worldwide with commercial targets becoming prone to larger attacks, Cheswick said.</p>
+<p>&quot;There are more people (using computers), they're learning more ... the hackers are out there training and there are also bigger and bigger commercial attempts to hack,&quot; he said.</p>
+<p>The advent of large corporate networks, or &quot;intranets,&quot; and the growing use of user-friendly internal Web pages as stores of corporate data, also are making firms more vulnerable to hacker infiltration, he said.</p>
+<p>&quot;Before that was around, if I had broken into your corporate network, how do I find the payroll, or whatever? If it's easier for people inside the company to find, it's easier for spies to find it as well,&quot; Cheswick said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASEAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219723" id="root" date="1996-11-27" xml:lang="en">
+<title>SOUTH AFRICA: SAfrica JSE delays start of trade for system tests.</title>
+<headline>SAfrica JSE delays start of trade for system tests.</headline>
+<dateline>JOHANNESBURG 1996-11-26</dateline>
+<text>
+<p>The Johannesburg Stock Exchange (JSE) said on Wednesday the start of trading had been delayed due to the implementation of further tests on the electronic trading system.</p>
+<p>&quot;We have delayed the opening of trade as we are doing tests on the user terminals,&quot; JSE president Roy Andersen told Reuters.</p>
+<p>Trade has been hampered by system problems all week. On Monday the system failed twice, forcing the exchange to close early, and on Tuesday the start of trade was delayed by an hour.</p>
+<p>Andersen said he could not say when the system would be back up and trading commence on Wednesday.</p>
+<p>-- Johannesburg newsroom, +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

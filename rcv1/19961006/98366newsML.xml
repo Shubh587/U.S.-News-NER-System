@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98366" id="root" date="1996-10-06" xml:lang="en">
+<title>USA: BASEBALL-RESULTS OF PLAYOFF GAMES ON SATURDAY.</title>
+<headline>BASEBALL-RESULTS OF PLAYOFF GAMES ON SATURDAY.</headline>
+<dateline>NEW YORK 1996-10-05</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball division series playoff games on Saturday (home team</p>
+<p>in CAPS):</p>
+<p>	    American League</p>
+<p> New York	  6	TEXAS	 4</p>
+<p>(New York wins the best-of-five-games series 3-1)</p>
+<p> Baltimore	 4	CLEVELAND   3 (12 innings)</p>
+<p>(Baltimore wins best-of-five series 3-1)</p>
+<p>	    National League</p>
+<p> St Louis	  7	SAN DIEGO   5</p>
+<p>(St Louis wins best-of-five-games series 3-0)</p>
+<p> ATLANTA	    5   Los Angeles    2</p>
+<p>(Atlanta wins best-of-five-games series 3-0)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="572122" id="root" date="1997-05-09" xml:lang="en">
+<title>USA: Motorola opens education center in Illinois.</title>
+<headline>Motorola opens education center in Illinois.</headline>
+<dateline>MUNDELEIN, Ill. 1997-05-09</dateline>
+<text>
+<p>Motorola Inc's Cellular Infrastructure Group said it opened its Technical Education and Documentation Center in this Chicago suburb on Friday.</p>
+<p>The facility includes more than 80,000 square feet of classroom and laboratory space. It will employ more than 150 people and will provide educational services to more than 100 customers and employees a week.</p>
+<p>Similar facilities are located in Florida, Texas, Brazil, China, India and Britain.</p>
+<p>Plans include developing the new facility into a worldwide hub for computer-based long-distance learning.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNDELEIN, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

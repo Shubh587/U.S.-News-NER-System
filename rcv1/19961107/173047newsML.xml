@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173047" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: CBOT Project A overnight volume hits new record.</title>
+<headline>CBOT Project A overnight volume hits new record.</headline>
+<dateline>CHICAGO 1996-11-07</dateline>
+<text>
+<p>The Chicago Board of Trade said volume in its Project A session rose to a record 18,960 contracts overnight Wednesday.</p>
+<p>The record comprised 18,319 financial contracts and 641 agricultural contracts.</p>
+<p>The new high eclipsed the previous overnight volume record of 18,708 contracts set November 6 that consisted of 17,863 financial and 845 agricultural contracts.</p>
+<p>Project A is the CBOT's after-hours electronic order-entry and matching system, which operates an afternoon and an overnight session. -Derivatives Desk(312)408-8750/E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

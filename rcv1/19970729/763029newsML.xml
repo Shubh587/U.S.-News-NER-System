@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763029" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: Internet mavens seek consensus on domain name flap.</title>
+<headline>Internet mavens seek consensus on domain name flap.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-29</dateline>
+<text>
+<p>A diverse array of Internet groups will meet Wednesday to try to hash out a consensus on the contentious issue of expanding Internet addresses.</p>
+<p>The online community has largely avoided government regulation on issues like privacy and indecency by forging broad agreements relying on private-sector solutions.</p>
+<p>But a red-hot feud has broken out over the seemingly mundane question of how best to expand the number of network addresses, like microsoft.com or whitehouse.gov, that direct email, web surfing and all other Internet activity.  </p>
+<p>The mess is already drawing substantial attention from the U.S. government.</p>
+<p>The Clinton administration has formed an inter-agency task force to examine the address issue and, in June, the Commerce Department asked for suggestions on how the system could be fixed. Just this month, the Justice Department confirmed it was conducting an antitrust probe into address registrations.  </p>
+<p>The Commerce Department's comment period ends next month, so with further government involvement imminent, several Internet groups outside of the dispute set-up two days of meetings this week at a hotel in Washington, D.C. to bring together the warring factions.</p>
+<p>&quot;If we can lower some of the divisiveness and get people talking in a constructive way, we'll feel we've accomplished something,&quot; said Harris Miller, president of the Information Technology Association of America, which is co-sponsoring the meeting.  </p>
+<p>&quot;We hope at the end of the conference that there is a constructive dialogue underway,&quot; Miller said, noting that his group has no official position on the Internet address question.</p>
+<p>Currently, all Internet addresses end with two or three letter designation known as a top level domain.</p>
+<p>Although each country has its own top level domain, most addresses are registered in a handful of generic domains including &quot;.com&quot; for commercial sites, &quot;.edu&quot; for schools and and &quot;.org&quot; for non-profit groups.  </p>
+<p>Network Solutions Inc of Herndon, Va. has an exclusive contract from the National Science Foundation to register addresses in the most popular generic top-level domains. But the agreement expires in March 1998 and the science agency has said the contract will not be renewed.</p>
+<p>Available addresses in the popular domains are shrinking fast, leading to bidding wars over desirable names and, in some cases, lawsuits by trademark holders claiming infringement.  </p>
+<p>Network Solutions has also been criticized for charging $100 for a two-year registration and a recent computer error by the firm scrambled the net for hours and highlighted the vulnerability of the current system.</p>
+<p>In February, a group of traditional Internet standards-setting bodies agreed on a plan to add seven new top-level domains and add up to 28 competing registries. The plan gained the support of some major players, including MCI Communications Corp, but failed to garner the backing of online services like America Online.</p>
+<p>The plan is still expected to form the basis of an eventual compromise, but Network Solutions has its own plan as does a group of small Internet Service providers known as the Enhanced Domain Name Service.</p>
+<p>((--202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

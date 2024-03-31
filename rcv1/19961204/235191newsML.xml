@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235191" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Sacramento,Calif, school board resubmits bond plan.</title>
+<headline>Sacramento,Calif, school board resubmits bond plan.</headline>
+<dateline>SACRAMENTO, Calif. 1996-12-03</dateline>
+<text>
+<p>The Sacramento City school board has voted to put a $225 million bond measure on the March ballot, school officials said on Tuesday.</p>
+<p>The city's school board voted to place the school bond on the ballot following the defeat in November of Measure E, an identical bond measure that failed by just 260 votes.</p>
+<p>The $225 million bond was placed on the ballot by the current school board with the understanding that newly-elected board members would have until December 26 to reconsider the plan. The new board members will be sworn in on December 10.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

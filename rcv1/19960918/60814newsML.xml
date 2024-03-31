@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60814" id="root" date="1996-09-18" xml:lang="en">
+<title>UK: Tanker ruptures U.K. North Sea gas pipeline.</title>
+<headline>Tanker ruptures U.K. North Sea gas pipeline.</headline>
+<dateline>LONDON 1996-09-18</dateline>
+<text>
+<p>An anchor from a tanker ruptured a gas piepline from the Amethyst gas field in the southern sector of the U.K. North Sea, Lloyds shipping agents said.</p>
+<p>It was not immediately clear if the Amethyst field, operated by British Petroleum, had been shut down. The company could not be reached for comment.</p>
+<p>The Lloyd's report quoted the coastguard at Yarmouth in eastern England as saying the tanker Kandilousa snagged her anchor on the gas pipeline. It said the pipeline was fractured and the field was closed.</p>
+<p>The field is located in the southern gas basin. Oil analysts Wood Mackenzie said in a report the field produced an average 148 MMcfd in the 12 months to July 1996.</p>
+<p>-- London newsroom +44 171 542 4088</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

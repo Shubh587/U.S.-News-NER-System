@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="743682" id="root" date="1997-07-21" xml:lang="en">
+<title>UK: Baltic Freight Index fell six points to 1,362.</title>
+<headline>Baltic Freight Index fell six points to 1,362.</headline>
+<dateline>LONDON 1997-07-21</dateline>
+<text>
+<p>The Baltic Freight Index for spot dry cargo shipping rates fell to 1,362 today from 1,368 on July 18, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route Index     Rate   Prev Index  Rate</p>
+<p>   1    1460    13.257	  1465    13.300</p>
+<p>   1a   1354 10257.000	  1362 10313.000</p>
+<p>   2    1677    23.964	  1704    24.344</p>
+<p>   2a   1618 13271.000	  1626 13338.000</p>
+<p>   3    1545    14.250	  1541    14.219</p>
+<p>   3a   1265  9986.000	  1269 10019.000</p>
+<p>   6    1284    13.243	  1285    13.250</p>
+<p>   7    1179     5.743	  1180     5.744</p>
+<p>   8     846     9.300	   846     9.300</p>
+<p>   9     776  6786.000	   785  6869.000</p>
+<p>  10    1148     5.800	  1148     5.800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

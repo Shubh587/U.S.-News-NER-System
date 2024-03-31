@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34908" id="root" date="1996-09-05" xml:lang="en">
+<title>JAPAN: Japan Aug imported vehicle sales fall 2.9 pct.</title>
+<headline>Japan Aug imported vehicle sales fall 2.9 pct.</headline>
+<dateline>TOKYO 1996-09-05</dateline>
+<text>
+<p>Sales of imported vehicles in Japan fell 2.9 percent in August to 26,542 from a year earlier, the Japan Automobile Importers Association (JAIA) said on Thursday.</p>
+<p>					   (pct change over year earlier)</p>
+<p>  Cars			     23,432	     -6.5</p>
+<p>   - Over 2000 cc		15,954	    -11.3</p>
+<p>   - Under 2000 cc		7,478	     +5.6</p>
+<p>  Trucks			    3,109	    +37.4</p>
+<p>   - Heavy			  2,281	     +6.5</p>
+<p>   - Light			    828	   +584.3</p>
+<p>  Buses				   1		 --</p>
+<p>  Total			    26,542	     -2.9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

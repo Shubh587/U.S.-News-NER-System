@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689367" id="root" date="1997-06-26" xml:lang="en">
+<title>USA: CBOT soybean futures crush margins.</title>
+<headline>CBOT soybean futures crush margins.</headline>
+<dateline>CHICAGO 1997-06-26</dateline>
+<text>
+<p>Based on CBOT settlements, in cents/bu (1 bu soybeans=11 lbs oil, 44 lbs meal, 4 lbs hulls).</p>
+<p> Contract	   Margin	 Change</p>
+<p> Jul-97	    26.04  up	4.15</p>
+<p> Aug-97	    39.73  up	1.13</p>
+<p> Sep-97	    71.97  up	1.74</p>
+<p> Oct/Nov-97	78.61  up	2.24</p>
+<p> Nov/Dec-97	68.82  up	2.02</p>
+<p> Jan-98	    61.65  up	1.63</p>
+<p> Mar-98	    54.14  dn	0.12</p>
+<p> May-98	    51.45  up	3.55</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253151" id="root" date="1996-12-12" xml:lang="en">
+<title>CANADA: Canada body details feed barley protein content.</title>
+<headline>Canada body details feed barley protein content.</headline>
+<dateline>WINNIPEG 1996-12-12</dateline>
+<text>
+<p>The Canadian Grain Commission on Thursday detailed the protein content of Prairie feed barley.</p>
+<p>	     Extra No1 Canada Western Feed Barley</p>
+<p>PROVINCE   SAMPLES  MEAN AVG  MIN.  MAX.</p>
+<p>Manitoba	92    11.8 pct  9.9   13.6</p>
+<p>Sask.	  238    11.3 pct  8.6   14.5</p>
+<p>Alberta	242    11.8 pct  8.3   16.1</p>
+<p>W. Cnd.	572    11.6 pct  8.3   16.1</p>
+<p>	     No1 Canada Western Feed Barley</p>
+<p>PROVINCE   SAMPLES  MEAN AVG  MIN.  MAX.</p>
+<p>Manitoba	28    11.9 pct  9.8   14.4</p>
+<p>Sask.	   43    11.7 pct  9.6   15.1</p>
+<p>Alberta	 65    11.8 pct  9.5   16.0</p>
+<p>W. Cnd.	136    11.8 pct  9.5   16.0</p>
+<p>	     No2 Canada Western Feed Barley</p>
+<p>PROVINCE   SAMPLES  MEAN AVG  MIN.  MAX.</p>
+<p>Manitoba	 4    12.4 pct 10.7   14.1</p>
+<p>Sask.	   12    12.0 pct 10.8   14.2</p>
+<p>Alberta	 29    12.2 pct 10.3   15.2</p>
+<p>W. Cnd.	 45    12.2 pct 10.3   15.2</p>
+<p>	     All Grades</p>
+<p>PROVINCE   SAMPLES  MEAN AVG  MIN.  MAX.</p>
+<p>Manitoba     124    11.8 pct  9.8   14.4</p>
+<p>Sask.	  293    11.4 pct  8.6   15.1</p>
+<p>Alberta	336    11.9 pct  8.3   16.1</p>
+<p>W. Cnd.	753    11.7 pct  8.3   16.1</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

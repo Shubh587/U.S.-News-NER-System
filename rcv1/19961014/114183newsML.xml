@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114183" id="root" date="1996-10-14" xml:lang="en">
+<title>NEW ZEALAND: NZ food prices rise 0.7 percent in September.</title>
+<headline>NZ food prices rise 0.7 percent in September.</headline>
+<dateline>WELLINGTON 1996-10-15</dateline>
+<text>
+<p>New Zealand food prices rose 0.7 percent in September, following a rise of 0.4 percent in August, Statistics New Zealand said on Tuesday.</p>
+<p>Food prices are now 3.1 percent higher than a year ago.</p>
+<p>In September, food prices rose in all categories except for restaurant meals and ready to eat food, which were static.</p>
+<p>Fruit and vegetable prices rose 2.3 percent in the month, with fresh fruit prices up 7.5 percent and fresh vegetables falling 0.5 percent. SNZ said despite the monthly increase, fruit and vegetable prices were still 2.6 percent lower than a year ago.  </p>
+<p>Meat, fish and poultry prices rose 1.7 percent, and there was a small rise of 0.2 percent in grocery foods.</p>
+<p>The North Island recorded a price rise of 0.9 percent, while in the South Island no overall change was recorded in food prices. -- Wellington newsroom (64 4) 473 4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143778" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Star to shut Texas hydrocracker Saturday.</title>
+<headline>Star to shut Texas hydrocracker Saturday.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>Star Enterprise said Friday it would shut a 15,000 barrel per day hydrocracker at its 235,000 bpd refinery in Port Arthur, Texas, for an unplanned repair.</p>
+<p>&quot;We're shutting down the hydrocracker to do some unscheduled repair, which means we will be making more heating oil and distillates, which is what we probably should be doing anyway,&quot; said Mike Killien, manager of the refinery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

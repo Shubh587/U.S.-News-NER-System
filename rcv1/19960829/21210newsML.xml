@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21210" id="root" date="1996-08-29" xml:lang="en">
+<title>COTE D'IVOIRE: French soldiers await trial over sex assault.</title>
+<headline>French soldiers await trial over sex assault.</headline>
+<dateline>ABIDJAN 1996-08-29</dateline>
+<text>
+<p>Four French soldiers are in detention at France's military base in Ivory Coast awaiting trial for sexual assault, following an incident involving a woman in the port of San Pedro, diplomatic sources said.</p>
+<p>The four were detained by the Ivorian authorites on August 18 before being transferred to the 43rd BIMA French military base in the commercial capital Abidjan, they added.</p>
+<p>The incident happened in the southwestern port of San Pedro. The sources said an Ivorian woman had alleged sexual assault but the precise nature of the charges was not clear.</p>
+<p>Under agreements between Ivory Coast and former colonial power France, any jail sentence would be served in a French military jail or back in France, the sources added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

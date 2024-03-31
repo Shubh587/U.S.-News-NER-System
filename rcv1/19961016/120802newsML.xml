@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120802" id="root" date="1996-10-16" xml:lang="en">
+<title>DENMARK: Danish September new car yr/yr sales fell 4.3 pct.</title>
+<headline>Danish September new car yr/yr sales fell 4.3 pct.</headline>
+<dateline>COPENHAGEN 1996-10-16</dateline>
+<text>
+<p>Danish new car registrations fell 4.3 percent in September to 9,834 from 10,278 a year earlier, the Automobile Importers' Society said on Wednesday.</p>
+<p>					Sept 1996  Sept 1995</p>
+<p>    New car registrations	 9,834     10,278</p>
+<p>Leading September registrations by manufacturer</p>
+<p>    Volkswagen AG	 1,342</p>
+<p>    Toyota		  1,230</p>
+<p>    Ford Motor Co	   787</p>
+<p>    General Motors Corp   670</p>
+<p>-- Steve Weizman,Copenhagen Newsroom, +45-33-969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

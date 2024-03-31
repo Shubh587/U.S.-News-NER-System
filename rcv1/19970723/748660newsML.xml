@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="748660" id="root" date="1997-07-23" xml:lang="en">
+<title>CANADA: Weekly Canada spot natgas domestic prices -July 23.</title>
+<headline>Weekly Canada spot natgas domestic prices -July 23.</headline>
+<text>
+<p>DOMESTIC (JULY SALES)	  $CDN/GJ	  $US/MMBTU</p>
+<p> ALBERTA PLANT-GATE	   1.32/1.37	 1.03/1.07</p>
+<p> ALBERTA BORDER - EMPRESS   1.48/1.53	 1.15/1.19</p>
+<p> STATION 2, B.C.		1.38/1.43	 1.07/1.11</p>
+<p> SASK. PLANT-GATE	     1.32/1.37	 1.03/1.07</p>
+<p> TORONTO CITY-GATE	    2.93/2.99	 2.28/2.33</p>
+<p> 1-YR PCKGS - EMPRESS	 1.74/1.79	 1.38/1.42</p>
+<p> AECO			     1.44/1.49	 1.12/1.16</p>
+<p>N=notional. One yr package beginning November 1. Canada/U.S. dollar conversion based on Bank of Canada noon rate. One year packages converted to U.S. dollars at a 12-month forward rate.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

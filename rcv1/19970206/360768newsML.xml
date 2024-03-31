@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360768" id="root" date="1997-02-06" xml:lang="en">
+<title>BANGLADESH: Twenty injured after Bangladesh train car derails.</title>
+<headline>Twenty injured after Bangladesh train car derails.</headline>
+<dateline>CHITTAGONG, Bangladesh 1997-02-06</dateline>
+<text>
+<p>At least 20 people were injured on Thursday when a packed coach of an express train jumped the tracks 80 km (50 miles) from the port city of Chittagong, railway officials said.</p>
+<p>The officials said the victims were injured trying to jump out of train doors and windows.</p>
+<p>Thousands travelling to and from Chittagong ahead of the Moslem Eid al-Fitr festival were stranded for more than 10 hours after the derailment halted other trains.</p>
+<p>&quot;Train services will be resumed sometime tonight,&quot; one railway official said, without giving the cause of the accident.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHITTAGONG, Bangladesh"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40003" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Excite unveils new Internet agent.</title>
+<headline>Excite unveils new Internet agent.</headline>
+<dateline>MOUNTAIN VIEW, Calif.</dateline>
+<text>
+<p>Internet navigation innovator Excite Inc. Monday launched a new &quot;personal agent&quot; dubbed Excite Live! and designed to help people gather information on the Web by learning their tastes.</p>
+<p>The new service enables a visitor to Excite to choose from among dozens of interest categories, such as areas of business, sports and hobbies, and then passively monitors how a person gathers information to improve itself.</p>
+<p>The service is similar to personalized capabilities of other publicly traded Internet navigation companies, such as Yahoo! Corp.'s My Yahoo and Infoseek Corp.'s Infoseek Personal. But it aims to differentiate itself by actively altering the service to fit users' patterns.</p>
+<p>&quot;The number of magazines and newspapers on the Web is growing exponentially, and Web content is updated much more frequently than its printed counterpart,&quot; Excite President George Bell said in a statement.</p>
+<p>Excite Live! updates information on a regular basis throughout the day, delivering news, sports scores, stock quotes and weather reports along with daily Web reviews and columns from its own editorial staff, the company said.</p>
+<p>The service &quot;scours the Web several times a day&quot; to search out fresh content, including more than 300 top Web sites from publications like The New York Times and Business Week magazine, as well as news from Reuters.</p>
+<p>Excite executives said the new product becomes more knowledgeable about a person's preferences through the use of advanced learning technology, which enables it to automatically refine its focus based on usage patterns.</p>
+<p>Excite Live!'s director of marketing, Craig Donato, said the service uses an individual's location to provide local weather, news and sports, for example.</p>
+<p>The service also enables advertisers to more closely pinpoint people who would be interested in their products, much as competitors' services aim to do.</p>
+<p>Like other Web navigation companies, Excite is promoting its service as a regular home page which would be used every time a person fires up their Web browser.</p>
+<p>Excite Live! can be found from the Excite home page at http://www.exite.com.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230701" id="root" date="1996-12-03" xml:lang="en">
+<title>SOUTH AFRICA: Phone failure plunges S.African city into chaos.</title>
+<headline>Phone failure plunges S.African city into chaos.</headline>
+<dateline>CAPE TOWN 1996-12-03</dateline>
+<text>
+<p>Telephones in wide areas of Cape Town were down for the second day running on Tuesday, disrupting business in the South African port that hopes to host the 2004 Olympic Games.</p>
+<p>A spokeswoman for the telephone utility Telkom said engineers from France had been called in to try to sort out problems with French-supplied communications software serving the city.</p>
+<p>She said Telkom suspected the telephone system had been overloaded by callers trying to get through to radio stations offering prizes in competitions for listeners.</p>
+<p>&quot;An extensive number of lines are affected,&quot; she said. &quot;We hope the engineers from France can have the problem sorted out later today.&quot;</p>
+<p>A team from the International Olympic Committee is due to arrive in Cape Town on Friday to make a preliminary assessment of the city's suitability as a host for the 2004 games.</p>
+<p>Critics of the city's bid have suggested Cape Town would not be able to provide adequate infrastructure for the event.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

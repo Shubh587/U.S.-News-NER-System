@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250383" id="root" date="1996-12-11" xml:lang="en">
+<title>GERMANY: Bonn aims to rein in lawlessness in cyberspace.</title>
+<headline>Bonn aims to rein in lawlessness in cyberspace.</headline>
+<byline>Terence Gallagher</byline>
+<dateline>BONN 1996-12-11</dateline>
+<text>
+<p>German Chancellor Helmut Kohl's cabinet approved a bill on Wednesday that will regulate the Internet computer network to protect users' privacy and keep out smut and Nazi propaganda.</p>
+<p>With its &quot;multimedia law&quot;, Germany is forging ahead with a project that the United States and other governments have largely given up as impossible -- controlling the content of the Internet without compromising civil liberties.</p>
+<p>Cyberspace &quot;is not a law-free zone&quot;, Education and Research Minister Juergen Ruettgers told a news conference. &quot;No one should think that special technologies put them beyond the reach of the law.&quot;</p>
+<p>The new law covers businesses such as telebanking and database services as well as online services. It says that acts already prohibited in Germany -- such as denying the Holocaust, distributing hardcore pornography to minors and conducting fraudulent business -- will also be illegal in electronic form.</p>
+<p>CompuServe, the world's second largest online information service, said recently it would consider moving its German operations to a neighbouring country if the law becomes too restrictive.</p>
+<p>The draft law reflects German sensitivities to the confidentiality of personal data, requiring service providers to store as little data as possible. It also reflects the struggle between federal and state authorities over which has the right to regulate the Internet.</p>
+<p>The German law puts responsibility for suspect content on &quot;suppliers&quot;, but this is not clearly defined.</p>
+<p>Online services such as Compuserve and America Online could be held responsible for legally questionable material after being warned that such material can be accessed through their systems, provided they have the technical means to block it.</p>
+<p>The German law would pioneer the use of &quot;digital signatures&quot; -- strings of data encrypted to establish the origin of transmitted messages.</p>
+<p>The signatures could prevent fraudulent commercial transactions on the computer network by matching a publicly accessible data string with a confidential number, or key, registered with a central authority.</p>
+<p>Such signatures could play a major role in preventing computer crime, Interior Minister Manfred Kanther said.</p>
+<p>The law would bar programmes that track users' paths through the Internet, recording what sites they have visited, and would require the opportunity for anonymous use of the system.</p>
+<p>It also calls for the electronic &quot;tagging&quot; of material unsuitable for minors, so it could be filtered out with something similar to the V-chip now under development in the U.S. television industry.</p>
+<p>After consultations with state governments next week, the government hopes the law will take effect in August 1997, ahead of the planned deregulation of European telecommunications markets in January 1998.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80414" id="root" date="1996-09-26" xml:lang="en">
+<title>FINLAND: Finnish August jobless rate unchanged at 15.9 pct.</title>
+<headline>Finnish August jobless rate unchanged at 15.9 pct.</headline>
+<dateline>HELSINKI 1996-08-29</dateline>
+<text>
+<p>The Finnish unemployment rate was unchanged versus July at 15.9 percent and it fell 0.3 percentage points from August last year, Statistics Finland (SF) said in a statement on Thursday.</p>
+<p>			 August 1996     July 1996	August 1995</p>
+<p> Unemployed	    403,000	  421,000	  404,000</p>
+<p> Jobless rate (pct)   15.9	     15.9		16.2</p>
+<p>NOTE - The above figures are not seasonally adjusted.</p>
+<p>Finland's labour ministry, calculating on a different basis, earlier said the August unemployment rate fell to 17.2 percent from 18.4 percent in July.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

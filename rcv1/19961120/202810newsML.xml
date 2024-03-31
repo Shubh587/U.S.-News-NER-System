@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202810" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: INTERVIEW-Equifax Inc CEO on EPS growth.</title>
+<headline>INTERVIEW-Equifax Inc CEO on EPS growth.</headline>
+<byline>David Morgan</byline>
+<dateline>ATLANTA 1996-11-20</dateline>
+<text>
+<p>Equifax Chief Executive Dan McGlaughlin said on Wednesday he expected fourth-quarter net income to be boosted by the company's sale of health-care-related businesses during the period.</p>
+<p>In an interview with Reuters, McGlaughlin said the company was close to finalizing the sale of its Healthcare Analytical Services business, adding that the announcement could come as early as this week.</p>
+<p>The company has not yet decided whether it would sell off its medical credentials verification unit as well.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

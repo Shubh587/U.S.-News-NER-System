@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435121" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: CBOT T-bonds options vol/open interest - March 11.</title>
+<headline>CBOT T-bonds options vol/open interest - March 11.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: T-BONDS		 CALL</p>
+<p>			 EVE   PJA   DAY   GIVE		  OPTS   OPEN INTEREST</p>
+<p>YR MTH		TRDS  TRDS  TRDS   UPS  TRFRS ADJST  EXER   CLOSE   CHANGE</p>
+<p>-- ---	     ----- ----- ------ ----- ----- ----- ------ ------- -------</p>
+<p>97 APR TOTAL	  40    16  28256  9194    82  5625     31  115822    455+</p>
+<p>97 MAY TOTAL			 3570  3000			     8445   3570+</p>
+<p>97 JUN TOTAL	  50	  22912  7478  1054  2836	   205769   7852+</p>
+<p>97 SEP TOTAL			  565    23	     2	    17196     85-</p>
+<p>97 OCT TOTAL						  200		100    200-</p>
+<p>97 DEC TOTAL			   20		   100	     3193     80-</p>
+<p>98 MAR TOTAL								    3412</p>
+<p>COMMODITY: T-BONDS		 PUT</p>
+<p>97 APR TOTAL	 127    50  27551  7360    49  4668     15  120306   1278-</p>
+<p>97 MAY TOTAL			 1700   200	   300	     8011   1250+</p>
+<p>97 JUN TOTAL	   3	  19478  2875     9  2765	   183543   6046+</p>
+<p>97 SEP TOTAL			  958				    12673    223+</p>
+<p>97 OCT TOTAL								     500</p>
+<p>97 DEC TOTAL			  825				     1900    825+</p>
+<p>98 MAR TOTAL								    3875</p>
+<p>CMMDTY TOTAL	 220    66 105835 30130  1194 16496     46  684745  18578+</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810878" id="root" date="1997-08-02" xml:lang="en">
+<title>FRANCE: Heavy rains kill four in Algeria.</title>
+<headline>Heavy rains kill four in Algeria.</headline>
+<dateline>PARIS 1997-08-02</dateline>
+<text>
+<p>Heavy rains on Saturday killed four people and made 600 families homeless in southern Algeria, state-run radio said.</p>
+<p>Two children were among the dead in Ain Guezam area, some 1,550 km (960 miles) from Algiers, the radio said.</p>
+<p>Rain is rare in the summer in southern Algeria where temperatures exceed 50 degrees Celsuis early in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

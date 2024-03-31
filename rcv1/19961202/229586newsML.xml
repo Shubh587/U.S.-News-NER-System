@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229586" id="root" date="1996-12-02" xml:lang="en">
+<title>FRANCE: Algeria announces official referendum result.</title>
+<headline>Algeria announces official referendum result.</headline>
+<dateline>PARIS 1996-12-02</dateline>
+<text>
+<p>Official results from Algeria's referendum to change the country's constitution showed that 84.60 percent voted 'yes' for change and 15.40 voted 'no', the Constitutional Council announced.</p>
+<p>Council president Said Bouchair, in a statement carried by the official news agency APS late on Sunday, said the turnout had been revised downwards because of a delay in returns from one region.</p>
+<p>Following are the official final results given by APS:</p>
+<p>    Number of registered voters  -  16,434,574</p>
+<p>    Number of votes cast	   -  13,111,514 (79.78 percent)</p>
+<p>    Valid votes			-  12,750,027</p>
+<p>    'Yes' votes			-  10,785,919 (84.60 percent)</p>
+<p>    'No' votes			 -   1,964,108 (15.40 percent)</p>
+<p>The reforms adopted envisage strengthening the powers of President Liamine Zeroual and banning parties based on religion, language or regions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

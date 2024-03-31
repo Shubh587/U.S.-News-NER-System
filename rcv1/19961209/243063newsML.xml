@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243063" id="root" date="1996-12-09" xml:lang="en">
+<title>MAURITIUS: Mauritius surveying sugar cane after cyclone.</title>
+<headline>Mauritius surveying sugar cane after cyclone.</headline>
+<dateline>PORT LOUIS 1996-12-09</dateline>
+<text>
+<p>The Mauritius Chamber of Agriculture on Monday gathered data on possible damage to sugarcane fields from tropical cyclone Daniella, which passed near the Indian Ocean island on Sunday.</p>
+<p>&quot;Data are still being collected. We would prefer to have all of them before making the assessment,&quot; Axel Pellegrin, senior assistant secretary at the chamber, told Reuters.</p>
+<p>Pellegrin added he expected the survey to be completed on Tuesday afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

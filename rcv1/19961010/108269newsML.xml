@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108269" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Dirty tanker fixtures and enquiries - 2203 GMT.</title>
+<headline>Dirty tanker fixtures and enquiries - 2203 GMT.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>FIXTURES</p>
+<p>MEDITERRANEAN -</p>
+<p>Seawind II 63 20-22/10 Tuapse/Med W120 Roslin.</p>
+<p>WESTERN HEMIPSHERE -</p>
+<p>Vicky 1 80 10/10 Puenta Cardon/Brazil W1008 Petrobras.</p>
+<p>MIDEAST/RED SEA -</p>
+<p>Action Express 55 prompt Mideast/S.Korea W172.50 Samsung.</p>
+<p>Sir John 130 26/10 Sidi Krerir/Santa Panagia W89 ERG.</p>
+<p>Ninemia 120 21/10 Sidi Krerir/Santa Panagia W82.50 ERG.</p>
+<p>	  -- New York Commodity Desk, 212 859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

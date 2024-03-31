@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45007" id="root" date="1996-09-10" xml:lang="en">
+<title>AUSTRALIA: RTRS-BHP to shut stainless steel plant.</title>
+<headline>RTRS-BHP to shut stainless steel plant.</headline>
+<dateline>SYDNEY 1996-09-10</dateline>
+<text>
+<p>The Broken Hill Proprietary Co Ltd said on Tuesday it would close its stainless steel plant in Port Kembla, New South Wales, in May 1997.  </p>
+<p>BHP said the action was being taken after a lengthy review over some years and after consideration of a number of options, including the possible sale or joint venture of the business.</p>
+<p>The plant's 260 employees would be offered other positions within the company, BHP said.</p>
+<p>BHP said it ceased production of stainless steel over a decade ago and since that time has been an importer of semi-processed stainless steel coils, which were further processed and then supplied to Australian customers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

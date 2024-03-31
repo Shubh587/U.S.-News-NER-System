@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123815" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: GM strike idles 7,536 U.S., Mexican workers.</title>
+<headline>GM strike idles 7,536 U.S., Mexican workers.</headline>
+<dateline>WARREN, Mich. 1996-10-17</dateline>
+<text>
+<p>General Motors Corp said Thursday it has laid off 7,536 GM North American employees in the United States and Mexico because of the two-week strike against its Canadian operations.</p>
+<p>GM said 115 employees at its Livonia, Mich., engine plant were added to the list Thursday afternoon.</p>
+<p>The total number reflects layoffs as of 1600 EDT/2000 GMT.  </p>
+<p>The company said 2,450 workers were still idled at its Cadillac assembly plant in Detroit.</p>
+<p>About 1,790 workers remain idled at GM's Ypsilanti, Mich., transmission plant near Detroit, and 1,050 are idled at the North Tonawanda, N.Y., engine plant near Buffalo.</p>
+<p>Several other plants in Michigan, Ohio and Mexico were also affected by the strike by the Canadian Auto Workers union.</p>
+<p>GM said its next update on the impact of the strike in Canada was due on October 18 at 1100 EDT/1500 GMT.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARREN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

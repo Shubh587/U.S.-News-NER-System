@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159307" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: American Airlines Oct load factor rises.</title>
+<headline>American Airlines Oct load factor rises.</headline>
+<dateline>FORT WORTH, Texas 1996-11-01</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Load factor - percent		  69.0		66.1</p>
+<p> Revenue passenger miles	     8,708	     8,797</p>
+<p> Available seat miles		 12,611	    13,307</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  68.7		66.6</p>
+<p> Revenue passenger miles	    87,619	    86,275</p>
+<p> Available seat miles		127,457	   129,593</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+<p>NOTES: American Airlines is a unit of AMR Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

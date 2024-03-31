@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220355" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: RFS Hotel completes mortgage financing.</title>
+<headline>RFS Hotel completes mortgage financing.</headline>
+<dateline>MEMPHIS, Tenn. 1996-11-27</dateline>
+<text>
+<p>RFS Hotel Investors Inc said on Wednesday that it completed a $75 million commercial mortgage bond financing.</p>
+<p>The company will use the proceeds to pay back borrowings under its bank line of credit and to fund previously announced hotel development.</p>
+<p>The bonds are secured by first priority mortgage liens on 15 hotels owned by RFS. The company owns 52 hotels in 23 states.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

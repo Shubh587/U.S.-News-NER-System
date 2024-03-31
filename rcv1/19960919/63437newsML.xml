@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63437" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Apple ships System 7.5.5 Update.</title>
+<headline>Apple ships System 7.5.5 Update.</headline>
+<dateline>CUPERTINO, Calif. 1996-09-19</dateline>
+<text>
+<p>Apple Computer Inc on Thursday released System 7.5.5 Update, a set of system software enhancements for its Apple Macintosh and Mac OS-compatible operating systems.</p>
+<p>Apple said the update is the third in a series of regularly scheduled system software update releases the company has delivered since March 1996. It provides one update for all computer systems currently running System 7.5.3 and integrates all improvements found in the System 7.5.3 Revision 2 Update, released in June 1996.  </p>
+<p>Apple said the update is a regularly-scheduled release that is intended to fix &quot;bugs&quot; in the software that are discovered after the system is distributed.</p>
+<p>In January Apple will begin releasing the first phase of its new operating system called Copland. The second phase is due in mid-1997.</p>
+<p>Apple said System 7.5.5 Update eliminates some causes of system freezes and improves the reliability of sharing a printer over the network.</p>
+<p>System 7.5.5 Update will install only on computers currently running System 7.5.3, including System 7.5.3 Revision 2.</p>
+<p>Apple said a free copy of System 7.5.5 Update can be downloaded from Apple's File Transfer Protocol sites on the Internet at ftp.info.apple.com/ or ftp.support.apple.com/, and Apple's World Wide Web sites at http://www.info.apple.com/ or http://www.support.apple.com/.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

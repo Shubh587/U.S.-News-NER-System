@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341179" id="root" date="1997-01-29" xml:lang="en">
+<title>SWITZERLAND: Switzerland joins trend toward electronic money.</title>
+<headline>Switzerland joins trend toward electronic money.</headline>
+<byline>Peter Nielsen</byline>
+<dateline>ZURICH 1997-01-29</dateline>
+<text>
+<p>Switzerland has joined the growing number of countries experimenting with electronic money (e-money) and on Wednesday Swiss banks launched CASH, a plastic card with a computer chip that stores funds.</p>
+<p>CASH is mainly intended for transactions worth less than 25 Swiss francs, such as taxi rides, parking metres or gas stations, Jacques Bischoff, chief executive of Europay (Switzerland) SA, told a news conference.</p>
+<p>The launch of e-money in Switzerland is another feather in the cap for Banksys, a unit of Belgian banks, which has developed the Proton electronic purse, the technology used in CASH.</p>
+<p>Proton is among several companies and consortia that are pushing to make their standard a global standard for e-money.</p>
+<p>In Europe, Proton is rolling out e-money this year in Belgium, the Netherlands and Switzerland. The technology is used in eight countries worldwide and American Express has also bought a license, Daniel Skala, international sales manager of Banksys told Reuters.</p>
+<p>Swiss banks started evaluating the four main existing e-money systems in mid-1994 and by November they chose Proton ahead of Mondex, Denmark's Danmont and Portugal's Sibs.</p>
+<p>Mondex, a much-publicised system that has yet to take hold commercially, was rejected by the Swiss National Banks's (SNB) payment experts because it is not an audited system and thus was seen as a security risk, Swiss officials said.</p>
+<p>In Switzerland consumers will be able to load up to 300 francs on the card from their bank accounts at some 3,600 automatic teller machines throughout Switzerland by May.</p>
+<p>By October the CASH card can also be loaded at 500 machines at post offices, Bischoff said.</p>
+<p>The chips, or eight-bit microprocessors, are being embedded in 2.6 million Swiss EC-cards and 1.7 million postal cards.</p>
+<p>So far 5,000 merchants will be accepting the CASH card, but Bischoff said he expects more than 15,000 retailers to join the scheme by the end of this year and by 2001 up to 50,000 out of 150,000 outlets throughout the country.</p>
+<p>Europay is in negotiations with the Swiss Federal Railways (SBB) and Swiss Telecom to use the cards in ticket machines and public pay phones, Bischoff added.</p>
+<p>Europay is targeting small retailers that so far have not been willing to spend the 3,000 francs it costs to buy a terminal that can read normal credit cards.</p>
+<p>The small, hand-held terminals that read the CASH card, are being sold to retailers for 100-200 francs.</p>
+<p>The advantage for the retailers is speed of transaction and less handling of notes and coins. There is no pin-number or signature involved in the transaction, which costs 0.7 percent of the amount.</p>
+<p>Banks' motives for supporting the system is that it offers a new service to its customers, but also saves on the cost of handling cash, both in the front and back offices.</p>
+<p>The SNB, which has been closely involved in the project and is confident about the system, will be operating the central pool of money in the CASH system, Bischoff said.</p>
+<p>&quot;The SNB does not view this as a problem for steering money supply,&quot; Bischoff said, noting the total amounts that will flow through the CASH system will be relatively minor as average transactions amounts will be between five and 10 francs.</p>
+<p>But the main reason the SNB took an active role in CASH was its concern over the consequences for retailers with outstanding credit if the organisation holding the pool, or float, were to go bankrupt, officials said.</p>
+<p>The CASH system operates as a closed system where all transactions involve central computers that audit the system.</p>
+<p>A customer transfers money from his own account to either a dedicated, reloadable CASH card with a chip, or to a chip embedded in another credit or debit card.</p>
+<p>But behind this transfer, there are really two transactions.</p>
+<p>&quot;Real&quot; money is actually transferred into a central pool and a similar amount is created as e-money.</p>
+<p>This e-money is then eventually transferred to retailers. When retailers transfer e-money to their own accounts at a bank, the clearing system essentially destroys the e-money and transfers &quot;real&quot; money from the central pool into the retailers account with his bank.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

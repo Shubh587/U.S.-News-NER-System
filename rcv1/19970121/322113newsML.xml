@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322113" id="root" date="1997-01-21" xml:lang="en">
+<title>BANGLADESH: Cold wave kills 33 in Bangladesh.</title>
+<headline>Cold wave kills 33 in Bangladesh.</headline>
+<dateline>DINAJPUR, Bangladesh 1997-01-21</dateline>
+<text>
+<p>A cold wave sweeping northern Bangladesh has killed at least 33 people over the past week, local officials said on Tuesday.</p>
+<p>Fourteen people died of exposure in Dinajpur as the temperature dropped to five degrees Celsius (41 Fahrenheit), the officials said. Other casualties were reported from neighbouring districts also facing a relatively severe winter.</p>
+<p>Meteorology officials said the lowest temperature recorded last winter was 12 degrees Celsius (53 Fahrenheit).</p>
+<p>Dhaka's popular Bangla-language newspaper, Janakantha, put the death toll from the cold wave at 109 in 13 northern districts.</p>
+<p>Prime Minister Sheikh Hasina on Monday ordered immediate distribution of clothes among the poor in the north, government officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DINAJPUR, Bangladesh"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

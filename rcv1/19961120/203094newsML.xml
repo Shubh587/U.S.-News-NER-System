@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203094" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: TRW gets approval for satellite phone system.</title>
+<headline>TRW gets approval for satellite phone system.</headline>
+<dateline>REDONDO BEACH, Calif.</dateline>
+<text>
+<p>The Federal Communications Commission has given TRW Inc. final approval to build and operate the Odyssey satellite-based global cell phone system, the company said Wednesday.</p>
+<p>The company said in a statement that Odyssey is a proposed personal communications satellite services system that will allow subscribers equipped with only a pocket telephone to reach any phone on Earth, from anywhere on the planet.</p>
+<p>The system, which is scheduled to begin in the year 2001, would also provide fax, computer data, and short message services, it said.</p>
+<p>TRW said Odyssey Telecommunications International Inc., which has TRW and Canada's Teleglobe Inc. as founding stockholders, is developing the patented Odyssey system.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDONDO BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

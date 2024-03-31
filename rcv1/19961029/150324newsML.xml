@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150324" id="root" date="1996-10-29" xml:lang="en">
+<title>COLOMBIA: French highway engineeer kidnapped in Colombia.</title>
+<headline>French highway engineeer kidnapped in Colombia.</headline>
+<dateline>BOGOTA 1996-10-28</dateline>
+<text>
+<p>Unidentified kidnappers snatched a French engineer working on a highway project east of Bogota, officials said on Monday.</p>
+<p>Alain Fablet, of the French company Coyne et Bellier, was seized on Saturday near Villavicencio, capital of eastern Meta province, as he worked on the third stretch of the highway to Bogota, the National Highway Institute said.</p>
+<p>Fablet, a tunnel construction specialist, is the third foreign engineer working on the project to be kidnapped in less than three months. In August two Brazilian engineers were snatched. No word of their whereabouts has been received.</p>
+<p>A spokeswoman for the highways institute said no ransom demand had been received for Fablet or the Brazilians.</p>
+<p>On Sunday the country's leading daily El Tiempo reported 45 percent of the world's kidnaps take place in Colombia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

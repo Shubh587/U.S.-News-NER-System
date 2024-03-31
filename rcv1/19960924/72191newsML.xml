@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72191" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Houghton Mifflin begins on-line store.</title>
+<headline>Houghton Mifflin begins on-line store.</headline>
+<dateline>BOSTON, Mass. 1996-09-24</dateline>
+<text>
+<p>Houghton Mifflin Co said Tuesday it is launching an on-line store, Houghton Mifflin School Direct, that will let customers order selected Houghton Mifflin educational materials on-line.</p>
+<p>Customers visiting School Direct can search for products by textbook series or by curriculum, grade, price and product type.</p>
+<p>The store offers reading/language arts materials from past and present textbook series; mathematics, social studies, and technology products will be added later this fall, the company said.</p>
+<p>Houghton Mifflin said the School Direct site was created using technology developed by a unit of the Banta Digital Group in Boston.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

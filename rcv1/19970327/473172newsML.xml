@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473172" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Light earthquakes shake northern California.</title>
+<headline>Light earthquakes shake northern California.</headline>
+<dateline>SAN FRANCISCO 1997-03-27</dateline>
+<text>
+<p>A series of light earthquakes shook northern California early on Thursday, waking up some residents but there were no reports of injuries or damage.</p>
+<p>The largest of the quakes, measuring 3.5 on the Richter scale, struck at 7:39 a.m. PST, and was centred close to Pittsburg, about 35 miles northeast of San Francisco.</p>
+<p>More than a dozen light earthquakes, ranging from 2.1 to 3.5 on the Richter scale, were recorded in the area over 24 hours from Wednesday morning.</p>
+<p>&quot;These are all very minor earthquakes,&quot; said Susan Garcia, a spokeswoman for the U.S. Geological Survey in Menlo Park, California. &quot;The sequence is not unusual.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

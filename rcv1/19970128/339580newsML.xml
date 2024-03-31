@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339580" id="root" date="1997-01-28" xml:lang="en">
+<title>GERMANY: Siemens details Q1 results by division.</title>
+<headline>Siemens details Q1 results by division.</headline>
+<dateline>MUNICH, Germany 1997-01-28</dateline>
+<text>
+<p>First quarter to December 31, 1996. (in millions of marks unless stated)</p>
+<p>				 Orders    Change	 Sales    Change</p>
+<p>					     in pct		    in pct</p>
+<p>Energy</p>
+<p>  Power Gen KWU	     2,400    +129	    1,200    -31</p>
+<p>  Transmission		1,400     +10	    1,200     -3</p>
+<p>Industry</p>
+<p>  Building Systems ANL    2,400	-4	    1,800     +9</p>
+<p>  Drives ASI		  2,000	-6	    1,900	0</p>
+<p>  Automation AUT	    1,600	-5	    1,400     -2</p>
+<p>Communications</p>
+<p>  Public Comms ON	   4,500     +55	    2,800    +38</p>
+<p>  Private Comms PN	  2,300     +19	    2,200    +21</p>
+<p>  Defence Electronics SI    300	-6		300    +20</p>
+<p> Info Systems SNI	   3,600     +17	    3,300    +11</p>
+<p>Transportation</p>
+<p>  Transport Sys VT	  2,100     +88		800    -11</p>
+<p>  Automotive AT	     1,000     +21	    1,000    +21</p>
+<p> Medical Systems MED	1,800	+4	    1,600     +3</p>
+<p>Components</p>
+<p>  Semiconductors HL	 1,200     -24	    1,000    -12</p>
+<p>  Passive Comp PR	     600	-2		500     -1</p>
+<p>  Electromechanical EC	300	-6		300     -1</p>
+<p>  Lighting/Osram	    1,500	+9	    1,500     +9</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

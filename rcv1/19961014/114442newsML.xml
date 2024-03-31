@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114442" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: SoCal Edison nuclear unit 2 at full power.</title>
+<headline>SoCal Edison nuclear unit 2 at full power.</headline>
+<dateline>LOS ANGELES 1996-10-14</dateline>
+<text>
+<p>Edison International's Southern California Edison Co. said Monday the 1,080 megawatt (MW) unit 2 at the San Onofre nuclear plant was back to full power after restarting, as expectd, on Saturday.</p>
+<p>The unit was shut September 24 for unplanned repairs to stop a leak in the reactor's coolant system. It was initially expected to be down for two weeks but repairs were extended.</p>
+<p>The San Onofre plant's other operating unit, the 1,070 MW unit 3, is scheduled to shut for a 70-day refueling on November 30.</p>
+<p>Edison has a 75 percent stake in the nuclear plant, while San Diego Gas and Electric Co owns 20 percent and two municipal utilities own the remaining 5 percent.</p>
+<p>--D. Beasley + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193658" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Pacific Intertie DC line capacity reduced on Fri.</title>
+<headline>Pacific Intertie DC line capacity reduced on Fri.</headline>
+<dateline>LOS ANGELES 1996-11-14</dateline>
+<text>
+<p>Capacity on the DC (direct current) segment of the Pacific Intertie will be cut to around 1,000 megawatts (MW) between 1000 and 1500 PST Friday, the Bonneville Power Administration (BPA) said Thursday.</p>
+<p>BPA, which operates the Northwest portion of the interstate power transmission system, said the line will be curtailed for maintenance work.</p>
+<p>North to south transmissions are limited to 1,086 MW for Friday between 1000 and 1500 PST, then will rise to 2,000 MW for 1600-2200 PST and to 2,200 MW for hours ending 2300-2400.</p>
+<p>South to north transmissions will be curtailed to 1,070 MW for 1000-1500 PST, after which the limit will rise to 2,138 MW.</p>
+<p>Use of the line has been capped at around 2,000 MW, compared with its capacity of 3,200 MW, since a major power outage hit the West August 10.</p>
+<p>The intertie's 4,800 AC (alternating current) line is also running at a reduced rate of 3,200 MW because of voltage support concerns.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

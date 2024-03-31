@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90167" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Edison starts Australia coal-fired plant.</title>
+<headline>Edison starts Australia coal-fired plant.</headline>
+<dateline>LOS ANGELES 1996-10-02</dateline>
+<text>
+<p>Edison Mission Energy, a unit of Edison International, said Wednesday the 500 megawatt (MW) unit 2 at the coal-fired Loy Yang power plant near Melbourne, Australia, began commercial operation Tuesday.</p>
+<p>The plant's 500 MW unit 1 began operation about three years ago.</p>
+<p>Edison, the operator, owns 51 percent of the plant and the State Electricity Commission of Victoria (SECV) owns the rest. Edison's electricity from the plant's production is also sold to SECV.</p>
+<p>Edison Mission Energy's investments include 54 projects totaling approximately 9,300 MW of generation capacity that are in operation or under construction worldwide.</p>
+<p>Parent company Edison International also owns Southern California Edison Co.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

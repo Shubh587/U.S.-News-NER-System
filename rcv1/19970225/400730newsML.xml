@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400730" id="root" date="1997-02-25" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Feb 25.</title>
+<headline>Direct bond trades on the Czech PSE - Feb 25.</headline>
+<dateline>PRAGUE 1997-02-25</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p> BRNO 11,1/03		100.37    100.37	 232   23080.481</p>
+<p> CEZ 11,0625/08	    101.65    101.65	2000   21811.140</p>
+<p> HARV.RUST.II PF	    65.30     65.30	9450     617.085</p>
+<p> HZL2 CMHB 11,00/01	100.00    100.00	 400    4081.888</p>
+<p> KB 11,4/01		   98.32    101.20	 640    6735.219</p>
+<p> KB 2 VAR/99		  99.93    100.05	8000   82826.569</p>
+<p> KB VAR/97		   100.15    100.20	4000   39657.082</p>
+<p> MERO CR 10,3/11	    99.25     99.25	 100   10820.528</p>
+<p> OKD 14,5/99		 104.98    105.30	2500   27600.225</p>
+<p> ST.DLUHOP.10,95/01	102.25    102.25	1000   10809.000</p>
+<p> ST.DLUHOP.11,4/98	 101.74    101.74	  20     210.023</p>
+<p> VITKOVICE 13,50/00	 98.67     98.67	2000   21579.000</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

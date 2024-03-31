@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="808310" id="root" date="1997-08-19" xml:lang="en">
+<title>ARGENTINA: Argentina's Alumbrera starts copper concentrator.</title>
+<headline>Argentina's Alumbrera starts copper concentrator.</headline>
+<dateline>BUENOS AIRES 1997-08-19</dateline>
+<text>
+<p>Argentina's first modern copper mine, the giant Bajo de la Alumbrera, has begun operating its concentrator, industry sources said Tuesday.</p>
+<p>No mine official could immediately be contacted to confirm the report.</p>
+<p>The $1.05-1.1 billion mine in the northwestern desert province of Catamarca is designed to produce an annual average of 180,000 tonnes of copper and 640,000 ounces of gold over 20 years.</p>
+<p>Australia's MIM Holdings has 50 percent of the project. North Ltd, also of Australia, and Canada's Rio Algom Ltd, each have 25 percent.</p>
+<p>((--Jason Webb, Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

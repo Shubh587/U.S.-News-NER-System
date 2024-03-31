@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90290" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Winn-Dixie to cut prices on 3,000 items.</title>
+<headline>Winn-Dixie to cut prices on 3,000 items.</headline>
+<dateline>JACKSONVILLE, Fla. 1996-10-02</dateline>
+<text>
+<p>Winn-Dixie Stores Inc said Wednesday it will be cutting prices on more than 3,000 items in all of its stores beginning Thursday.</p>
+<p>It had reduced prices Sunday in its midwest stores, including parts of Kentucky, Indiana and Ohio, and decided to extend the price cuts to all of the stores in the 14 states where it does business.</p>
+<p>For example, snacks, which the company said it has been selling at 10 percent off the suggested retail price, will now be sold at 15 percent off the suggested retail price.</p>
+<p>Winn-Dixie is the U.S.'s fifth largest supermarket chain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSONVILLE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

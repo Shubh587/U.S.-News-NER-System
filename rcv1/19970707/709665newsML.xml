@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709665" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Dow trims losses, NYSE lifts curbs a second time.</title>
+<headline>Dow trims losses, NYSE lifts curbs a second time.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>U.S. blue chips rebounded in late trading Monday, recovering nearly all the ground lost during choppy afternoon activity.</p>
+<p>With just minutes remaining in the session, the Dow stood at 7887, off about nine points but some 40 points up from a session low of 7828 set less than an hour earlier.  The NYSE said it lifted its index-arbitrage trading curbs at 1543 EDT/1943 GMT, the second time today curbs were lifted.</p>
+<p>Early in the session, the NYSE imposed curbs after the Dow rallied 50 points in the opening hour of trading.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

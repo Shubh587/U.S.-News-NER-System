@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281548" id="root" date="1996-12-31" xml:lang="en">
+<title>CANADA: Canada provincial T-bill auction results - Nfld.</title>
+<headline>Canada provincial T-bill auction results - Nfld.</headline>
+<text>
+<p>DATE  PROV   MAT    C$AMT   AVG   CHG  PRICE    HI    LO</p>
+<p>12/31/96  NFD   3-MO   30 MLN   3.125 +3   99.227  3.12  3.13</p>
+<p>12/30/96  MAN   3-MO   25 MLN   2.87  -7   99.297  2.87  2.87</p>
+<p>12/19/96  ONT   3-MO  100 MLN   3.036 +1   99.248  3.01  3.05</p>
+<p>12/19/96  ONT   6-MO   25 MLN   3.370 +9   98.347  3.370 3.37</p>
+<p>12/18/96  QUE   3-MO  200 MLN   3.143 -10  99.223  3.129 3.148</p>
+<p>12/11/96  QUE   1YR    50 MLN   3.923 +44  96.235  3.900 3.930</p>
+<p>11/27/96  QUE   6-MO   75 MLN   2.993 -42  98.530  2.990 2.994</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

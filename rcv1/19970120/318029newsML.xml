@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="318029" id="root" date="1997-01-20" xml:lang="en">
+<title>NEW ZEALAND: CRICKET-ENGLAND WIN 2ND NZ TOUR MATCH BY 10 WKTS.</title>
+<headline>CRICKET-ENGLAND WIN 2ND NZ TOUR MATCH BY 10 WKTS.</headline>
+<dateline>HAMILTON, New Zealand 1997-01-20</dateline>
+<text>
+<p>England beat Northern Districts by 10 wickets to win their second four-day cricket tour match in New Zealand on Monday.</p>
+<p>Scores:</p>
+<p>Northern Districts first innings 69. Second innings 259 (B. Pocock 69).</p>
+<p>England first innings 294. Second innings 38 (N. Knight 24 not out).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMILTON, New Zealand"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

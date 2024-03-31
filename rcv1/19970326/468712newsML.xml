@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468712" id="root" date="1997-03-26" xml:lang="en">
+<title>UK: Company describes possible new diabetes drug.</title>
+<headline>Company describes possible new diabetes drug.</headline>
+<dateline>LONDON 1997-03-26</dateline>
+<text>
+<p>U.S. researchers said on Wednesday they had identified a possible new route for treating diabetes, using the complex interactions between cells.</p>
+<p>Richard Heyman of Ligand Pharmaceuticals Inc in San Diego and colleagues at the University of Texas homed in on the retinoid X receptor (RXR), a cell receptor that acts as a partner to other cell receptors involved in hormone signalling.</p>
+<p>Drugs that stimulate RXR counteract the effects of non-insulin dependent diabetes mellitus (NIDDM or type II diabetes), including the high blood sugar, insulin and blood fat levels, at least in genetically engineered mice, they wrote in a report in the science journal Nature.</p>
+<p>Hayman's group used &quot;ob&quot; and &quot;db&quot; mice, whose genes have been altered to make them resemble obese and diabetic humans. They dosed them with drugs known as ligands, which bind, or attach, to certain cell receptors.</p>
+<p>The ligands in this case were LG100268 and LGD1069, which bind specifically to RXR. Ligand Pharmaceuticals is developing and testing LGD1069 as Targretin.</p>
+<p>They worked nearly as well as another drug, thiazolidinedione (TZD), recently approved for use in diabetes, and even better when used along with it, they wrote.</p>
+<p>&quot;These studies demonstrate that RXR agonists function as insulin sensitizers, markedly decreasing serum glucose, triglycerides and insulin,&quot; Heyman's group wrote.</p>
+<p>&quot;It is appropriate that RXR activators be considered a distinct class of pharmacological agents and could be referred to as 'rexinoids' to distinguish their activity from retinoids' (used to describe vitamin A derivatives),&quot; they suggested.</p>
+<p>Ligand Pharmaceuticals announced last week it was starting Phase II clinical trials of Targretin in diabetic patients in Belgium and Netherlands.</p>
+<p>It is also testing Targretin against cancer.</p>
+<p>RXRs play an important role in programmed cell death or &quot;apoptosis,&quot; which is when damaged cells destroy themselves. A failure of apoptosis can lead to the uncontrolled cell division that marks cancer. -- Maggie Fox, London Newsroom 44-171-542-8958</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

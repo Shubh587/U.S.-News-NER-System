@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300921" id="root" date="1997-01-11" xml:lang="en">
+<title>SPAIN: SOCCER-SUMMARY OF GAME IN THE SPANISH CHAMPIONSHIP.</title>
+<headline>SOCCER-SUMMARY OF GAME IN THE SPANISH CHAMPIONSHIP.</headline>
+<dateline>TENERIFE, Spain 1997-01-11</dateline>
+<text>
+<p>Summary of a game played</p>
+<p>in the Spanish league championship on Saturday:</p>
+<p> Tenerife	     0</p>
+<p> Real Sociedad	1 - Mutiu Adepojo 59</p>
+<p>    HT: 0-0   Att: 14,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TENERIFE, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

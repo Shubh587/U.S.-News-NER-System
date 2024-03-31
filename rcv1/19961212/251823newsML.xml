@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251823" id="root" date="1996-12-12" xml:lang="en">
+<title>CZECH REPUBLIC: Norway's royal couple to visit Czech Republic.</title>
+<headline>Norway's royal couple to visit Czech Republic.</headline>
+<dateline>PRAGUE 1996-12-12</dateline>
+<text>
+<p>Norway's King Harald and Queen Sonja will make a state visit to the Czech Republic in March, a spokesman for Czech President Vaclav Havel said in a statement.</p>
+<p>Ladislav Spacek said the visit on March 18-20 comes at the invitation of Havel, who is currently in an Prague intensive care unit recuperating from lung surgery performed on December 2.</p>
+<p>Doctors removed a small malignant tumour along with half of his Havel's right lung and he has been in serious condition after complications from the surgery.</p>
+<p>The prognosis for a full recovery, however, is good, doctors said earlier this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218211" id="root" date="1996-11-26" xml:lang="en">
+<title>DUBAI: Saudi Arabia beheads five for drug smuggling.</title>
+<headline>Saudi Arabia beheads five for drug smuggling.</headline>
+<dateline>DUBAI 1996-11-26</dateline>
+<text>
+<p>Saudi Arabia on Tuesday beheaded five foreigners -- two women and three men -- for drug smuggling, Saudi state television reported.</p>
+<p>An Interior Ministry statement carried by the television said four Pakistanis -- two women and two men -- and a Nigerian man were executed.</p>
+<p>The beheadings raised to 58 the number of people executed in the conservative Moslem kingdom so far this year.</p>
+<p>Saudi Arabia strictly enforces Islamic sharia law by publicly beheading by the sword convicted murderers, drug smugglers, rapists and other criminals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653572" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Arris, Abbott in technology pact.</title>
+<headline>Arris, Abbott in technology pact.</headline>
+<dateline>SOUTH SAN FRANCISCO, Calif. 1997-06-11</dateline>
+<text>
+<p>Arris Pharmaceutical Corp on Wednesday said it entered a collaboration with Abbott Laboratories Inc involving the transfer of certain drug discovery technologies to Abbott.</p>
+<p>Arris said Abbott would use the technology in undisclosed proprietary research programs.</p>
+<p>Financial terms of the agreement were not disclosed, but Arris said the pact provided for a license fee and royalties due after the commercialization of products resulting from use of the technology.</p>
+<p>Arris has also retained certain rights to transfer the technologies to other pharmaceutical companies.</p>
+<p>Arris is a drug-development company focusing on discovering the structure of disease-causing enzymes or proteases so it can develop inhibitors that bind to them.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTH SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

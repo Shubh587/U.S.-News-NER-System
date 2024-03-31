@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="434605" id="root" date="1997-03-11" xml:lang="en">
+<title>CANADA: Propane leak as Canadian National derails.</title>
+<headline>Propane leak as Canadian National derails.</headline>
+<dateline>WABOWDEN, Manitoba 1997-03-10</dateline>
+<text>
+<p>A Canadian National Railway Co propane tanker derailed near this northern Manitoba town and forced the temporary closure of a highway, the Royal Canadian Mounted Police said on Monday.</p>
+<p>A propane tanker was leaking gas and forced the closure of Highway 6 which links Thompson to Flin Flon following the 1350 EST derailment, the RCMP said.</p>
+<p>No one was injured and the derailment was still under investigation, the RCMP said.</p>
+<p>Inco Ltd has a mine in Thompson and CN's Bay Line is the only link to Canada's northern grain port of Churchill.</p>
+<p>(Gilbert Le Gras 204 947 3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WABOWDEN, Manitoba"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

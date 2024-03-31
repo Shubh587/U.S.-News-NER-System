@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80491" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: US stocks mixed at opening.</title>
+<headline>US stocks mixed at opening.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>Wall Street stocks opened mixed on Friday, failing to match gains in bonds after second quarter Gross Domestic Product were issued in line with expectations.</p>
+<p>The Dow industrials were off two points to 5866. The NASDAQ Index added half a point to 1228.5.</p>
+<p>The U.S. economy expanded at a slightly less robust rate in the second quarter than previously thought, the Commerce Department said, though it still surged ahead at the fastest rate in two years.</p>
+<p>The country's GDP grew at a 4.7 percent annual rate instead of 4.8 percent in the three months from April through June, the government said in a final revision of second-quarter activity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

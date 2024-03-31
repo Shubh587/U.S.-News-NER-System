@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66707" id="root" date="1996-09-20" xml:lang="en">
+<title>SENEGAL: Derailment shuts Senegal-Mali rail line.</title>
+<headline>Derailment shuts Senegal-Mali rail line.</headline>
+<dateline>DAKAR 1996-09-20</dateline>
+<text>
+<p>The railway line linking Senegal and Mali was closed after a train accident in which 15 people were injured, railway officials said on Friday.</p>
+<p>They said the train travelling from the Malian capital Bamako to Dakar went off the rails on Thursday near the Senegalese village of Dialakoto, 600 km (375 miles) from Dakar.</p>
+<p>&quot;Rail traffic between Bamako and Dakar is currently interrupted and passengers have been transferred to road transport for the journey to Dakar,&quot; an official told Reuters.</p>
+<p>The cause of the accident has not been established.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

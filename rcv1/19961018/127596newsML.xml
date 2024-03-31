@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127596" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. exports of major commodities.</title>
+<headline>U.S. exports of major commodities.</headline>
+<dateline>WASHINGTON 1996-10-18</dateline>
+<text>
+<p>U.S. Commerce Department</p>
+<p>report of exports of major commodities (tonnes):</p>
+<p> -		  August 96     July 96   August 95</p>
+<p> -     Soybean  1,430,584   1,253,259   1,270,472</p>
+<p> -	 Wheat  3,966,547   2,946,845   3,260,080</p>
+<p> - Wheat Flour     33,306	39,804     150,079</p>
+<p> -	  Corn  2,785,032   3,761,856   5,326,663</p>
+<p> -     Sorghum    406,241     396,777     410,179</p>
+<p> -	Barley     42,314	 7,469     149,666</p>
+<p> Other Cereals	  431	   440	   666</p>
+<p>Note-Wheat includes durum/durum seed for sowing, white except seed, and other wheats; excludes cereals. Corn includes yellow dent corn, excludes seed and popcorn. Sorghum excludes seed. Barley includes seed, excludes barley for malting.  </p>
+<p>Cake/Meals and Cottonseed Oil, in tonnes</p>
+<p> Cake/Meals:     Aug 96  July 96   Aug 95</p>
+<p> -  Soybean     412,766  499,221  307,489</p>
+<p> -  Cottonseed    9,336    3,881    1,721</p>
+<p> -  Linseed	 4,479    2,091    7,705</p>
+<p> Cottonseed Oil  11,615    5,550    5,431</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

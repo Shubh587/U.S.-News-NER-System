@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47634" id="root" date="1996-09-11" xml:lang="en">
+<title>FRANCE: French police seize six in swoop on ETA.</title>
+<headline>French police seize six in swoop on ETA.</headline>
+<dateline>PARIS 1996-09-11</dateline>
+<text>
+<p>French police detained six suspected supporters of the Basque separatist guerrilla group ETA on Wednesday in raids in southwest France, the interior ministry said.</p>
+<p>The six unnamed people were suspected of belonging to a logistical support network for the guerrillas, it said. They were rounded up in a series of raids in the French Basque region ordered by a Paris magistrate.</p>
+<p>France has pledged increased cooperation with Spain in cracking down on ETA. In a spectacular swoop in July, French commandos seized Julian Achurra Erugola, a member of the movement's three-man executive in charge of arms and logistics, in Pau in southwest France.</p>
+<p>ETA (Basque Homeland and Freedom) has killed about 800 people in Spain in a 28-year fight for Basque independence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

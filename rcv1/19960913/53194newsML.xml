@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53194" id="root" date="1996-09-13" xml:lang="en">
+<title>MOROCCO: Polling stations open for Moroccan referendum.</title>
+<headline>Polling stations open for Moroccan referendum.</headline>
+<dateline>RABAT 1996-09-13</dateline>
+<text>
+<p>Polling started in Morocco on Friday at 8 a.m. (0800 GMT) in a referendum to change the constitution and set up a second house of parliament.</p>
+<p>White flags bearing the legend &quot;Referendum, 13 September&quot; fluttered in bright sunshine outside booths as they opened in the capital Rabat. There was little sign of early voters in the poll, open to some 12 million Moroccans who have until 6 p.m. (1800 GMT) to cast their votes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

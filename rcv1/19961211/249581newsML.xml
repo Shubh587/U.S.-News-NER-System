@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249581" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: IBM shutting down InfoSage service.</title>
+<headline>IBM shutting down InfoSage service.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>International Business Machines Corp is shutting down its InfoSage Internet news service because it competes with IBM customers, IBM Chairman and Chief Executive Louis Gerstner said Wedneswday.</p>
+<p>&quot;Our customers didn't like the idea that InfoSage pushed their brands into the background,&quot; Gerstner said in the keynote speech at the Internet World trade show here.</p>
+<p>IBM does not wish to compete with its customers, he said.</p>
+<p>InfoSage is an Internet-based service that gathers stories at the request of a subscriber and provides a personalized news service tailored to a customer's request.  </p>
+<p>News is delivered either to a customer's electronic mail address or to a company or individual World Wide Web site. Some stories are snippets and do not always identify the source of the news, so the brand on the news was lost.</p>
+<p>Content providers on the InfoSage service include Reuters Holdings Plc's New Media; IAC (Information Access Co), a Thomson Corp company, and Standard and Poor's Corp.</p>
+<p>As of November 27, InfoSage stopped taking subscriptions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298225" id="root" date="1997-01-09" xml:lang="en">
+<title>DENMARK: Danish premier hospitalised after gym collapse.</title>
+<headline>Danish premier hospitalised after gym collapse.</headline>
+<dateline>COPENHAGEN 1997-01-09</dateline>
+<text>
+<p>Danish Prime Minister Poul Nyrup Rasmussen was admitted to a Copenhagen hospital overnight after collapsing at a city gym, his office said on Thursday.</p>
+<p>An aide said that he apparently became dehydrated after exercising without drinking enough water.</p>
+<p>Nils Bernstein, department head at the Prime Minister's office, said Rasmussen was expected to be discharged from the city's University Hospital on Thursday morning and to return to work later in the day.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

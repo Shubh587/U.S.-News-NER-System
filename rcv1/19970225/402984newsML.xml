@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="402984" id="root" date="1997-02-25" xml:lang="en">
+<title>FRANCE: French consumer prices rose 0.3 pct in January.</title>
+<headline>French consumer prices rose 0.3 pct in January.</headline>
+<dateline>PARIS 1997-02-25</dateline>
+<text>
+<p>National statistics institute INSEE gave the following final data:</p>
+<p>				    Jan	  Dec	 Jan 1996</p>
+<p> Month-on-month inflation   0.3	  0.2	  0.2</p>
+<p> Year-on-year inflation     1.8	  1.7	  2.0</p>
+<p> CPI Index (base 1990)    114.7	114.4	112.7</p>
+<p>INSEE gave the following breakdown of the consumer price index for all households in mainland France, base 1990.</p>
+<p>     Category		  Weight(pct) index  1-mo   3-mo  yr/yr</p>
+<p> Food excluding tobacco	 20.20    109.1   1.6    2.3    2.5</p>
+<p> Private-sector manufactures  32.77    107.4  -1.1   -1.6    0.0</p>
+<p> Private-sector services	19.64    125.7   0.4    0.6    1.8</p>
+<p> Energy				8.66    115.8   0.8    1.5    6.1</p>
+<p> Public services ex energy     6.46    129.5   1.4    2.3    2.9</p>
+<p> Rent, water			 6.68    129.9   0.2    0.4    2.2</p>
+<p> Health spending		   5.59    110.1  -0.1    0.0    0.9</p>
+<p> Total excluding tobacco	98.02    113.6   0.2    0.2    1.6</p>
+<p>NOTE - INSEE said preliminary inflation figures are never given for January. It said the weightings for the different components of the index had changed. Base year (1990) remains unchanged.</p>
+<p>-- Paris Newsroom 331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

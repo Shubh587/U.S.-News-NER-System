@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="301352" id="root" date="1997-01-11" xml:lang="en">
+<title>USA: SEC approves Nasdaq-proposed lower quote size.</title>
+<headline>SEC approves Nasdaq-proposed lower quote size.</headline>
+<byline>Gene Ramos</byline>
+<dateline>WASHINGTON 1997-01-10</dateline>
+<text>
+<p>The Securities and Exchange Commission said Thursday it approved a Nasdaq stock market proposal to reduce the number of shares that can be traded under new order handling rules to go into effect on Jan. 20.</p>
+<p>The minimum order will be cut to 100 shares from 1,000 shares and will be applied on a test basis to the 50 most active stocks traded on the Nasdaq. Other Nasdaq-listed securities will be phased in over the next eight months.</p>
+<p>The aim of the new rules is to give average investors the ability to determine the best prices on a stock and to improve competition among the brokerage firms that trade the stocks.</p>
+<p>The SEC approved the rules in August and they were supposed to take effect in early January but Nasdaq and the SEC agreed to delay implementation to Jan. 20. The Nasdaq proposed the scaled-back limit order size earlier this week.</p>
+<p>The new rules were meant to reform trading on Nasdaq, which has been criticised for displaying prices with larger &quot;spreads&quot; -- the difference between what sellers ask and buyers offer -- than on markets such as the New York Stock Exchange.</p>
+<p>Nasdaq is a screen-based dealer market where brokers risk their own capital to make markets in stocks. The NYSE is an auction market where buyers and sellers bid on a trading floor.</p>
+<p>Nasdaq currently trades more than 5,500 stocks and is home to Microsoft Corp., Intel Corp. and other companies large and small.</p>
+<p>The changes approved by the SEC will include a three-month pilot during which Nasdaq market makers will be able to quote lots of 100 shares when they are not displaying customer limit orders. A limit order is when customers specify the price at which they want to buy or sell.</p>
+<p>Currently, Nasdaq market makers are required to quote minimum sizes ranging from 200 to 1,000 shares, depending on the security.</p>
+<p>The agency said the pilot period will give it a chance to assess the impact of the rule change on the market befoe considering whether to make it permanent.</p>
+<p>Nasdaq applauded the SEC's action, saying the change meant quotes on the Nasdaq screen will now display both the price and size of &quot;true buying and selling interest.&quot;</p>
+<p>But a New York-based law firm criticised the SEC action as &quot;anti-consumer&quot; and said it would go to court to challenge the move. Bill Singer, partner of the law firm Singer Zamansky LLP, said its broker clients wanted the changes blocked.</p>
+<p>The SEC's order handling rules require Nasdaq market makers to display to the entire marketplace a customer's limit order that is priced at or better than current prices. Also, better priced limit orders shown in private electronic trading systems will also be incorporated on Nasdaq screens.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

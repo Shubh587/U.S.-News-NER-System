@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202400" id="root" date="1996-11-20" xml:lang="en">
+<title>BULGARIA: Bulgarian pupils protest over cold classrooms.</title>
+<headline>Bulgarian pupils protest over cold classrooms.</headline>
+<dateline>SOFIA 1996-11-20</dateline>
+<text>
+<p>Pupils from a technical high school blocked a main road out of Sofia on Wednesday to protest at lack of heating, witnesses said.</p>
+<p>Police directed traffic around the protest and the students from the Chemical Industry and Biotechnology High School dispersed after about 1-1/2 hours.</p>
+<p>The protesters distributed copies of a letter from the school's director to Education Minister Ilcho Dimitrov protesting that teachers' wages were paid late and classrooms were too cold.</p>
+<p>Dimitrov said in a recent television interview his ministry was doing its best to resolve severe problems with heating oil supplies to schools.</p>
+<p>High inflation and a fall in the national currency have increased the price of oil imports and the heavily-indebted government lacks funds to pay its bills.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209466" id="root" date="1996-11-22" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.African company results consensus.</title>
+<headline>FORECAST - S.African company results consensus.</headline>
+<dateline>JOHANNESBURG 1996-11-22</dateline>
+<text>
+<p>Analysts estimates of major South African company results expected next week include the following (all figures cents per share):</p>
+<p>DAY--COMPANY--PERIOD--CONSENSUS----RANGE---------PVS--</p>
+<p>MON  Sappi    YR EPS   266.6	200.0-320.0    846.0</p>
+<p>MON  Sappi    YR DIV    90.0	 70.0-120.0    120.0</p>
+<p>MON  Absa     H1 EPS    94.6	 91.4-96.5     73.1</p>
+<p>MON  Absa     H1 DIV    27.0	 25.5-28.2     21.5</p>
+<p>TUE  Anglo    H1 EPS 1,070.0    1,035.0-1,130.0  837.0</p>
+<p>TUE  Anglo    H1 DIV   153.0	150.0-160.0    130.0</p>
+<p>TUE  Foschini H1 EPS    39.4	39.0-39.6	44.0</p>
+<p>WED  Metcash  H1 EPS    38.0	37.0-38.6	31.4</p>
+<p>WED  Metcash  H1 DIV    15.0	14.7-15.4	12.5</p>
+<p>NOTE - Sappi results will be released from Monday. Previous results are proforma due to change in year end.</p>
+<p>Foschini declares a dividend at the end of the financial year only.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271135" id="root" date="1996-12-20" xml:lang="en">
+<title>JAPAN: Melco sets terms of warrant bonds.</title>
+<headline>Melco sets terms of warrant bonds.</headline>
+<dateline>TOKYO 1996-12-20</dateline>
+<text>
+<p>BORROWER - Melco Inc</p>
+<p> LEAD MGR - Nomura Securities Co Ltd</p>
+<p> TYPE     warrant	 ISSUE NO   3	  AMT   225 million yen</p>
+<p> COUPON   1.50 pct	ISS PRICE  100	MATURITY 09.Jan.01</p>
+<p> EXE PRICE  3,798 yen</p>
+<p> EXE FRM  03.March.97   EXE TO 08.Jan.01</p>
+<p> LAST MOODY'S	     PAY DATE 09.Jan.97  INT PAY 09.Jan/Jul</p>
+<p> LAST S&amp;P		   SIGN DATE	     SUB DATE</p>
+<p> LAST JCR		   LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

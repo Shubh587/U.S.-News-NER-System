@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207746" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Nov 21.</title>
+<headline>PRESS DIGEST - New York Times front page - Nov 21.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Thursday:</p>
+<p>- The United States had a trade deficit with China that was larger in September than any held with other countries.</p>
+<p>- Agents of the Federal Bureau of Investigation managed to follow a recently arrested agent of the Central Intelligence Agency as he gave state secrets to Russian diplomats in Singapore.</p>
+<p>- Only 43 percent of the $8.2-billion budget of New York's school system finds its way to the classrooms.</p>
+<p>- The Federal Bureau of Investigation does not think a bomb was the likely cause of the explosion that sent Trans World Airlines Flight 800 crashing into the ocean.</p>
+<p>- International rescue workers have found more than 2,000 lost or abandoned children during the Rwandan refugee exodus.</p>
+<p>-- New York Newsdesk (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

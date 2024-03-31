@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225101" id="root" date="1996-11-29" xml:lang="en">
+<title>HONG KONG: HKFE says HSI gyrations affect settlement price.</title>
+<headline>HKFE says HSI gyrations affect settlement price.</headline>
+<dateline>HONG KONG 1996-11-29</dateline>
+<text>
+<p>The Hong Kong Futures Exchange said on Friday the wide fluctuation in share prices on Thursday triggered the built-in formula which dropped certain prices during the day for calculating the index futures settlement price.</p>
+<p>&quot;We dropped the first two five minutes ticks at the opening in calculating the November settlement price,&quot; a spokesman of the exchange said. The settlement for November was 13,488.</p>
+<p>&quot;They automatically are eliminated with the regular procedure, because some of the stocks within them exceeded three percent,&quot; Ivers Riley, the chief executive officer also said.</p>
+<p>Calculation for settlement price takes the average of five minute ticks of the Hang Seng Index throughout the day on the second last trading day of the month.</p>
+<p>The entire five minutes average number would be eliminated when the movement of some of the stocks within the index exceeded a three percent threshold, Riley said.</p>
+<p>&quot;But it is not of huge significance because remember there is an average that is taken every five minutes during the day, so if you have 39 observations instead of 41, the significance is extremely small,&quot; he said, citing Thursday as an example.</p>
+<p>On Thursday the Hang Seng Index surged 213 points to an all-time high of 13,744.30 in the first 15 minutes and the Stock Exchange of Hong Kong said it was looking into the unusual trading activity at the opening.</p>
+<p>Paul Phenix, executive director of the exchange's compliance division said he would go to the brokers involved in those transactions and demand for a written explanation.</p>
+<p>He declined to identify the brokerages involved. -- Hong Kong Newsroom (852) 2843 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

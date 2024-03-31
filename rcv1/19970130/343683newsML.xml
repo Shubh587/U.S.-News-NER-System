@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343683" id="root" date="1997-01-30" xml:lang="en">
+<title>FRENCH GUIANA: Ariane rocket launches U.S., Argentine satellites.</title>
+<headline>Ariane rocket launches U.S., Argentine satellites.</headline>
+<dateline>KOUROU, French Guiana 1997-01-30</dateline>
+<text>
+<p>Western Europe's 93rd Ariane rocket blasted off from French Guiana on Thursday carrying satellites for the United States and Argentina.</p>
+<p>The Ariane 44L rocket lifted-off at 7.04 p.m (2204 GMT) into a cloudy equatorial night sky with its heaviest payload, weighing over 10,800 pounds (4.9 tonnes).</p>
+<p>Twenty minutes later space officials said the U.S. GE-2 satellite separated from the Ariane rocket. Four minutes later NAHUEL 1A Argentina's first telecommunications satellite was released into space.</p>
+<p>Thursday's launch was the 22nd straight success of the Ariane-4 rocket series launched from the European Space Agency (ESA) launch centre in Kourou on the northeast coast of South America.</p>
+<p>It was the sixth Ariane mission since the failure of the first experimental Ariane-5 rocket, 37 seconds after its maiden flight on June 4.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="FGNA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KOUROU, French Guiana"/>
+<dc element="dc.creator.location.country.name" value="FRENCH GUIANA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

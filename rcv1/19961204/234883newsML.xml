@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234883" id="root" date="1996-12-04" xml:lang="en">
+<title>UK: Passenger rail service resumes under channel.</title>
+<headline>Passenger rail service resumes under channel.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Passenger rail service resumed in the tunnel under the English Channel Wednesday, although riders were scarce due to lingering safety concerns after the fire last month that injured 34 people and forced the tunnel to halt operations temporarily.</p>
+<p>Train operator Eurostar resumed passenger service between London and Paris and Brussels a few hours after safety officials said they were satisfied with evacuation procedures and safety equipment in the 32-mile tunnel.</p>
+<p>The tunnel had been closed to passenger traffic since Nov. 18, when a fire on a truck destroyed a freight train, injuring 34 people and severely damaging a section of tunnel.</p>
+<p>Only one of the two tunnels under the sea is being used.</p>
+<p>The damaged tunnel remains closed while it undergoes extensive repairs from the fire, which burned cables and buckled track.</p>
+<p>Trains will alternate through the remaining tunnel.</p>
+<p>Freight traffic resumed a few days after the fire and passenger vehicle shuttles are due to resume Dec. 10.</p>
+<p>Freight vehicle shuttles of the type on which the fire occurred will resume only after a French investigation of the accident is completed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

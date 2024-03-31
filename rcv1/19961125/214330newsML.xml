@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214330" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Merck parasite drug approved by FDA.</title>
+<headline>Merck parasite drug approved by FDA.</headline>
+<dateline>WASHINGTON 1996-11-25</dateline>
+<text>
+<p>An anti-parasite drug that is widely used in developing countries received U.S. Food and Drug Administration approval in the United States on Monday.</p>
+<p>The drug, ivermectin, was previously approved only for veterinary use in the United States. Merck and Co Inc markets it under the brand name Stromectol.</p>
+<p>It is useful against two parasites. One, strongyloidiasis, is rare in the United States, usually affecting only people who have become infected overseas. The other, onchocerciasis, causes the disease known as river blindness in Africa and Latin America.</p>
+<p>More than 5.2 million people have received ivermectin worldwide in a campaign to wipe out river blindness.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

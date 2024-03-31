@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18878" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Chemical may stimulate AIDS virus, researchers say.</title>
+<headline>Chemical may stimulate AIDS virus, researchers say.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>A special immune system protein that scientists thought offered hope for treating the HIV virus that causes AIDS may in fact make the infection worse, researchers said on Wednesday.</p>
+<p>Beta-chemokines, proteins secreted by immune system cells to communicate with other cells, actually seem to help the HIV virus infect one type of immune system cell, Michael Bukrinsky and colleagues at the Picower Institute for Medical Research in Manhasset, New York, said.</p>
+<p>Reporting in the science journal Nature, they said other researchers should think twice before developing chemokines as a therapy against AIDS.</p>
+<p>Scientists became excited about chemokines when they found some of the small percentage of people naturally resistant to HIV infection produced a lot of them in their blood.</p>
+<p>Further research showed that when the HIV virus infects immune system cells, it uses some of the same cell receptors -- which resemble cellular doorways -- as beta-chemokines.</p>
+<p>Therefore, they thought, chemokines might be able to &quot;block the door&quot; against the virus.</p>
+<p>Other tests showed that the presence of chemokines seemed to block infection of T-cells, one of the class of immune system cells that HIV attacks. And last month scientists found about one percent of people of European origin had a genetic mutation affecting one of these cell receptors.</p>
+<p>But Bukrinsky said he had found that beta-chemokines helped the virus infect macrophages -- the cells that engulf and destroy invaders such as bacteria.</p>
+<p>&quot;In sharp contrast to their observed antiviral effects in T-cells, beta-chemokines actually stimulate the replication of primary HIV strains in macrophages, another target of this virus,&quot; Bukrinsky's group wrote.</p>
+<p>They said they thought the beta-chemokines might be secreted by immune system cells as a &quot;defensive manoeuvre&quot;.</p>
+<p>&quot;We want to warn against using chemokines as a therapeutic agent. That could be very dangerous,&quot; Bukrinsky said in a telephone interview.</p>
+<p>He said scientists still did not know how many cell receptors were involved in HIV infection. The virus, he said, could use many different doors to break into a cell -- and could use different doors for different types of cells.</p>
+<p>This could mean a different cell receptor was involved when HIV infects macrophages.</p>
+<p>He also said the study that showed people resistant to HIV had higher levels of chemokines involved experiments in test-tubes -- not on a living person.</p>
+<p>&quot;I don't buy that even if they have high levels of chemokines that has anything to do with control of HIV infection,&quot; he said in a telephone interview.</p>
+<p>He said a better route to controlling HIV would be to manipulate the receptors known to be used by the virus in some other way.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

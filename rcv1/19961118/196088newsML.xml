@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196088" id="root" date="1996-11-18" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslav copper ore output rises in August. [CORRECTED 23:50 GMT]</title>
+<headline>Yugoslav copper ore output rises in August. [CORRECTED 23:50 GMT]</headline>
+<dateline>BELGRADE 1996-11-18</dateline>
+<text>
+<p>The Federal Statistical Office</p>
+<p>reported the following economic indicator details.</p>
+<p> YUGOSLAV NON-FERROUS ORES	Aug 96    July 96     Aug 95</p>
+<p>(Corrects final column date from June 96 to Aug 95)</p>
+<p> copper (thousand tonnes)	1,807	1,619	 1,737</p>
+<p> lead-zinc				81	   77	    58</p>
+<p> bauxite				  60	   15	    --</p>
+<p>NON-FERROUS METAL PRODUCTION</p>
+<p> electrolytic copper (tonnes) 11,368     11,927	 7,459</p>
+<p> refined lead			3,440	3,140	 3,527</p>
+<p> zinc				  3,205	2,660	 1,287</p>
+<p> aluminium ingots		  3,769	4,122	 1,853</p>
+<p> refined silver (kg)	     7,083	5,292	 4,112</p>
+<p>-- Gordana Filipovic, Belgrade newsroom, +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263345" id="root" date="1996-12-18" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE RESULTS.</headline>
+<dateline>LONDON 1996-12-18</dateline>
+<text>
+<p>Results of English league soccer</p>
+<p>matches on Wednesday:</p>
+<p>Premier league</p>
+<p> Sheffield Wednesday 1  Manchester United   1</p>
+<p>League Cup fourth round replays</p>
+<p> Southampton	   3  Oxford		  2</p>
+<p> Stockport	     2  West Ham		1</p>
+<p>Revised quarter-final draw - Ipswich v Leicester,</p>
+<p>Middlesbrough v Liverpool, Bolton v Wimbledon, Stockport v</p>
+<p>Southampton</p>
+<p>Division one</p>
+<p> West Bromwich	 5  Norwich		 1</p>
+<p>Division two</p>
+<p>Millwall		 0  Luton		   1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

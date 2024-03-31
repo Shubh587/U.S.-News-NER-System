@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506304" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: SkyWest March load factor 51.5 percent.</title>
+<headline>SkyWest March load factor 51.5 percent.</headline>
+<dateline>ST. GEORGE, Utah 1997-04-14</dateline>
+<text>
+<p>1997		  1996	% Change</p>
+<p>   Passengers	    244,028	     224,211	     8.8</p>
+<p>Revenue Passenger Miles</p>
+<p>			  65,209,365	  60,419,015	     7.9</p>
+<p>Available Seat Miles</p>
+<p>			 126,592,450	 108,523,936	    16.6</p>
+<p>   Load Factor	     51.5%		 55.7%	(4.2)pts</p>
+<p>   Calendar Year-To-Date  1997		  1996	% Change</p>
+<p>   Passengers	    670,231	     618,662	     8.3</p>
+<p>Revenue Passenger Miles</p>
+<p>			 177,279,611	 163,235,957	     8.6</p>
+<p>Available Seat Miles</p>
+<p>			 359,234,460	 316,158,803	    13.6</p>
+<p>   Load Factor	     49.3%		 51.6%	(2.3)pts</p>
+<p>Full company name is SkyWest Airlines Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. GEORGE, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

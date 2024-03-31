@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123744" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: U.S. Fed sets up payment services review committee.</title>
+<headline>U.S. Fed sets up payment services review committee.</headline>
+<dateline>WASHINGTON 1996-10-17</dateline>
+<text>
+<p>Federal Reserve Chairman Alan Greenspan appointed a committee of senior Fed officials to conduct a &quot;fundamental&quot; review of the central bank's payment services to banks, the Fed said Thursday.</p>
+<p>Fed Vice Chair Alice Rivlin will head the committee, which will include Fed Governor Edward Kelley, New York Federal Reserve Bank President William McDonough, and St. Louis Federal Reserve Bank President Thomas Melzer, the Fed said.</p>
+<p>The Fed provides payment services such as check clearing and electronic funds transfer to financial institutions for a charge. The private sector also offers such services.  </p>
+<p>&quot;Given the significant changes occurring in payment processing, this is an opportune time to assess the Fed's role in the payments systems of the 21st century,&quot; Greenspan said in a statement.</p>
+<p>The committee will begin work immediately, but no time frame was set for completion of the task, the Fed said.</p>
+<p>In a speech in July, Greenspan noted that the General Accounting Office had recommended the Fed review its future role in providing payment services.</p>
+<p>At that time, Greenspan said: &quot;In general, we view our role as a payments service provider as crucial in carrying out our overall central bank mission.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

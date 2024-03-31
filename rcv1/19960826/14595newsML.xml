@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14595" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Democrats open convention to re-nominate Clinton.</title>
+<headline>Democrats open convention to re-nominate Clinton.</headline>
+<dateline>CHICAGO 1996-08-26</dateline>
+<text>
+<p>The U.S. Democratic Party on Monday opened a four-day convention that will formally nominate President Bill Clinton for a second term.</p>
+<p>The convention was called to order shortly after 5 p.m. EDT (2100 GMT). It will culminate on Thursday when Clinton delivers a speech accepting re-nomination to face Republican nominee Bob Dole in the November 5 election.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

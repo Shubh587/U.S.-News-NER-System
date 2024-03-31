@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80731" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: API shows lackluster propane and ethane builds.</title>
+<headline>API shows lackluster propane and ethane builds.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>U.S. propane stocks rose a scant 2.5 million barrels last month to a current total of 49.46 million as of August 31, traders said Friday.</p>
+<p>In the American Petroleum Institute report late Friday, the 49.46 million barrels is 6.98 million barrels below levels last year.</p>
+<p>Among the biggest hubs hit, was the U.S. Gulf Coast, which showed an unexpected 137,000 barrel draw to 12.18 million barrels, traders said.</p>
+<p>The Midwest registered a 1.4 million barrel build to a current total of 15.61 million barrels.</p>
+<p>Drawing much concern were ethane inventories, which showed a 483,000 barrel draw from July 31 to Aug 31 to a current total of 16.89 million barrels, traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

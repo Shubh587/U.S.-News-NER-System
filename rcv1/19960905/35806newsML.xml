@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35806" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Mellon Bank issues $100 million bank notes.</title>
+<headline>Mellon Bank issues $100 million bank notes.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>The following debt issue was priced on Thursday via sole lead manager Chase Securities Inc. The notes are all sold on Thursday morning, according to the Chase syndicate desk.</p>
+<p>BORROWER MELLON BANK CORP</p>
+<p>AMT $100 MLN	    COUPON  6.44 PCT  MATURITY 03/06/98</p>
+<p>TYPE BANK NOTES	 ISS PRICE 100.00  PAY DATE 09/06/96</p>
+<p>LAST MOODY A1	   REOFFER N.A.	PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P A-PLUS	 YIELD  6.44 PCT   CALLABLE NO</p>
+<p>INDUSTRY BANKING</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

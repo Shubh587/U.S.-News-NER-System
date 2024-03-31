@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255172" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: World total grain production -- USDA.</title>
+<headline>World total grain production -- USDA.</headline>
+<dateline>WASHINGTON 1996-12-13</dateline>
+<text>
+<p>USDA total world grain crop data, including rice, by countries and regions (million tonnes).</p>
+<p> -	96/97:  Dec96    Nov96   95/96:  Dec96    Nov96</p>
+<p> World Total  1,841.8  1,841.3	   1,703.3  1,701.8</p>
+<p>	  U.S.    335.1    335.1	     274.5    274.5</p>
+<p>	Canada     58.9     58.2		49.2     49.2</p>
+<p>	Mexico     26.4     26.4		24.6     24.6</p>
+<p>	    EU    204.1    203.6	     177.0    177.0</p>
+<p>   Oth.W.Eur	5.9	5.9		 4.2	4.2</p>
+<p>    East Eur     75.1     74.8		87.1     87.1</p>
+<p>    Fmr USSR    118.4    119.7	     117.4    117.4</p>
+<p>	 China    372.1    372.1	     356.3    356.3</p>
+<p>	 India    177.2    178.2	     174.6    174.6</p>
+<p>   Indonesia     39.5     39.5		38.9     38.9</p>
+<p>    Pakistan     22.6     22.7		22.6     22.6</p>
+<p>    Thailand     18.4     18.6		18.3     18.3</p>
+<p>   Argentina     32.5     31.5		23.5     23.5</p>
+<p>	Brazil     24.2     27.0		41.6     40.5</p>
+<p>   Australia     31.4     30.8		27.0     26.9</p>
+<p>    S.Africa     12.6     12.6		12.9     12.9</p>
+<p>	Turkey     27.2     27.2		26.7     26.7</p>
+<p>	Others    260.2    257.3	     226.8    226.6</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

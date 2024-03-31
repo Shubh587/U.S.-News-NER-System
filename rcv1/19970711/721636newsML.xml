@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="721636" id="root" date="1997-07-11" xml:lang="en">
+<title>SWEDEN: TENNIS-SWEDISH OPEN SECOND ROUND RESULTS.</title>
+<headline>TENNIS-SWEDISH OPEN SECOND ROUND RESULTS.</headline>
+<dateline>BASTAD, Sweden 1997-07-11</dateline>
+<text>
+<p>Results from the second</p>
+<p>round Swedish Open tennis tournament on Thursday:</p>
+<p>Patrik Fredriksson (Sweden) beat Marcus Sarstrand (Sweden)</p>
+<p>6-4 6-3</p>
+<p>Carlos Costa (Spain) beat Marcelo Craca (Germany) 6-3 6-4</p>
+<p>Magnus Norman (Sweden) beat Adrian Voinea (Romania) 6-3</p>
+<p>3-6 7-6 (7-3)</p>
+<p>Jeff Tarango (U.S.) beat Marcelo Filippini (Uruguay) 6-3 6-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASTAD, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

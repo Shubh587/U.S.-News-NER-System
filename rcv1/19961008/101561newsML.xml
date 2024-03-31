@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101561" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: IPO FILING -- Four Media Co.</title>
+<headline>IPO FILING -- Four Media Co.</headline>
+<dateline>WASHINGTON 1996-10-08</dateline>
+<text>
+<p>Company Name		 Four Media Co</p>
+<p>Stock symbol			FOUR.O</p>
+<p>Estimated price range	   N/A</p>
+<p>Total shares to be offered    N/A</p>
+<p>Shrs outstanding after ipo    N/A</p>
+<p>Lead Underwriter		  Furman Selz</p>
+<p>Underwriters over-allotment  N/A</p>
+<p>Business: Provider of technical, creative and broadcast services to owners, producers and distributors of television programming.</p>
+<p>Use of Proceeds: Repay certain debt, capital expenditures, working capital and other corporate purposes.</p>
+<p>Financial Data in 000s:  1996 (Aug 4)   1995 (July 30)</p>
+<p>   - Revenue		  $70,028	    $61,004</p>
+<p>   - Net Income		$2,424	     $3,220</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

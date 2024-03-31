@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45795" id="root" date="1996-09-11" xml:lang="en">
+<title>CANADA: Weekly Canada spot natgas export prices - Sept 11.</title>
+<headline>Weekly Canada spot natgas export prices - Sept 11.</headline>
+<text>
+<p>EXPORT (SEPTEMBER SALES)    $CDN/GJ	  $US/MMBTU</p>
+<p> HUNTINGDON B.C.		1.21/1.27	 0.95/1.00</p>
+<p> KINGSGATE B.C. (TO PNW)    1.12/1.19	 0.88/0.93</p>
+<p> MONCHY SASK		    1.63/1.70 N     1.28/1.33 N</p>
+<p> EMERSON MAN		    2.04/2.10 N     1.60/1.65 N</p>
+<p> NIAGARA ONT		    2.55/2.61	 2.00/2.05</p>
+<p>N=Notional. Canada/U.S. dollar conversion based on Bank of Canada noon rate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

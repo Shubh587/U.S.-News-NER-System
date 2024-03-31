@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404149" id="root" date="1997-02-26" xml:lang="en">
+<title>HONDURAS: Honduras sends more troops to El Salvador border.</title>
+<headline>Honduras sends more troops to El Salvador border.</headline>
+<dateline>TEGUCIGALPA, Honduras 1997-02-26</dateline>
+<text>
+<p>Honduras has sent more troops to its border with El Salvador after the seizure in Honduras of trucks carrying wood to El Salvador, military sources said on Wednesday.</p>
+<p>&quot;On Tuesday various reinforcement personnel were sent to Pasamonos (a Honduras border city) because of the increasing problems with the Salvadoreans,&quot; a Honduran police spokesman told Reuters.</p>
+<p>Tension has deepened since last Friday between Honduran soldiers and police and Salvadoran civilians along the border, where Honduran officials detained 16 trucks carrying wood for allegedly trying to enter El Salvador illegally, officials said.</p>
+<p>The lumber dispute has raged since the military began cracking down on Salvadorans living in Honduras who trade contraband wood to their homeland.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEGUCIGALPA, Honduras"/>
+<dc element="dc.creator.location.country.name" value="HONDURAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

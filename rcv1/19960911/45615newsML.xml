@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45615" id="root" date="1996-09-11" xml:lang="en">
+<title>ROMANIA: TENNIS-ROMANIAN OPEN RESULTS.</title>
+<headline>TENNIS-ROMANIAN OPEN RESULTS.</headline>
+<dateline>BUCHAREST 1996-09-11</dateline>
+<text>
+<p>Results in the Romanian Open men's tennis tournament on Wednesday (prefix number denotes seeding):</p>
+<p>First round</p>
+<p>Andrei Pavel (Romania) beat David Adams (South Africa) 6-2 6-0</p>
+<p>Second round</p>
+<p>5-Francisco Clavet (Spain) beat Galo Blanco (Spain) 6-3 6-2</p>
+<p>4-Alberto Berasategui (Spain) beat Richard Fromberg (Australia) 6-4 6-4</p>
+<p>3-Carlos Moya (Spain) beat Andres Zingman (Argentina) 6-2 6-3</p>
+<p>Ion Moldovan (Romania) beat Sebastian Prieto (Argentina) 4-6 6-3 6-2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104285" id="root" date="1996-10-09" xml:lang="en">
+<title>BELARUS: SOCCER-BELARUS AND LATVIA DRAW 1-1 IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-BELARUS AND LATVIA DRAW 1-1 IN WORLD CUP QUALIFIER.</headline>
+<dateline>MINSK 1996-10-09</dateline>
+<text>
+<p>Belarus and Latvia drew 1-1 (halftime 0-1) in a World Cup European group four qualifier on Wednesday.</p>
+<p>Scorers:</p>
+<p>Latvia - Mikhail Zemlitsky (16th)</p>
+<p>Belarus - Vladimir Makovsky (78th)</p>
+<p>Attendance: 5,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

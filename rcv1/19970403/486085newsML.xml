@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="486085" id="root" date="1997-04-03" xml:lang="en">
+<title>UK: FEATURE - Millennium bug makes nonsense of sell-by dates.</title>
+<headline>FEATURE - Millennium bug makes nonsense of sell-by dates.</headline>
+<byline>Jane Merriman</byline>
+<dateline>LONDON 1997-04-03</dateline>
+<text>
+<p>Ninety-year-old baked beans could become a headache for British food retailers if they fail to tackle the millennium computer bug that could foul up their vital electronic stock control and point of sale systems.</p>
+<p>Most, however, are well prepared to deal with the problem, which arises because computers in the 1970s and 1980s were programmed to read only the last two digits of a year.</p>
+<p>This simple programming short-cut has threatened to bring the world's computer systems crashing and sent users scrambling to find ways to modify them.</p>
+<p>The problem means that a can of baked beans with a sell-by date of say 2002, would be read by a stock control computer as 1902 unless the software is adjusted.</p>
+<p>Entire warehouses of stock could be written off as past their sell-by date unless retailers modify their information technology systems.</p>
+<p>Retail industry experts estimate that correcting systems to eliminate the bug would cost food retailers alone hundreds of millions of pounds (dollars).</p>
+<p>&quot;The cost is huge, that's quite obvious,&quot; said Richard Perks at retail analyst Verdict. Even if retail firms were on top of the problem, there were still worries that their suppliers might not be as efficient, he added.</p>
+<p>Smaller firms might find it more difficult to find qualified people to adjust computers and if they are not prepared it could be disruptive, said an industry expert.</p>
+<p>WHAT LARGER FIRMS ARE DOING</p>
+<p>Food retailer ASDA Group Plc has set up a millennium awareness programme to educate its key suppliers, while Marks and Spencer Plc has been working with suppliers to make sure new systems are running smoothly.</p>
+<p>J. Sainsbury Plc estimated adapting its systems would cost some 30 million pounds ($48.5 million), the cost of building a new superstore.</p>
+<p>&quot;We identified the problem early on,&quot; said a spokeswoman, &quot;we've gone through all the programmes and assessed what needs to be done.&quot;</p>
+<p>She said the company hoped all its systems -- controlling everything from electronic points of sale to bacon slicers -- would be ready by the end of 1998. The firm has almost a dozen staff working on the project.</p>
+<p>Safeway Plc is confident all its systems will be ready to deal with the new century. &quot;We do not anticipate any processing failures for ourselves or our customers as a consequence of the century date change,&quot; a spokeswoman said.</p>
+<p>Fashion retailer Next Plc started working on the problem two years ago. Chief executive David Jones said the cost was difficult to estimate because retail firms routinely upgraded computer software every few years anyway.</p>
+<p>&quot;My view is the millennium is an excuse to rewrite a lot of your programmes which you would probably do at some point in time anyway.&quot;</p>
+<p>Marks and Spencer, Britain's biggest clothing retailer, started a millennium project in 1995. &quot;Most of our systems have dealt with it,&quot; said a spokeswoman, who said it would mean some additional cost to the company, but could not be more specific.</p>
+<p>Storehouse Plc, whose outlets are Mothercare and Bhs, managed to incorporate adjustments to cope with the millennium bug into a switch from a mainframe computer system to more tailored software packages. The company estimated the cost in the tens of millions of pounds.</p>
+<p>On top of the millennium bug, retailers are also having to start making plans for the possible introduction of a single currency in Britain after 1998.</p>
+<p>The British Retail Consortium, which represents the majority of the country's retailers, has estimated this could cost the industry as much as three billion pounds. But it says the cost could be reduced dramatically if the new currency were introduced in a &quot;big bang&quot; rather than phased in over time. ($ = 0.618 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

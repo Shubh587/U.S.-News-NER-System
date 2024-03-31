@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16503" id="root" date="1996-08-27" xml:lang="en">
+<title>JAMAICA: Jamaica may cultivate hemp for industry.</title>
+<headline>Jamaica may cultivate hemp for industry.</headline>
+<dateline>KINGSTON, Jamaica 1996-08-27</dateline>
+<text>
+<p>Jamaica, the biggest producer of marijuana in the Caribbean, is preparing to cultivate industrial hemp on an experimental basis, the ministry of agriculture announced on Tuesday.</p>
+<p>It said the hemp would not contain the psychoactive chemical found in marijuana and measures would be put in place to ensure the experimental hemp farm is not &quot;tampered with.&quot;</p>
+<p>The hemp would be used to produce soaps, textiles, animal feed, cosmetics and paper products. Ministry agronomist Renford Baker said hemp could be grown on all soil types, required little tending and would be suitable for Jamaica's steep hillsides, where it could lessen soil erosion.</p>
+<p>The project needs the approval of the cabinet and national security ministry to proceed, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, Jamaica"/>
+<dc element="dc.creator.location.country.name" value="JAMAICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

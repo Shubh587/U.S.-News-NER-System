@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213268" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Norwest Corp to buy Farmers National. [CORRECTED]</title>
+<headline>Norwest Corp to buy Farmers National. [CORRECTED]</headline>
+<dateline>MINNEAPOLIS 1996-11-25</dateline>
+<text>
+<p>Norwest Corp said Monday it signed a definitive agreement to acquire Farmers National Bancorp Inc of Geneseo, Ill. Terms were not disclosed.</p>
+<p>Farmers National owns The Farmers National Bank with $181 million in assets and one locations each in Geneseo, Atkinson, Woodhull and Silvis, all in northwestern Illinois. (Corrects spelling of Silvis.) </p>
+<p>The transaction, subject to approval by Farmers National shareholders and regulatory authorities, is expected to be completed in 1997.</p>
+<p>Norwest is a $77.8 billion (corrects from million) banking and finance  company.</p>
+<p>Reuters Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

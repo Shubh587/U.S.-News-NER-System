@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195107" id="root" date="1996-11-17" xml:lang="en">
+<title>USA: Rockwell demonstrates new high speed modems.</title>
+<headline>Rockwell demonstrates new high speed modems.</headline>
+<byline>Mark Egan</byline>
+<dateline>LOS ANGELES 1996-11-17</dateline>
+<text>
+<p>Like a butterfly coming out of its cocoon, Rockwell International Corp. will parade its new wings this week at a computer show displaying modems and chips in favor of its aerospace ancestory.</p>
+<p>Just a year ago Seal Beach, Calif.-based Rockwell was dubbed an aerospace giant but with the pending sale of its aerospace and defense businesses to Boeing Co. on the horizon, coupled with the recent acquisition of Brooktree Corp., the company is now more modems than munitions.</p>
+<p>While the modem business is just a small part of the new Rockwell it is the fastest growth segment the company has. Earnings for Rockwell's Semiconductor Systems business, which makes modems and personal computers, grew by 55 percent in the fourth quarter compared to the year-ago period.</p>
+<p>This week Rockwell will demonstrate its latest high speed K56Plus modem chips at COMDEX in Las Vegas, the computer industry's biggest trade fair. The modems will allow Internet connections at 56 kilobits per second, about twice the speed of the fastest existing  modems which use conventional phone lines. The faster speed means users can receive or send about three pages of typed text per second.</p>
+<p>The products, which Rockwell plans to roll out in the first quarter of 1997, will be targeted primarily at Internet users and those who work at home.</p>
+<p>Internet users have become increasingly frustrated by long waiting periods which have come close to crippling local telephone networks as users download ever more complex graphic images from pages on the World Wide Web.</p>
+<p>&quot;They have long wait times to get a page loaded on their computers. This will allow pages to load in about half that time,&quot; said Michael Henderson, Rockwell's director of network access products.</p>
+<p>&quot;The Internet surfer clearly craves the speed and ... (existing) analog modem speeds are woefully inadequate,&quot; said Eric Blanchno, networking analyst at Bear Stearns Cos Inc. &quot;Any boost in speed would be welcomed by the consumer.&quot;</p>
+<p>Rockwell is not alone in spotting the need for the faster modems. Spokie, Ill.-based U.S. Robotics Corp. is also rolling out 56 kilobit technology and will showcase its technology at COMDEX. Called &quot;x2&quot; it also allows users to download software from the Internet at 56 kilobits per second.</p>
+<p>U.S. Robotics' products are expected to be widely available a couple of months ahead of Rockwell's.</p>
+<p>Both companies will be targeting home users as well as online services and Internet service providers such as Compuserve Corp. and America Online Inc. who will also need to upgrade their hubs to be compatible with the new modems installed in computers at home. And that's where the problems begin.</p>
+<p>Modems using Rockwell technology, accounting for about two-thirds of the modem market, and U.S. Robotics modems, with over 30 percent of the market, are both based on proprietary technology meaning their respective modems are not compatable.</p>
+<p>Alternatively service providers could operate separate hubs and require users to use different dial-up phone numbers depending on which modems they have, something almost guaranteed to cause problems.</p>
+<p>&quot;The dual technologies will absolutely cause confusion in the marketplace,&quot; Henerson said.</p>
+<p>Blanchno agrees there could be problems.</p>
+<p>&quot;There could be growing pains, what we're facing here is a race to the market and whoever gets there first and develops a critical mass is more likely to establish a de facto industry standard,&quot; Blanchno said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

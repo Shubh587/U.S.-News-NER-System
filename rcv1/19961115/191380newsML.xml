@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191380" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Meteor Q3 net profit vs loss.</title>
+<headline>Meteor Q3 net profit vs loss.</headline>
+<dateline>DENVER 1996-11-15</dateline>
+<text>
+<p>1996			  1995</p>
+<p> Shr profit		 $0.04     loss	 $0.01</p>
+<p> Net profit		   142     loss	    83</p>
+<p> Revs			16,152			291</p>
+<p> Avg shrs		   3,295		    1,745</p>
+<p>					 9  MONTHS</p>
+<p> Shr profit		 $0.11     loss	 $0.05</p>
+<p> Net profit		   350     loss	    83</p>
+<p> Revs			45,530			724</p>
+<p> Avg shrs		   3,115		    1,745</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

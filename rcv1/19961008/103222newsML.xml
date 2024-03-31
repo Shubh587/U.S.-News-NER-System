@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103222" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Detroit Purchasing Mgrs September index falls. [CORRECTED 15:40 GMT]</title>
+<headline>Detroit Purchasing Mgrs September index falls. [CORRECTED 15:40 GMT]</headline>
+<dateline>DETROIT 1996-10-08</dateline>
+<text>
+<p>The Detroit Purchasing Managers' Index fell to 59.9 in September from 61.0 in August, according to a survey by Comerica Bank, a unit of Comerica Inc, announced Tuesday.</p>
+<p>An index below 50 percent signals a slowing manufacturing economy, while a reading above 50 percent suggests expansion.</p>
+<p>The prices paid index was 50.0 in September versus 52.7 in August.</p>
+<p>The employment component of the barometer was 58.5 in September versus 54.1 (corrects number from 52.7) in August.  </p>
+<p>The survey of business conditions in southeastern Michigan's industrial economy showed the automotive sector, with the exception of pricing, grew sharply in September, said said David Littmann, senior economist at Comerica.</p>
+<p>&quot;The upshot for the third quarter of 1996 is a continuation of a well-balanced expansion with price stability and employment growth,&quot; Littmann said. &quot;Furthermore, the latest readings on new order and production activity strongly suggests additional expansion in the months to come.&quot;  </p>
+<p>			 September   August</p>
+<p>Composite	    59.9     61.0</p>
+<p>Production	   68.8     67.6</p>
+<p>New Orders	   60.7     63.5</p>
+<p>Inventories	  47.6     51.4</p>
+<p>Employment	   58.5     54.1</p>
+<p>Prices		 50.0     52.7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

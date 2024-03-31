@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123785" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Pacific Intertie back to post-outage levels Sun.</title>
+<headline>Pacific Intertie back to post-outage levels Sun.</headline>
+<dateline>LOS ANGELES 1996-10-17</dateline>
+<text>
+<p>Capacity on power transmission lines linking the Northwest to California will return late Sunday to rates put in place in early August, a source at the Bonneville Power Administration said Thursday.</p>
+<p>North-to-south transmissions on the DC (direct current) segment of the Pacific Intertie will be capped at 2,000 megawatts (MW) during heavy-load hours and 2,200 during light-load hours.</p>
+<p>South-to-north, the DC line will be limited to 2,858 MW.</p>
+<p>Normally, the line has a capacity of 3,200 MW, but concerns about voltage support led to the rate reduction after a massive power outage hit nine western states on August 10.  </p>
+<p>Currently, the DC line is not operating at all due to annual maintenance work, but this is scheduled to end at 2100 PDT on Sunday.</p>
+<p>The AC (alternating current) segment of the Intertie is limited to 3,200 MW north-to-south, compared with its normal capacity of 4,800 MW.</p>
+<p>Bonneville, which operates the Northwest portion of the Intertie lines, has said the restrictions are indefinite pending completion of grid system studies.</p>
+<p>A Bonneville official said last month the agency's own studies of the voltage support issue would not be completed until November or December.</p>
+<p>--D Beasley, Los Angeles bureau 213-955-6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

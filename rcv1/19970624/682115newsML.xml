@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="682115" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: AMEX closing averages.</title>
+<headline>AMEX closing averages.</headline>
+<dateline>NEW YORK 1997-06-24</dateline>
+<text>
+<p>Prices on the American Stock Exchange closed mixed in heavy trading.</p>
+<p>The Amex Composite index closed at 619.86, down 0.56.</p>
+<p>The average price per share fell $0.01.</p>
+<p>Advancers beat decliners 319 to 250.</p>
+<p>Preliminary volume was 25,683,890 compared with 24,845,255 on Monday.</p>
+<p>(Prices official as of 1630 EST/2130 GMT)</p>
+<p>((-- Wall Street desk, 212-859-1830))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

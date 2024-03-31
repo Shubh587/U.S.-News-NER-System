@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="623368" id="root" date="1997-05-29" xml:lang="en">
+<title>PERU: Peru government modifies telephone charge rates.</title>
+<headline>Peru government modifies telephone charge rates.</headline>
+<dateline>LIMA 1997-05-29</dateline>
+<text>
+<p>The government's telecommunications regulatory body OSIPTEL announced Thursday its quarterly modification to its telephone charges with effect from June.</p>
+<p>The minimum commercial rental rate would rise 2.7 soles ($1.00) to 42.04 soles per month, while the residential rate would rise 9.9 percent to 30.46 soles per month, OSIPTEL said in a statement.</p>
+<p>Long-distance national call charges fell 0.65 percent to 0.612 sol per minute, while international calls dropped 2.46 percent to 3.66 soles.</p>
+<p>Telefonica del Peru, controlled by Telefonica de Espana, has a monopoly on Peru's conventional telephone services until 1999.</p>
+<p>((-- Saul Hudson, Lima newsroom, 511 221-2134))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

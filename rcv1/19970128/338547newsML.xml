@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338547" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: Ancor says Sequent reseller pact canceled.</title>
+<headline>Ancor says Sequent reseller pact canceled.</headline>
+<dateline>MINNEAPOLIS 1997-01-27</dateline>
+<text>
+<p>Ancor Communications Inc on Monday said its 1996 original-equipment manufacturing contract allowing Sequent Computer Systems Inc to resell one of its switches had been canceled.</p>
+<p>The original two-year pact called for an Ancor Fibre Channel switch to be used as the high-speed interconnect between the NUMA-Q processors and RAID storage device arrays, Ancor said. The contract was valued at $6 million for the first year of commercial shipments.</p>
+<p>The two companies said they would continue to work to integrate Fibre Channel technology with Sequent's new-generation NUMA-Q compute and storage systems.</p>
+<p>Ancor makes computer networking products.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

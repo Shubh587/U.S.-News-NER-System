@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207043" id="root" date="1996-11-21" xml:lang="en">
+<title>BELGIUM: Europeans feeling unsafe after dark.</title>
+<headline>Europeans feeling unsafe after dark.</headline>
+<dateline>BRUSSELS 1996-11-21</dateline>
+<text>
+<p>The following is the percentage of people in the European Union who said in an EU survey they felt unsafe walking in their own neighbourhood after dark:</p>
+<p>    EUROPE UNION				   32 percent</p>
+<p>    Austria					  20</p>
+<p>    Belgium					  29</p>
+<p>    Britain					  31</p>
+<p>    Denmark					  11</p>
+<p>    Finland					  13</p>
+<p>    France					   29</p>
+<p>    Germany (East)				 60</p>
+<p>    Germany (West)				 34</p>
+<p>    Greece					   28</p>
+<p>    Ireland					  37</p>
+<p>    Italy					    32</p>
+<p>    Luxembourg				     18</p>
+<p>    Netherlands				    19</p>
+<p>    Portugal					 34</p>
+<p>    Spain					    39</p>
+<p>    Sweden					   19</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

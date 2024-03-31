@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220471" id="root" date="1996-11-27" xml:lang="en">
+<title>FRANCE: Bomb attack at French base on Corsica.</title>
+<headline>Bomb attack at French base on Corsica.</headline>
+<dateline>AJACCIO, Corsica 1996-11-27</dateline>
+<text>
+<p>A bomb went off on Wednesday in an empty mess hall at the French Air Force's Solenzara air base in Corsica, causing slight damage but no casualties, police said.</p>
+<p>News of the attack was released 15 hours after the blast occurred.</p>
+<p>No one claimed responsibility for the bomb, whci came one day after the clandestine Corsican National Liberation Front (FLNC-Canal Historique) said it had carried out nine attacks and one attempted attack against civilian targets on the island since October 25.</p>
+<p>Solenzara was in the news two months ago when a French newspaper revealed there were land mines around the base, the only place in France where such measures existed.</p>
+<p>The defence ministry said afterwards the mines would be removed to avoid accidents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AJACCIO, Corsica"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

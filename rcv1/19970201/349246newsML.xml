@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349246" id="root" date="1997-02-01" xml:lang="en">
+<title>YUGOSLAVIA: Ten injured in Serbia-Bosnia border blast, Tanjug.</title>
+<headline>Ten injured in Serbia-Bosnia border blast, Tanjug.</headline>
+<dateline>BELGRADE 1997-02-01</dateline>
+<text>
+<p>Ten people were injured when a bomb exploded in front of a bar in the Serbian town of Loznica close to the border with Bosnia, the official Yugoslav news agency Tanjug reported on Saturday.</p>
+<p>It quoted a local doctor as saying the injured were all males aged between 17 and 28, but it did not say whether the incident, which occurred on Friday, was politically-inspired or merely a criminal act.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

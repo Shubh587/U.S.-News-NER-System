@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="188778" id="root" date="1996-11-14" xml:lang="en">
+<title>ALBANIA: Quake rocks Albania, but no injuries reported.</title>
+<headline>Quake rocks Albania, but no injuries reported.</headline>
+<dateline>TIRANA 1996-11-14</dateline>
+<text>
+<p>An earthquake shook southern Albania on Wednesday, but there were no immediate reports of injuries or damage to buildings, the country's Seismological Institute said.</p>
+<p>It said the quake measured 4.7 on the Richter scale, which could be powerful enough to cause serious structural damage in a heavily-populated area.</p>
+<p>The quake's epicentre was reported to be near the town of Leskovik, about 170 km (105 miles) southeast of the capital Tirana on the Albanian-Greek border.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

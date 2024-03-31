@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75689" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S. OCC issues asset securitization guidelines.</title>
+<headline>U.S. OCC issues asset securitization guidelines.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>The Office of the Comptroller of the Currency on Wednesday issued a new set of guidelines for banks involved in asset securitization activities.</p>
+<p>The OCC said it was issuing the guidelines as a growing number of banks are increasing reliance on securitization to diversify funding sources and efficiently manage liquidity and capital.</p>
+<p>The OCC advised that bank management understand the risks of securitization, keeping in mind that performance of securitized assets that is not in keeping with expectations will reflect poorly on the bank's underwriting and risk assessment capabilities.</p>
+<p>The agency also pointed out that a bank's transaction risk exposure can increase when it does not fully understand or fulfill its responsibilities under the terms of the servicing agreement.</p>
+<p>&quot;Effective servicing can be a key component in maintaining the credit quality of receivables,&quot; the OCC said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149387" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: SQUASH-TOURNAMENT OF CHAMPIONS RESULTS.</title>
+<headline>SQUASH-TOURNAMENT OF CHAMPIONS RESULTS.</headline>
+<dateline>NEW YORK 1996-10-29</dateline>
+<text>
+<p>Results of finals at the Tournament of Champions (prefix number denotes seeding):</p>
+<p>Played on Monday:</p>
+<p>Men's singles</p>
+<p>Jonathan Power (Canada) beat Craig Rowland (Australia) 15-4 9-15 15-10 16-17 15-9</p>
+<p>Women's singles</p>
+<p>3-Cassie Jackman (England) beat 4-Liz Irving (Australia) 10-8 9-6 9-2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

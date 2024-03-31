@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="743129" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: Fannie Mae to redeem $375 mln in notes.</title>
+<headline>Fannie Mae to redeem $375 mln in notes.</headline>
+<dateline>WASHINGTON 1997-07-21</dateline>
+<text>
+<p>Fannie Mae on Monday said it will redeem all outstanding amounts of six medium-term note issues totalling $375 million as follows.</p>
+<p>  Principal     Interest    Maturity    Cusip     Redemption</p>
+<p>   Amount	   Rate	  Date	Number	Date</p>
+<p>  $50 million     7.375     07/30/01   31364CGT9   07/31/97</p>
+<p>  $50 million     7.12	08/08/01   31364CHS0   08/08/97</p>
+<p>  $50 million     7.20	08/19/02   31364BHR4   08/20/97</p>
+<p>  $50 million     6.70	10/11/00   31364BMR8   08/20/97</p>
+<p>  $75 million     7.30	08/21/02   31364BHX1   08/21/97</p>
+<p> $100 million     7.14	08/25/99   31364A2S0   08/25/97</p>
+<p>The redemption price of the notes will be 100 percent of the principal amount plus interest accrued to the redemption date, Fannie Mae said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

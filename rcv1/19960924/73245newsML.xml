@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73245" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Eclipse moves to Phase II TMR trial.</title>
+<headline>Eclipse moves to Phase II TMR trial.</headline>
+<dateline>SUNNYVALE, Calif. 1996-09-24</dateline>
+<text>
+<p>Eclipse Surgical Technologies Inc said on Tuesday it received clearance from the U.S. Food and Drug Administration to start a Phase II trial of its transmyocardial revascularization procedure.</p>
+<p>The trial is using the procedure as an adjunct to bypass surgery.</p>
+<p>Transmyocardial revascularization, or TMR, is a surgical procedure performed on the beating heart, in which a laser device is used to create pathways through the heart muscle directly into the heart chamber.  The pathways are intended to allow improved blood flow to the oxygen-starved muscle.  </p>
+<p>It is the company's second Phase II trial.  The first is evaluating TMR as sole therapy for patients who are not candidates for balloon angioplasty or bypass surgery.</p>
+<p>--New York Newsdesk, 212-859-1733</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

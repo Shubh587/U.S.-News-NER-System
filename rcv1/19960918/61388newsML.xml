@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61388" id="root" date="1996-09-18" xml:lang="en">
+<title>JAPAN: NEC says raises optical fibre transmission volume.</title>
+<headline>NEC says raises optical fibre transmission volume.</headline>
+<dateline>TOKYO 1996-09-18</dateline>
+<text>
+<p>NEC Corp said on Wednesday it had succeeded in experiments that expand the transmission capacity of optical fibres.</p>
+<p>The new technology allows transmission of 2.6 terabits or 40 million phone lines worth of optical signals in one second, at a distance of 120 km without relay, NEC said in a statement.</p>
+<p>&quot;This is double the capacity of the former technology&quot;, an NEC spokesman said.</p>
+<p>The technology can be used in transmission of 400,000 channels worth of visual information between households and cities, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110256" id="root" date="1996-10-11" xml:lang="en">
+<title>UK: London precious metals end lower, interest falters.</title>
+<headline>London precious metals end lower, interest falters.</headline>
+<text>
+<p>GOLD - Closed at $381.10/$381.60, down 60 cents from Thursday. Disappointed market with poor follow-through to silver's bounce Thursday. Producer selling held top in Far East. Drifted easier.</p>
+<p>SILVER - Finished at $5.01/$5.03 up a cent. Failed to get through Thursday's high. Drifted towards $5.00, may go lower.</p>
+<p>PLATINUM - Ended at $385.50/$386.50 vs $388.25/$389.25.</p>
+<p>PALLADIUM - Closed down $0.50 at $117.25/$118.25.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

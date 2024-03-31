@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123014" id="root" date="1996-10-17" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-10-17</dateline>
+<text>
+<p>COAL - Ocean Conqueror - 140,000 tonnes Bolivar/Rotterdam 10-25/11 $5.10 45,000 shinc/25,000 shinc Oceanbulk.</p>
+<p>Giga 2 - 150,000 tonnes Richards Bay/South Korea 12-27/12 $6.95 fio twelve days shinc Postrade.</p>
+<p>Chinese TBN - 60,000 tonnes Qingdao/South Korea 25/10-5/11 $4.00 fio scale load/8,000 Yukong.</p>
+<p>Panoria - 56,000 tonnes Queensland/east coast India 13-25/11 $12.35 fio plus 50c second disport 20,000/5,000 Indian government.  </p>
+<p>Pacific Dolphin - 45,000 tonnes Queensland/east coast India 7-17/11 $13.00 fio option NSW 9-19/11 $14.00 20,000/5,000 Indian government.</p>
+<p>Promina - 45,000 tonnes Queensland/east coast India 10-20/11 $13.00 fio option NSW 13-23/11 $14.00 20,000/5,000 Indian government.</p>
+<p>ORE - TBN 120,000 tonnes ore Port Cartier/Rotterdam 15-30/11 $3.80 fio six days shinc Rohstoffhandel.</p>
+<p>There were no fixtures reported from New York on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

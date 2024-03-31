@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="754687" id="root" date="1997-07-24" xml:lang="en">
+<title>SWITZERLAND: ABB to link Polish-Swedish power.</title>
+<headline>ABB to link Polish-Swedish power.</headline>
+<dateline>ZURICH 1997-07-24</dateline>
+<text>
+<p>Electrical engineering group ABB Asea Brown Boveri AG said it had received an order to supply a 600 megawatt (MW) high-voltage direct current submarine power transmission system to connect the power networks of Poland and Sweden.  </p>
+<p>ABB said in a statement that the order, valued at around $260 million, was placed by SwePol Link AB of Stockholm, the company created to operate the link.</p>
+<p>SwePol is part-owned by Svenska Kraftnaet, the Swedish state state-owned major power generator, and by PPGC, the Polish state-owned power grid company.</p>
+<p>The 230 km link is planned to run under the Baltic Sea from Sweden's south coast to Poland and is scheduled to start operating towards the end of 1999.</p>
+<p>The SwePol link will permit the exchange of power across borders to smooth differing electricity demands in the two countries and to use the power generating capacity of the region more efficiently.</p>
+<p>ABB will supply the submarine cable as well as the converter station at both ends of the link, which make the conversion between the alternating current systems of the power grids in both countries and the direct current system of the link.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

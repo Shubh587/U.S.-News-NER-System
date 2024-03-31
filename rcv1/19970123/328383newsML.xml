@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328383" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Starbucks Q1 shr $0.18 vs $0.13.</title>
+<headline>Starbucks Q1 shr $0.18 vs $0.13.</headline>
+<dateline>SEATTLE 1997-01-23</dateline>
+<text>
+<p>Fiscal Quarter Ended</p>
+<p>				     Dec 29, 1996	  Dec 31, 1995</p>
+<p>					   (13 wks)		(13 wks)</p>
+<p>			  (in thousands, except earnings per share)</p>
+<p> Net revenues			  $239,142		$169,537</p>
+<p> Operating income			21,307		  15,804</p>
+<p> Net earnings			    14,390		   9,566</p>
+<p>Net earnings per common and</p>
+<p>common equivalent share --</p>
+<p>  fully diluted			    0.18		    0.13</p>
+<p> Shares used in calculation	  88,439		  79,415</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

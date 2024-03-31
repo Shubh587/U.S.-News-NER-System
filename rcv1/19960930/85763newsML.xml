@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85763" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Encon explores Providence Energy alliance.</title>
+<headline>Encon explores Providence Energy alliance.</headline>
+<dateline>HOPKINTON, Mass. 1996-09-30</dateline>
+<text>
+<p>Encon Systems Inc said it is exploring a possible strategic alliance with Providence Energy Corp, which is providing working capital for a new Encon exterior lighting contract.</p>
+<p>Encon said in a press release Monday that it received a letter of intent for an exterior lighting contract from a national food service distribution company which could provide it with $16.5 million in revenues.</p>
+<p>Providence, an energy services provider, established a $350,000 line of credit to supply working capital for the new contract.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I34700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOPKINTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

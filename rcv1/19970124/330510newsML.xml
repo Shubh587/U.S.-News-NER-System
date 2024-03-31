@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330510" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: AFTER THE BELL - Stocks quiet.</title>
+<headline>AFTER THE BELL - Stocks quiet.</headline>
+<dateline>NEW YORK 1997-01-24</dateline>
+<text>
+<p>Stocks were calm in after-hours trading in a session with no noteworthy transactions, traders said Friday.</p>
+<p>&quot;It's quiet,&quot; said one.  </p>
+<p>The New York Stock Exchange said session one had a volume of 71,100 shares, compared to Thursday's 63,600. Session two had 80,300 against 1.22 million a day earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

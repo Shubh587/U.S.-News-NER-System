@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558487" id="root" date="1997-05-04" xml:lang="en">
+<title>COLOMBIA: Gunmen kill at least seven in north Colombia.</title>
+<headline>Gunmen kill at least seven in north Colombia.</headline>
+<dateline>BOGOTA 1997-05-04</dateline>
+<text>
+<p>Unidentified gunmen killed at least seven people in two separate attacks overnight on Saturday in a banana-growing zone close to Colombia's Caribbean coast port of Santa Marta, police said.</p>
+<p>The killings took place in a rural area near the town of Cienaga, in northern Magdalena province, regional police chief Col. Juan de Jesus Rojas told reporters.</p>
+<p>He said three of the dead were members of the same family. Radionet radio network cited unnamed police sources saying at least 11 people, not seven, had been killed and said right-wing paramilitaries were thought to be behind the attacks.</p>
+<p>Police were unable to immediately confirm those versions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411360" id="root" date="1997-02-28" xml:lang="en">
+<title>UK: UBS set puts on the ten year Swiss franc swap rate.</title>
+<headline>UBS set puts on the ten year Swiss franc swap rate.</headline>
+<dateline>LONDON 1997-02-28</dateline>
+<text>
+<p>UBS, Zurich said it has issued European-style put warrants, on the ten year Swiss franc swap rate.</p>
+<p> STRIKE PRICE    3.50 PCT		  MAX PAYOUT   5.00 CHF</p>
+<p> ISSUE PRICE     1.25 CHF		  LISTING	NONE</p>
+<p> EXPIRATION	26.JUN.97		 PAYDATE	05.MAR.97</p>
+<p> SPOT REF	  3.71 PCT</p>
+<p> NOTES	     IF THE TEN YEAR SWISS SWAP RATE IS FIXED AT</p>
+<p>		     OR BELOW 3.50 PCT ON EXPIRY DATE, THE WARRANT</p>
+<p>		     PAYS OUT 5.00 CHF, OTHERWISE IT EXPIRES</p>
+<p>		     WORTHLESS.</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

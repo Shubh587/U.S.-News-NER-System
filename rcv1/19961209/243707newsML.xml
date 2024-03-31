@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243707" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: NH Public Service says 43,000 still without power.</title>
+<headline>NH Public Service says 43,000 still without power.</headline>
+<dateline>CONCORD, N.H. 1996-12-09</dateline>
+<text>
+<p>New Hampshire Public Service, a subsidiary of Northeast Utilities, reported up to 43,000 customers remained without power on Monday, after two storms dumped more than two feet of snow in parts of New England.</p>
+<p>&quot;The storm has caused major damage to our electric distribution centers around the state,&quot; said Ian Wilson, a spokesman for the utlity.  Crews from New York, Canada and Pennsylvania have been called in to help restore power.</p>
+<p>Some of the outtages were expected to last until Thursday, Wilson said.</p>
+<p>--Boston bureau, 617-367-4106</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONCORD, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

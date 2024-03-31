@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88416" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: API weekly report on fuel production and stocks.</title>
+<headline>API weekly report on fuel production and stocks.</headline>
+<text>
+<p>(In Thousands of Barrels a Day, Except Stocks)</p>
+<p>			  09/27/96  09/20/96   09/29/95</p>
+<p> Gasoline Production   7,670     7,844	7,843</p>
+<p> Gasoline Stocks     197,127   194,857    200,025</p>
+<p> RFG Stocks	     40,264    39,243     33,048</p>
+<p> Distillate Produc     3,458     3,399	3,363</p>
+<p> Distillate Stocks   112,344   112,361    131,053</p>
+<p> Residual Fuel Produc    768	 790	  786</p>
+<p> Resid Fuel Stocks    36,036    35,765     38,113</p>
+<p> Jet Fuel Production   1,666     1,597	1,466</p>
+<p> Jet Fuel Stocks	42,442    41,315     39,737</p>
+<p> Crude Oil Stocks    302,278   308,476-R  304,275</p>
+<p> Crude Oil Imports     6,536     7,296	7,794</p>
+<p> Crude Runs-X	   14,534    14,518     14,280</p>
+<p> Pct of Capacity	  95.5	95.5	 94.0</p>
+<p>X-Crude runs to processing units. R-revised.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

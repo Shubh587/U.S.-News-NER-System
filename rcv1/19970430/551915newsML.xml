@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551915" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: FEATURE-Chess champ Kasparov takes on &quot;alien&quot; challenger.</title>
+<headline>FEATURE-Chess champ Kasparov takes on &quot;alien&quot; challenger.</headline>
+<byline>Grant McCool</byline>
+<dateline>NEW YORK 1997-04-30</dateline>
+<text>
+<p>World chess champion Garry Kasparov calls his next challenger an &quot;alien opponent&quot; he knows almost nothing about.</p>
+<p>Although the Russian grandmaster has spent months preparing for his re-match against IBM's chess-playing supercomputer Deep Blue, any improvements in the machine's programme are a mystery that will be revealed to him and the rest of the world only in Saturday's first game.</p>
+<p>&quot;When you look at this match you can imagine this is two alien intellects fighting to death, not even the first blood,&quot; said Kasparov, who is also a master at promoting his game and making a chess match sound apocalyptic.</p>
+<p>&quot;I think that now my mind is working along the lines of computer 'psychology,'&quot; he told Reuters after arriving in New York for the $1.1 million contest. &quot;I have zero information. I have to assume it's a computer and I have to build a strategy that's based on that fact. It's a machine.&quot;</p>
+<p>Kasparov, 34, and Deep Blue, an IBM RS/6000 SP parallel processor with specialised microchips for chess, will play six games between May 3 and May 11 in Manhattan with $700,000 going to the winner and $400,000 to the loser. The IBM Web site www.chess.ibm.com will carry information on the games.</p>
+<p>Since mid-February Kasparov has been training exclusively with the best chess-playing computer programmes available on the market. Deep Blue is kept within the confines of IBM's T.J. Watson Research Centre in Yorktown Heights, north of New York.</p>
+<p>MATCH TAKEN SERIOUSLY</p>
+<p>Kasparov is taking the re-match seriously enough to have arrived in New York 10 days beforehand to acclimatise. A table in one room of his hotel suite is strewn with diskettes and wiring, a personal computer and two laptops.</p>
+<p>&quot;The computer is an alien opponent and the characteristics of this opponent are very, very different from any human opponent. In order to win the match I have to look for moves that are most unpleaseant for the computer, moves that will take it off the right track,&quot; he said.</p>
+<p>What concerns Kasparov most is the purported improvements made in Deep Blue's knowledge of chess, not the doubling of its calculating speed. In the first match between Deep Blue and Kasparov last year in Philadelphia, the computer was able to examine 50 billion future positions in three minutes, the average time a human spends on one move.</p>
+<p>&quot;To get a quality change you would have to increase the speed 10-fold,&quot; said the Azerbaijan-born Kasparov, considered by most experts to be the strongest player in the history of the ancient game. &quot;That's why I'm not concerned (about speed). Obviously chess knowledge is a concern. I think I will face a far more knowledgeable opponent.&quot;</p>
+<p>IBM hired U.S. grandmaster Joel Benjamin as a full-time adviser to five computer scientists working on the project. They believe his contribution could be the difference between victory and defeat.</p>
+<p>The computer won one game and drew two others in Philadelphia. The machine's victory in the opening game was historic -- the first time a computer had beaten a world champion in a classical chess format where games can last as long as six hours. The match was tied after four games before the world champion easily won the last two games.</p>
+<p>The scientists say Benjamin has helped them supplement the computer's ability to look at hundreds of millions of positions per second with a greater appreciation for strategy and the relative value of pieces in certain positions.</p>
+<p>KASPAROV CHANCES MAY DEPEND ON HUMAN INTUITION</p>
+<p>Kasparov believes his chances depend on how often he can drag the computer into positions where his human intution or deeper, conceptual knowledge of chess will come into play.</p>
+<p>&quot;I think the guys who are backing up the machine haven't so much solved the problems but they are giving it strong recommendations and big negative numbers, 'don't go here, don't go there, stop here, don't even try!', because they know there are positions you cannot teach the machine, it's beyond anyone's ability,&quot; Kasparov said.</p>
+<p>The IBM chess project began with the aim of discovering how chess can be used to understand computer science applications such as data mining, financial modelling techniques, airline scheduling and molecular dynamics.</p>
+<p>Kasparov and the scientists have described the matches as an experiment to test human prowess in building computers that can make complex calculations for applications beyond chess.</p>
+<p>Chess playing is considered ideal for computers because the game involves a specific number of physical objects governed by simple, clearly defined rules.</p>
+<p>Kasparov, king of chess since 1985 when at 22 he became the youngest-ever world champion, has said he will be representing the human race against computers until he is beaten by one in a classical chess match.</p>
+<p>Competition from human players appears to be dwindling. Kasparov has emphasised his superiority in recent months by winning two prestigious tournaments against his most formidable human challengers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

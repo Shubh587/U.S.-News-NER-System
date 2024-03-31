@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170724" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: IBM to license Sun's Java OS, HotJav.</title>
+<headline>IBM to license Sun's Java OS, HotJav.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-05</dateline>
+<text>
+<p>International Business Machines Corp is expected to license JavaOS and HotJava from Sun Microsystems Inc, in an extension of its support for Sun's Java technologies, sources familiar with the deal said.</p>
+<p>IBM has been a strong supporter of the Java platform, which enables software to be written once to operate on a variety of platforms, ranging from smart cards and IBM's personal computers to its mainframe systems.</p>
+<p>Officials of IBM, which has already licensed the Java Virtual Machine and developed Java applications on its own, were not immediately available for comment.</p>
+<p>The company scheduled a conference call for midday on Wednesday, however.</p>
+<p>IBM is expected to make the JavaOS operating system, a lightweight operating system developed for a new class of machines called Network Computers (NCs) and on embedded systems, an option for its recently-announced NC, the sources said.</p>
+<p>Last week, Sun launched its own family of network computers, known as JavaStations, aimed at large organisations and business customers. The Java architecture enables small programmes, or applets, to be retreived over the computer network and used on cheaper, scaled-down computers.  </p>
+<p>Early this year Sun created a separate division, JavaSoft, to expand the use of its Java technology. IBM has been one of its most enthusiastic customers, and Sun last month said it would boost its investment in JavaSoft.</p>
+<p>-- Silicon Valley Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="577067" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Motorola gets software deal with TU-KA.</title>
+<headline>Motorola gets software deal with TU-KA.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1997-05-12</dateline>
+<text>
+<p>Motorola Inc's Cellular Infrastructure Group said Monday TU-KA Cellular Tokyo signed a multi-million dollar contract to deploy Motorola's Dynamic Equipment Sharing (DES) software on its wireless phone network.</p>
+<p>The software will be used on TU-KA's Personal Digital Cellular network, and Motorola said it is the first time the technology will be used on a wireless phone network.</p>
+<p>Installation of the software was recently completed, the company said. DES enables the cellular base stations to respond more efficiently to peak phone usage, reducing the likelihood of busy signals.</p>
+<p>TU-KA launched its PDC network in 1994. The network covers the Kanto area of Tokyo.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

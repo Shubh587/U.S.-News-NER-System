@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439939" id="root" date="1997-03-13" xml:lang="en">
+<title>FRANCE: French Senate passes controversial immigration bill.</title>
+<headline>French Senate passes controversial immigration bill.</headline>
+<dateline>PARIS 1997-03-13</dateline>
+<text>
+<p>The French Senate on Thursday approved a controversial new bill aimed at closing loopholes in already tough existing laws on illegal immigration.</p>
+<p>The Senate passed the bill by 219 votes to 69, adding only minor changes to the draft law adopted by the National Assembly lower house.</p>
+<p>A joint Senate-Assembly law commission is to debate the bill on March 20 before it is presented for a final vote on March 25-26 when it is widely expected to be adopted as law.</p>
+<p>The bill introduces new articles to immigration regulations that will allow police to keep passports or travel documents of illegal immigrants, who are said by authorities to often destroy their documents when caught in order to avoid being sent home.</p>
+<p>It will allow police to take fingerprints from foreigners from countries outside the European Union who apply for residence permits.</p>
+<p>Left-wing groups have organised several major protests against the new law which they say is undemocratic and racist.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

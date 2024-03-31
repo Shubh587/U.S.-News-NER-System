@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="764961" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: MasterCard caps debit card liability.</title>
+<headline>MasterCard caps debit card liability.</headline>
+<dateline>NEW YORK 1997-07-30</dateline>
+<text>
+<p>MasterCard International, an association of financial service companies that issue credit cards, said Wednesday its U.S. member banks voted to cap liability for unauthorised use of U.S.-issued MasterCard-branded debit cards at $50.</p>
+<p>MasterCard International said the previous limitation was set by U.S. regulation and ranged from $50 to an unlimited amount.</p>
+<p>MasterCard said the change only protects debit cardholders with cards that have the MasterCard logo.</p>
+<p>Debit cards deduct funds from a cardholder's savings or checking account.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

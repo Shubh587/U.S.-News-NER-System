@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114738" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Dow gains more than 50 points.</title>
+<headline>Dow gains more than 50 points.</headline>
+<dateline>NEW YORK 1996-10-14</dateline>
+<text>
+<p>The Dow Jones industrial average gained more than 50 points Monday, lifting the barometer of 30 blue-chip stocks above 6,000 points for the first time in nearly a week amid moderate economic growth and subdued inflation.</p>
+<p>Shortly  after 2 p.m., the Dow rose 50.31 points to 6,019.69, which activated the New York Stock Exchange's limits on program trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

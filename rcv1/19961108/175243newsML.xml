@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175243" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Cincinnati Bell unit buys Florida company.</title>
+<headline>Cincinnati Bell unit buys Florida company.</headline>
+<dateline>CINCINNATI 1996-11-08</dateline>
+<text>
+<p>MATRIXX Marketing Inc, a subsidiary of Cincinnati Bell Inc, said on Friday that it will buy Software Support Inc of Heathrow, Florida, for undisclosed terms.</p>
+<p>The company gives technical help with computers over the telephone to clients that include original equipment makers, corporations and small offices. It had about $20 million in its 1996 revenues, MATRIXX said.</p>
+<p>MATRIXX provides telephone marketing for various industries. It has more than 13,300 employees worldwide and said its 1996 revenues were $320 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

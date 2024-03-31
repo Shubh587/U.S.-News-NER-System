@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256192" id="root" date="1996-12-13" xml:lang="en">
+<title>FRANCE: Esso confirms French refinery go-slow.</title>
+<headline>Esso confirms French refinery go-slow.</headline>
+<dateline>PARIS 1996-12-13</dateline>
+<text>
+<p>France's Esso confirmed on Friday that its 150,000 barrels per day (bpd) Port Jerome refinery near Le Havre was running at a slow pace because of workers' disruptions.</p>
+<p>A company spokesman said disruption started on Wednesday evening and would last until Saturday at 1300 GMT.</p>
+<p>On Thursday the CFDT union said unspecified action was planned at Port Jerome.</p>
+<p>The spokesman said he was not aware of any disruption at Esso's other refinery at Fos in southern France.</p>
+<p>&quot;At this stage I have no information regarding Fos,&quot; he said.</p>
+<p>A spokeswoman for Mobil confirmed the 70,000 bpd Gravenchon refinery in northern France was also hit by a go-slow.</p>
+<p>Disruptions began on Wednesday and are expected to run until Friday at 1300 GMT.</p>
+<p>The disruptions are over oil industry plans to cut some 1,500 refinery jobs over the next year to deal with overcapacity.</p>
+<p>-- Paris newsroom +331 4221 543</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175435" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Progress seen against drug-resistant bacteria.</title>
+<headline>Progress seen against drug-resistant bacteria.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>A new class of experimental antibiotics may prove to be a potent weapon against bacteria that are showing dangerous resistance to standard antibiotics, scientists said Thursday.</p>
+<p>Scientists at Merck Research Labs and Duke University Medical Center report the findings in Friday's edition of the journal Science.</p>
+<p>Much more work has to be done in laboratory and animal studies before scientists can start testing to see whether the compounds are safe and effective in humans.</p>
+<p>Still, the research is significant because it identifies a new target -- a lipid -- in bacteria that are resistant to antibiotics. In those bacteria, a process within the cell produces the lipid and pumps it out to form a protective oily coating on the bacteria's outer membrane.</p>
+<p>The new class of antibiotics combats that protective process.</p>
+<p>&quot;That coating is necessary for the bacteria, and without it they start dying,&quot; said Dr. Christian Raetz, now the chairman of biochemistry at Duke Medical School who also worked on the drug compound while he was at Merck.</p>
+<p>Public health experts have been increasingly anxious about antibiotic resistance that has made it harder to treat certain infections that once easily succumbed to drugs.</p>
+<p>After shifting away from antibiotic research in the 1980s, pharmaceutical companies have renewed efforts to identify new compounds, some of which are already being tested.</p>
+<p>The latest discovery is a Merck compound known as L-573,655 and a variant called L-161,240. It blocks one enzyme, called deacetylase, that is crucial for maintaining the structure of the outer membrane of resistant bacteria, including E. coli and some others that can cause septic shock.</p>
+<p>Both compounds were able to cure mice infected with normally lethal doses of E. coli.</p>
+<p>Merck labs are a divison of Merck and Co. Inc. Raetz's work at Duke has also been supported by the National Institutes of Health.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91793" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: U.S. West Coast prods flatten late, APIs dismissed.</title>
+<headline>U.S. West Coast prods flatten late, APIs dismissed.</headline>
+<dateline>LOS ANGELES 1996-10-01</dateline>
+<text>
+<p>U.S. West Coast products prices flattend late, with dealing sapped by an industry conference and traders dismissing weekly inventory data from the American Petroleum Institute (API).</p>
+<p>API reported supplies of crude oil in PADD 5 West Coast fell 3.1 million barrels to 68.6 million last week, but West Coast brokers and traders watched distillate stocks out east with greater concern.</p>
+<p>&quot;If (eastern prices) go way up, we'll be exporting,&quot; said a West Coast refined products broker, referring to an unseasonal draw in U.S. stocks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

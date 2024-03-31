@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665643" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Denbury has well blowout in Louisiana.</title>
+<headline>Denbury has well blowout in Louisiana.</headline>
+<dateline>DALLAS 1997-06-17</dateline>
+<text>
+<p>Denbury Resources Inc said Tuesday its SL 411-19 well at Lake Chicot Field in the inland waters of St. Martin Parish, La., had a blowout and is currently flowing and burning dry gas at an estimated rate of 20 million cubic feet per day.</p>
+<p>The blowout occurred late last night during well completion operations being conducted by Mallard Bay Drilling, a subsidiary of Parker Drilling Co.</p>
+<p>Denbury said initial reports indicate that two workers died and two are unaccounted for.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

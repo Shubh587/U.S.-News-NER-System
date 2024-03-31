@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203713" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: New York Spot Metals - Nov 19/96.</title>
+<headline>New York Spot Metals - Nov 19/96.</headline>
+<text>
+<p>Commodity	   Spec    Terms    Unit	   Bid / Ask</p>
+<p>Copper Wirebars	    US Prod  CTS/LB    113.625 /114.00</p>
+<p>Copper Cathode	     US Prod  CTS/LB    113.00  /114.00</p>
+<p>Copper Merchant	    US Prod  CTS/LB    110.15 / 110.40</p>
+<p>Copper ScrapNo.2	   Carloads CTS/LB		  83.00</p>
+<p>Lead Domestic		Del US   CTS/LB	35.00 / 40.00</p>
+<p>Lead Scrap		   Carloads CTS/LB	10.00 / 12.00</p>
+<p>Zinc Pm Western	    Del US   CTS/LB		  unq</p>
+<p>Zinc HG			Carloads CTS/LB		  unq</p>
+<p>Zinc Electro HG   SPLC		CTS/LB		  unq</p>
+<p>Aluminum, merch. spot    Del NY   CTS/LB	68.75 / 69.75</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

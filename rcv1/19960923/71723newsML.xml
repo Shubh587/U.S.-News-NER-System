@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71723" id="root" date="1996-09-23" xml:lang="en">
+<title>JAPAN: Tokyo oil products market closed for holiday.</title>
+<headline>Tokyo oil products market closed for holiday.</headline>
+<dateline>TOKYO 1996-09-23</dateline>
+<text>
+<p>The Tokyo oil products market is closed for a national holiday on Monday.</p>
+<p>Trade will resume on Tuesday.</p>
+<p>On Friday, naphtha prices eased amid scarce buying interest.</p>
+<p>Open-spec naphtha for first-half December was nominally assessed at $202.00/$203.00, down from late Thursday's $204.50/$205.50.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

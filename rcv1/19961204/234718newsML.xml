@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234718" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Blue-chip stocks slash losses.</title>
+<headline>Blue-chip stocks slash losses.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Blue-chip stocks staged a late recovery from deep losses Wednesday as bargain-hunters and strength in Philip Morris Cos. came to the market's rescue.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended down 19.75 points at 6,422.94 after shaking off a huge loss of more than 75 points. In the broader market, declining issues led advances 14-10 on active volume of 498 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

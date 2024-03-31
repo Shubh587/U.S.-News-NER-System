@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64043" id="root" date="1996-09-19" xml:lang="en">
+<title>CUBA: Cuban police investigate failed drug mission.</title>
+<headline>Cuban police investigate failed drug mission.</headline>
+<dateline>HAVANA 1996-09-19</dateline>
+<text>
+<p>Cuban police are investigating two Bahamanians and a Jamaican who apparently turned up in Cuba after their plan to fly a cargo of drugs from Jamaica to the Bahamas went wrong, official media said on Thursday.</p>
+<p>Ruling Communist Party daily Granma said Bahamanians Preston Rolle and Reginald Dunbard and Jamaican Denis Mitchell were arrested in the central Cuban city of Ciego de Avila on Aug. 28 because they did not have valid entry papers for Cuba.</p>
+<p>Granma said the three men told police they had been flying a cargo of marijuana from Jamaica to the Bahamas the previous day but their small plane had developed mechanical problems and they had had to land in Cuba.</p>
+<p>Police subsequently located the small Piper plane and a cargo of about 610 pounds (280 kg) of marijuana, the newspaper said. It was not clear how the plane landed without being spotted immediately.</p>
+<p>Granma said the three were being investigated but did not say if they had been charged with any offence yet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

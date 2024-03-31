@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129991" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: LSE Turnover/Indices - OCT 21.</title>
+<headline>LSE Turnover/Indices - OCT 21.</headline>
+<text>
+<p>FTSE INDICES			     VOLUME</p>
+<p>FTSE 100	 4073.1  (4053.1)    Total Trades (OCT 18) 33,537</p>
+<p>Eurotrack 100  1786.94 (1780.69)</p>
+<p>Eurotrack 200  1842.01 (1836.60)</p>
+<p>FT mid-250     4449.4  (4450.10)	    Other Indices</p>
+<p>FT Act-350     2022.1  (2014.30)   FT Govt Secs   93.90  (94.00)</p>
+<p>					     FT Gold MN   1860.79(1869.91)</p>
+<p>FT-Actuaries Indices</p>
+<p>FT 30	    2870.10 (2865.20)  500 Share    2089.71 (2081.38)</p>
+<p>ISEQ Index     2685.85 (2673.60)  All Share    1994.54 (1987.45)</p>
+<p>					    Oils	   4125.68 (4077.15)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

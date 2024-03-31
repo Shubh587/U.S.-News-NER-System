@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400204" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: AT&amp;T confirms fixed wireless technology.</title>
+<headline>AT&amp;T confirms fixed wireless technology.</headline>
+<dateline>NEW YORK 1997-02-25</dateline>
+<text>
+<p>AT&amp;T Corp, looking for additional methods to reach local telephone customers without relying on the regional Bells, on Tuesday confirmed that it had developed a wireless technology to provide that link.</p>
+<p>The technology is similar though faster to that being developed by a number of other companies, and will be beta-tested by AT&amp;T in Chicago later this year.</p>
+<p>&quot;I'm not sure people are grasping how new this is,&quot; said Nick Kauser, AT&amp;T's lead developer on the project. &quot;You can use it for a clear Internet connection,&quot; he told Reuters. He added that it was 16 times faster than other such systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

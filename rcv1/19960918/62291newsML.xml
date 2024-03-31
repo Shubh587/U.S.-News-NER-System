@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62291" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Typhoon Violet weakening but still danger to ships.</title>
+<headline>Typhoon Violet weakening but still danger to ships.</headline>
+<dateline>LEXINGTON, MASS. 1996-09-18</dateline>
+<text>
+<p>Typhoon Violet is expected to pass about 250 miles east of Okinawa, Japan, during the next 36 hours, on a track to the northeast, Weather Services Corp said.</p>
+<p>Top winds, now near 105 mph, will weaken further to near 90 mph, but Violet will still remain a strong storm and a fairly significant threat to shipping.</p>
+<p>The effects of the storm on Okinawa will be limited to rough surf, gusty winds from the northeast to north, and a few locally heavy rain squalls.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

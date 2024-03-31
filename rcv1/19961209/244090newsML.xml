@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244090" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Sequus trial shows positive amphotec result.</title>
+<headline>Sequus trial shows positive amphotec result.</headline>
+<dateline>ORLANDO, FLA. 1996-12-09</dateline>
+<text>
+<p>Sequus Pharmaceuticals Inc said a random clinical trial of its Amphotec drug showed the drug equally effective and substantially less toxic to the kidney as compared to amphotericin B for treating febrile neutropenic patients.</p>
+<p>The company also said the results showed Amphotec had a renal safety advantage over amphotericin B, the standard therapy for the patients, when used in conjunction with common anti-rejection therapy in both adults and children.</p>
+<p>The company began marketing the drug on December 5. The FDA approved the drug on November 22, the company added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, FLA."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

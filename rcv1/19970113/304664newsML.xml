@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="304664" id="root" date="1997-01-13" xml:lang="en">
+<title>INDIA: India state radio launches Internet service.</title>
+<headline>India state radio launches Internet service.</headline>
+<dateline>NEW DELHI 1997-01-13</dateline>
+<text>
+<p>The state-run All India Radio launched a real-time broadcast service on the Internet on Monday, the broadcaster said in a statement.</p>
+<p>&quot;With the flick of a button, the selected programme will start playing in real-time on the speakers attached to the computer,&quot; the statement said.</p>
+<p>Along with news updates in Hindi and English, the service (http://air.kode.net) would also broadcast current affairs, music, drama, speeches, discussions and items from the radio's archives, it added.</p>
+<p>State-run All India Radio has a monopoly over radio broadcasting in the country, but rents out time slots in frequency modulation (FM) stations to private broadcasters.</p>
+<p>It has a network of 172 full-fledged stations across India.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

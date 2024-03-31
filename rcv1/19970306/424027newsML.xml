@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="424027" id="root" date="1997-03-06" xml:lang="en">
+<title>EGYPT: Fire destroys fuel depots near Egyptian refinery.</title>
+<headline>Fire destroys fuel depots near Egyptian refinery.</headline>
+<dateline>CAIRO 1997-03-06</dateline>
+<text>
+<p>A fire destroyed at least one fuel depot near an Egyptian oil refinery on the outskirts of Cairo on Thursday and fire fighters have put out the blaze, the Egyptian oil ministry and rescue sources said.</p>
+<p>The oil ministry said the fire, which began at about 1300 GMT and raged for about three hours, started in a partially filled fuel tank in the petrochemical complex at Mostord, some 20 km (13 miles) outside Cairo.</p>
+<p>There were no reports of casualties but sources at the fire brigade said the blaze also spread to two other fuel depots.</p>
+<p>The petrochemical complex is operated by the state's Cairo Refining Company and includes one of the country's six public sector refining companies. The cause of the fire is as yet unknown.</p>
+<p>-- Cairo newsroom +202 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

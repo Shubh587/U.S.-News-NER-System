@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212671" id="root" date="1996-11-24" xml:lang="en">
+<title>USA: NFL AMERICAN FOOTBALL-SUNDAY'S RESULTS.</title>
+<headline>NFL AMERICAN FOOTBALL-SUNDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-11-24</dateline>
+<text>
+<p>Results of National Football</p>
+<p>League early games on Sunday (home team in CAPS):</p>
+<p> Jacksonville	28  BALTIMORE	  25 (OT)</p>
+<p> BUFFALO	     35  NY Jets	    10</p>
+<p> CHICAGO	     31  Detroit	    14</p>
+<p> CINCINNATI	  41  Atlanta	    31</p>
+<p> Carolina	    31  HOUSTON	     6</p>
+<p> San Diego	   28  KANSAS CITY	14</p>
+<p> Denver		21  MINNESOTA	  17</p>
+<p> NEW ENGLAND	 27  Indianapolis     13</p>
+<p> TAMPA BAY	   13  New Orleans	 7</p>
+<p> San Francisco     19  WASHINGTON	 16 (OT)</p>
+<p> Philadelphia	at  ARIZONA -- late game</p>
+<p> Dallas		at  NY GIANTS -- late game</p>
+<p> Oakland	     at  SEATTLE -- late game</p>
+<p> Green Bay	   at  ST LOUIS -- night game</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

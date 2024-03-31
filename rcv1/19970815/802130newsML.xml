@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802130" id="root" date="1997-08-15" xml:lang="en">
+<title>MEXICO: Eight die in Mexican helicopter crash.</title>
+<headline>Eight die in Mexican helicopter crash.</headline>
+<dateline>MEXICO CITY 1997-08-15</dateline>
+<text>
+<p>A Mexican federal police helicopter crashed and burst into flames on Friday, killing all eight passengers on board, the government said.</p>
+<p>The accident at 10:32 a.m. (1532 GMT) may have been caused by a fireworks rocket fired at a local fair, a radio report said.</p>
+<p>The crash took place in the district of Jiutepec in the central state of Morelos, the federal Ministry of Communications and Transport said in a statement.</p>
+<p>The accident killed the pilot and co-pilot as well as the federal highway police commander for the region.</p>
+<p>Also killed were the president of the Morelos state Investment Commission, his secretary and three cameramen from a private film production company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

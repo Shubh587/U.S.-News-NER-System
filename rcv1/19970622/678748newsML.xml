@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678748" id="root" date="1997-06-22" xml:lang="en">
+<title>USA: Emergency shutdown at Three Mile Island.</title>
+<headline>Emergency shutdown at Three Mile Island.</headline>
+<dateline>MIDDLETON, Pa. 1997-06-21</dateline>
+<text>
+<p>A loss of power caused an emergency shutdown on Saturday at the surviving reactor at Three Mile Island, site of the worst U.S. nuclear power plant accident two decades ago.</p>
+<p>A spokesman for General Public Utilities of Piscataway, New Jersey, which operates TMI Unit 1 for a utility syndicate, said the reactor's safety systems shut it down automatically at about 12:15 p.m EST (1615 GMT) when an exterior power outage disabled monitoring equipment.</p>
+<p>The plant shut down even though backup power sources quickly restored the monitors. It was not known how long it would be out of service, spokesman Ralph DeSantis said, noting that it generally took about 48 hours to bring the plant back on line.</p>
+<p>The plant released cooling system steam containing trace amounts of radioactivity, although DeSantis said the radioactivity was virtually unmeasurable once the steam condensed.</p>
+<p>The incident was categorized as &quot;an unusual event,&quot; the lowest of four alert levels set by the federal Nuclear Regulatory Commission. It was the first such incident at the Three Mile Island reactor in two years.</p>
+<p>Unit 2, crippled by a near meltdown March 28, 1979, is now encased in cement after a 14-year cleanup of melted fuel and reactor parts. The containment vessel held the superhot mixture, but the melted uranium rods contaminated thousands of gallons of cooling water.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDDLETON, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

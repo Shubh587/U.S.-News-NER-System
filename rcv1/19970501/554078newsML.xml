@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554078" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: North Cincinnati Q1 net profit vs loss.</title>
+<headline>North Cincinnati Q1 net profit vs loss.</headline>
+<dateline>CINCINNATI 1997-05-01</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr	 profit	 $0.13     loss	   N/A</p>
+<p> Net	 profit	    52     loss	    31</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE:  North Cincinnati Savings Bank said it converted from a mutual savings bank to a stock savings bank in April 1996 and hence, it did not have earnings per share for the first quarter of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

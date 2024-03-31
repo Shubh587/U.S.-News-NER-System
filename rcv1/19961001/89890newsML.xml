@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89890" id="root" date="1996-10-01" xml:lang="en">
+<title>DENMARK: Danish share data not updating on Reuter screens.</title>
+<headline>Danish share data not updating on Reuter screens.</headline>
+<dateline>COPENHAGEN 1996-10-01</dateline>
+<text>
+<p>A technical fault is preventing updating of Danish share prices on Reuter screens.</p>
+<p>The Copenhagen Stock Exchange said its internal systems were functioning without problems and the fault appeared to be in Reuter delivery systems.</p>
+<p>&quot;Our systems are working perfectly well, I imagine it is a Reuters system failure,&quot; a spokesman said.</p>
+<p>Reuter engineers said that the source was not yet clear.</p>
+<p>--Steve Weizman, Copenhagen newsroom +45 33 969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

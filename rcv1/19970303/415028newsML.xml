@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="415028" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Cisco launches low-density Ethernet switch.</title>
+<headline>Cisco launches low-density Ethernet switch.</headline>
+<dateline>SAN JOSE, Calif. 1997-03-03</dateline>
+<text>
+<p>Cisco Systems Inc on Monday said it expanded its Catalyst 1900 series of Ethernet workgroup switches with the introduction of a low-density version called Catalyst 1912.</p>
+<p>The switch delivers Cisco's Ethernet technology to smaller workgroups with high-performance LAN requirements.</p>
+<p>The Catalyst 1912 will become available in March and distributed through Cisco's resellers worldwide. The U.S. list price for the 14-port switch is $2,495.</p>
+<p>The product is being targeted at small and medium-sized businesses and branch offices of larger enterprises.</p>
+<p>The Catalyst 1912 is the first switch designed by Cisco to meet the needs of smaller workgroups with lower requirements for switching port density. The new fixed-configuration switch allows users to take advantage of high-speed applications and reduce server bottlenecks at a low cost.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

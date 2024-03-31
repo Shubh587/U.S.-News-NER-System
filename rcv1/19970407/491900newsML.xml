@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491900" id="root" date="1997-04-07" xml:lang="en">
+<title>UK: Goldman Sachs sets warrants on SBC.</title>
+<headline>Goldman Sachs sets warrants on SBC.</headline>
+<dateline>LONDON 1997-04-07</dateline>
+<text>
+<p>Goldman Sachs International has issued five million American-style call warrants, on Swiss Bank Corp, lead manager Goldman Sachs &amp; Co Bank said.</p>
+<p>Five warrants control one share.</p>
+<p> STRIKE PRICE    325.00 CHF		PREMIUM	16.02 PCT</p>
+<p> ISSUE PRICE     3.45 CHF		  GEARING	17.10 TIMES</p>
+<p> EXERCISE PERIOD 22.APR.97-21.AUG.98   PAYDATE	07.APR.97</p>
+<p> LISTING	   SWISS SE		  MIN EXER LOT 500</p>
+<p> SPOT REFERENCE  295.00 CHF</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39060" id="root" date="1996-09-07" xml:lang="en">
+<title>SOUTH AFRICA: RUGBY UNION-CURRIE CUP RESULTS.</title>
+<headline>RUGBY UNION-CURRIE CUP RESULTS.</headline>
+<dateline>JOHANNESBURG 1996-09-07</dateline>
+<text>
+<p>Currie Cup rugby union results on Saturday:</p>
+<p>Bloemfontein - Free State beat Western Province 25-16 (halftime 10-6).</p>
+<p>Wellington - Boland beat Western Transvaal 16-11 (11-6).</p>
+<p>Durban - Natal beat Eastern Province 53-9 (15-6).</p>
+<p>Brakpan - Northern Transvaal beat Eastern Transvaal 72-24 (25-10).</p>
+<p>Johannesburg - Transvaal beat South Eastern Transvaal 29-26 (13-21).</p>
+<p>Welkom (played Friday) - Northern Free State beat South Western Districts 67-19 (19-12).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

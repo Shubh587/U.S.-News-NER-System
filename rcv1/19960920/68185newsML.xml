@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68185" id="root" date="1996-09-20" xml:lang="en">
+<title>HONG KONG: Second powerful quake reported in Philippines.</title>
+<headline>Second powerful quake reported in Philippines.</headline>
+<dateline>HONG KONG 1996-09-20</dateline>
+<text>
+<p>Two strong earthquakes shook the southern Philippines on Friday, the Royal Hong Kong Observatory reported.</p>
+<p>It said one quake measuring 6.4 on the Richter scale shook an area 270 km (169 miles) east-southeast of Cebu island at 12.15 p.m. (0415 GMT). The observatory earlier reported the first quake in the same area with a strength of 6.2 at 8.07 a.m. (0007 GMT).  </p>
+<p>The epicentre of the latest quake was initially determined to be off the northeast coast of Mindanao, the observatory said.</p>
+<p>After the first quake, the Philippine Institute of Volcanology and Seismology said it did not expect any damage to be reported.</p>
+<p>The Philippines frequently experiences earthquakes, most of which cause little or no damage.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

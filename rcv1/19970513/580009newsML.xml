@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="580009" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: Digital sues Intel over patents.</title>
+<headline>Digital sues Intel over patents.</headline>
+<dateline>WORCESTER, Mass. 1997-05-13</dateline>
+<text>
+<p>Digital Equipment Corp said Monday it had filed suit against chip maker Intel Corp alleging patent infringement.</p>
+<p>In a suit filed in U.S. District Court, District of Massachusetts, Digital alleged that Intel had &quot;willfully infringed&quot; 10 Digital patents in making, using and selling microprocessor products, including its Pentium, Pentium Pro and Pentium II microprocessor families.  </p>
+<p>Intel was not immediately available for comment.</p>
+<p>Digital said it alleged in the suit that Intel's patent infringement had caused Digital economic injury that would cause irreparable harm if not stopped.</p>
+<p>Digital said it seeks an injunction, to prohibit Intel from using Digital's patented technology in its present and future microprocessor products, and monetary damages, including triple damages for alleged willful violation of patents.  </p>
+<p>Digital said the patents cited in its lawsuit protect its innovations in high-performance computing architecture and micro-processor technology. The patents relate to technologies -- cache management, branch prediction and high-speed instruction processing -- that are vital to state-of-the-art microprocessor design, it said.</p>
+<p>According to Digital, the patents were issued by the U.S. Patent and Trademark Office between 1988 and 1996.  </p>
+<p>&quot;Over the years, Digital has made substantial investments in developing computing architectures and microprocessor technology,&quot; said Chairman Robert Palmer. &quot;It is our duty to our shareholders, customers, partners and employees to protect our intellectual property rights and the benefits of our industry-leading research and development efforts.&quot;</p>
+<p>He said that as a result of the alleged infringement, &quot;Intel has strengthened its monopoly in the X86 market and is seeking to extend its monopoly to higher-performance microprocessors.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WORCESTER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

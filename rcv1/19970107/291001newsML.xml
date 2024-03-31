@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291001" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Most active stocks on NYSE and AMEX.</title>
+<headline>Most active stocks on NYSE and AMEX.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active shares on the New York and American stock exchanges in consolidated trading Tuesday.</p>
+<p>NYSE-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 7,250,000   TOYS R US CORP	  26 3/4  UP   5/8</p>
+<p> 6,907,000   AT &amp; T		    39	OFF  1/2</p>
+<p> 6,446,800   COMPUSA INC	     14 5/8  UP   3/4</p>
+<p> 6,392,300   SILICON GRAPHICS	25 1/8  OFF  1 3/4</p>
+<p> 5,800,600   TELEFONOS DE MEX	36 1/4  UP   3/8</p>
+<p> 5,737,000   WAL-MART STORES	 23 7/8  UP   1 5/8</p>
+<p> 5,228,600   HEALTHSOUTH CP	  39 1/2  OFF  1/2</p>
+<p> 4,841,400   FORD MOTOR CO	   33 1/2  UP   3/8</p>
+<p> 4,117,300   SANTA FE PAC GLD	15 1/4  UP   1</p>
+<p> 4,107,100   REPSOL S.A.	     39 1/8  UP   1 3/8</p>
+<p>AMEX-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 969,400   HARKEN ENERGY CP	3	 UP   1/16</p>
+<p> 917,600   S&amp;P DEPOS RECPTS	75 11/32UP   29/32</p>
+<p> 705,200   IVAX CORP		 10 7/8  UP   3/8</p>
+<p> 644,500   HASBRO INC		37 1/8  OFF  5/8</p>
+<p> 624,100   ECHO BAY MINES	  6 3/8   UP   5/16</p>
+<p> 607,000   AMDAHL CORP	     12	OFF  5/8</p>
+<p> 528,500   AIR AND WATER	   7 1/4   UP   3/4</p>
+<p> 455,700   VIACOM CL B	     35 1/8  UP   3/8</p>
+<p> 392,800   AMER LIST CORP	  22 7/8  OFF  7 1/4</p>
+<p> 358,300   TRANS WORLD AIR	 7 1/8   UNCH</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

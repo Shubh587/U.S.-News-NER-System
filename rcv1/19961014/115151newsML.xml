@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115151" id="root" date="1996-10-14" xml:lang="en">
+<title>FRANCE: Airbus says in talks with USAir for planes.</title>
+<headline>Airbus says in talks with USAir for planes.</headline>
+<dateline>PARIS 1996-10-14</dateline>
+<text>
+<p>European plane consortium Airbus Industrie confirmed on Monday it was in negotiations with USAir Group Inc to sell it passenger jets.</p>
+<p>&quot;We are in talks with USAir, as we are with other airlines and potential customers around the world,&quot; an Airbus spokeswoman said. She declined to give further details of the talks.</p>
+<p>The Wall Street Journal reported that USAir is considering buying up to 120 new jets worth more than $5 billion and has been talking to Airbus, Boeing and McDonnell Douglas.</p>
+<p>Airbus is a consortium made up of French state-owned Ste Nationale Industrielle Aerospatiale, British Aerospace Plc, Daimler-Benz Aerospace, a unit of Daimler-Benz AG and Construcciones Aeronauticas SA (CASA) of Spain.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

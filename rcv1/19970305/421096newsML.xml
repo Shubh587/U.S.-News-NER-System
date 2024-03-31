@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421096" id="root" date="1997-03-05" xml:lang="en">
+<title>EGYPT: Israel's prime minister leaves Egypt.</title>
+<headline>Israel's prime minister leaves Egypt.</headline>
+<dateline>CAIRO 1997-03-05</dateline>
+<text>
+<p>Israel's Prime Minister Benjamin Netanyahu left Egypt on Wednesday after talks with President Hosni Mubarak on the Middle East peace process.</p>
+<p>Airport sources reported the departure of Netanyahu, who failed to convince Egypt of his government's good intentions in Arab East Jerusalem, where Israel plans to build more houses for Jews in the disputed part of the city.</p>
+<p>The plan has been criticised as potentially damaging to the peace process between Arabs and the Jewish state.</p>
+<p>The visit was Netanyahu's second to Egypt since he took office last June and his first since Israel and the Palestinians signed an agreement on the West Bank town of Hebron in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210066" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Smith Barney sees below normal temps in most of US.</title>
+<headline>Smith Barney sees below normal temps in most of US.</headline>
+<dateline>NEW YORK 1996-11-22</dateline>
+<text>
+<p>Smith Barney meteorologist Jon Davis forecasted temperatures to be six to 12 degrees below normal from the U.S. Rocky Mountain region to the East Coast through the end of the month.</p>
+<p>Heating oil prices on the New York Mercantile Exchange gained almost two cents on Thursday on forecasts for colder temperatures through much of the United States by several weather services.</p>
+<p>The National Weather Service's six to 10 day forecast called for below normal temperatures for the Northeast, the largest heating oil market in the world.</p>
+<p>Weather Services Corp forecasted temperatures will be four to eight degrees below normal Tuesday and Wednesday in the northeast region and possibly to 10 to 15 degrees below normal by Thursday and Friday of next week.</p>
+<p>-- New York Energy Desk, 212-859-1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

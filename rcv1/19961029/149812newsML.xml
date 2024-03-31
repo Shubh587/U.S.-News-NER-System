@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149812" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Cardinal names John Penn president, CEO.</title>
+<headline>Cardinal names John Penn president, CEO.</headline>
+<dateline>LEXINGTON, Ky. 1996-10-29</dateline>
+<text>
+<p>Cardinal Bancshares Inc said on Tuesday it has elected John Penn president and chief executive officer.</p>
+<p>Penn, who was president and chief operating officer, replaces James Mahan III as Cardinal's chief executive officer, Cardinal said.</p>
+<p>Mahan resigned to comply with a Federal Reserve System requirement that Cardinal and Security First Network Bank, an Internet bank that was spun off by Cardinal, terminate management and director interlocks, Cardinal said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

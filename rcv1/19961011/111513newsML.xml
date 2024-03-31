@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111513" id="root" date="1996-10-11" xml:lang="en">
+<title>UK: UK 1996 cereals harvest estimated sharply higher.</title>
+<headline>UK 1996 cereals harvest estimated sharply higher.</headline>
+<dateline>LONDON 1996-10-11</dateline>
+<text>
+<p>The UKs 1996 cereal harvest will total 24.4 million tonnes according to the Ministry of Agriculture's (MAFF) first estimate of the harvest.</p>
+<p>This was well up on 1995s 21.9 million tonnes and was partly due to the further reduction to 10% in the rate of obligatory set-aside for crops, the MAFF notice said.  </p>
+<p>Wheat yields (tonnes per hectare) were provisionally estimated to be about five percent up on last year whilst the area sown increased, also by five percent.</p>
+<p>Barley yields were nearly nine percent higher and the cropped area increased by around five percent, MAFF said.</p>
+<p>The production estimates for individual cereals, adjusted to reflect an average moisture content of 14 percent were, in million tonnes -</p>
+<p>    Wheat			 15.9     14.3</p>
+<p>    Barley			 7.9	6.8</p>
+<p>    Oats/other Cereals	 0.7	0.6</p>
+<p>    TOTAL (after rounding)  24.4     21.9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411586" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: SmithKline associates survive plane crash.</title>
+<headline>SmithKline associates survive plane crash.</headline>
+<dateline>ATLANTA 1997-02-27</dateline>
+<text>
+<p>SmithKline Beecham Clinical Laboratories said Thursday that the pilot and copilot of a private airplane owned by the company survived a plane crash at Calhoun Airport outside Atlanta.</p>
+<p>Both are SmithKline associates.</p>
+<p>According to the company, the plane was carrying diagnostic specimens to its Atlanta laboratory for medical testing.</p>
+<p>SmithKline said that company representatives are enroute to collect the specimens from the crash site and that the specimens pose no threat to public safety or health.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

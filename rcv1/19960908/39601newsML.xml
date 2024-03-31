@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39601" id="root" date="1996-09-08" xml:lang="en">
+<title>USA: PP&amp;L Susquehanna unit in refueling outage.</title>
+<headline>PP&amp;L Susquehanna unit in refueling outage.</headline>
+<dateline>NEW YORK 1996-09-08</dateline>
+<text>
+<p>Pennsylvania Power and Light Co said its operators shut down the Unit One reactor at the Susquehanna nuclear power plant Saturday to begin the unit's ninth refueling and maintenance outage.</p>
+<p>The outage is expected to take about five weeks, and about 30 percent of the unit's uranium fuel will be replaced, the company said in a statement released over the weekend.</p>
+<p>Among the projects to be done while the unit is shut down is an inspection of one of its three low-pressure turbines, the company said.</p>
+<p>--New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

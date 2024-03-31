@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647475" id="root" date="1997-06-09" xml:lang="en">
+<title>PAKISTAN: Karachi stock market capitalisation falls.</title>
+<headline>Karachi stock market capitalisation falls.</headline>
+<dateline>KARACHI, Pakistan 1997-06-09</dateline>
+<text>
+<p>The Karachi Stock Exchange said on Monday that market capitalisation of listed firms had fallen to 465.745 billion rupees in May from 467.652 billion in April.</p>
+<p>						May	  April  Listed</p>
+<p>capital (bln rupees)	   206.457    204.458  Market</p>
+<p>capitalisation (bln rupees)  465.745    467.652  Turnover of</p>
+<p>shares (million)	  775.944    931.362  KSE 100 index</p>
+<p>(points)		1,507.96   1,538.82  KSE all share index</p>
+<p>(points)	  938.75     943.73</p>
+<p>($1 = 40.49 rupees)</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="385628" id="root" date="1997-02-18" xml:lang="en">
+<title>MOROCCO: Morocco and Spain linking electricity grids.</title>
+<headline>Morocco and Spain linking electricity grids.</headline>
+<dateline>RABAT 1997-02-18</dateline>
+<text>
+<p>Morocco and Spain began installing a high-tension power line linking the two countries, Morocco's electricity utility said on Tuesday.</p>
+<p>Office National de l'Electricite (ONE) said in a statement the cable had been fixed on the Moroccan side in Ferdioua, near the northern city of Tangier and would reach the Spanish town of Tarifa.</p>
+<p>ONE said the network would be operational by September 1997.</p>
+<p>Clashes between police and those opposed to the cable erupted last week in Tarifa, on Spain's southern coast. The environmental group Greenpeace said Spain wanted to export excess electricity to Morocco rather than cut production of &quot;dirty&quot; energy from coal and nuclear plants.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

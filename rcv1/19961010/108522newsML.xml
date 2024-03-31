@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108522" id="root" date="1996-10-10" xml:lang="en">
+<title>FRANCE: France expels Romanian, Cape Verdian immigrants.</title>
+<headline>France expels Romanian, Cape Verdian immigrants.</headline>
+<dateline>PARIS 1996-10-10</dateline>
+<text>
+<p>France expelled on Thursday 38 Romanians and six citizens of the Cape Verde islands who lacked residency papers, the Interior Ministry announced on Thursday.</p>
+<p>The Romanians were flown home to Bucharest on a charter aircraft while the Cape Verdians were taken home on scheduled flights, the ministry said in a statement.</p>
+<p>France has deported 17,706 illgeal immigrants since May 1995 when President Jacques Chirac took office, the statement said.</p>
+<p>This year's expulsions are running 18 percent ahead of the 1995 pace, it said.</p>
+<p>Illegal immigration is a hot issue in France, where unemployment rose to a record 12.6 percent in August and the extreme-right National Front has gained strength in recent elections on a pledge to eject millions of immigrants including even legal residents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CVI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

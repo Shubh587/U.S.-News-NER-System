@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50255" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: IBM unveils real-time speech software.</title>
+<headline>IBM unveils real-time speech software.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>International Business Machines Corp on Thursday introduced speech-recognition software designed to allow radiologists to dictate and edit patient reports directly into personal computers.</p>
+<p>The system, MedSpeak/Radiology, has a vocabulary of 25,000 words and an accuracy rate of over 95 percent, IBM said.</p>
+<p>It is the first real-time continuous-speech product in IBM's new VoiceType family of speech-recognition products.</p>
+<p>Continuous-speech refers to dictating in a normal speaking pattern. Most voice-recognition systems require users to speak slowly, with many pauses, in what is called &quot;discreet speech.&quot;  </p>
+<p>Researchers at IBM's Thomas Watson Research Center developed the system by working with radiologists from Memorial Sloan-Kettering Cancer Center in New York and Massachusetts General Hospital in Boston.</p>
+<p>&quot;For those familiar with older voice-recognition systems, MedSpeak/Radiology represents a quantum leap forward,&quot; said Dr. Lawrence Schwartz of the Department of Radiology at Memorial Sloan-Kettering.</p>
+<p>The system requires a personal computer with a PentiumPro processor running at a speed of 200 megahertz and Microsoft Corp's Windows NT operating system software.  </p>
+<p>IBM said that by using the system, which is made up of software and a noise cancellation microphone, radiologists can work more efficiently and cut healthcare costs.</p>
+<p>Typically, a radiologist, who interprets x-rays, MRIs and CAT scans, dictates patient information into a tape recorder. The tape is later transcribed by a typist, and then reviewed by the radiologist.</p>
+<p>The MedSpeak system reduces the turnaround time and transcription costs and increases patient confidentiality, IBM said.</p>
+<p>No special training of the software is required for most native North American English speakers, but users will benefit from a 12- to 15-minute training session with the system, the company said.</p>
+<p>The Medpseak/Radiology system with a handheld microphone costs $4,495, and with a headset microphone is $4,395.</p>
+<p>The system will be available from IBM and its business partners in the U.S. and Canada starting September 17.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

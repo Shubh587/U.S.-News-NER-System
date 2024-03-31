@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54367" id="root" date="1996-09-15" xml:lang="en">
+<title>SPAIN: MOTORCYCLING-CHECA WINS CATALONIAN 500CC GRAND PRIX.</title>
+<headline>MOTORCYCLING-CHECA WINS CATALONIAN 500CC GRAND PRIX.</headline>
+<dateline>MONTMELO, Spain 1996-09-15</dateline>
+<text>
+<p>Carlos Checa of Spain, riding a Honda, won the Catalonian Grand Prix 500cc event on Sunday.</p>
+<p>Australian Michael Doohan on a Honda came second and Alex Criville of Spain, also on a Honda, finished third.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTMELO, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

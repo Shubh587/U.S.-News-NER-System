@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139160" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Repligen Corp Q2 profit $0.02 vs loss.</title>
+<headline>Repligen Corp Q2 profit $0.02 vs loss.</headline>
+<dateline>NEEDHAM, Mass. 1996-10-24</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		 $0.02     loss	$ 0.06</p>
+<p> Net profit		   258     loss	   934</p>
+<p> Avg shrs		  15,603		   15,359</p>
+<p>	   6 MONTHS</p>
+<p> Shr loss		   $0.01     loss	 $0.23</p>
+<p> Net loss		     211     loss	 3,573</p>
+<p> Avg shrs		  15,602		   15,359</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Period ended Sept 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEEDHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

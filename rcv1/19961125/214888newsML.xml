@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214888" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 25-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 25-NOV.</headline>
+<text>
+<p>Tropical Cyclone 06P, with 50 mph winds, is in the Coral Sea north of New Caledonia. This system is weakening and will likely be dissipated over open waters north of New Caledonia by 24-48 hours. This system is a moderate risk to shipping.  </p>
+<p>Tropical Cyclone 07S, with 40 mph winds, is in the Southern Indian Ocean near 7.4s/86.5e, tracking west southwest at 20 mph. Tropical Cyclone 07S is expected to steadily intensify while moving west southwestward to southwestward during the next 48 hours. By then, top winds should be near 75 mph. This system will be a threat only to shipping.  </p>
+<p>Tropical Depression Marco continues to move westward in the Caribbean about 170 miles south-southeast of Grand Cayman Island at about 12 mph. Marco will continue to weaken this period and will be a moderate threat to boating and shipping in the region at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

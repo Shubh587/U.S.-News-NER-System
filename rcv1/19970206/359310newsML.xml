@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="359310" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Chemed Corp earnings summary.</title>
+<headline>Chemed Corp earnings summary.</headline>
+<dateline>CINCINNATI 1997-02-06</dateline>
+<text>
+<p>Three months ended December 31</p>
+<p>			    1996		     1995</p>
+<p> Shr		 $    1.01(a)    $	0.41</p>
+<p> Net		     9,979(a)	    4,041</p>
+<p> Oper revs	   172,170	     174,409</p>
+<p> Avg shrs		9,850		 9,848</p>
+<p>				    Year ended</p>
+<p>			    1996		     1995</p>
+<p> Shr		 $    3.29(b)    $   2.35(c)</p>
+<p> Net		    32,328(b)	23.182(c)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

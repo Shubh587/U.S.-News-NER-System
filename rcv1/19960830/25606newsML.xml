@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25606" id="root" date="1996-08-30" xml:lang="en">
+<title>JAPAN: Kansai Electric reactor back on line.</title>
+<headline>Kansai Electric reactor back on line.</headline>
+<dateline>TOKYO 1996-08-30</dateline>
+<text>
+<p>Kansai Electric Power Co Inc said on Friday it restarted a 1.18 million kilowatt reactor at its Oi plant on the Sea of Japan on Thursday evening.</p>
+<p>Power generation at the reactor is expected to resume at around noon on Friday, a spokesman for Kansai Electric said.</p>
+<p>The power utility shut down the pressurised light-water reactor on August 25 due to an unusual rise in the temperature of a pump circulating coolant.</p>
+<p>The firm later found out the temperature rise occured because a tiny piece of metal partly clogged a valve and cut the supply of water for cooling lubricant oil in the pump.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

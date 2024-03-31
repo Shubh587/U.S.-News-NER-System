@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180756" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Toyota designs car with cheaper motor - WSJ.</title>
+<headline>Toyota designs car with cheaper motor - WSJ.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>Toyota Motor Corp will introduce a car in Japan next month that will be equipped with an engine that costs a third less to produce, the Wall Street Journal reported on Monday.</p>
+<p>The newspaper said the company was not disclosing any details about the new car except that it had a third fewer parts to it.</p>
+<p>It said Ryuji Araki, the company's finance director, had confirmed that Toyota was looking at axles, transmissions and other parts of a car in an effort to further reduce production costs.</p>
+<p>The newspaper said industry experts speculated that the new car probably only had an old push-rod engine compared to the overhead-cam technology engine found in most vehicles today.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

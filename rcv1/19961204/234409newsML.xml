@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234409" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Johnson Controls denies merger firm's claim.</title>
+<headline>Johnson Controls denies merger firm's claim.</headline>
+<dateline>CHICAGO 1996-12-04</dateline>
+<text>
+<p>Johnson Controls Inc on Wednesday denied allegations made in a suit that the company failed to pay standard fees to a merger specialist firm for assisting it in acquiring Prince Automotive in October.</p>
+<p>A spokeswoman told Reuters the company will vigorously defend itself against the suit filed in Milwaukee County Circuit Court by  Corporate Development Associates Inc of Hilton Head, S.C.</p>
+<p>She said Johnson Controls dealt directly with Holland, Mich.-based Prince Automotive rather than any intermediary.</p>
+<p>The Milwaukee Journal Sentinel, quoting Corporate Development president James Anderson, said his company's standard fee would have amounted to $7.25 million if Anderson had seen the deal all the way through.</p>
+<p>Johnson Controls manufactures building control systems and automotive products.</p>
+<p>((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34320">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

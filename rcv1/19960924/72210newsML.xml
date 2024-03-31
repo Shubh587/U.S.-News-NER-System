@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72210" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Guidant begins congestive heart failure study.</title>
+<headline>Guidant begins congestive heart failure study.</headline>
+<dateline>INDIANAPOLIS 1996-09-24</dateline>
+<text>
+<p>Guidant Corp said Tuesday it started a clinical study to evaluate the use of a new implantable device system designed specifically for treatment of congestive heart failure.</p>
+<p>The first patient enrolled in the study received Guidant's new VIGOR CHF system.</p>
+<p>Developed by CPI, part of Guidant's Cardiac Rhythm Management group, the VIGOR CHF system is designed to stimulate both of the lower chambers of the heart in a way that enhances the heart's pumping efficiency.</p>
+<p>Conventional pacing systems stimulate the right side of the heart and rely on the heart's normal conduction system to transfer that pulse to the left side of the heart, it added.</p>
+<p>The first patient in the Guidant study was implanted last week at the University of California San Francisco. The patient was a 50-year-old male with severe congestive heart failure and nonischemic cardiomyopathy.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

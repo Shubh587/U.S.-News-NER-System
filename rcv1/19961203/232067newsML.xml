@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="232067" id="root" date="1996-12-03" xml:lang="en">
+<title>GREECE: GNN ECONOMETRICS GUIDE - SEASONAL ADJUSTMENT METHOD X-11.</title>
+<headline>GNN ECONOMETRICS GUIDE - SEASONAL ADJUSTMENT METHOD X-11.</headline>
+<dateline>ATHENS 1996-12-03</dateline>
+<text>
+<p>A brief discussion of seasonal adjustment techniques, especially the X-11 method used by the U.S Census Bureau of the U.S Commerse Department follows:</p>
+<p>Seasonal adjustment techniques are ad hoc methods of computing seasonal indices and using them to deseasonalise the data by removing seasonal variations.</p>
+<p>Seasonality is a cyclical behaviour that occurs on a regular calendar basis.</p>
+<p>In many seasonal adjustment methods, a time series is assumed to be the product (multiplicative) or the sum (additive) of a trend component, a cyclical component, a seasonal component and an irregular component. Sometimes, the trend and cyclical components are being blended.</p>
+<p>Rules of thump: Additive decomposition of a series is applied when seasonal variations are independent of the level of the data. Multiplicative decomposition of a series is applied when seasonal variations are proportional to the level of the data.</p>
+<p>Some commonly known methods:</p>
+<p>1) Ratio-to-moving average</p>
+<p>2) Percentage of annual average method</p>
+<p>3) Dummy variables</p>
+<p>4) X-11 method and its variants such as the X-11 ARIMA employed by Statistics Canada.</p>
+<p>5) SABL procedure used by Bell Laboratories</p>
+<p>DUMMY VARIABLES</p>
+<p>It assumes that there are fixed seasonal patterns over time. Steps: Run regression on dummies and check if coefficients of dummies are statistically significant. If yes, substract the coefficient from the dependent and independent variables of the regression and run the regression again using the transformed data.</p>
+<p>X-11 METHOD</p>
+<p>It is the most widely used method in practice developed by Shiskin and his colleagues at the U.S. Census Bureau of the U.S Commerce Department. It is the one used by Reuters to calculate seasonally adjusted figures for Greek M3 and M4.</p>
+<p>X-11 uses a graduated method for outliers, that is extreme observations, where observations above the upper limit set by an econometrician are dropped and observations between lying between the upper and lower limits are given partial weight.</p>
+<p>X-11 uses several types of centered moving averages to deseasonalise the time series thus inducing no phase shift in the data, that is no tendency to lead or lag the original data.</p>
+<p>X-11 produces a final seasonally adjusted series which consists of the trend cycle and irregular components.</p>
+<p>ARIMA X-11 VARIANT</p>
+<p>It applies the X-11 algorithm to a time series expanded with forecasts produced by an ARIMA (Box-Jenkins) model.</p>
+<p>SABL PROCEDURE (developed and used by Bell Labs) It makes heavy use of graphical analysis and uses moving medians instead of moving averages to extract the seasonal component.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

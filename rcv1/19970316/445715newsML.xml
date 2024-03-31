@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="445715" id="root" date="1997-03-16" xml:lang="en">
+<title>EGYPT: 15 drown when minibus falls in Egyptian canal.</title>
+<headline>15 drown when minibus falls in Egyptian canal.</headline>
+<dateline>CAIRO 1997-03-16</dateline>
+<text>
+<p>Fifteen Egyptians drowned on Sunday when a minibus went off the road and fell into an irrigation canal south of Cairo, a government newspaper said.</p>
+<p>The driver and three passengers were injured in the accident, which took place on the outskirts of the Nile valley town of Beni Suef, the newspaper al-Akhbar reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

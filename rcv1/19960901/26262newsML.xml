@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26262" id="root" date="1996-09-01" xml:lang="en">
+<title>UK: London Kurds demonstrate for peace.</title>
+<headline>London Kurds demonstrate for peace.</headline>
+<dateline>LONDON 1996-09-01</dateline>
+<text>
+<p>About 1,500 Kurds living in London demonstrated for peace on Sunday in a protest made timely by an upsurge of violence in northern Iraq.</p>
+<p>The Peace in Kurdistan festival had been scheduled anyway, but took on extra significance amid reports that Iraqi President Saddam Hussein's troops had moved into rebel Kurd-held areas.</p>
+<p>The demonstrators, carrying Kurdish flags and placards reading &quot;Saddam's Troops out of Kurdistan,&quot; chanted &quot;Long Live Kurdistan&quot; and danced to traditional folk music during the rally in central London.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

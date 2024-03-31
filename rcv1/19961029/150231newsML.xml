@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150231" id="root" date="1996-10-29" xml:lang="en">
+<title>VENEZUELA: Venezuelan students clash with police.</title>
+<headline>Venezuelan students clash with police.</headline>
+<dateline>CARACAS 1996-10-29</dateline>
+<text>
+<p>University students hurling firebombs and rocks clashed with police on Tuesday in central Caracas during a protest against the government's austerity economic policies.</p>
+<p>The incident took place at the end of a peaceful demonstration by about 1,000 people as marchers neared Congress, witnesses said. One national guard and a female television journalist were slightly hurt. There were no immediate reports of arrests.</p>
+<p>Led by the rector of Venezuela's largest university, the protesters shouted slogans denouncing an International Monetary Fund-inspired economic package which they blamed for &quot;starvation&quot; among poorer Venezuelans.</p>
+<p>The brief disturbances forced the postponement of a congressional debate on a key privatisation bill because of a lack of quorum.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

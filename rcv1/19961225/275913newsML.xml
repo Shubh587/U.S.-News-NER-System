@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275913" id="root" date="1996-12-25" xml:lang="en">
+<title>MALI: Mali's president visits Algeria, Libya.</title>
+<headline>Mali's president visits Algeria, Libya.</headline>
+<dateline>BAMAKO 1996-12-25</dateline>
+<text>
+<p>Mali's President Alpha Oumar Konare left Bamako on Wednesday for official visits to Algeria and Libya, officials said.</p>
+<p>He was scheduled to go first to Algeria for bilateral talks with President Liamine Zeroual before going on to Libya for his fourth official visit.</p>
+<p>Libya's prime minister, Abdelmajid al-Gu'ud visited Mali last month and praised Mali's diplomatic efforts to try to end a United Nations embargo on Libya for alleged involvement in international terrorism.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAMAKO"/>
+<dc element="dc.creator.location.country.name" value="MALI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

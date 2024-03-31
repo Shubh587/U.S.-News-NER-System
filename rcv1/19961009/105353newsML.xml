@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105353" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Wednesday.</p>
+<p>  Intel Corp	  13,107,400	 100 7/8    off    3/4</p>
+<p>  Tele Comm Inc A   6,769,700	 13 5/8     off    1/2</p>
+<p>  Iomega Corp	 5,427,800	 23 1/8     off    1/2</p>
+<p>  Cisco Systems     5,356,100	 64 3/8     up     1/8</p>
+<p>  Intel Corp Ws     5,260,100	 62	   off    1 1/8</p>
+<p>  Arakis Energy     5,200,400	 3 23/32    off    7/16</p>
+<p>  Electroglas	 4,931,900	 13 3/8     off    1/4</p>
+<p>  Atmel Corp	  4,916,900	 34 1/8     up     1 5/8</p>
+<p>  Lason Inc	   4,691,800	 19 3/4     up     2 3/4</p>
+<p>  Applied Matl	4,498,900	 29 1/4     up     1 1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

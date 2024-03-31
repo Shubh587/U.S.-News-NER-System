@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278022" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: Mitsubishi Electric unit forms new company.</title>
+<headline>Mitsubishi Electric unit forms new company.</headline>
+<dateline>MT. PROSPECT, Ill. 1996-12-27</dateline>
+<text>
+<p>Mitsubishi Electric Corp said Friday its Mitsubishi Electric America division will merge three units to form Mitsubishi Electric Automation Inc.</p>
+<p>The three businesses that will make up the company include Mitsubishi Electric Industrial Controls, the Industrial Automation division and the Automated Sewing Application Products unit, Mitsubishi said.</p>
+<p>The new entity will make automation products for several industries at manufacturing and training facilities in Vernon Hills, Illinois.</p>
+<p>Mitsubishi Electric makes controllers, PC-based control systems, AC drives and motor packages for several industries.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MT. PROSPECT, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

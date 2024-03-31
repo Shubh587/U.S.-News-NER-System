@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235555" id="root" date="1996-12-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Two dead in Melbourne city shooting.</title>
+<headline>RTRS-Two dead in Melbourne city shooting.</headline>
+<dateline>MELBOURNE 1996-12-04</dateline>
+<text>
+<p>Two people were killed and a third person critically injured in a shooting in a city building here on Wednesday, police said.</p>
+<p>The shooting occured shortly after midday (0100 GMT) on the eighth floor of the building in the city centre, a police spokesman told Reuters.</p>
+<p>Unconfirmed reports suggested the shooting took place in a suite used by a jeweller and that a fourth person may also have been assaulted, police said.</p>
+<p>Police said they had cordoned off the eighth floor of the building and were searching for the gunman.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

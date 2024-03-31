@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162770" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Continental Air flight cut short by cabin smoke.</title>
+<headline>Continental Air flight cut short by cabin smoke.</headline>
+<dateline>HOUSTON 1996-11-04</dateline>
+<text>
+<p>A Continental Airlines jet bound for Los Angeles returned to Houston 15 minutes after takeoff on Monday when the cabin filled with smoke, an airline spokeswoman said.</p>
+<p>None of the 139 passengers or five crew members on the McDonnell-Douglas 80 was hurt in the incident, said Continental spokeswoman Sara Anthony.</p>
+<p>Anthony said the pilot did not declare an emergency and the plane made a routine landing. &quot;It was basically nothing,&quot; she said.</p>
+<p>The cause of the smoke was being investigated, Anthony said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

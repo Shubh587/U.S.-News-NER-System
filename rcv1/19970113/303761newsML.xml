@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303761" id="root" date="1997-01-13" xml:lang="en">
+<title>CYPRUS: Earthquake shakes Cyprus, felt as far as Israel.</title>
+<headline>Earthquake shakes Cyprus, felt as far as Israel.</headline>
+<dateline>NICOSIA 1997-01-13</dateline>
+<text>
+<p>An earthquake measuring 5.8 on the Richter scale hit the eastern Mediterranean island of Cyprus at noon on Monday, shaking tall buildings, geologists said.</p>
+<p>There were no immediate reports of casualties or damage in the quake, which was felt as far away as the Israeli coastal city of Tel Aviv.</p>
+<p>&quot;The earthquake measured 5.8 on the Richter scale with an epicentre of 50 kilometres south west of Paphos,&quot; a Geological Service Department official told Reuters.</p>
+<p>The Israel Seismology institute reported the quake measured 6.3 on the Richter scale. It was felt at 12.19 (1019 GMT) and lasted around 30 seconds in Cyprus.</p>
+<p>Geologists described the tremor as an aftershock of a more powerful one measuring 6.5 on the Richter scale which struck on October 9 off the western coastal resort of Paphos. Aftershocks have been felt frequently since then.</p>
+<p>&quot;It is in the same seismological region. It was a big one (tremor) but it was an aftershock,&quot; the official added.</p>
+<p>Cyprus radio correspondents said the tremor was strongest in Limassol and Paphos and felt to a lesser extent in the capital Nicosia.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489687" id="root" date="1997-04-06" xml:lang="en">
+<title>CANADA: Plugged In: Leaving fingerprints in cyberspace.</title>
+<headline>Plugged In: Leaving fingerprints in cyberspace.</headline>
+<byline>Russell Blinch</byline>
+<dateline>TORONTO</dateline>
+<text>
+<p>Holding your hand up to a scanner to gain entry to a room or building is the stuff of science fiction legend and perhaps one day will gain widespread use.</p>
+<p>But a small Toronto-based company has already developed technology where the hand, or more specifically, the fingerprint, may be used to unlock the doors to safe electronic commerce on the Internet.</p>
+<p>Much work has already been done on new encryption and security schemes to keep the hackers at bay and to enhance the confidence of surfers.</p>
+<p>And it appears the concept of plunking down plastic to buy products online is catching on. Dell Computer Corp. (www.dell.com) recently announced it was bringing in a staggering $1 million a day from its Web site selling its computers online.</p>
+<p>Not everyone, however, is comfortable with sending credit card numbers out into cyberspace. A new North American study by CommerceNet and Nielsen Media Research (www.nielsenmedia.com) found that while while 73 percent of Web surfers spend some of the time window shopping on the Net, only 15 percent actually buy anything.</p>
+<p>The reason? Internet security remains the big concern, according to the study.</p>
+<p>One company looking to enhance the confidence level of online commerce and gaining some big interest from financial and computer companies in the process is Toronto-based Mytec Technologies Inc. (www.mytec.com). It has come up with a patented fingerprint verification system based on what it calls &quot;optical computing techniques.&quot;</p>
+<p>Mytec employs &quot;Biometric Encryption&quot; which uses a finger print as a way of scrambling a person's vital personal information numbers. Using the company's technology, an optical computer could be installed in a mouse, on a keyboard, or even somewhere on a bank machine, that would be used to make a positive read of a person's individual finger print.</p>
+<p>The company believes a key selling point in the technology is that the actual fingerprint is not used in allowing the transaction to proceed. The correct fingerprint is only used to allow release of a special &quot;bioscript&quot; that can be employed to complete various kinds of transactions.</p>
+<p>&quot;Bioscript&quot; is derived from combining the word &quot;biometric signature encryption.&quot; Meanwhile, the Bioscrypt, the company maintained, is a random pattern that cannot be converted back to the original fingerprint.</p>
+<p>The optical computer processes information by changing the shape of the wave front of light. The company believes an optical computer can read complex patterns some one billion times faster than, say, an off-the-shelf Pentium chip.</p>
+<p>To buy a book online in the future, you could imagine touching your finger on an optical device on your mouse to release an encrypted version of your credit card number to an online merchant. The merchant would send the encrypted number to the credit card association, which would use its proprietary pattern to release a secret key, unravel the credit card number and validate the purchase.</p>
+<p>&quot;The process is very convenient and easy to process,&quot; said Dennis Hollingshead, co-founder and president of Mytec. &quot;The user will find this type of service virtually seamless.&quot;</p>
+<p>It is important to note that any lurking sharks on the Internet or the merchant would not see the actual credit card number and the encrypted information would be useless without positive matching of a finger pattern.</p>
+<p>Hollingshead said Compaq Computer Corp. is considering implementing the device on its keyboards and will make a decision later this year on whether to proceed. Mytec is also receiving strong interest from a number of financial companies keen on boosting security of their electronic payment systems.</p>
+<p>The company hopes to release its own first commercial optical computing device by the fourth quarter of this year. It will likely be size of a keyboard, cost under $1,000, and connect to a serial port of a personal computer.</p>
+<p>&quot;It will get smaller,&quot; Hollingshead promised.</p>
+<p>--For ideas or comments on the weekly Plugged In column contact: russell.blinch(at)reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

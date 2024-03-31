@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35900" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Men's Wearhouse Aug sales rise.</title>
+<headline>Men's Wearhouse Aug sales rise.</headline>
+<dateline>FREMONT, Calif. 1996-09-05</dateline>
+<text>
+<p>Percent change</p>
+<p>	   Aug 31,1996     Sept 2, 1995     Total     Same-Store</p>
+<p>Month	  $    30.0 $     25.8	16.1	  0.8</p>
+<p>Year-to-date $   232.6 $    194.1	19.8	  3.7</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Full company name is Men's Wearhouse Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

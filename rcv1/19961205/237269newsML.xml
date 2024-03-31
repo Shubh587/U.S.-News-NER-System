@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237269" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Trimble introduces agricultural system.</title>
+<headline>Trimble introduces agricultural system.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-05</dateline>
+<text>
+<p>Trimble Navigation Co Thursday said it introduced its FieldGuide precision agricultural system, designed to improve data capture, field mapping and site-specific application of agricultural chemicals.</p>
+<p>The system may be installed in agricultural vehicles, allowing agribusiness, agronomic consultants and producers to use precise Global Positioning System (GPS) data in the field, said Trimble.</p>
+<p>The company makes products that use GPS technology for a wide range of applications, including land and hydrographic surveying, mapping, aviation and marine navigation.</p>
+<p>((Chicago newsdesk (12) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

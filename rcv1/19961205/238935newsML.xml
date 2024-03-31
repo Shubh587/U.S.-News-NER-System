@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238935" id="root" date="1996-12-05" xml:lang="en">
+<title>GERMANY: Buba says will not hold press conference.</title>
+<headline>Buba says will not hold press conference.</headline>
+<dateline>FRANKFURT 1996-12-05</dateline>
+<text>
+<p>The Bundesbank said on Thursday that it would not hold a press conference after its regular council meeting.</p>
+<p>All 10 economists polled by Reuters said they expected the central bank to keep all its interest rates on hold at the meeting.</p>
+<p>But three of the 10 said they expected the Bundesbank to free securities repurchase agreements, or repos, from minimum reserve requirements.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

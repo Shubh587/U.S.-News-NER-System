@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130915" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: U.S. inspection destinations for wheat/corn/barley.</title>
+<headline>U.S. inspection destinations for wheat/corn/barley.</headline>
+<dateline>WASHINGTON 1996-10-21</dateline>
+<text>
+<p>USDA said the 20.419 million bushels wheat, 26.841 million bushels of corn and 394,000 bushels of barley inspected in the week to Oct 17 included the following destinations (1,000 bu):</p>
+<p>WHEAT:</p>
+<p>St. Lawrence Seaway to Egypt 2,122; Spain 1,191.</p>
+<p>Lakes to Italy 630.</p>
+<p>Gulf to Barbados 50; Bosnia-Herzegovina 919; Colombia 176; Ecuador 643; Egypt 3,858; Honduras 354; Jamaica 294; Kyrgyzstan 257; Mexico 243; Nigeria 309; Peru 482; St Vincent 231; Surinam 108; Zaire 308.  </p>
+<p>CORN:</p>
+<p>Atlantic to Surinam 63.</p>
+<p>Gulf to Algeria 649; Barbados 149; Cape Verde 283; Taiwan 4,133; Colombia 2,321; Dominican Republic 613; Egypt 4,373; Israel 1,279; Jamaica 400; Japan 6,201; Jordan 1,968; South Korea 2,149; Mexico 1,494; Peru 200; Trinidad 162.</p>
+<p>BARLEY:</p>
+<p>Atlantic to Saudi Arabia 394.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463608" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: AMEX's Year 2000 index fills void but interest low.</title>
+<headline>AMEX's Year 2000 index fills void but interest low.</headline>
+<byline>Gregory Crawford</byline>
+<dateline>CHICAGO 1997-03-24</dateline>
+<text>
+<p>The American Stock Exchange (AMEX) has moved to fill a void with its recently launched de Jager Year 2000 index, but options strategists and traders said they wondered whether the new product would draw much interest.</p>
+<p>The index comprises stocks of 18 companies that are involved in solving the problem of the &quot;millennium bug&quot; which could lead to global computer glitches on January 1, 2000.</p>
+<p>The problem arises because many existing software programs use only the last two digits of a year to specify dates, so on January 1, 2000, many computers may think it is 1900.  </p>
+<p>The AMEX developed the YTK index with the help of de Jager &amp; Co, a computer consulting firm.</p>
+<p>Among the 18 components of the index are Computer Sciences Corp, Dun &amp; Bradstreet Corp, Electronic Data Systems Corp and Zitel Corp.</p>
+<p>&quot;Our goal was to put together a representative basket of stocks that can be used to track the performance of companies involved in providing solutions to the Year 2000 problem,&quot; said Cliff Weber, head of new product development at the AMEX.</p>
+<p>Options on the YTK index began trading March 18 but have seen scant activity so far.  </p>
+<p>&quot;I think there's interest out there,&quot; said Jim Hewson, the specialist in the options for Group One Ltd. &quot;People are going to evaluate this before they start trading it.&quot;</p>
+<p>He said the recent correction in the entire technology sector could be one factor hampering interest in the options.</p>
+<p>But some options analysts and traders doubted whether the index would ever become popular.</p>
+<p>Harrison Roth, senior options strategist at Cowen &amp; Co, said the index may have trouble standing out in the throng of other industry indices that are available to investors, including several on the technology group.  </p>
+<p>&quot;This is one of 78 or 79 indices, so it's just lost among all of them,&quot; he said.</p>
+<p>Some analysts pointed to the fact that the index has built-in obsolesence.</p>
+<p>&quot;It's got a very limited life because the problem will have to be addressed and solved in the next couple of years,&quot; said Jon Najarian, president of Mercury Trading in Chicago.</p>
+<p>&quot;But that doesn't mean the AMEX is foolish to list it,&quot; he said, adding that the potential size of the problem, in dollar terms, &quot;is absolutely staggering.&quot;  </p>
+<p>The AMEX's Weber said feedback indicates retail investors are interested in the problem and the product.</p>
+<p>But Najarian said the issue is just now beginning to reach the public.</p>
+<p>&quot;Most investors probably aren't as aware of the issue and how big the thing could be,&quot; he said. &quot;When Time (magazine) puts it on the cover, then they'll realize it&quot; and become interested in the options.</p>
+<p>But retail investors are known for catching the end of trends, which could happen with the YTK.  </p>
+<p>Najarian said the biggest problem for the index right now is the options' prices.</p>
+<p>The May 220-210 put spread, for example, would cost an investor about $4 for a potential gain of around $6.</p>
+<p>&quot;The risk-reward isn't that attractive based on how the index is pricing right now,&quot; he said.</p>
+<p>High premiums are one reason Michael Murphy, editor of the Overpriced Stock Service, would rather short the shares of some index components than buy puts or sell calls on the index.</p>
+<p>&quot;If we short the stocks, we collect the short interest credit while we're short,&quot; Murphy said. &quot;And we don't have to pay a premium.&quot;</p>
+<p>Furthermore, he doubts the doomsayers who see a multi-billion dollar global computer meltdown on January 1, 2000.</p>
+<p>&quot;A lot of folks are solving the problem by dumping old systems, moving to client server computing and buying packaged software, which is the way the world is going,&quot; he said.</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

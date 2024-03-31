@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="441330" id="root" date="1997-03-13" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian s/adj Feb employment falls 7,200.</title>
+<headline>RTRS-Australian s/adj Feb employment falls 7,200.</headline>
+<dateline>CANBERRA 1997-03-13</dateline>
+<text>
+<p>Australia's seasonally adjusted estimate of the number of employed persons fell 7,200 in February to 8.42 million, against 8.43 million in January and 8.33 million a year earlier, the Bureau of Statistics said.</p>
+<p>The seasonally adjusted unemployment rate was at 8.8 percent against 8.6 percent in January, compared with 8.4 percent in February 1996. Full-time employment fell 24,200, while part-time employment rose 17,000.</p>
+<p>Economists had on average expected employment to rise around 10,000 in February, seasonally-adjusted, with the unemployment rate steady at 8.6 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

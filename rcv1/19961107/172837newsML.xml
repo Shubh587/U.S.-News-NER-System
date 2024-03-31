@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172837" id="root" date="1996-11-07" xml:lang="en">
+<title>LEBANON: Lebanon's Hariri forms new government.</title>
+<headline>Lebanon's Hariri forms new government.</headline>
+<dateline>BEIRUT 1996-11-07</dateline>
+<text>
+<p>Lebanon's Prime Minister Rafik al-Hariri formed a new government on Thursday, an official announcement said.  </p>
+<p>The new government will total 30 members including Hariri, Hisham Al-Shahar, director-general of the cabinet said on television.</p>
+<p>This is the same number as Hariri's outgoing cabinet.</p>
+<p>All the top ministries in the outgoing team are unchanged, Shahar said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

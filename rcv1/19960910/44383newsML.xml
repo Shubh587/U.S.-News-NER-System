@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44383" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: NORTHWEST AUGUST LOAD FACTOR DIPS.</title>
+<headline>NORTHWEST AUGUST LOAD FACTOR DIPS.</headline>
+<dateline>MINNEAPOLIS 1996-09-10</dateline>
+<text>
+<p>Northwest Airlines Inc said its systemwide passenger load factor for August dropped 0.2 percentage points to 80.6 percent from 80.8 percent in August 1995.</p>
+<p>Northwest said its domestic passenger load factor dropped to 76.0 percent in August from 76.5 percent a year ago, and its international load factor fell to 87.1 percent from 87.3 percent.</p>
+<p>Systemwide, available seat miles in August rose 8.5 percent to 8.59 billion from 7.92 billion. Revenue passenger miles gained 8.1 percent to 6.92 billion from 6.40 billion.</p>
+<p>Systemwide cargo ton miles rose 5.4 percent to 197.3 million from 187.3 million. Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266332" id="root" date="1996-12-19" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD SCORE.</title>
+<headline>CRICKET-SHEFFIELD SHIELD SCORE.</headline>
+<dateline>BRISBANE, Australia 1996-12-19</dateline>
+<text>
+<p>Close of play score on the first day of the four-day Sheffield Shield match between New South Wales and Queensland on Thursday. New South Wales first innings 190 (Steve Waugh 55, Andrew Bichel six for 56); Queensland first innings 89 for two.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

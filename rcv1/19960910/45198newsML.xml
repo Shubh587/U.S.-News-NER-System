@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45198" id="root" date="1996-09-10" xml:lang="en">
+<title>CYPRUS: Port conditions update - Cyprus - Lloyds Shipping.</title>
+<headline>Port conditions update - Cyprus - Lloyds Shipping.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>CYPRUS, Sept 9 - Limassol - Port Authority staff engaged in receipt, storage and delivery of cargoes after clearance from customs in dispute with Cyprus Ports Authority and on strike since Sept 7. Situation affects mainly general cargo vessels and receivers of cargo who unable to take delivery of their cargoes. Two general cargo vessels idle alongside quay. Some of the other services are working, container vessels are discharging and containers stacked in the port, although no unstuffing or delivery of FCL's is possible. Negotiations in progress and a decision may be reached about the dispute late today.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

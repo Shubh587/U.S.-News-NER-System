@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181029" id="root" date="1996-11-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Woodside to plug Spica-1 oil well.</title>
+<headline>RTRS-Woodside to plug Spica-1 oil well.</headline>
+<dateline>SYDNEY 1996-11-11</dateline>
+<text>
+<p>Woodside Petroleum Ltd said on Monday it will plug and abandon the Spica-1 exploration well in the Dampier sub-basin of the North West Shelf off Western Australia.</p>
+<p>Preliminary observations of core samples and logs indicates there are no significant hydrocarbons present, it said.</p>
+<p>The well is contained in the WA-4-L exploration license held one-sixth each by Woodside, Broken Hill Pty Co Ltd, British Petroleum Co Plc, Chevron Inc Royal/Dutch Shell and Japan (LNG) MiMi Pty Ltd.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

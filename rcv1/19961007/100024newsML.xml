@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100024" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Weirton Steel Web site allows purchases.</title>
+<headline>Weirton Steel Web site allows purchases.</headline>
+<dateline>WEIRTON, W.Va. 1996-10-07</dateline>
+<text>
+<p>Weirton Steel said on Monday customers can now order steel on-line 24 hours day from anywhere in the world through its World Wide Web site on the Internet.</p>
+<p>The site (http://www.weirton.com) is updated daily and features an on-line product sales section where excess and non-prime steel products are available for purchase.</p>
+<p>Customers must become registered users to buy products on-line, the company said. New customers will need to complete an on-line credit application.</p>
+<p>The Web site will also contain data about the company's history, financial data, product information and answers to technical questions, Weirton said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEIRTON, W.Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

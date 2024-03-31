@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237215" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Greyhound bus flips on highway in Illinois.</title>
+<headline>Greyhound bus flips on highway in Illinois.</headline>
+<dateline>RANTOUL, Ill. 1996-12-05</dateline>
+<text>
+<p>A Greyhound bus bound for Memphis from Chicago rolled over on an Interstate highway Thursday, injuring seven or eight people inside, Illinois State Police said.</p>
+<p>None of the injuries was believed serious. It was not known if the driver was one of those hurt.</p>
+<p>The accident happened on I-57 near Rantoul as the bus attempted to pass a truck, flipped on its side and slid into the northbound lanes of the road, police said.</p>
+<p>The injured were taken to a hospital in Urbana, Illinois.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANTOUL, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

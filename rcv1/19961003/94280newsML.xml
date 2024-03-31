@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94280" id="root" date="1996-10-03" xml:lang="en">
+<title>PAKISTAN: Ten killed in Pakistani tribal feud.</title>
+<headline>Ten killed in Pakistani tribal feud.</headline>
+<dateline>HYDERABAD, Pakistan 1996-10-03</dateline>
+<text>
+<p>Gunmen killed 10 people when they sprayed bullets into a roadside tea shop from a car in the southern Pakistani province of Sindh on Thursday, police said.</p>
+<p>Police said they believed men from the Ujjan tribe shot at members of the rival Jatoi tribe as part of a tribal feud. The gunmen escaped after the shooting in a village near the town of Khairpur.</p>
+<p>More than 100 people have been killed in clashes between tribes in the area in the past three years.</p>
+<p>Residents said the latest shooting might have shattered a reconciliation deal brokered by local authorities last year. They said many members of the Ujjan tribe immediately went into hiding, fearing retaliation by Jatois.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HYDERABAD, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

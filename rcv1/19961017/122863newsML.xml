@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122863" id="root" date="1996-10-17" xml:lang="en">
+<title>DUBAI: GOLF-DUBAI CREEK OPEN THIRD ROUND SCORES.</title>
+<headline>GOLF-DUBAI CREEK OPEN THIRD ROUND SCORES.</headline>
+<dateline>DUBAI 1996-10-17</dateline>
+<text>
+<p>Leading third scores in the Dubai</p>
+<p>Creek Open golf tournament on Thursday:</p>
+<p>206 Choi Kyung-ju (South Korea) 70 69 67</p>
+<p>208 Paul Friedlander (Swaziland) 69 70 69</p>
+<p>211 Kyi Hla Han (Myanmar) 68 72 71</p>
+<p>212 Mo Joong-Kyung (South Korea) 71 73 68</p>
+<p>213 Lee Petters (UAE) 70 73 70</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

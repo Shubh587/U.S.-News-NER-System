@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="719622" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Delta Air Lines expands Atlanta service.</title>
+<headline>Delta Air Lines expands Atlanta service.</headline>
+<dateline>ATLANTA, Ga. 1997-07-10</dateline>
+<text>
+<p>Delta Air Lines said on Thursday that it will expand services from its Atlanta hub to six cities in the fall.</p>
+<p>Included among the new services will be two new flights daily to Melbourne, and one new flight to Daytona Beach, Florida, Delta said in a statement.</p>
+<p>In addition, the airline said it would introduce nonstop service to Orange County, California, from Cincinnati, and new nonstop service between Cincinnati and Salt Lake City, Utah.</p>
+<p>With the new fall schedule, which begins September 8, Delta said its Atlanta operation grows to 617 flights a day.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

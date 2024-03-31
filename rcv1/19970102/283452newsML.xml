@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283452" id="root" date="1997-01-02" xml:lang="en">
+<title>QATAR: Tennis - Qatar Open results.</title>
+<headline>Tennis - Qatar Open results.</headline>
+<dateline>DOHA 1997-01-02</dateline>
+<text>
+<p>Second round results at the $635,000 Qatar Open on Thursday (prefix number denotes seeding):</p>
+<p> Sergi Bruguera (Spain) beat Javier Sanchez (Spain) 6-0 6-1</p>
+<p> 6-Petr Korda (Czech Republic) beat Magnus Norman (Sweden) 6-7 (3-7) 6-4 6-2</p>
+<p> 8-Jim Courier (U.S.) beat Razvan Sabau (Romania) 6-3 6-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOHA"/>
+<dc element="dc.creator.location.country.name" value="QATAR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

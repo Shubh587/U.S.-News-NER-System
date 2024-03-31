@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35061" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Aflatoxin found in Texas grain sorghum.</title>
+<headline>Aflatoxin found in Texas grain sorghum.</headline>
+<dateline>COLLEGE STATION, Texas 1996-09-05</dateline>
+<text>
+<p>Texas officials said Thursday they had found the carcinogen aflatoxin in samples of grain sorghum.</p>
+<p>Texas state chemist George Latimer said the toxin, which is produced by a fungus, was discovered in tests of grains from 11 counties and at levels exceeding federal guidelines.</p>
+<p>&quot;We're finding that the sorghum crop has a fair amount of aflatoxin, enough that people can't blindly substitute sorghum for corn,&quot; he said in a statement. &quot;Everyone should be testing sorghum as well as cottonseed and corn.&quot;</p>
+<p>He said much of the sorghum was found to have 70 to 80 parts per billion of aflatoxin, but one sample had 400 ppb.</p>
+<p>According to U.S. Food and Drug Administration guidelines, the maximum permissible level for aflatoxin contamination is 20 ppb in food for humans and feed for some animals.</p>
+<p>Officials say a severe drought that struck the state earlier this summer contributed to the outbreak of aflatoxin, which was found earlier in Texas corn crops.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLLEGE STATION, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

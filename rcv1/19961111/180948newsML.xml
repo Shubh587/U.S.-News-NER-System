@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180948" id="root" date="1996-11-11" xml:lang="en">
+<title>UK: British input prices rise 0.5 pct in October.</title>
+<headline>British input prices rise 0.5 pct in October.</headline>
+<dateline>LONDON 1996-11-11</dateline>
+<text>
+<p>British producer input prices rose 0.5 percent in October, fuelled by a sharp rise in oil prices, official figures showed on Monday.</p>
+<p>But input prices fell 2.0 percent on a year-on-year-basis. Output prices rose 0,2 percent in October for a 2.3 percent year-on-year rise. Crude oil prices rose 6.8 percent in October over September and 44.3 percent on a year-on-year basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

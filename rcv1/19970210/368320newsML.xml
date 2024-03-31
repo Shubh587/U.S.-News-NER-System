@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368320" id="root" date="1997-02-10" xml:lang="en">
+<title>SOUTH KOREA: U.S. fighter jet crashes off west coast of S.Korea.</title>
+<headline>U.S. fighter jet crashes off west coast of S.Korea.</headline>
+<dateline>SEOUL 1997-02-10</dateline>
+<text>
+<p>A U.S. fighter jet carrying two pilots crashed off South Korea's west coast on Sunday during a training mission, a U.S. Air Force spokesman said on Monday.</p>
+<p>The South Korean and U.S. military were searching for the plane, said spokesman Bruce Alexander.</p>
+<p>&quot;We are investigating the incident, but have not yet found the pilots or the jet,&quot; he said, adding that it was still unclear what caused the crash. He declined to identify the missing pilots.</p>
+<p>Two F/A-18 jets from the U.S. base in Iwakuni, Japan, were on a training mission when the one plane went down, he said. The second jet returned to the U.S. Air Force base at Osan, south of Seoul.</p>
+<p>The South Korean air force and navy are searching the sea during the day while the U.S. navy conducts the search at night, said the spokesman.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

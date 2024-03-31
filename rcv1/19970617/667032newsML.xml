@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667032" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: New compromise on encryption gets little support.</title>
+<headline>New compromise on encryption gets little support.</headline>
+<dateline>WASHINGTON 1997-06-17</dateline>
+<text>
+<p>Senator Bob Kerrey introduced his long awaited compromise to resolve the debate over computer encoding technology, but the proposal was immediately criticized by privacy advocates.</p>
+<p>Kerrey's bill, and several previously introduced measures, would relax strict U.S. export controls on encryption, software that scrambles information and renders it unreadable without a password or software &quot;key.&quot;</p>
+<p>But Kerrey's bill would also require encryption products used by the federal government or purchased with federal funds for public use to include features allowing the government to easily crack the codes by recovering the software keys.</p>
+<p>That outraged privacy advocates who viewed it as a back-door attempt to restrict domestic use of encryption. &quot;This is the same coercive strategy they used with the Clipper chip,&quot; said David Banisar, staff counsel for the Electronic Privacy Information Center. &quot;The bill is the administration's wish list for trying to restrict public cryptography.&quot;</p>
+<p>Once the realm of spies and generals, encryption has become increasingly important as a means of safeguarding electronic commerce and global communications over the Internet. Privacy advocates maintain that strong encryption is needed to protect the privacy of citizens and consumers.</p>
+<p>The Clinton administration has argued that strong encryption should not be exported unless it allows key recovery so law enforcement and intelligence agencies can monitor international criminals and terrorists. But the administration has not, thus far, restricted the use of powerful coding software within the United States.</p>
+<p>&quot;The legislation would force the U.S. domestic market for encryption to adopt vulnerable and costly key recovery encryption systems,&quot; Jonah Seiger, communications director for the Center for Democracy and Technology, said. Seiger said Kerrey's bill would relax export restrictions modestly, providing only &quot;token relief.&quot;</p>
+<p>Senate Commerce Committee plan to hold a session to debate and vote on encryption bills on Thursday. Most Senate republicans have supported a bill from Conrad Burns of Montanta that would virtually eliminate export restrictions without imposing any requirements domestically. Committee chairman John McCain of Arizona signed on to Kerrey's measure as a co-sponsor, however.</p>
+<p>A bill similiar to the Burns bill in the House introduced by Virginia Republican Bob Goodlatte was approved by the House Judiciary Committee but is awaiting action by  both the International Relations and Intelligence Committees.</p>
+<p>--Aaron Pressman ((--202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

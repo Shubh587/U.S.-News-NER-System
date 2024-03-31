@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212967" id="root" date="1996-11-24" xml:lang="en">
+<title>THAILAND: Three people drown in Thai boat accident.</title>
+<headline>Three people drown in Thai boat accident.</headline>
+<dateline>BANGKOK 1996-11-24</dateline>
+<text>
+<p>Three people, one an American, drowned after their overloaded boat capsized on a reservoir in western Thailand, police said on Sunday.</p>
+<p>One man survived and another was still missing, police told Reuters.</p>
+<p>Arthur Lee Porter, a 35-year-old jazz pianist from the United States, was one of the victims, police said.</p>
+<p>The five people were crossing an agricultural reservoir in Kanchanaburi province, 130 km west of Bangkok, late on Saturday.</p>
+<p>The identities of the Thai man and woman who also died were not released.</p>
+<p>No other details were available on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

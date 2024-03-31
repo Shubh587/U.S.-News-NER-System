@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="601880" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Certain cellphones and positions disrupt pacemakers.</title>
+<headline>Certain cellphones and positions disrupt pacemakers.</headline>
+<byline>Gene Emery</byline>
+<dateline>BOSTON 1997-05-21</dateline>
+<text>
+<p>Digital cellular telephones kept in a pocket can disrupt heart pacemakers, according to new tests of nearly 1,000 people whose hearts are kept beating regularly by the devices.</p>
+<p>But when the phones are held over the ear, the &quot;interference does not pose a health risk,&quot; say the authors of the study, published in Thursday's New England Journal of Medicine.</p>
+<p>The study comes at the same time that the Cellular Telecommunications Industry Association, an industry group, has declared Wireless Safety Week, which runs through May 26.</p>
+<p>A team led by Dr. David Hayes of the Mayo Clinic in Rochester, Minnesota, explored the pacemaker interference problem by monitoring the hearts of 980 volunteers as five types of hand-held cellular phones were activated at their ear and at portions of the chest or abdomen where the pacemaker's pulse generator was implanted.</p>
+<p>The phones caused detectable interference in 20 percent of the cases and produced symptoms -- usually heart palpitations, light-headedness or dizziness -- 7 percent of the time.</p>
+<p>The doctors said the interference sparked potentially serious problems with the pacemaker in 6.6 percent of the tests.</p>
+<p>But the problems only surfaced when the phone was next to the pulse generator and would probably only cause serious interference if it were normally kept in a shirt or jacket pocket or handbag slung on the same side as the generator.</p>
+<p>In addition, the type of signal emitted by the phone, the model of the cellphone and the make and model of the pacemaker all influenced the degree of risk.</p>
+<p>For example, three of the four digital telephone models tested by the team produced the vast majority of problems. The three were North American Digital Cellular, Time Division Multiple Access-11 and Code Division Multiple Access.</p>
+<p>A fourth digital type, Personal Communication System-1900, produced far less interference, as did the models that used an analogue signal. Analogue systems are becoming less popular because digital phones have superior performance.</p>
+<p>Also, different brands of pacemakers were sensitive to different levels of interference, depending on whether they were designed with filters to screen out electronic noise. More than 55 percent of the Medtronic models 7940 and 7950, which lack the filters, produced interference compared with one percent for Medtronic's model 7960, which has a filter.</p>
+<p>&quot;Even for a given manufacturer, the incidence varied depending on the model of the pacemaker, reflecting the effect of the pacemaker's design on its susceptibility to interference,&quot; the Hayes team concluded.</p>
+<p>When the tests were lumped together by brand, pacemakers made by Medtronic and Intermedics produced interference about 25 percent of the time and symptoms more than 7 percent of the time. Pacemakers made by Pacesetter, Teletronics and CPI-Guidant emitted interference three times less often.</p>
+<p>In an editorial in the Journal, Dr. Marc Roelke and Alan Bernstein of Newark Beth Israel Medical Centre in New Jersey recommended:</p>
+<p>* All pacemaker manufacturers be encouraged to make their products with filters to screen out cell phone interference.</p>
+<p>* Patients whose pacemakers are not equipped with filters should be advised to use analogue cell phones, keep the phones away from their pacemaker and to use the ear on the opposite side of the implanted pulse generator when they're talking on the phone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476497" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: Applied Voice offers NT-based call center.</title>
+<headline>Applied Voice offers NT-based call center.</headline>
+<dateline>KIRKLAND, Wash. 1997-03-31</dateline>
+<text>
+<p>Applied Voice Technology said Monday its new call center system, the first to run on Microsoft Corp's Windows NT, was now generally available.</p>
+<p>The company said the new AgentXpressNT product will strengthen its position in the market for call centers with fewer than 75 telemarketing agents.</p>
+<p>AgentXpressNT builds on the automatic call distribution (ACD) software development and product technology Applied Voice acquired from Telcom Technologies earlier this year.</p>
+<p>AgentXpressNT allows for scalable growth of agent stations, from as few as four up to 84 agents. Up to 16 systems can be networked together throughout an enterprise to support more than 1,300 agent workstations, the company said.</p>
+<p>Pricing for the product starts at about $20,000, with per station costs ranging from $1,800 to $2,700, depending on the size of the system and the options selectedm, it said.</p>
+<p>((-- E. Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIRKLAND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194065" id="root" date="1996-11-15" xml:lang="en">
+<title>SWEDEN: Cargo traffic at Swedish airports up 10 pct Oct.</title>
+<headline>Cargo traffic at Swedish airports up 10 pct Oct.</headline>
+<dateline>STOCKHOLM 1996-11-15</dateline>
+<text>
+<p>Swedish airports handled 10 percent more cargo in October than in October 1995, altogether 15,511 tonnes, the Swedish civil aviation administration Luftfartsverket said on Friday.</p>
+<p>					 SWEDISH AIRPORT ACTIVITY</p>
+<p>					   Oct		Jan-Oct</p>
+<p>				    1996     1995     1996    1995</p>
+<p> Cargo(in tonnes)	   15,511   14,063   123,050   109,980</p>
+<p> Mail (in tonnes)	    2,829    2,865    25,906    21,985</p>
+<p> Landings		     29,594   28,434   282,391   274,637</p>
+<p> Passengers (in millions)   1.64     1.54     14.94     14.11</p>
+<p>-- Abigail Schmelz, Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

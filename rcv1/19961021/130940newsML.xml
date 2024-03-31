@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130940" id="root" date="1996-10-21" xml:lang="en">
+<title>GERMANY: Germany first nation to approve new vaccine.</title>
+<headline>Germany first nation to approve new vaccine.</headline>
+<dateline>LANGEN, Germany</dateline>
+<text>
+<p>Germany became the first nation to approve a new vaccine which can innoculate patients against four illnesses at once, German health authorities said Monday.</p>
+<p>The vaccine, using the active ingredient Infanrix DTP+Hib, is manufactured by Anglo-American drugs giant SmithKline Beecham Plc and innoculates patients against tetanus, diphtheria, whooping cough and bacterial meningitis.</p>
+<p>Previously children needed to be vaccinated twice in order to be protected against these diseases.</p>
+<p>When contacted by Reuters, Germany's Federal Authority for Sera and Innoculations confirmed that the vaccine had been approved last week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANGEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

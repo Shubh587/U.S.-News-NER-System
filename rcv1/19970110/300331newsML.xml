@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300331" id="root" date="1997-01-10" xml:lang="en">
+<title>GERMANY: EMI says TARGET credits limited for non-euro banks.</title>
+<headline>EMI says TARGET credits limited for non-euro banks.</headline>
+<dateline>FRANKFURT 1997-01-10</dateline>
+<text>
+<p>The European Monetary Institute said on Friday that access to credits within the TARGET system would be limited for banks in European Union countries which do not meld their currencies into the euro.</p>
+<p>In a report on the future European Central Bank, the Frankfurt-based EMI said that banks outside the euro area would not be allowed to hold outstanding positions within the TARGET payment system overnight.</p>
+<p>The acronym TARGET stands for Trans-European Automated Real-Time Gross settlement Express Transfer -- the system intended to allow smooth payments transfers in euros.</p>
+<p>Banks needing to transfer large amounts of funds internationally will gain access to TARGET through their national central bank's real-time gross settlement (RTGS) system.</p>
+<p>Banks of countries which are in the euro zone will have full access to the system.</p>
+<p>In the case of overnight credits, these full users of TARGET would be allowed to hold open positions in TARGET overnight by drawing on the marginal lending facility at their local national central bank, the EMI said.</p>
+<p>Such users would also normally have automatic access to intraday credits within the system, needed to stop liquidity difficulties which could cause delays in payments, it added.</p>
+<p>It was still not certain whether such credits would be offered to EU national central banks outside the euro zone.</p>
+<p>&quot;The options for NCBs outside the euro area to grant intraday credit in euro to TARGET participants are still under discussion,&quot; it said.</p>
+<p>&quot;Mechanisms are being prepared to prevent intraday credit, if granted to non-euro area NCBs, from spilling over into overnight credit,&quot; it added.</p>
+<p>Under the first mechanism, non-euro area NCBs would receive, and would provide to participants in their respective RTGS systems, only limited intraday credit. The size of the limit could be as low as zero.</p>
+<p>If the NCB incurred an overnight overdraft this would be granted at a penalty rate.</p>
+<p>Under the second mechanism, non-euro area NCBs would be allowed to incur unlimited intraday overdrafts in euro and could grant unlimited collateralised intraday credit to their banks. Overnight spillover would also be at penalty rates.</p>
+<p>Under a third mechanism, participants in RTGS systems in non-euro area countries would be required to complete their operations some time before the closing time of TARGET.</p>
+<p>Any shortage of funds would then become clear early enough for the NCBs to be able to offset their banks' shortfall themselves by borrowing funds in euro money markets.</p>
+<p>The EMI gave no indication as to which option --if any-- was preferred.</p>
+<p>The Bank of England in particular has been very vocal in calling for access to intraday credit for its banks.</p>
+<p>Germany and France have argued that this would give third parties access to a foreign currency in a manner which is unprecedented and could, in a worst case scenario, impinge on the success of monetary policy in the euro area.</p>
+<p>--Janet Northcote, Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18775" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: BradyNet adds electronic mail directory service.</title>
+<headline>BradyNet adds electronic mail directory service.</headline>
+<dateline>NEW YORK 1996-08-28</dateline>
+<text>
+<p>BradyNet Inc, a Miami-based interactive online service, said it launched a directory of electronic mail addresses of emerging market participants with an embedded communication system.</p>
+<p>Named &quot;BradyNet Rolodex,&quot; viewers can click and send messages to individuals listed on the directory.</p>
+<p>BradyNet started with a website in November 1995 to list Brady bond prices, ratings and commentaries. It added a discussion group, the FORUM, last month, said Roberto Krell, president of BradyNet.</p>
+<p>The service is free of charge.</p>
+<p>Starting in September, BradyNet will run advertising to make it a viable commercial venture, Krell said.</p>
+<p>BradyNet website is at http://www.bradynet.com.</p>
+<p>-- N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

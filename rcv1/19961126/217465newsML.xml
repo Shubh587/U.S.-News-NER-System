@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217465" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: New York approves NYNEX connection deals.</title>
+<headline>New York approves NYNEX connection deals.</headline>
+<dateline>NEW YORK 1996-11-26</dateline>
+<text>
+<p>The New York Public Service Commission on Tuesday said it approved two NYNEX Corp interconnection deals, with Teleport Communications Group Inc, and WinStar Communications Inc.</p>
+<p>These agreements, which the commission said included some modifications from the terms agreed by the companies, allow the two competitors to start selling their local telecommunication services over NYNEX's network.</p>
+<p>NYNEX said it already has 10 resellers active in its region, with 2,500 business customers collectively. -- New York Newsroom 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

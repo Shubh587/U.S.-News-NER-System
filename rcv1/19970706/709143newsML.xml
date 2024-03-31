@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709143" id="root" date="1997-07-06" xml:lang="en">
+<title>SPAIN: BASKETBALL-YUGOSLAVIA WIN EUROPEAN CHAMPIONSHIP.</title>
+<headline>BASKETBALL-YUGOSLAVIA WIN EUROPEAN CHAMPIONSHIP.</headline>
+<dateline>BARCELONA, Spain 1997-07-06</dateline>
+<text>
+<p>Yugoslavia retained the men's European basketball championship on Sunday by beating Italy 61-49 in the final.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BARCELONA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

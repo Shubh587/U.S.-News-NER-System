@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171115" id="root" date="1996-11-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian 13-week T-note yields 6.365 pct.</title>
+<headline>RTRS-Australian 13-week T-note yields 6.365 pct.</headline>
+<dateline>SYDNEY 1996-11-06</dateline>
+<text>
+<p>The Reserve Bank of Australia said the result of this week's T-note tender was as follows:</p>
+<p> 13-week -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS200 million   6.365	 6.36-6.36   6.527</p>
+<p>		  (RBA take-up A$100 million, pct allotted at top 100)</p>
+<p> 5-week  -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS600 million   6.408	 6.39-6.41   6.683</p>
+<p>		  (RBA take-up A$200 million, pct allotted at top 77)</p>
+<p> 26-week -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS300 million   6.339	 6.33-6.34   6.502</p>
+<p>		  (RBA take-up A$100 million, pct allotted at top 87)</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

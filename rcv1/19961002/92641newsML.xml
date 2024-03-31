@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92641" id="root" date="1996-10-02" xml:lang="en">
+<title>ITALY: Tanker blaze off Italian coast kills six.</title>
+<headline>Tanker blaze off Italian coast kills six.</headline>
+<dateline>ROME 1996-10-02</dateline>
+<text>
+<p>Six people were killed and three injured on Wednesday in a fire on a new methane gas tanker undergoing sea trials off northwest Italy, rescue services said.</p>
+<p>The fire broke out in the engine room of the SNAM Portovenere at about 0415 GMT some 15 miles south of the port of Genoa, they said.</p>
+<p>The vessel, the largest of its type constructed in Italy, was being towed to Genoa after the fire was brought under control. The cause of the blaze was not known, a fire service spokesman said.</p>
+<p>Coastguard officials said the tanker, which was empty prior to going into service, had 188 people on board, many of them technicians and engineers conducting tests.</p>
+<p>The vessel, built by Italian shipyard Fincantieri, was due for delivery to SNAM, a unit of state energy group ENI.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

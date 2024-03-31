@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83278" id="root" date="1996-09-28" xml:lang="en">
+<title>LEBANON: Lebanese hunter killed by Israeli soldiers.</title>
+<headline>Lebanese hunter killed by Israeli soldiers.</headline>
+<dateline>MARJAYOUN, Lebanon 1996-09-28</dateline>
+<text>
+<p>A Lebanese hunter was killed on Saturday when Israeli soldiers in Israel's south Lebanon occupation zone mistook hunters for Moslem guerrillas and opened fire, Israeli security sources said.</p>
+<p>Another hunter and an Israeli soldier were wounded in the incident near the town of Dibl in the western sector of the zone at 5:00 pm local time (1400 GMT).</p>
+<p>The sources said the Israeli soldier was wounded when the hunters returned fire.</p>
+<p>Israeli troops occupy a 15-km (nine mile)-wide zone in south Lebanon. Hizbollah (Party of God) guerrillas often attack the occupation troops in bid to oust them from Lebanon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARJAYOUN, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

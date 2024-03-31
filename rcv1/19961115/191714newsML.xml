@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191714" id="root" date="1996-11-15" xml:lang="en">
+<title>UK: Robot programmes another robot for first time.</title>
+<headline>Robot programmes another robot for first time.</headline>
+<dateline>READING, England 1996-11-15</dateline>
+<text>
+<p>A robot used the internet to programme a robot in the United States on Friday without human intervention, in what British scientists said was a world first.</p>
+<p>&quot;This is a major breakthrough for machinekind,&quot; said Dr Kevin Warwick, Professor of Cybernetics at Reading University, west of London.</p>
+<p>During the experiment, one robot at the university's cybernetics laboratory taught another at the State University of New York (SUNY) how to move around its environment.</p>
+<p>&quot;This is the first time a robot has ever programmed another robot,&quot; Warwick told reporters.</p>
+<p>The experiment aimed to show how behaviour learnt by one robot could be passed on to another thousands of miles away via a transatlantic internet link.</p>
+<p>&quot;We're trying to show that computers can learn the same way as humans, by communicating learning,&quot; said Dr David Keating, who started the research programme six years ago and devised the idea of the internet link-up.</p>
+<p>The tricycle-like robots, which are 15 cm (six inches) high, and weigh 600 grams (21.2 ounces) require no remote control or human input once they are switched on.</p>
+<p>The robot in Britain taught the robot at SUNY how to determine its position relative to other objects using its ultrasound sensors, like bats. The robot was then able to learn by trial and error using its own microprocessors.</p>
+<p>The robots are even capable of homing in on and docking with a recharger when its batteries are low, the scientists said.</p>
+<p>Asked whether he was concerned if computers would be able to overtake mankind, Warwick said, &quot;We're all right for the next 10 years but after that it starts to get worrying.&quot;</p>
+<p>&quot;It could have apocalyptic consequences for mankind after the next 15-20 years,&quot; he added.</p>
+<p>The two robots used in the experiment both belong to Reading University and form part of a troupe called the &quot;seven dwarfs&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="READING, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

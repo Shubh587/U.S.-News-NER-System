@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265733" id="root" date="1996-12-18" xml:lang="en">
+<title>JAPAN: Toyota develops engine coolant separator.</title>
+<headline>Toyota develops engine coolant separator.</headline>
+<dateline>TOKYO 1996-12-18</dateline>
+<text>
+<p>Toyota Motor Corp said on Wednesday it has jointly developed an engine coolant system with Denso Co Ltd, that converts used coolant into heating fuel for use at petrol stations.</p>
+<p>Toyota plans to deploy the coolant separator/concentrator at its dealers nationwide to promote environmental protection.</p>
+<p>Used engine coolant will be removed to a tank where it is heated and distilled electrically, then is passed through a purifier that concentrates the ethylene glycol, a kind of alcohol used to prevent coolant from freezing.</p>
+<p>The ethylene glycol will be used as fuel for heaters at dealer service stations. The system can process 50 litres of coolant, or about seven or eight vehicle cooling systems in eight hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

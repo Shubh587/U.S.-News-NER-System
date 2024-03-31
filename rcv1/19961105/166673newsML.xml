@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166673" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Ariz. Palo Verde nuclear unit 1 shut due to leak.</title>
+<headline>Ariz. Palo Verde nuclear unit 1 shut due to leak.</headline>
+<dateline>LOS ANGELES 1996-11-05</dateline>
+<text>
+<p>The power turbine at the 1,221-megawatt (MW) Palo Verde nuclear unit 1 was shut Tuesday afternoon due to a steam leak in a small pipe, a spokesman for Arizona Public Service Co said.</p>
+<p>&quot;We had to take the turbine off-line to fix the pipe,&quot; he said, noting that the unit's reactor has not been turned off.</p>
+<p>The spokesman estimated that the unit would begin to ramp up &quot;within two hours to one day.&quot;  </p>
+<p>The Palo Verde unit was shut September 21 for regular refueling and maintenance. It began to ramp up to full power Friday and had reached 90 percent by early Tuesday.</p>
+<p>Palo Verde's other two 1,221-MW units were said to be operating at normal rates.</p>
+<p>Arizona Power, a unit of Pinnacle West Capital Corp, is the plant's operator and 29.1-percent owner. Other owners include Edison International's Southern California Edison Co, El Paso Electric Co and Public Service Co of New Mexico.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

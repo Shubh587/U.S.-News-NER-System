@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231493" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: CBOT deliverable grain stocks.</title>
+<headline>CBOT deliverable grain stocks.</headline>
+<dateline>CHICAGO 1996-12-03</dateline>
+<text>
+<p>CBOT reported the following deliverable stocks of grain, as of Friday, Nov 29, 1996.</p>
+<p>(in 000's of bushels, Arkansas rice in 000's CWT)</p>
+<p>Location	 WHEAT    CORN  SOYBEANS    OATS    RICE</p>
+<p>Chicago	    363     243     5,227	 0	 0</p>
+<p>Toledo/Maumee  5,554  10,796     3,154	 0	 0</p>
+<p>St Louis	   746     595	  66	 0	 0</p>
+<p>Minneapolis	  0	 0	   0  11,901	 0</p>
+<p>Arkansas	     0	 0	   0	 0  13,184</p>
+<p>TOTALS	   6,663  11,634     8,447  11,901  13,184</p>
+<p>(Chicago desk 312-983-7278)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

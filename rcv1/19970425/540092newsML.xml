@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="540092" id="root" date="1997-04-25" xml:lang="en">
+<title>UK: OPTIONS - GEC straddle lights up dull market.</title>
+<headline>OPTIONS - GEC straddle lights up dull market.</headline>
+<dateline>LONDON 1997-04-25</dateline>
+<text>
+<p>The UK options market was relatively quiet on Friday with many dealers hesitant ahead of the May 1 British election, dealers said</p>
+<p>&quot;The market has been ticking over but there hasn't been a lot of volume. People probably won't do too much until the election is decided,&quot; one trader said.</p>
+<p>The Labour Party, in opposition since 1979, is poised to defeat the ruling Conservatives in the May 1 ballot, according to the latest opinion polls.</p>
+<p>One of the few significant deals of the day was a straddle in GEC Plc when a dealer bought 1,000 August 360 calls at 16p and simultaneously purchased 1,000 August 390 calls at 8-1/2p.</p>
+<p>In this strategy, the spreader is hoping the share will move sharply up or down, as potential profits are largest if the underlying stock moves a great deal before the August expiry.</p>
+<p>If GEC shares are trading anywhere between the two strike prices of 360p and 390p by expiry, both contracts will expire worthless, leaving the spreader with a maximum loss of 24-1/2p, excluding commissions.</p>
+<p>But if GEC is below 360p or above 390 by expiration, a profit will be realised.</p>
+<p>GEC was standing at 366p by 1405 GMT.</p>
+<p>A straddle was also executed in Lloyds TSB Group when a dealer bought 400 June 550 calls and the same amount of 550 puts for a total cost of 45p.</p>
+<p>Like the GEC spread, the dealer is hoping for a large movement in either direction for the underlying share which was trading at 553p.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489133" id="root" date="1997-04-05" xml:lang="en">
+<title>REPUBLIC OF IRELAND: RUGBY UNION-IRISH FIRST DIVISION RESULTS.</title>
+<headline>RUGBY UNION-IRISH FIRST DIVISION RESULTS.</headline>
+<dateline>DUBLIN 1997-04-05</dateline>
+<text>
+<p>Results of Irish first division</p>
+<p>rugby union matches on Saturday:</p>
+<p> Ballymena	     12     Old Belvedere	3   </p>
+<p> Cork Constitution   47     Dungannon	    4   </p>
+<p> Garryowen	     18     Old Wesley	  28    </p>
+<p> Instonians	    12     Young Munster     22    </p>
+<p> Lansdowne	     42     Blackrock College 18    </p>
+<p> Shannon		 28     Old Crescent	15    </p>
+<p> St Mary's College    0     Terenure College  14</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

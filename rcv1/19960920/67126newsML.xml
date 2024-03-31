@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67126" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Calif. unemployment rate drops to 7 pct in August.</title>
+<headline>Calif. unemployment rate drops to 7 pct in August.</headline>
+<dateline>SACRAMENTO, Calif. 1996-09-20</dateline>
+<text>
+<p>California's August unemployment rate declined to 7.0 percent from 7.2 percent in July, state officials said on Friday.</p>
+<p>The August rate was the lowest since January 1991.</p>
+<p>&quot;This announcement is a clear sign that our economy is continuing to recover at a steady pace,&quot; Gov. Pete Wilson said in a statement.</p>
+<p>&quot;We are seeing continued growth in a number of California industries, including business services, manufacturing, wholesale and retail trade, and construction,&quot; Wilson said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

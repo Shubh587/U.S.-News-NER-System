@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="318873" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: CME hopes to trade South African rand derivatives.</title>
+<headline>CME hopes to trade South African rand derivatives.</headline>
+<dateline>CHICAGO 1997-01-20</dateline>
+<text>
+<p>The Chicago Mercantile Exchange (CME) said Monday it had filed for regulatory approval to trade futures and options on the South African rand.</p>
+<p>The proposed contracts would be sized at 500,000 rand, equal to roughly $107,000 at current levels, the exchange said. They would be quoted in U.S. dollars per rand.</p>
+<p>The exchange said it plans to trade futures expiring in the March quarterly cycle, with settlement by physical delivery. Quarterly and serial month options on rand futures contracts would also be offered. A start date would be set pending Commodity Futures Trading Commission approval, it said. ((Chicago derivatives desk, 312 408-8750; Email: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77272" id="root" date="1996-09-25" xml:lang="en">
+<title>SWEDEN: Swedish producer prices fell 0.4 pct in August.</title>
+<headline>Swedish producer prices fell 0.4 pct in August.</headline>
+<dateline>STOCKHOLM 1996-09-25</dateline>
+<text>
+<p>Swedish producer prices fell 0.4 percent in August, Statistics Sweden said on Wednesday.</p>
+<p> (Percentage change)		  Aug 96	 yr/yr</p>
+<p> Producer prices			-0.4	    -5.0</p>
+<p> Import prices			  -0.1	    -6.0</p>
+<p> Export prices			  -0.7	    -8.6</p>
+<p>Note - The market had expected PPI to rise by 0.1 percent in August, according to a Reuter survey of 18 analysts.</p>
+<p>-- Stockholm newsroom +46-8-700-1045</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

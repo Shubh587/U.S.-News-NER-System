@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207744" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Tropical storm may hit eastern Cuba by Friday -WSC.</title>
+<headline>Tropical storm may hit eastern Cuba by Friday -WSC.</headline>
+<dateline>LEXINGTON, Mass. 1996-11-21</dateline>
+<text>
+<p>Tropical Storm Marco, currently weakening and nearly stationary in the Caribbean, may hit eastern Cuba by Friday, independent forecaster Weather Services Corp said.</p>
+<p>Heavy rain may lead to flash flooding over areas from eastern Cuba through Jamaica, the island of Hispaniola and western Puerto Rico during the next day or so, WSC said.</p>
+<p>Heavy rains not directly associated with Marco may also cause local flooding over Central America.</p>
+<p>The storm, with 50 mph winds, is about 195 miles south of Kingston, Jamaica, where a tropical storm warning has been called. Marco may begin to drift north-northeastward toward Jamaica during the next 24 hours, possibly weakening slowly, and is a threat to shipping in the region.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271969" id="root" date="1996-12-22" xml:lang="en">
+<title>USA: NBA BASKETBALL-SATURDAY'S RESULTS.</title>
+<headline>NBA BASKETBALL-SATURDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-12-22</dateline>
+<text>
+<p>Results of National Basketball</p>
+<p>Association games on Saturday (home team in CAPS):</p>
+<p> CHARLOTTE	    98  Atlanta	  93</p>
+<p> NEW JERSEY	  101  Boston	  100</p>
+<p> NEW YORK	     95  Detroit	  92</p>
+<p> Chicago	     111  PHILADELPHIA  105</p>
+<p> MINNESOTA	   103  La Lakers	88</p>
+<p> Miami		  86  HOUSTON	  66</p>
+<p> SAN ANTONIO	 101  Phoenix	  88</p>
+<p> MILWAUKEE	   103  Orlando	  85</p>
+<p> SACRAMENTO	  101  Portland	 99 (OT)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

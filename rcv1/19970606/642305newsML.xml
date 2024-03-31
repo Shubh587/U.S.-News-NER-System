@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="642305" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: Wall Street stays exuberant, bonds provide power.</title>
+<headline>Wall Street stays exuberant, bonds provide power.</headline>
+<dateline>NEW YORK 1997-06-06</dateline>
+<text>
+<p>U.S. stocks remained ebullient in afternoon trading on Friday, holding on to steep gains made after investors decided U.S. unemployment data did not give the Federal Reserve enough cause to boost interest rates.</p>
+<p>The Dow industrial average was trading up around 112 points at 7417, after hitting a new intraday high of 7427.19.</p>
+<p>It drew strength from the long bond, which was up 29/32 at a 6.81 percent yield.</p>
+<p>Technology stocks surged in the broader market rally, and the Nasdaq composite was up around eight points at 1399.</p>
+<p>((Wall Street desk 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

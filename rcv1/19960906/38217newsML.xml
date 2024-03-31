@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38217" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: New York seeks to block plant closing.</title>
+<headline>New York seeks to block plant closing.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>The Empire State Development Corp and the New York City Economic Development Corp said on Thursday they are seeking a restraining order to prevent a South Bronx Farberware plant from closing.</p>
+<p>If a manufacturing agreement between US Industries Inc and Syratech Corp expires on September 6, operations at the plant will be suspended and 700 workers will be laid off, the public agencies said in a joint statement.</p>
+<p>US Industries had received a subsidised rent to keep the plant operating at certain levels, the agencies said.</p>
+<p>Earlier, a US Industries spokeswoman said it has made a good faith effort to keep the plant operating.</p>
+<p>Syratech owns Farberware housewares and US Industries, which sold Farberware to Syratech, has an agreement to produce products for Syratech that is set to expire September 6.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

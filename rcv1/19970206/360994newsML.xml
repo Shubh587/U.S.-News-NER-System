@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360994" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Federated Department Jan same-store sales.</title>
+<headline>Federated Department Jan same-store sales.</headline>
+<dateline>CINCINNATI 1997-02-06</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1997	 1996	     Total     Same-Store</p>
+<p>Month	     $742.1     $867.4	 N/A	+ 9.4</p>
+<p>Year-to-date $15,229.4  $15,048.5     + 1.2	+ 3.1</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>    Month is   four weeks ended	Jan 1997.</p>
+<p>Full company name is  Federated Department Stores Inc</p>
+<p>The month of January 1996 period was for five weeks.</p>
+<p>The fiscal 1997 period was for 52 weeks, as compared to 53 weeks for fiscal 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

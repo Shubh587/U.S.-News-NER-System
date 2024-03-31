@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213352" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 25-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 25-NOV.</headline>
+<text>
+<p>Tropical Cyclone 06P, with 45 mph winds, is in the Coral Sea northwest of New Caledonia. This system is weakening and will likely be dissipated over open waters west of New Caledonia by 24-48 hours. This system is a moderate risk to shipping.</p>
+<p>Tropical cyclone 07s (Chantelle) will become an increasing risk to shipping in the south Indian Ocean this period as it strengthens. Winds that are currently about 50 mph will reach 90-95 mph in 48 hours. It is located near 8.5s/83.6e in the latest report.  </p>
+<p>Tropical depression 40w, with 25 mph winds, is mainly minor risk to shipping about 260 miles northwest of Guam in the west Pacific. It will become an increasing risk to shipping as it strengthens and moves towards the northwest during this period. It may become a tropical storm in 24 hours and a typhoon in 72 hours.  </p>
+<p>Marco has again become a tropical storm in the western Caribbean and is threatening shipping. It currently has winds of 65 mph and is 190 miles south of the Isle of Youth. Marco is expected to weaken again as it tracks near the western end of Cuba. It should merge with a cold front in the Gulf of Mexico later in the period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="NEWCAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

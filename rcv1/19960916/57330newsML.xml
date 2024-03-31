@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57330" id="root" date="1996-09-16" xml:lang="en">
+<title>GERMANY: German Aug wholesale prices down 0.6 pct mth/mth.</title>
+<headline>German Aug wholesale prices down 0.6 pct mth/mth.</headline>
+<dateline>WIESBADEN, Germany 1996-09-16</dateline>
+<text>
+<p>The Federal Statistics Office reported the following economic indicator:</p>
+<p> GERMAN WHOLESALE PRICES	Aug 96     July 96	 Aug 95</p>
+<p> Monthly change		    -0.6	  -0.5	   -0.6</p>
+<p> Yearly change		     -0.5	  -0.5	   +0.6</p>
+<p> Index (basis 1991)	     102.9	 103.5	  103.4</p>
+<p>Prices for the following items rose from previous month:</p>
+<p> Cold pork					 +3.0 pct</p>
+<p> Livestock for slaughter		     +2.8 pct</p>
+<p> Heating oil				     +1.7 pct</p>
+<p>The following items fell from the previous month:</p>
+<p> Sea fish					 -29.0 pct</p>
+<p> Fresh vegetables			     -16.0 pct</p>
+<p> Fresh fruit				     -8.6 pct</p>
+<p> Scrap steel				     -6.1 pct</p>
+<p> Grain					     -5.9 pct</p>
+<p> Fish meal and mixed fodder		  -2.1 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

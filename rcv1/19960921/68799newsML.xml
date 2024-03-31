@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68799" id="root" date="1996-09-21" xml:lang="en">
+<title>OMAN: Oman issues decree for Phillips Petroleum deal.</title>
+<headline>Oman issues decree for Phillips Petroleum deal.</headline>
+<dateline>MUSCAT 1996-09-21</dateline>
+<text>
+<p>Oman's Sultan Qaboos on Saturday issued a decree finalising an oil exploration/production-sharing agreement signed in June with Phillips Petroleum Co of the United States, the official Oman news agency said.</p>
+<p>The agreement covers a 18,527 square km area in southwest Oman. The agency reported in June that the deal, signed in Muscat, stipulated that Phillips would spend $37 million &quot;as a minimum level within nine years to implement exploration work..and geological surveys.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUSCAT"/>
+<dc element="dc.creator.location.country.name" value="OMAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183472" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Wachovia Corp sets $200 mln in senior notes.</title>
+<headline>Wachovia Corp sets $200 mln in senior notes.</headline>
+<dateline>NEW YORK 1996-11-12</dateline>
+<text>
+<p>The following debt issue from Wachovia Corp was priced on Tuesday, according to lead manager Smith Barney.</p>
+<p>BORROWER WACHOVIA CORP</p>
+<p>AMT $200 MLN	 COUPON 6.625 PCT  MATURITY 11/15/2006</p>
+<p>TYPE SNR NOTES     ISS PRICE 99.986  FIRST PAY DATE 05/15/1997</p>
+<p>LAST MOODY'S AA3   YIELD 6.627 PCT   PAY FREQ  SEMI-ANNUAL</p>
+<p>LAST S&amp;P AA	  SPREAD 42 BP	CALLABLE NO</p>
+<p>U.S. corporate bond unit, 212 859-1678</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

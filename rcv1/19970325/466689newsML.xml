@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466689" id="root" date="1997-03-25" xml:lang="en">
+<title>FRANCE: France reports nuclear incident, cover-up.</title>
+<headline>France reports nuclear incident, cover-up.</headline>
+<dateline>PARIS 1997-03-25</dateline>
+<text>
+<p>Software errors pushed a French nuclear plant beyond authorised limits twice in the past four months in incidents that staff tried to cover up, the state Nuclear Safety Authority (ASN) said on Tuesday.</p>
+<p>ASN called the incidents, at the Paluel plant near the Normandy city of Rouen, serious breaches of safety but said the 1,300-megawatt reactor remained within wider security margins.</p>
+<p>There was no radioactive leakage or contamination, it said.</p>
+<p>ASN said the neutron flow in the core of the reactor exceeded permitted limits on November 20 and January 11 for a total of up to 13 hours after erroneous data was introduced into the computer software.</p>
+<p>Staff tried to hide the incidents from their superiors, and the plant's management only reported the incidents to ASN on March 7. ASN put the incidents at grade two on its safety scale, whichrates the most serious incidents as grade seven.</p>
+<p>ASN said its inspection exposed &quot;an accumulation of serious safety breaches: repeated calculation mistakes, monitoring failures, deliberate failure to take corrective action after the calculation mistakes were discovered, then concealing of information&quot;.</p>
+<p>The plant's owner, state utility Electricite de France, suspended the staff involved, and ASN demanded that it improve training and organisation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

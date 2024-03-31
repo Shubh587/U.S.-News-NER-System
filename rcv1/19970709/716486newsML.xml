@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716486" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: FINAL PRICING - Alameda County, Calif..</title>
+<headline>FINAL PRICING - Alameda County, Calif..</headline>
+<text>
+<p>FINAL PRICING</p>
+<p>AMT: 110,000,000    DATE: 07/09/97</p>
+<p>ISSUER: Alameda County						  ST: CA</p>
+<p>ISSUE: Tax and revenue anticipation notes			 TAX STAT: Exempt</p>
+<p>M/SP/F: MIG1/SP1+/F1+</p>
+<p>ENHANCEMENTS: None</p>
+<p>DTD: 07/23/97</p>
+<p>DUE: 07/22/98</p>
+<p>1ST CPN: 01/00/00</p>
+<p>CALL: Non-Callable</p>
+<p>DELIVERY: 7/23/97 approx</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		110,000,000     4.500     3.900</p>
+<p>Redwood Securities Group Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

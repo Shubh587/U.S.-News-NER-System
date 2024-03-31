@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201808" id="root" date="1996-11-19" xml:lang="en">
+<title>FRANCE: COURT DISMISSES TF1 CASE AGAINST CANAL PLUS.</title>
+<headline>COURT DISMISSES TF1 CASE AGAINST CANAL PLUS.</headline>
+<dateline>PARIS 1996-11-19</dateline>
+<text>
+<p>A Paris commercial court on Tuesday dismissed a lawsuit by French private broadcaster TF1  against Canal Plus .</p>
+<p>Court president Jean-Louis Chevalier, calling the case invalid for consideration by the court, also ordered TF1 to pay a suspended fine of 100,000 francs to Canal Plus.</p>
+<p>Bouygues unit TF1 was seeking to stop a planned merger betweeen Canal Plus and Nethold because it said the deal went against previously agreed contracts about sports broadcasts on Eurosport, in which TF1 and Canal Plus both hold stakes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

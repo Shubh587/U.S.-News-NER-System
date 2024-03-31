@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602248" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: U.S. metal exports, imports -- Commerce.</title>
+<headline>U.S. metal exports, imports -- Commerce.</headline>
+<dateline>WASHINGTON 1997-04-17</dateline>
+<text>
+<p>U.S. metal exports, imports (not seasonally adjusted, millions of dollars):</p>
+<p> -		   Mar 1997	   Feb 1997</p>
+<p> -	    Exports Imports  Exports Imports</p>
+<p> Aluminum	 310     512	301     368</p>
+<p> Copper	   128     275	122     230</p>
+<p> Gold	   1,086     384	363     201</p>
+<p> Nickel	    30     137	 25	88</p>
+<p> Platinum	  36	92	 17     126</p>
+<p> Silver/Bullion  12	39	 23	34</p>
+<p> -		 Jan-Mar '97     Jan-Mar '96</p>
+<p> -	    Exports Imports  Exports Imports</p>
+<p> Aluminum	 907   1,253	824   1,232</p>
+<p> Copper	   372     777	423     739</p>
+<p> Gold	   1,673     807    1,574     615</p>
+<p> Nickel	    82     305	 73     306</p>
+<p> Platinum	  71     335	 76     368</p>
+<p> Silver/bullion  57     117	 62     164</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="517506" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Scientists find possible chink in AIDS virus armor.</title>
+<headline>Scientists find possible chink in AIDS virus armor.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-04-17</dateline>
+<text>
+<p>Researchers said on Thursday they had isolated a weak spot in the AIDS virus which may allow new drugs to stop the infection from spreading.</p>
+<p>Led by Dr. Peter Kim and Dr. David Chan at the Whitehead Laboratory in Cambridge, scientists have isolated an image of the viral protein that allows HIV to attach itself to a healthy human cell and kill it.</p>
+<p>The two scientists, writing in Friday's issue of the journal Cell, said the striking image produced through the use of X-ray crystallagraphy, reveals a compact bundle punctuated by deep cavities.</p>
+<p>&quot;Until we saw the images, we didn't know that these cavities existed,&quot; Dr. Kim said. &quot;They could be key targets for the development of new antiviral drugs.&quot;</p>
+<p>Part of what has made AIDS difficult to combat is that the virus mutates so often. What Kim and Chan discovered was that the protein's structure remains constant -- an unchanging target for scientists developing anti-AIDS drugs.</p>
+<p>The protein's &quot;structure suggests a way to prevent infection,&quot; Chan said in a telephone interview, adding that the image showed the protein possessed two parts that need to touch for it to remain viable.</p>
+<p>&quot;If you have a drug that can block that interaction, you can prevent infection.&quot;</p>
+<p>Chan suggested that small molecule drugs, synthetically produced, could provide the barrier to infection.</p>
+<p>To speed the process of drug discovery, the Whitehead scientists will make the precise, three-dimensional information about the protein structure accessible to all scientists through Brookhaven National Laboratory's protein data bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

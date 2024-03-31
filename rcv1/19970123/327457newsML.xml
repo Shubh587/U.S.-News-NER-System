@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327457" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Republic buys 2 firms for $36 mln in stock.</title>
+<headline>Republic buys 2 firms for $36 mln in stock.</headline>
+<dateline>FORT LAUDERDALE 1997-01-23</dateline>
+<text>
+<p>Republic Industries Inc said it has acquired Acadiana Alarm Systems of Lafayette, La., and Commonwealth Security Systems of Lancaster, Pa., for $36 million in Republic stock plus assumption of debt.</p>
+<p>Both companies are in the business of selling, installing and monitoring electronic commercial and residential security systems, Republic said. The two firms serve about 40,000 accounts in 11 states.</p>
+<p>It said it expects the transaction will be accounted for as a pooling of interests.</p>
+<p>((--New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

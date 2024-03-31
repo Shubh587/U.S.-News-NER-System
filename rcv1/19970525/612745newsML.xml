@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612745" id="root" date="1997-05-25" xml:lang="en">
+<title>CZECH REPUBLIC: One dead in explosion at Czech spa town.</title>
+<headline>One dead in explosion at Czech spa town.</headline>
+<dateline>PRAGUE 1997-05-25</dateline>
+<text>
+<p>At least one person was killed by an explosion in a building at the spa town of Jesenik, 200 kms north-east of Prague, police said on Sunday.</p>
+<p>A nurse said fourteen people had been examined at local hospitals, including three Poles with first and second degree burns.</p>
+<p>&quot;There will be more (casualties), and there are many people in shock,&quot; a fire department official said.</p>
+<p>The nurse said the blast spread debris in a ten-metre radius, shattering the windows of surrounding buildings.</p>
+<p>A fire official the cause of the explosion was unclear.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

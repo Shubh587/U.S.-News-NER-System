@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602120" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Warehouse fire destroys Indianapolis parade floats.</title>
+<headline>Warehouse fire destroys Indianapolis parade floats.</headline>
+<dateline>INDIANAPOLIS 1997-05-21</dateline>
+<text>
+<p>A warehouse fire Wednesday destroyed 10 of the 14 floats destined to carry celebrities in the popular downtown parade scheduled prior to this weekend's Indianapolis 500 car race, officials said.</p>
+<p>There were no injuries in the fire, which authorities believed was started by welder's torch.</p>
+<p>Parade planners said they hoped to build two new floats to carry race car drivers and the parade queen in Saturday's event, but appealed to local owners of antique convertible cars to lend their vehicles. The race was scheduled for Sunday.</p>
+<p>J. Albert Smith, organiser of the annual 500 festival parade that draws thousands of people, told reporters that planners would create 10 giant billboards depicting the absent floats.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

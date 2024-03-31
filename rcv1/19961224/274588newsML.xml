@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274588" id="root" date="1996-12-24" xml:lang="en">
+<title>UK: British rail schedules go on internet.</title>
+<headline>British rail schedules go on internet.</headline>
+<dateline>LONDON 1996-12-24</dateline>
+<text>
+<p>Rail travellers in Britain can now look up timetables over the Internet, rail operator Railtrack said on Tuesday.</p>
+<p>They can enter a destination, date and time of travel, and find available times, changes and any possible delays.</p>
+<p>British Rail has been fragmented into several different companies, and Railtrack's corporate site gathers information about all of them at www.rail.co.uk.</p>
+<p>The rail timetable can be accessed at www.rail.co.uk/ukrail/planner/planner.htm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

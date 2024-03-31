@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110143" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: BBN Calif. Internet site hit by power outage.</title>
+<headline>BBN Calif. Internet site hit by power outage.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-11</dateline>
+<text>
+<p>BBN Corp said an electrical power outage affecting the Stanford University campus has knocked out Internet access to BBN customers in the Palo Alto, Calif. area on Friday.</p>
+<p>A company spokesman said that about 400 of BBN's business and organizational customers are affected by the black-out, including Hewlett-Packard Co whose headquarters are located near the Stanford campus.</p>
+<p>John Thonis, the BBN spokesman said his company had procured an emergency backup power supply and expected power service to be restored later in the day.  </p>
+<p>In a statement, BBN said the electrical outage, which began at 1900 PDT Thursday, has cut off power to BBN's Point of Presence (PoP) at the Stanford University Data Center.</p>
+<p>The PoP is one of the connection points to the Internet for BBN's customers in California. BBN has more than 60 points of presence in the United States.</p>
+<p>BBN said its other Points of Presence and its core network backbone operations were unaffected by the power outage.</p>
+<p>It said a battery backup power system kept the BBN Palo Alto opeartion functioning for two hours after the initial power outage, but power was lost at 2100 PDT.  </p>
+<p>Stanford's power was restored at 0030 PDT Friday and then went out again, and has remained out since 0600 PDT, BBN said.</p>
+<p>BBN Chairman and Chief Executive George Conrades has traveled to the Palo Alto site and is working with customers to restore service, the company said.</p>
+<p>In the statement, Conrades said that, &quot;We apologize for the fact Internet access is unavailable while Stanford University works to repair its electrical power.&quot;</p>
+<p>&quot;We understand how important full-time access to the Internet is to our customers, and we are doing everything we can to help Stanford restore electrical power to BBN's facilities,&quot; he added.</p>
+<p>BBN spokesman Thonis confirmed the LA Times Online site was another customer affected by the site and that several technology companies in the area were hit by the outage.</p>
+<p>Two years ago, the Internet services provider acquired the Palo Alto facility as part of its acquisition of BARNet, or Bay Area Network, which had several points of presence around the San Francisco region, including the site at Stanford.</p>
+<p>BBN is a leading provider of Internet access services to corporations and educational institutes.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

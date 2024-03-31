@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254788" id="root" date="1996-12-13" xml:lang="en">
+<title>BRAZIL: Brazil senate approves shipping bill.</title>
+<headline>Brazil senate approves shipping bill.</headline>
+<dateline>BRASILIA 1996-12-12</dateline>
+<text>
+<p>Brazil's Senate approved a bill opening up river and coastal shipping to foreign companies, a Senate official said Thursday.</p>
+<p>The upper house voted in a show of hands to approve the bill, which now has to be sanctioned by President Fernando Henrique Cardoso, the official said.</p>
+<p>The bill creates the Brazilian Special Register, which entitles foreign shipping companies with Brazilian bases to lower tax and employee contributions.</p>
+<p>Companies which qualify under the register must employ Brazilian commanders and chief engineers to run their vessels.</p>
+<p>Foreign companies without a base in Brazil may also operate in the country but must employ crews which are two- thirds Brazilian.</p>
+<p>The bill, which regulates a constitutional amendment passed in 1995, seeks to increase the number of shipping companies operating in Brazil and reduce the cost of transportation within the country.</p>
+<p>-- William Schomberg, Brasilia newsroom 5561 2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72603">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

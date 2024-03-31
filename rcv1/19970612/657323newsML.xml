@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657323" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 12-JUN.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 12-JUN.</headline>
+<text>
+<p>Typhoon Nestor is now west of the northern Mariana islands. Top winds are now 130 mph. This system is expected to be close to Iwo Jima in 12 hours with winds up to 120 mph and close to Chichi Jima in 24 hours with winds of 110 mph. These islands can except flooding rains and very strong winds. Damage could be quite high. This system will also threaten shipping as it moves between these islands as seas still exceed 20 feet near the center of this system.  </p>
+<p>Tropical Depression Blanca, with 35 mph winds, is well south of Manzanillo Mexico, moving west-northwest at 15 mph. It is weakening rapidly and is expected to be dissipated by 24 hours. The threat to shipping from this system will slowly diminish this period.  </p>
+<p>Tropical Cyclone Keli, with 105 mph winds, is in the southern Pacific near 10.3s/179.2e, moving east-northeast at 4 mph. Keli has reached peak intensity and will slowly weaken over the next 48 hours. It will continue to threaten shipping in the region north of the Fiji Islands during this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

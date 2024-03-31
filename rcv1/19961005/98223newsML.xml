@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98223" id="root" date="1996-10-05" xml:lang="en">
+<title>USA: Tropical depression forms in Gulf of Mexico.</title>
+<headline>Tropical depression forms in Gulf of Mexico.</headline>
+<dateline>MIAMI 1996-10-04</dateline>
+<text>
+<p>The 10th tropical depression of the Atlantic hurricane season formed in the Gulf of Mexico Friday, threatening to become a tropical storm on Saturday, the National Hurricane Center said.</p>
+<p>At 11 p.m. EDT (0300 GMT), Tropical Depression number 10 was 200 miles (320 km) south-southeast of Brownsville, Texas, at latitude 23.0 north and longitude 96.3 west. The storm's location also put it about 65 miles (110 km) east-northeast of Tampico, Mexico.</p>
+<p>The storm was nearly stationary on Friday evening and little movement was expected during the next 24 hours.</p>
+<p>Maximum sustained winds were near 35 mph (55 kph) and forecasters said strengthening was possible. &quot;The depression could strengthen to become a tropical storm on Saturday,&quot; the National Hurricane Center said.</p>
+<p>Tropical depressions become tropical storms and are given names when maximum winds reach 39 mph (62 kph) and gain hurricane status when winds hit 74 mph (119 kph).</p>
+<p>The depression would be named Josephine if it strengthened into a tropical storm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

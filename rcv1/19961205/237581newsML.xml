@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237581" id="root" date="1996-12-05" xml:lang="en">
+<title>BANGLADESH: Port conditions - Bangladesh - Lloyds Shipping.</title>
+<headline>Port conditions - Bangladesh - Lloyds Shipping.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>Chittagong, Dec 5 - A weather office bulletin said a cyclone over the West-Central Bay of Bengal and the adjoining area moved further north-west and was about 1120 kms south-west of Khulna at 1500 local time on Dec 4 on its way to making landfall around Andhra Pradesh. The ports of Chittagong, Cox's Bazar and Mongla advised to keep distant caution signal no 2 hoisted.</p>
+<p>Chittagong, Dec 5 - Discharge of cargo from vessels in port and delivery from port premises suspended from 2100, Dec 4 due to a labour dispute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

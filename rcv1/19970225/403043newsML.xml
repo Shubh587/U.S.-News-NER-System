@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403043" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: Auto parts firms race to develop smart air bags.</title>
+<headline>Auto parts firms race to develop smart air bags.</headline>
+<byline>David Lawder</byline>
+<dateline>DETROIT 1997-02-24</dateline>
+<text>
+<p>Responding to growing concerns about deaths caused by air bags, two automotive components makers Monday said they were racing to developing &quot;smart&quot; air bag systems that can adjust according to a passenger's size, seating position and crash severity.</p>
+<p>Japan's Takata Corp. and General Motors Corp.'s Delphi and Delco Electronics units both unveiled air bag systems that rely on multiple sensors to determine whether and at what speed an air bag should be deployed.</p>
+<p>An uproar over air bag safety has led the National Highway Traffic Safety Administration to propose that automakers reduce the inflation power of current air bag systems and allow consumers to disconnect their air bags as a first step toward the introduction of such smart air bag systems.</p>
+<p>Current air bag systems deploy at speeds of up to 200 miles per hour and have been blamed for the deaths of about 35 children.</p>
+<p>&quot;The market is demanding intelligent air bag technology be developed as quickly as possible,&quot; said J. Daniel Hess, president of Takata Inc. &quot;We expect to be the first to market with an adaptive system that can be modified to meet engineering specifications of several global manufacturers.&quot;</p>
+<p>Takata said it was developing two generations of adaptive intelligent air bag technology, the first to be available in the 1999 model year and the second in the 2000 model year.</p>
+<p>The phase one system will include a multi-threshold crash sensor that determines the severity of impact, a dual chamber inflator and a seat-belt use sensor. Low-speed collisions will result in the deployment of one inflator chamber and higher speed collisions will result in both chambers deploying.</p>
+<p>In the phase-two system, optical occupant position sensors and weight sensors will capture additional information about a vehicle's driver and passengers.</p>
+<p>The GM Delphi/Delco system will use a phalanx of sensors to detect occupant size position and crash severity, including infrared and ultrasonic occupant sensors as well as those that that determine side impacts, seat position, seat belt usage and the presence of rear-facing infant seats.</p>
+<p>In GM's approach, inflation will be regulated by a venting system that will bleed off some of the inflation gas in order to reduce inflation pressure.</p>
+<p>&quot;Delco Electronics is doing extensive modeling, simulation and algorithm development&quot; to bring these products to the market, said Sachal Gidwani, manager, advanced development, for Delco Electronics.</p>
+<p>Previously, Delphi Automotive Systems' interior components unit designed GM's air bag systems. The new system will be developed by both Delphi and Delco, GM's automotive electronics unit.</p>
+<p>GM plans to merge Delco into Delphi as part of the sale of its Hughes Electronics Corp. defense operations to Raytheon Co. GM has said it is considering an initial public offering in Delphi in the future.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

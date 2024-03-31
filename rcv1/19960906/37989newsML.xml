@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37989" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: America Online says to list on NYSE.</title>
+<headline>America Online says to list on NYSE.</headline>
+<dateline>DULLES, Va. 1996-09-06</dateline>
+<text>
+<p>America Online Inc said on Friday it plans to list its common stock on the New York Stock Exchange under the symbol &quot;AOL,&quot; beginning Monday, September 16.</p>
+<p>America Online stock currently trades on the NASDAQ, the company said.</p>
+<p>Also, America Online said chairman and chief executive Stephen Case and New York Stock Exchange chairman and chief executive Richard Grasso will participate in an online forum on Sunday, September 15 on America Online.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DULLES, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

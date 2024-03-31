@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128183" id="root" date="1996-10-18" xml:lang="en">
+<title>JAPAN: Toyota unit to export used cars to New Zealand.</title>
+<headline>Toyota unit to export used cars to New Zealand.</headline>
+<dateline>TOKYO 1996-10-18</dateline>
+<text>
+<p>Toyota Motor Corp said on Friday that one of its units will start exporting used Toyotas to New Zealand.</p>
+<p>Toyota Used Car Sales Co, a wholly owned subsidiary of Toyota Motor, will export Toyota passenger cars and commercial vehicles, a Toyota spokeswoman said.</p>
+<p>Toyota New Zealand Ltd, Toyota's 100 percent owned manufacturing unit, will repair and sell them, she said.</p>
+<p>Toyota expects it to sell 3,000 vehicles a year, she said.</p>
+<p>Sales of used cars have been growing in New Zealand since the government abolished a system under which used car importers must have a licence, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

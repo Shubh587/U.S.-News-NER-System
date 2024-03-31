@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729007" id="root" date="1997-07-15" xml:lang="en">
+<title>PHILIPPINES: TABLE-Philippine mutual funds net asset values.</title>
+<headline>TABLE-Philippine mutual funds net asset values.</headline>
+<dateline>MANILA 1997-07-15</dateline>
+<text>
+<p>The following are the net asset values of Philippine mutual funds for July 15, Tuesday:</p>
+<p>  FUNDS		NAV PER	  DAILY	  YEAR TO DATE</p>
+<p>			 SHARE	    CHANGE	 YIELD</p>
+<p>			 (PESOS)	  (PCT)	  (PCT)</p>
+<p>Citisec Growth     1.4575	   -0.70	   +4.50</p>
+<p>First Galleon	0.8004	   -0.93	  -19.52</p>
+<p>Philam Fund	  3.6756	   -0.48	   -3.66</p>
+<p>Philam Bond Fund   1.0331	   +0.02	   +0.81*</p>
+<p>Philequity Fund    2.3034	   -0.66	   +8.58</p>
+<p>United Fund	  1.1657	   +2.88	   -1.19</p>
+<p>Kabuhayan Fund     0.9431	   -0.67	   -8.96</p>
+<p>Filipino Fund Inc  1.0537	   +0.87	  -12.98</p>
+<p>* From June 18, 1997</p>
+<p>Information provided by the Investment Company Association of the Philippines, an association of the country's mutual funds.</p>
+<p>-- MANILA NEWSROOM (63 2) 841 8937 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

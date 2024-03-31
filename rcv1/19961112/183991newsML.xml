@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183991" id="root" date="1996-11-12" xml:lang="en">
+<title>ITALY: Two crew injured in tanker blast off Sardinia.</title>
+<headline>Two crew injured in tanker blast off Sardinia.</headline>
+<dateline>CAGLIARI, Sardinia 1996-11-12</dateline>
+<text>
+<p>An explosion started a fire on board an oil tanker off the coast of Sardinia on Monday, injuring two crewmen, port officials said on Tuesday.</p>
+<p>The Cypriot-flagged Maria E was empty at the time of the blast. It was thought to have been caused by residual fumes.</p>
+<p>They said two Filipino crewmen, one of whom was blown off the ship, were seriously injured. The fire was extinguished by the crew and firefighters. The 3,794-tonne ship was anchored in the Gulf of Cagliari waiting to take on oil at a refinery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAGLIARI, Sardinia"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

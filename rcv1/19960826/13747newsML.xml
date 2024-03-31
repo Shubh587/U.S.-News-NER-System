@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13747" id="root" date="1996-08-26" xml:lang="en">
+<title>MOROCCO: SOCCER-MOROCCAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-MOROCCAN FIRST DIVISION RESULTS.</headline>
+<dateline>RABAT 1996-08-26</dateline>
+<text>
+<p>Results of Moroccan first division</p>
+<p>soccer matches played on Sunday:</p>
+<p> Widad Fes	    3   Oujda		    1</p>
+<p> Raja  Casablanca   4   Tetouan		  0</p>
+<p> Jeunesse Massira   0   Widad Casablanca     2</p>
+<p> Sporting Sale	0   Meknes		   1</p>
+<p> Settat		 1   Marrakesh		0</p>
+<p> Khouribga	    3   Mohammedia	     0</p>
+<p> Sidi Kacem	   0   Royal Armed Forces   0</p>
+<p> El Jadida	    1   Hassania Agadir	0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

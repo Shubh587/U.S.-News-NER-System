@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91393" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Bonneville Power lowers peak demand prices.</title>
+<headline>Bonneville Power lowers peak demand prices.</headline>
+<dateline>LOS ANGELES 1996-10-02</dateline>
+<text>
+<p>The Bonneville Power Administration reduced its prices for next-day power during peak demand hours, but increased off-peak prices for Northwest deliveries, the federal agency said Wednesday.</p>
+<p>Bonneville offered firm delivered power in the Northwest between hours 0700 and 2200 PDT at $18.50 per megawatt hour (MWh), down from $19.54 for Wednesday pre-schedulings.</p>
+<p>Firm power during the same hours delivered at the California-Oregon (COB) and Nevada-Oregon (NOB) borders was offered at $20.50 per MWh, down from $22.00.</p>
+<p>Firm COB/NOB volumes, however, were limited to 300 MWh during peak hours.</p>
+<p>Bonneville prices for firm power during off-peak hours at COB/NOB were unchanged at $16.00 to $18.00, but were increased for Northwest deliveries to $16.00 to $18.00 from $13.54 to $15.54 for Wednesday pre-schedulings.</p>
+<p>BPA's changes to non-firm Thursday prices were along the same pattern: higher during peak-demand hours and lower for Northwest deliveries during light-load hours.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

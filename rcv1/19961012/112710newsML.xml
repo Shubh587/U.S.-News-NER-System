@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112710" id="root" date="1996-10-12" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Spanish trawler makes for Ireland after alert.</title>
+<headline>Spanish trawler makes for Ireland after alert.</headline>
+<dateline>DUBLIN 1996-10-12</dateline>
+<text>
+<p>A Spanish trawler with 15 crew was heading for an Irish port under its own power on Saturday after overcoming an onboard flood that had threatened to sink the vessel.</p>
+<p>The captain of the Eclipse 2 had earlier sent out a Mayday signal saying his vessel would sink in about four hours if the water could not be pumped out.</p>
+<p>Irish coastguards dispatched a helicopter carrying a pump to aid the vessel which at the time was about 160 miles off the southwest coast of Ireland.</p>
+<p>A coastguard spokesman said it appeared that a broken pipe had caused the flooding. None of the crew were evacuated.</p>
+<p>The spokesman said the trawler was expected to arrive at the small port of Castletownbere around noon on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75022" id="root" date="1996-09-25" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslav August retail sales rise 7.0 pct.</title>
+<headline>Yugoslav August retail sales rise 7.0 pct.</headline>
+<dateline>BELGRADE 1996-09-25</dateline>
+<text>
+<p>The Federal Statistical Office reported the following economic indicator details.</p>
+<p> YUGOSLAV RETAIL SALES     Aug 96	 July 96	Aug 95</p>
+<p> pct change mth/mth	   +7.0	   +5.0	    n.a.</p>
+<p> pct change yr/yr	     +100	   +104	    n.a.</p>
+<p>CUMULATIVE FIGURES (JAN TO AUG)</p>
+<p> pct change yr/yr	     +103	   +203	    n.a.</p>
+<p>NOTES -- Data exclude private sector. Data cover rump Federal Republic of Yugoslavia, comprising Serbia and Montenegro.</p>
+<p>-- Amra Kevic, Belgrade newsroom +381 11 2224305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

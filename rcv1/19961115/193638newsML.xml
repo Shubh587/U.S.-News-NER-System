@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193638" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Infoseek launches new search design.</title>
+<headline>Infoseek launches new search design.</headline>
+<dateline>SANTA CLARA, California 1996-11-14</dateline>
+<text>
+<p>Infoseek Corp on Thursday unveiled a redesigned interface for its navigation service for finding information on the World Wide Web.</p>
+<p>The company said the new interface, which is available on its site at www.infoseek.com, includes a News Centre for tracking news headlines and integrates the Infoseek Ultra technology which was released as a public beta test in July.</p>
+<p>The Infoseek Ultra engine, which runs on Sun Microsystems Inc's Ultra Enterprise 4000 computers, provides a virtually real-time index of the Internet, the company said.</p>
+<p>The new interface is designed to help users find their way quickly to the information they need. The company said its directory of Web sites organised by category is the largest on the Internet, with more than 700,000 Web sites.</p>
+<p>Like several rivals in the competitive Internet navigation space, Infoseek's Ultrasmart search function enables people visiting the site to type in natural language queries in full sentences, and to refine their queries as they go.</p>
+<p>Its other primary search option, Ultraseek, enables use of special search terms which can help users seek images, links, document titles or particular sites or domains on the Web.  </p>
+<p>Further services include a people finder to locate e-mail addresses, Web pages, phone numbers and street addresses, stock quotes, a company directory and street maps.</p>
+<p>Reuters Holdings Plc holds a small stake in Infoseek.</p>
+<p>-- Silicon Valley Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

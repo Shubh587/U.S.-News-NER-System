@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312011" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: New computers for Chicago air traffic controllers.</title>
+<headline>New computers for Chicago air traffic controllers.</headline>
+<dateline>WASHINGTON 1997-01-16</dateline>
+<text>
+<p>A long-awaited new air traffic control system came on line Thursday in Chicago, the busiest U.S. air hub, the Federal Aviation Administration said.</p>
+<p>The Display Channel Complex Rehost (DCCR) computer system gives controllers a modern and reliable computer system to generate radar displays and other critical information, the FAA said.</p>
+<p>The new system is an interim measure that is scheduled to be replaced by a more comprehensive system in late 1998.</p>
+<p>DCCR was delivered to the Chicago Air Route Traffic Control Center in early June, and underwent six months of rigorous testing to prove it could handle the volume.</p>
+<p>The center handled almost 2 million aircraft from January through August 1996, the FAA said.</p>
+<p>DCCR has also been delivered to FAA control centers in New York, Cleveland, Washington and Fort Worth, Texas, and is scheduled to go operational at those sites this year.</p>
+<p>While the National Transportation Safety Board has said the U.S. air traffic control system is safe, failures by outdated traffic control computers have forced hundreds of delays each year and reduced efficiency.</p>
+<p>((--202 898-8489))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

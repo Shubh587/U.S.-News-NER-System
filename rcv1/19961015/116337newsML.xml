@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116337" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: BASEBALL-MONDAY'S LEAGUE CHAMPIONSHIP SERIES RESULT.</title>
+<headline>BASEBALL-MONDAY'S LEAGUE CHAMPIONSHIP SERIES RESULT.</headline>
+<dateline>NEW YORK 1996-10-14</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball playoff game on Monday (home team in CAPS):</p>
+<p>	  National League Championship Series</p>
+<p> Atlanta	  14  ST LOUIS	  0</p>
+<p>(St Louis leads best-of-seven series 3-2)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

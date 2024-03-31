@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="361728" id="root" date="1997-02-06" xml:lang="en">
+<title>UK: Bank of England deals at unchanged rates.</title>
+<headline>Bank of England deals at unchanged rates.</headline>
+<dateline>LONDON 1997-02-06</dateline>
+<text>
+<p>The Bank of England operated at unchanged rates in the UK money market in the early round of operations, indicating that official rates had been left unchanged at 6.0 percent.  </p>
+<p>The Bank said that it bought 46 million stg of band 1 bank bills at 5-15/16 percent, the established dealing rate.</p>
+<p>			   EARLY	1200 GMT   1400 GMT   LATE</p>
+<p> FORECAST SHORTAGE   1.2 BLN    =	    =	    =</p>
+<p> CUMULATIVE SUPPLY    46 MLN    =	    =	    =</p>
+<p>DETAILS</p>
+<p> BAND 1  BANK BILLS   46 MLN*    =	    =	    =</p>
+<p>* INTEREST RATE - 5-15/16 PCT (INDICATES UNCHANGED BASE RATES)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

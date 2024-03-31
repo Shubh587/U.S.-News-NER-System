@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227355" id="root" date="1996-12-01" xml:lang="en">
+<title>USA: Stormy weather holds up U.S. Mars launch.</title>
+<headline>Stormy weather holds up U.S. Mars launch.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-12-01</dateline>
+<text>
+<p>Facing a dismal weather forecast, NASA postponed by one day the launch of a Mars probe carrying a tiny rover to explore the planet's rocky surface, officials said on Sunday.</p>
+<p>The Mars Pathfinder had been scheduled to begin a 310 million mile (500 million km) journey to the Red Planet with a blastoff on early Monday morning.</p>
+<p>NASA managers decided not to proceed with the countdown after forecasters painted a bleak picture of thick clouds, gusty winds, rain and thunderstorms in the Cape Canaveral area early on Monday.</p>
+<p>&quot;The chance of getting off the launch pad was virtually nil,&quot; said NASA spokesman George Diller. &quot;Almost every weather rule would have been in violation.&quot;</p>
+<p>The launch of the Delta 2 rocket carrying the probe was rescheduled for 2:03 a.m. EST (0703 GMT) on Tuesday, when conditions were expected to be near-perfect.</p>
+<p>The Mars Pathfinder will place a six-wheeled rover, about the size of an office laser printer, on the Martian surface. Under remote control from Earth it will explore the landing site, beaming back pictures of the surface and sniffing out the composition of rocks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

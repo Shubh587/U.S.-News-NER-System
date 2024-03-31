@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="792511" id="root" date="1997-08-11" xml:lang="en">
+<title>TURKEY: Turkey says 37 Kurd rebels die in clashes.</title>
+<headline>Turkey says 37 Kurd rebels die in clashes.</headline>
+<dateline>DIYARBAKIR, Turkey 1997-08-11</dateline>
+<text>
+<p>Turkish security forces killed 37 Kurdish rebels in clashes overnight in the southeast of the country, security officials said.</p>
+<p>They said 30 of the Kurdish guerrillas, members of the outlawed Kurdistan Workers Party (PKK), were killed in operations in the far southeastern province of Hakkari and seven were killed in Siirt province.</p>
+<p>More than 26,000 people have been killed in 13 years of conflict between the Turkish armed forces and the PKK who are fighting for self-rule in the mainly Kurdish southeast.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIYARBAKIR, Turkey"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

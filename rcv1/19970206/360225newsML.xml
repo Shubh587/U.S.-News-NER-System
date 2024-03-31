@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360225" id="root" date="1997-02-06" xml:lang="en">
+<title>JAPAN: NEC develops first 4-gigabit DRAM chip.</title>
+<headline>NEC develops first 4-gigabit DRAM chip.</headline>
+<byline>Yuko Inoue</byline>
+<dateline>TOKYO</dateline>
+<text>
+<p>Japanese electronics company NEC Corp. announced Thursday it had developed the world's first 4-gigait dynamic random access memory (DRAM) computer chip, the most sophisticated memory chip yet.</p>
+<p>&quot;It can store the complete works of William Shakespeare 64 times over,&quot; NEC Vice resident Hajime Sasaki told a news conference.</p>
+<p>NEC, the world's second-largest memory chip maker after South Korea's Samsung Electronics Co., said it had beaten its Japanese, South Korean and American rivals in developing the state-of-the-art semiconductor.</p>
+<p>A 4-gigabit DRAM, which is about four times the size of of a thumbnail, is capable of storing data equivalent to 16,000 newspaper pages. A gigabit is one billion bits.</p>
+<p>DRAM chips are currently used mainly in personal computers.</p>
+<p>Sasaki said NEC plans to send out sample shipments of the chip by the year 2000 and that it was seeking an early launch of the product.</p>
+<p>NEC used technology in which the circuit lines on the chip have a width of only 0.15 micron. A micron is one-millionth of a metre.</p>
+<p>The process has been confirmed by the global semiconductor body, the International Solid State Circuits Conference in the United Sates, Sasaki said.</p>
+<p>NEC said the chip is suitable for multimedia devices because it can store 47 minutes of full-motion video and six hours of audio data -- a memory capacity almost equal to a compact disc read-only memory.</p>
+<p>NEC expects the size of the chip to be reduced to about half the current size within two to three years, Sasaki said.</p>
+<p>NEC and Japan's Hitachi Ltd. developed 1-gigabit DRAMs at almost the same time in 1995, an NEC spokesman said.</p>
+<p>Commercial production of the 4-gigabit chips will not begin until after the turn of the century, however, as the current mainstay chip is still the 16-megabit (16-million-bit) DRAM chip, which, although much less sophisticated by comparison, can store the equivalent of up to 128 newspaper pages of information.</p>
+<p>Demand for the next-generation 64-megabit DRAM chip is expected to peak in late 1998.</p>
+<p>NEC's announcement came just two days after Hitachi, Mitsubishi Electric Corp. and Dallas-based Texas Instruments Inc. said they had agreed to jointly develop 1-gigabit DRAM chips.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

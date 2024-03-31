@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207890" id="root" date="1996-11-21" xml:lang="en">
+<title>SWITZERLAND: ABB sets superconducting device.</title>
+<headline>ABB sets superconducting device.</headline>
+<dateline>ZURICH 1996-11-22</dateline>
+<text>
+<p>ABB Asea Brown Boveri AG said it had successfully installed the world's first commercially operational high-temperature superconducting device for an electrical utility service.</p>
+<p>ABB said the device, installed in a Swiss hyroelectrcial plant, was a current limiter designed to protect equipment and personnel against the effects of short-circuit electrical faults.  </p>
+<p>The device uses the superconductor's unique properties of extreme cooling to dampen the current surge caused by a short-circuit.</p>
+<p>&quot;The installaction of such devices reduces the damage caused by electrical faults, shortens repair time and provides utility personnel with greater security,&quot; an ABB statement said.</p>
+<p>&quot;The result for electrical compnaies is greater power supply reliability and lower operating costs,&quot; it added.</p>
+<p>ABB said the current limiter now installed was the world's first in commercial operation at a power plant.</p>
+<p>ABB said the so-called &quot;fault current limit&quot; would undergo long-term performance monitoring under actual operating conditions starting today.</p>
+<p>&quot;With a rating of 1 megavolt-ampere (MVA) at a system voltage of 10.5 kilovolts, it is also the most pwerful device of its kind in the world,&quot; ABB said.</p>
+<p>ABB said it was a &quot;high-temperature&quot; device, meaning it is cooled to 77 degrees Kelvin rather than earlier &quot;low-temperature&quot; devices which had to be cooled to around four degrees Kelvin.</p>
+<p>Kelvin is a temperature scale whose zero point is the same as what scientists call &quot;absolute zero&quot;, or minus 273 degrees Celsius.</p>
+<p>The installation was at a hydro plant named Kraftwerk am Loentsch near Glarus in central Switzerland, owned by Swiss utility Nordostschweizerische Kraftwerke AG (NOK).</p>
+<p>Financial support for the commercial development and testing of the device was provided by a Swiss utility studies fund and practical assistance was leant by NOK, ABB said.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

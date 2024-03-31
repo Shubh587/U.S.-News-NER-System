@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773017" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: TABLE - Chrysler July US car sales fall.</title>
+<headline>TABLE - Chrysler July US car sales fall.</headline>
+<dateline>DETROIT 1997-08-01</dateline>
+<text>
+<p>Chrysler Corp</p>
+<p>			Jul 1-31, 1997     Jul 1-31, 1996 *Pct Chng</p>
+<p> Domestic Car	    64,804	    73,869	    -12.3</p>
+<p> Domestic Truck	 134,858	   145,997	     -7.6</p>
+<p> Import Car		     0		 273	     N.A.</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>		  Jan 1-Jul 31, 1997 Jan 1-Jul 31, 1996 *Pct Chng</p>
+<p> Domestic Car	   483,119	   541,700	    -10.3</p>
+<p> Domestic Truck	 917,688	   970,623	     -4.9</p>
+<p> Import Car		     0	     3,708	     N.A.</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>* Pct change based on daily selling rate. Sale days 26 in latest month  vs 26, 179 for year to date vs 180 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

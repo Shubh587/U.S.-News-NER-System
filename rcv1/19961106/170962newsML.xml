@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170962" id="root" date="1996-11-06" xml:lang="en">
+<title>GERMANY: Global One wins Israel phone licence.</title>
+<headline>Global One wins Israel phone licence.</headline>
+<dateline>BONN 1996-11-06</dateline>
+<text>
+<p>Deutsche Telekom AG, the German phone giant, said on Wednesday that its Global One venture with France Telecom and Sprint Corp was part of a consortium that won a licence to operate an international public phone network in Israel.</p>
+<p>The consortium, called Barak I.T.C., includes Israeli firms Clalcam Ltd and Matav and marks the first time that Global One's owners bidded jointly on a contract.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

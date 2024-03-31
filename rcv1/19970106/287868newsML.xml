@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287868" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: IBM names head of personal software unit.</title>
+<headline>IBM names head of personal software unit.</headline>
+<dateline>NEW YORK 1997-01-06</dateline>
+<text>
+<p>International Business Machines Corp said on Monday that it named J. Michael Lawrie as head of its personal software products unit, to replace John W. Thompson who was promoted last month within IBM.</p>
+<p>Lawrie, 43, has been with IBM for 19 years and most recently was general manager, industries, at IBM Asia Pacific. Prior to that he was vice president of software in Asia Pacific. Personal software products is the unit which has responsibility for IBM's OS/2 Warp operating system.</p>
+<p>Thompson was promoted in December to become general manager, IBM North America, in a big IBM reorganization.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

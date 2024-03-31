@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37376" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Workgroup warns of loss, stock plunges.</title>
+<headline>Workgroup warns of loss, stock plunges.</headline>
+<dateline>LEXINGTON, Mass.</dateline>
+<text>
+<p>Workgroup Technology Corp., a provider of product data management systems, Friday warned that it might report a loss for at least one quarter, sparking a sharp sell-off that cut the value of its stock by more than half.</p>
+<p>The stock fell $7.75 to $7.25 on Nasdaq in late morning trading.</p>
+<p>Alex. Brown, which had previously recommended buying the stock, downgraded it to neutral.</p>
+<p>Workgroup said it expected revenues for the second quarter and the rest of the year to fall below analysts' estimates, resulting in a net loss for at least that quarter.</p>
+<p>Additional expenses related to the formation of a new development unit, however, along with the revenue drop, could lead to net losses for the third and fourth quarters as well, it said.</p>
+<p>Workgroup attributed the low revenues to the disappointing performance of its European operations, which were started last year, the delay until the fourth quarter in the delivery of a version of its server product for Microsoft Corp.'s Windows NT operating system, and delays in the closing of several significant orders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

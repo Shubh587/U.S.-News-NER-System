@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121720" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Consumer prices move up 0.3 percent in September.</title>
+<headline>Consumer prices move up 0.3 percent in September.</headline>
+<dateline>WASHINGTON 1996-10-16</dateline>
+<text>
+<p>Consumer prices rose moderately in September, the Labor Department said on Wednesday, continuing a pattern of relatively contained inflation despite the strength of the economy.</p>
+<p>The department said the Consumer Price Index rose 0.3 percent last month, following an increase 0.1 percent in the prior month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140201" id="root" date="1996-10-24" xml:lang="en">
+<title>AUSTRALIA: RTRS-RBA makes no announcement on Australian rates.</title>
+<headline>RTRS-RBA makes no announcement on Australian rates.</headline>
+<dateline>SYDNEY 1996-10-25</dateline>
+<text>
+<p>The Reserve Bank of Australia (RBA) made no annoucement on official cash rates in its 9.30 a.m. (2330 GMT) market operation annoucement on Friday.</p>
+<p>There had been speculation in financial markets that the central bank would cut rates as early as this morning following favourable Australian wages and inflation data this week.</p>
+<p>Most market analysts still expect the bank to ease policy before year-end, possibly after its next board meeting on November 5. The official cash rate currently stands at 7.0 percent, having been cut by 0.5 point on July 31.</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

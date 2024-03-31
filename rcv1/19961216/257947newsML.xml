@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257947" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Worldwide Broadcasting sets Internet news service.</title>
+<headline>Worldwide Broadcasting sets Internet news service.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-12-16</dateline>
+<text>
+<p>Worldwide Broadcasting Network Monday said it will launch its new subscription-based Internet news and information service in January, 1997.</p>
+<p>WBN, throught BBN Planet, its technology partner and Internet service provider, will narrowcast customized, interactive multimedia content to desktop PCs via the Internet to company intranets.</p>
+<p>BBN Planet is a unit of BBN Corp.</p>
+<p>WBN programming will incorporate high quality video and audio coupled with text, graphics and interactive features such as message boards, chat groups, collaboration and application sharing.</p>
+<p>In addition, WBN will offer programs produced and developed in partnership with corporate users and independent producers.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

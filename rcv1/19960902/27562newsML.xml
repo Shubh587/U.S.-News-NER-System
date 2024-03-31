@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27562" id="root" date="1996-09-02" xml:lang="en">
+<title>USA: Oki to offer 3-volt wireless device.</title>
+<headline>Oki to offer 3-volt wireless device.</headline>
+<dateline>SUNNYVALE, Calif 1996-09-02</dateline>
+<text>
+<p>Oki Semiconductor said Monday it would offer an advanced 3-volt GaAs RF device, which it described as one of the first such products optimized and characterized for 850 MHz to 2.4 GHz high-efficiency, digital communications systems at 3 volts.</p>
+<p>The company said target applications include wireless industrial, scientific &amp; medical (ISM) as well as spread spectrum and microwave cellular voice/data systems, where low distortion is a key requirement.</p>
+<p>Oki's new family of amplifiers comprises two driver amplifiers, the KGF1633 and the KGF1631, and one power amplifier, the KGF1658. The KGF1631, KGF1633 and KGF1658 are manufactured using Oki's new 0.5um high-efficiency implant technology, permitting peak currents over 5.5 A at gigahertz frequencies, said Dr. Moni Mathew, Oki's RF products manager.</p>
+<p>Oki Semiconductor is a division of OKI America Inc., a subsidiary of Oki Electric Industry Co Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

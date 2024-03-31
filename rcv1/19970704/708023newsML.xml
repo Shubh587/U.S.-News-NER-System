@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="708023" id="root" date="1997-07-04" xml:lang="en">
+<title>USA: Maryland politician indicted for attempted murder.</title>
+<headline>Maryland politician indicted for attempted murder.</headline>
+<dateline>WASHINGTON 1997-07-03</dateline>
+<text>
+<p>Ruthann Aron, a former Republican candidate for the U.S. Senate and a member of the Montgomery County planning board, was indicted by a grand jury Thursday on new charges that she tried to poison her husband.</p>
+<p>The grand jury also indicted Aron, 54, on two counts of soliticing someone to murder her husband and a Baltimore lawyer, a state prosecutor said.</p>
+<p>Aron, was arrested last month as part of an elaborate sting operation set up after an informant called police and said Aron wanted the name of a hit-man.</p>
+<p>The Montgomery County Council also passed a resolution removing Aron from the seat on the planning board she has held since 1992, council president Marilyn Praisner said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

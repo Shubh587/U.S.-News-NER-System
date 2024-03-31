@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98495" id="root" date="1996-10-06" xml:lang="en">
+<title>TOGO: Togolese leader leaves for Norway visit.</title>
+<headline>Togolese leader leaves for Norway visit.</headline>
+<dateline>LOME 1996-10-06</dateline>
+<text>
+<p>Togolese President Gnassingbe Eyadema left Lome on Sunday for a four-day official visit to Norway, government officials said.</p>
+<p>They did not disclose the details of his programme or the reasons for the visit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="TOGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOME"/>
+<dc element="dc.creator.location.country.name" value="TOGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

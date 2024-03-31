@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189241" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: U.S. weekly railcar loadings-wk ended Nov 9 - AAR.</title>
+<headline>U.S. weekly railcar loadings-wk ended Nov 9 - AAR.</headline>
+<dateline>WASHINGTON 1996-11-14</dateline>
+<text>
+<p>The Association of American Railroads reported weekly railcar loadings as follows:</p>
+<p>    -		Pct Change   Week Ending:	   Year-Ago</p>
+<p>    -		   In Week---11/09/96  11/02/96     Week</p>
+<p> Grain		     5.2	31,151    29,613    27,112</p>
+<p> Grain Mill Products  -1.1	 9,834     9,941     9,127</p>
+<p> Other Farm Products  21.5	 2,459     2,024     2,497</p>
+<p> Metallic Ores	  -6.4	17,452    18,649    17,389</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230209" id="root" date="1996-12-03" xml:lang="en">
+<title>CANADA: Ivaco sells plant to Birmingham.</title>
+<headline>Ivaco sells plant to Birmingham.</headline>
+<dateline>MONTREAL 1996-12-03</dateline>
+<text>
+<p>Ivaco Inc said on Tuesday that it completed the sale of its Atlantic Steel steelmaking plant in Cartersville, Georgia to a newly created venture with Birmingham Steel Corp.</p>
+<p>Total proceeds from the transaction were C$127 million, involving C$100 million cash and $27 million represented by a 15 percent interest in the new venture. Birmingham Steel will own the other 85 percent of the venture.</p>
+<p>Ivaco would use the proceeds to reduce debt and meet other obligations, the company said.</p>
+<p>((Reuters Montreal bureau 514-985-2434))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

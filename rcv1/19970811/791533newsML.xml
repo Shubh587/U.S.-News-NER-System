@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="791533" id="root" date="1997-08-11" xml:lang="en">
+<title>USA: Package bomb kills man in southern Calif..</title>
+<headline>Package bomb kills man in southern Calif..</headline>
+<dateline>WESTMINISTER, Calif. 1997-08-11</dateline>
+<text>
+<p>A man was killed when a bomb exploded in a package he was opening at his apartment in this town south of Los Angeles, police said Monday.</p>
+<p>Police said the explosive device went off just before midnight instantly killing William Bays, 46, an unemployed picture frame maker. Two friends with him at the time were not hurt, police said.</p>
+<p>Bays had found the toaster-sized package outside his garage door and had taken it into a recreation room to open when it exploded.</p>
+<p>Police said they had no suspect and could offer no motive for the explosion.</p>
+<p>Westminster is about 30 miles (48 km) south of Los Angeles.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTMINISTER, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

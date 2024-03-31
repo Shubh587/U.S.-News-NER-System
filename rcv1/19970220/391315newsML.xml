@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391315" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: Foster Wheeler Illinois plant in operation.</title>
+<headline>Foster Wheeler Illinois plant in operation.</headline>
+<dateline>CLINTON, N.J. 1997-02-20</dateline>
+<text>
+<p>Foster Wheeler Corp said its Robbins Recycling and Waste-to-Energy Facility commenced commercial operation on January 22.</p>
+<p>The company said air quality tests supervised by the Illinois Environmental Protection Agency in conjunction with the start-up of commercial operation have shown the plant to perform significantly better than required by State regulations. It pointed out this is the first such plant in the United States to process refuse-derived fuel in a circulating fluidized-bed boiler combustor and the largest integrated facility of its kind in the world.</p>
+<p>The facility, built at a cost of about $385 million, is performing even better than the more stringent emission guidelines proposed in 1995 by the United States Environmental Protection Agency, Foster Wheeler said.</p>
+<p>Located in Robbins, Ill., a suburb of Chicago, is designed to process 1,200 tons of refuse per day after recyclables and compostable materials totaling about 400 tons have been removed by the facility's recycling system.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLINTON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

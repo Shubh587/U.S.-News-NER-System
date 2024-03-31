@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46169" id="root" date="1996-09-11" xml:lang="en">
+<title>COLOMBIA: Powerful quake rocks western Colombia.</title>
+<headline>Powerful quake rocks western Colombia.</headline>
+<dateline>BOGOTA, Colombia 1996-09-11</dateline>
+<text>
+<p>An earthquake measuring 5.1 on the open-ended Richter scale rocked a wide area of western Colombia on Wednesday but caused no casualties or damage, according to initial reports from the Colombian Seismological Institute.</p>
+<p>The tremor struck at 1.28 a.m. (0628 GMT), with its epicentre close to the town of Sipi, in Choco province, 175 miles (280 km) west of the capital Bogota. The quake, powerful enough to cause considerable damage in a populated area, sparked panic as it shook the cities of Cali, Pereira and Manizales. It was also felt in other towns.</p>
+<p>The tremor was the second in two days in the region. The first, on Monday, measured 4.6 on the Richter scale.</p>
+<p>Last year several earthquakes of varying intensities were felt across Colombia. The biggest, at 6.0 on the Richter scale, hit the town of Pereira in February, killing 40, leaving scores injured and causing extensive damage.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA, Colombia"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

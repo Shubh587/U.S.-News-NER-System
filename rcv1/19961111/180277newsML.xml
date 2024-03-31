@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180277" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: U.S. space shuttle launch gets green light.</title>
+<headline>U.S. space shuttle launch gets green light.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-11-11</dateline>
+<text>
+<p>Space shuttle Columbia was cleared for launch on Friday after engineers resolved a nagging booster rocket problem, U.S. space agency officials said on Monday.</p>
+<p>Columbia was scheduled to blast off from Florida's Kennedy Space Centre on Friday at 2:50 p.m. EST (1950 GMT), one week later than originally planned.</p>
+<p>The mission had been delayed so engineers could conclude an investigation into the perplexing rocket problem, which cropped up on the last shuttle flight.</p>
+<p>&quot;We now feel like we understand the booster problem,&quot; NASA spokesman Bruce Buckingham said at the conclusion of a flight readiness review by shuttle managers.</p>
+<p>Space agency officials wanted to determine exactly what caused about 60 gouges in the protective insulation that lined the bell-like nozzle of a solid rocket booster used by shuttle Atlantis in September.</p>
+<p>Columbia's crew of five was due to arrive at the Kennedy Space Centre from Houston on Monday evening.</p>
+<p>During the 16-day mission the astronauts are due to release and later retrieve a pair of science satellites, and make two spacewalks to study space station construction techniques.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

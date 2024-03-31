@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125011" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: U.S. stocks seen higher with bonds after data.</title>
+<headline>U.S. stocks seen higher with bonds after data.</headline>
+<dateline>NEW YORK 1996-10-16</dateline>
+<text>
+<p>U.S. stocks were called higher on Thursday after September housing starts came in weaker than expected and weekly jobless claims pointed to an unexpectedly softer labour market, boosting bonds.</p>
+<p>&quot;Bonds are rallying on this. The housing starts weakness is more pronounced than the jobless claims. Both are friendly to bonds and stocks follow bonds,&quot; said Larry Wachtel, a market analyst at Prudential Securities.</p>
+<p>The long bond, barely higher before the data, rose 13/32 to yield 6.83 percent.</p>
+<p>Construction starts on new homes and apartments in September posted their biggest drop in 21 months, falling to the lowest level since last December, the U.S. Commerce Department said.</p>
+<p>Housing starts fell six percent to a seasonally adjusted annual rate of 1.438 million. That was below Wall Street economist forecasts for a 1.47-million-unit building rate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="324683" id="root" date="1997-01-22" xml:lang="en">
+<title>TURKEY: Earthquakes shake Turkey, cause some damage.</title>
+<headline>Earthquakes shake Turkey, cause some damage.</headline>
+<dateline>ANKARA 1997-01-22</dateline>
+<text>
+<p>Two earthquakes measuring 3.8 and 5.5 on the open-ended Richter scale shook southern Turkey on Wednesday evening, damaging a number of houses, Antolian news agency said.</p>
+<p>It said no casualties were reported from the earthquakes which were felt in cities ranging from Izmir in the west to Diyarbakir in the southeast through southern towns of Mersin and Adana.</p>
+<p>Residents in Beirut, the northern Lebanese city of Tripoli and Nicosia in Cyprus said they felt earthquakes around 1800 GMT, but there were no immesdiate reports of casualties or damage.</p>
+<p>Nearly 40 houses were damaged in Denizli province in central-western Turkey, Anatolian said.</p>
+<p>It quoted officials from Kandilli Observatory in Istanbul as saying that the epicentre of one of the the earthquakes was in Aegean Sea and the other in the Mediterranean.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

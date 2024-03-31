@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183806" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: U.S. supply/demand cotton estimates -- USDA.</title>
+<headline>U.S. supply/demand cotton estimates -- USDA.</headline>
+<dateline>WASHINGTON 1996-11-12</dateline>
+<text>
+<p>USDA supply/demand estimates of U.S. cotton (million 480-Lb Bales):</p>
+<p>				    1996/97		  1995/96</p>
+<p>			   11/01/96  12/01/96   11/01/96   12/01/96</p>
+<p>   Beginning Stocks-U    2.61	 2.61	 2.65	2.65</p>
+<p>	     Production   18.59	18.19	17.90     17.90</p>
+<p>		  Imports    0.50	 0.50	 0.41	0.41</p>
+<p>	 Total Supply-F   21.70	21.30	20.96     20.96</p>
+<p>	   Domestic Use   11.00	11.00	10.60     10.60</p>
+<p>		  Exports    5.80	 5.80	 7.68	7.68</p>
+<p>U-Based on Census Bureau data. F-Includes imports.  </p>
+<p>	  COTTON --------------- 1996/97		   1995/96</p>
+<p>			 11/01/96  10/01/96    11/01/96  10/01/96</p>
+<p> Mln Acres Planted    14.24     14.24	 16.93     16.93</p>
+<p> Mln Acres Harvested  12.78     12.98	 16.01     16.01</p>
+<p> Yield (Lbs per Acre)   698	 673	   537	 661</p>
+<p>Note--Cotton marketing season begins Aug 1.  </p>
+<p>	  COTTON-X ------------- 1996/97	     1995/96</p>
+<p>			    11/01/96  10/01/96   11/01/96 10/01/96</p>
+<p>	     Total Use     16.80     16.80	18.28    18.28</p>
+<p>	 Unaccounted-V	 Nil	 Nil	 0.07     0.07</p>
+<p>	Ending Stocks-W     4.90	4.50	 2.61     2.61</p>
+<p> Avg.Price (Cents/Lb)    72.00-Z     N/A	75.40    76.90</p>
+<p>V-Mln 480-lb bales. W-Difference between end stocks and prior season stocks, less total use. U-Based on Census Bureau data. N/A-Not Available. Z- The 1996/97 price is a weighted average for August-September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="443768" id="root" date="1997-03-14" xml:lang="en">
+<title>SWITZERLAND: Swiss bond futures end higher before expiry.</title>
+<headline>Swiss bond futures end higher before expiry.</headline>
+<text>
+<p>1630 GMT - Swiss debt futures end higher as U.S. and German bonds strengthed after release of U.S. data during the European afternoon. March contracts expire on Monday. * March Conf futures end up 21 basis points at 120.50 * 4-1/2 pct June 2007 bond yields 3.591 pct vs 3.585 pct</p>
+<p>(Full details/background follow)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

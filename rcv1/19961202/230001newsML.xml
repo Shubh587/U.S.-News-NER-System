@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230001" id="root" date="1996-12-02" xml:lang="en">
+<title>CHINA: China has surplus of three shirts per man - paper.</title>
+<headline>China has surplus of three shirts per man - paper.</headline>
+<dateline>SHANGHAI 1996-12-02</dateline>
+<text>
+<p>China has a surplus of three shirts for each of its adult male population, part of enormous over-production of consumer goods, the Liberation Daily reported on Monday.</p>
+<p>The country has stocks of 1.5 billion men's shirts and its factories continue to turn out more than one million a day, it said.</p>
+<p>Of the output of China's 3,000 cosmetics factories, 70 percent is sitting in warehouses, it said.</p>
+<p>China has 10 million watches and 20 million bicycles in storage and has imported an excess number of production lines for washing machines, colour televisions and refrigerators, some of which operate at only 30-50 percent of capacity, it said.</p>
+<p>China also has a stock of 116,000 automobiles.</p>
+<p>The newspaper said that there was enormous waste involved in duplication of output and low scale of production.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

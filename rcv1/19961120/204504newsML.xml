@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204504" id="root" date="1996-11-20" xml:lang="en">
+<title>DENMARK: Danish Wise Men's report - main figures.</title>
+<headline>Danish Wise Men's report - main figures.</headline>
+<dateline>COPENHAGEN 1996-11-20</dateline>
+<text>
+<p>The following is a table of the main points from the Danish Wise Men's November forecast</p>
+<p>(percent growth)				1996    1997   1998</p>
+<p>GDP						  2.0     2.9    2.2</p>
+<p>Inflation					  2.2     2.6    2.7</p>
+<p>Wage costs					 4.1     4.5    4.7</p>
+<p>Exports					    0.9     1.1    1.8</p>
+<p>Imports					    1.9     2.9    2.6</p>
+<p>Unemployment (thousands)		     245     236    245</p>
+<p>c/a surplus (billion crowns)		 13.8    6.3    0.1</p>
+<p>--Steve Weizman, Copenhagen newsroom +45-33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

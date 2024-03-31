@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195536" id="root" date="1996-11-17" xml:lang="en">
+<title>BELGIUM: Belgian PM invited to China.</title>
+<headline>Belgian PM invited to China.</headline>
+<dateline>BRUSSELS 1996-11-17</dateline>
+<text>
+<p>Chinese Prime Minister Li Peng has invited Belgian counterpart Jean-Luc Dehaene to visit China in a bid to strengthen economic relations between Brussels and Beijing, Belga news agency reported on Sunday.</p>
+<p>The invitation was forwarded during a brief meeting on the margins of the United Nations food summit in Rome. The date has yet to be set.</p>
+<p>Li and Dehaene met last March during the 25-nation European Union-Asia summit in Bangkok and both then expressed an interest in deepening their countries' economic relations, including Belgian investments in China.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="774406" id="root" date="1997-08-03" xml:lang="en">
+<title>JAPAN: SOCCER-RESULTS OF J-LEAGUE SATURDAY MATCHES.</title>
+<headline>SOCCER-RESULTS OF J-LEAGUE SATURDAY MATCHES.</headline>
+<dateline>TOKYO 1997-08-03</dateline>
+<text>
+<p>Results of J-League matches on Saturday:</p>
+<p>Ichihara 3 Kawasaki 1</p>
+<p>Kobe 0 Kashima 5</p>
+<p>Hiratsuka 3 Osaka G 4</p>
+<p>Hiroshima 1 Iwata 3</p>
+<p>Yokohama M 0 Urawa 2</p>
+<p>Osaka C 2 Nagoya 3</p>
+<p>Shimizu 2 Kashiwa 3</p>
+<p>Fukuoka 0 Yokohama F 1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

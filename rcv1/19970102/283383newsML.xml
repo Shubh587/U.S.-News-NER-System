@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283383" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: U.S. year bill auction average rate 5.31 pct.</title>
+<headline>U.S. year bill auction average rate 5.31 pct.</headline>
+<dateline>WASHINGTON 1997-01-02</dateline>
+<text>
+<p>The U.S. Treasury said its auction of one-year bills brought these results:</p>
+<p>364-DAY BILLS DUE JAN 8, 1998 * $19.298 BILLION</p>
+<p>	  DISCOUNT	    INVESTMENT	    PRICE</p>
+<p>	  BID RANGE	     RATE		  RANGE</p>
+<p>     LOW  5.29   ACCEPTED   5.59		 94.651</p>
+<p>    HIGH  5.32   AT HIGH:   5.62		 94.621</p>
+<p> AVERAGE  5.31   23  PCT    5.61		 94.631</p>
+<p>AVERAGE HIGHEST SINCE  5.34% AUCTIONED 10.OCT.96</p>
+<p>TOTAL BIDS $47.806 BLN OR 2.48 TIMES AMOUNT SOLD  </p>
+<p> U.S. TREASURY  GOVERNMENT DEBT)		 MATURITY 08.Jan.98</p>
+<p> MATURITY/TYPE   364-DAY BILLS		   PAY DATE 09.Jan.97</p>
+<p> TYPE OF DEBT     STRAIGHT			 LAUNCHED 02.Jan.97</p>
+<p> ISSUED/ACCEPTED  19.297 BLN USD		 CUSIP    9127944Q4</p>
+<p> BIDS SUBMITTED   47.806			   COUNTRY	  USA</p>
+<p> NONCOMPETITIVE    0.914			    AUCTION AVERAGES</p>
+<p> NY FED DISTRICT   N.A			     DISCOUNT     5.31</p>
+<p> FOREIGN INSTITN   1,300 MLN		     PRICE	94.631</p>
+<p> BIDDING RANGE    5.29-5.32 PCT		  YIELD	  5.61</p>
+<p>	 COVER (Bids Over Amount Auctioned) = 2.48 Times</p>
+<p>	 TAIL  (High  Minus Average  Yield) = 1 BASIS PT</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

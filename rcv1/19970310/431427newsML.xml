@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431427" id="root" date="1997-03-10" xml:lang="en">
+<title>NORWAY: Analysts see Norway '97 oil output at 3.41 mln bpd.</title>
+<headline>Analysts see Norway '97 oil output at 3.41 mln bpd.</headline>
+<dateline>OSLO 1997-03-10</dateline>
+<text>
+<p>Oil industry analysts Wood Mackenzie said on Monday they had revised upwards forecasts for Norwegian crude and natural gas liquids (NGL) output in 1997 to 3.41 million barrels per day (bpd).</p>
+<p>The estimate is an increase of five percent, or 170,000 bpd, on the 1996 level of 3.24 million bpd.</p>
+<p>Wood Mackenzie said an increase in scheduled maintenance in 1997, compared with a year ago, would largely disguise an underlying upturn in production as Balder, Norne, Tordis East and Njord are brought onstream.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

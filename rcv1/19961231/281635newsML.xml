@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281635" id="root" date="1996-12-31" xml:lang="en">
+<title>USA: Dow falls 70 points, NYSE sets curbs.</title>
+<headline>Dow falls 70 points, NYSE sets curbs.</headline>
+<dateline>NEW YORK 1996-12-31</dateline>
+<text>
+<p>Wall Street stocks pushed lower in late afternoon activity, with the Dow slumping more than 70 points.</p>
+<p>The decline triggered index-arbitrage program trading curbs on the New York Stock Exchange at 1501 EST/2001 GMT.</p>
+<p>The most recent dip in stocks was tied to a sell program, the first program activity of the day, according to Birinyi Associates. The market impact could not yet be calculated, the firm said, because the program was still underway.  </p>
+<p>At 1515 EST/2015 GMT the Dow stood at 6478, down nearly 72 points and barely above its session low of 6474.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

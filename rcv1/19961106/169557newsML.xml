@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="169557" id="root" date="1996-11-06" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australian Finance Dept corrects Sept deficit.</title>
+<headline>RTRS - Australian Finance Dept corrects Sept deficit.</headline>
+<dateline>CANBERRA 1996-11-06</dateline>
+<text>
+<p>The Australian Finance Department issued a corrigendum on Wednesday correcting its September issue of the Commonwealth Government Statement of Financial Transactions.</p>
+<p>The corrected statement shows the September monthly underlying fiscal deficit at A$400 million, a $5.9 billion improvement on the originally reported A$6.3 billion.</p>
+<p>The error arose from mistaken adjustment of the headline budget balance for the effect of an asset sale.</p>
+<p>Fiscal-year-to-date (July-September) data was unaffected.  </p>
+<p>The cumulative deficit was A$5.864 billion against A$5.533 billion a year earlier.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

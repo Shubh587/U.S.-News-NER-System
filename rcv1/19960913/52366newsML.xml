@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52366" id="root" date="1996-09-13" xml:lang="en">
+<title>UK: John Lewis weekly UK store sales up 13.7% yr/yr.</title>
+<headline>John Lewis weekly UK store sales up 13.7% yr/yr.</headline>
+<dateline>LONDON 1996-09-13</dateline>
+<text>
+<p>The John Lewis Partnership said on Friday its UK department store sales for the week to September 7 were up 13.7 percent year-on-year.</p>
+<p>For the six weeks to September 7 department store sales were up 17.3 percent year-on-year.</p>
+<p>Total sales, including those from the Waitrose supermarket chain, rose 13.5 percent year-on-year. For the six-week period, sales were up 13.0 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

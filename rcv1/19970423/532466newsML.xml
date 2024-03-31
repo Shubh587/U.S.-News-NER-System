@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532466" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: AEI wins Siebe air cargo deal.</title>
+<headline>AEI wins Siebe air cargo deal.</headline>
+<dateline>NEW YORK 1997-04-23</dateline>
+<text>
+<p>Airborne Express has signed a two year agreement with Siebe Inc's Transportation Council for AEI to provide global air cargo export and import services to and from North America, AEI said in a statement.</p>
+<p>The value of the contract was not disclosed.</p>
+<p>Siebe designs and manufactures temperature and appliance controls, process automation and control systems, compressors, automotive components, fluid systems and safety equipment.</p>
+<p>Siebe is based in Windsor in the UK and has annual revenues around $5 billion with about half of its business in North America.</p>
+<p>It has three North American divisions: Siebe Temperature and Appliance Controls, Siebe Control Systems and Siebe Industrial Equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

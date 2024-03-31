@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578083" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: Century Industries Inc Q1 profit vs loss.</title>
+<headline>Century Industries Inc Q1 profit vs loss.</headline>
+<dateline>STERLING, Va. 1997-05-13</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>						   March 31,</p>
+<p>					    1997	 1996	 1995</p>
+<p> Revenues			  $3,804,818   $729,410   $617,247</p>
+<p> Operating Income (Loss)	  321,191   (27,023)     13,330</p>
+<p>Less: Preferred Stock Dividends</p>
+<p>					(141,950)    (4,450)    (1,950)</p>
+<p> Net Income (Loss)		   60,991   (23,830)     12,587</p>
+<p> EPS (Loss)				0.01     (0.01)	 0.00</p>
+<p> Avg. Shares Outstanding	5,500,000  1,326,000  1,326,000</p>
+<p> Total Assets		     9,856,539  1,285,260  1,492,552</p>
+<p> Stockholders' Equity	   5,322,134    340,458    748,310</p>
+<p>Notes: Rise in common shares outstanding reflects purchase of DC Partners Ltd and its Scibal Assoc subsidiary.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STERLING, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

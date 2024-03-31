@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105001" id="root" date="1996-10-09" xml:lang="en">
+<title>ALBANIA: Albanian September CPI rises 2.5 pct m/m.</title>
+<headline>Albanian September CPI rises 2.5 pct m/m.</headline>
+<dateline>TIRANA 1996-10-09</dateline>
+<text>
+<p>Albania's Institute of Statistics reported the following economic indicator details on Wednesday:</p>
+<p> ALBANIAN INFLATION	 SEPT 96     AUG 96     SEPT 95</p>
+<p> Monthly CPI change (pct)   +2.5	  +1.9	 +1.5</p>
+<p> Yr-on-yr change	     +17.7	 +16.1	 +6.5</p>
+<p> Index (Dec 1993=100)	139.34	135.99     118.83</p>
+<p>-- Tirana newsroom +355-42-62228</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

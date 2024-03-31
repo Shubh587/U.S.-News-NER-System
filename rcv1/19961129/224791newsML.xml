@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224791" id="root" date="1996-11-29" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.African company results consensus.</title>
+<headline>FORECAST - S.African company results consensus.</headline>
+<dateline>JOHANNESBURG 1996-11-29</dateline>
+<text>
+<p>Analysts estimates of major South African company results expected next week include the following (all figures cents per share)</p>
+<p>DAY--COMPANY--PERIOD--CONSENSUS----RANGE---------PVS--</p>
+<p>MON  Remgro   H1 EPS   161.0	160-162.6	128.0</p>
+<p>TUE  Sappi    YR EPS   266.6	200.0-320.0    846.0</p>
+<p>TUE  Sappi    YR DIV   90.0	 70.0-120.0     120.0</p>
+<p>NOTE: Remgro on August 28 declared a dividend of 29.4 cents for the six months ended September 30, 1996 versus 24.5 in the same period in 1995.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

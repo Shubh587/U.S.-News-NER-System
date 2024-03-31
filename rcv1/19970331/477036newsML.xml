@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477036" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: U.S. High Court rules against state in voter case.</title>
+<headline>U.S. High Court rules against state in voter case.</headline>
+<dateline>WASHINGTON 1997-03-31</dateline>
+<text>
+<p>A unanimous Supreme Court ruled Monday for the Justice Department in challenging Mississippi's decision to apply a 1993 voter registration law just to federal, and not to state or local, elections.</p>
+<p>The federal law requires states make voter registration easier and remove opportunities for discrimination in the registration process.</p>
+<p>It requires that states treat every driver's license application as a request for voter registration, accept voter registration applications by mail and distribute applications at various state agencies.</p>
+<p>The Justice Department said Mississippi has been the only state to refuse to apply the law's registration procedures to state and local elections.</p>
+<p>The Justice Department argued that Mississippi's decision constituted a voting change subject to the federal voting rights law and must be cleared by the attorney general or a federal court.</p>
+<p>The Supreme Court in a ruling by Justice Stephen Breyer agreed with the Justice Department that Mississippi should have obtained approval under the voting rights law.</p>
+<p>The justices reversed a ruling by a three-judge federal court in Mississippi that only the state legislature under Mississippi law could decide whether to apply the registration procedures to state and local elections.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

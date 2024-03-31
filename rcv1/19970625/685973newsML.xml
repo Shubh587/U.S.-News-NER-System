@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="685973" id="root" date="1997-06-25" xml:lang="en">
+<title>THAILAND: Three killed in shootout at Thai-Cambodian border.</title>
+<headline>Three killed in shootout at Thai-Cambodian border.</headline>
+<dateline>ARANYAPRATHET, Thailand 1997-06-25</dateline>
+<text>
+<p>Thai soldiers shot and killed two Cambodian bandits on Wednesday as they attempted to return to their country after robbing a Thai villager, police said.</p>
+<p>One Thai soldier was killed in the 20-minute shootout, they added.</p>
+<p>Seven bandits crossed about three km (two miles) to Thailand's Baan Rai village to carry out the robbery. Their victim was tied up but managed to escape and alert police, they said.</p>
+<p>Thai police and soldiers launched a hunt for the bandits and managed to corner them.</p>
+<p>One Thai villager was wounded in the crossfire.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARANYAPRATHET, Thailand"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

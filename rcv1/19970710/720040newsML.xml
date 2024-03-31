@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720040" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: TABLE - TJX Cos June same-store sales up.</title>
+<headline>TABLE - TJX Cos June same-store sales up.</headline>
+<dateline>FRAMINGHAM, Mass. 1997-07-10</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1997	 1996	     Total     Same-Store</p>
+<p>Month		 $664	 $597	 +11	   +9</p>
+<p>Year-to-date    $2,819     $2,623	  +7	  N/a</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>    Month is   five weeks ended July 5.</p>
+<p>Full company name is TJX Cos Inc.</p>
+<p>((-- New York Newsdesk, 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRAMINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

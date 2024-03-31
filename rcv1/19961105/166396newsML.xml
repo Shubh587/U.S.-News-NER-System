@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166396" id="root" date="1996-11-05" xml:lang="en">
+<title>AUSTRALIA: Australia cuts official interest rates.</title>
+<headline>Australia cuts official interest rates.</headline>
+<dateline>SYDNEY, Australia</dateline>
+<text>
+<p>The Reserve Bank of Australia said Wednesday it was cutting official interest rates by half a percentage point to 6.5 percent.</p>
+<p>Rates were last cut on July 31, when the official cash rate was brought down to 7.0 percent from 7.5 percent.</p>
+<p>Australian markets were expecting a rate cut after recent data showing a sluggish economy and weak employment market combined with low inflation and moderate wage growth.</p>
+<p>Announcing its second rate cut this year, the Reserve Bank said the outlook for inflation had improved and this had increased scope for a faster rate of economic growth.</p>
+<p>The Reserve Bank pointed to exchange rate stability as another factor in its decision, but added that it was still concerned by the level of some wage claims.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162471" id="root" date="1996-11-03" xml:lang="en">
+<title>TURKEY: Turkish ship sinks in Bosphorus collision.</title>
+<headline>Turkish ship sinks in Bosphorus collision.</headline>
+<dateline>ISTANBUL 1996-11-03</dateline>
+<text>
+<p>A Turkish ship sank on Sunday after a collision in heavy fog in Istanbul's Bosphorus strait that killed one crew member, port officials and Turkish media said.</p>
+<p>The Maltese-registered, Maria-1 freighter and the Turkish coaster vessel Celiktrans, carrying sand, collided near the northern entrance to the strait, a port official told Reuters.</p>
+<p>Anatolian news agency said a crew member from the Turkish ship died and another was injured.</p>
+<p>The strait was later closed to further traffic due to the fog, which impeded rescue efforts, port officials said.</p>
+<p>The 19-mile-long Bosphorus, a busy waterway key to shipping traffic between the Mediterranean and Black Seas, passes directly through Istanbul and is only 700 metres (yards) wide in places.</p>
+<p>The Montreux Convention of 1936 which governs shipping in the strait does not require ships' captains to use a pilot through the waterway.</p>
+<p>About 45,000 vessels a year pass through the strait. About 60 percent of them carry oil or oil derivatives, natural gas, chemicals and nuclear waste.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

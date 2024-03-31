@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104035" id="root" date="1996-10-08" xml:lang="en">
+<title>TAIWAN: Eight dead, one missing in Taiwan factory fire.</title>
+<headline>Eight dead, one missing in Taiwan factory fire.</headline>
+<dateline>TAIPEI 1996-10-08</dateline>
+<text>
+<p>Fire swept through a chemical complex in northern Taiwan, killing eight people, most of them firefighters, leaving one missing and more than 100 injured, police said on Tuesday.</p>
+<p>&quot;We are still searching the area. So far, we have found eight bodies. Six of them are firemen,&quot; a police officer at northern Taoyuan County told Reuters by telephone.</p>
+<p>The cause of fire had yet to be determined but an initial investigation showed the blaze erupted late on Monday in the Yung Hsing Chemical Factory, which makes resin, and triggered a series of explosions in adjacent factories, the officer said.</p>
+<p>The six firemen died in the explosions, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

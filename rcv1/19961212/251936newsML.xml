@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251936" id="root" date="1996-12-12" xml:lang="en">
+<title>CUBA: Caribbean foreign ministers meet in Havana.</title>
+<headline>Caribbean foreign ministers meet in Havana.</headline>
+<dateline>HAVANA 1996-12-12</dateline>
+<text>
+<p>Foreign ministers from the Association of Caribbean States began a two-day meeting in Havana on Thursday to consolidate their two-year-old group.</p>
+<p>In an opening speech, Mexican Foreign Minister Jose Angel Gurria said sectors such as trade, tourism and transport should play leading roles in greater regional cooperation.</p>
+<p>Cuban Foreign Minister Roberto Robaina said it was time to take concrete steps toward integration and the organisation should not be allowed to stagnate.</p>
+<p>Issues to be discussed at the meeting included a proposal to create a development and cooperation fund among the 25 member nations, which range from tiny island states to larger economies such as Mexico and Venezuela.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

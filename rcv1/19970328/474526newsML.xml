@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="474526" id="root" date="1997-03-28" xml:lang="en">
+<title>USA: Delta worker killed in accident at JFK.</title>
+<headline>Delta worker killed in accident at JFK.</headline>
+<dateline>NEW YORK 1997-03-27</dateline>
+<text>
+<p>A Delta Airlines employee was killed Thursday in an accident at Kennedy International Airport, an official said.</p>
+<p>A spokesman for the Port Authority, which operates three airports in the New York City area, said the accident occurred at 6:51 p.m. EST and involved Delta Flight 82, an L1011 aircraft bound for France. The flight was delayed and the plane would take off at midnight, the spokesman said.</p>
+<p>An airport source said the accident apparently occurred on the runway when the plane was taking off.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

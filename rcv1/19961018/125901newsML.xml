@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125901" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Butler National Corp gets $500,000 order.</title>
+<headline>Butler National Corp gets $500,000 order.</headline>
+<dateline>OLATHE, Kansas 1996-10-18</dateline>
+<text>
+<p>Butler National Corp said Friday that it received an order at its Avcon Subsidiary in Newton, Kansas.</p>
+<p>The order, valued at approximately $500,000, involves highly specialized proprietary work, said the company in a statement dated Oct 9. The company said that the aircraft will have these modifications completed within the next 90 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLATHE, Kansas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

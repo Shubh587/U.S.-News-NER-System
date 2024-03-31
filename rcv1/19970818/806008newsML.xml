@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806008" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Compaq unveils new server line.</title>
+<headline>Compaq unveils new server line.</headline>
+<dateline>NEW YORK 1997-08-18</dateline>
+<text>
+<p>Compaq Computer Corp on Monday unveiled its new line of servers that feature a technology designed to keep the systems running all the time.</p>
+<p>The servers, called the Compaq ProLiant 7000 and Compaq ProLiant 6500, are designed to target the high-end of the market.</p>
+<p>They cost a minimum of just under $17,000 and just under $15,000, respectively, said John Rose, senior vice president and general manager of the company's enterprise computing group.  </p>
+<p>In a telephone interview, Rose said one of the most competitive features of the servers are its &quot;hot plug PCI technology,&quot; also known as fault-tolerant technology.</p>
+<p>This technology, developed by Compaq, keeps the servers running all the time, even if a part of the system needs to be replaced. Rose said its servers are the first in the industry to feature this technology.</p>
+<p>Rose said Intel Corp on Friday announced that it had licensed this technology from Compaq. Compaq therefore expects the technology to eventually be found in competitive systems, he said.  </p>
+<p>In a written statement, Compaq said its servers run software applications that perform tasks such as transaction processing, decision support and corporate accounting .</p>
+<p>Analysts said the PCI hot plug technology will likely help Compaq compete in the high-end market.</p>
+<p>&quot;The key here is availability, being able to keep the servers up at all time,&quot; said James Gruener, a senior analyst with Aberdeen Group Inc.</p>
+<p>Compaq said its main competitors in the server market are Hewlett-Packard CO, Sun Microsystems Inc and International Business Machines Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250943" id="root" date="1996-12-11" xml:lang="en">
+<title>JAPAN: Exedy sets terms on straight bond.</title>
+<headline>Exedy sets terms on straight bond.</headline>
+<dateline>TOKYO 1996-12-11</dateline>
+<text>
+<p>BORROWER - Exedy Corp</p>
+<p> LEAD MGR - Sumitomo Capital Securities Co</p>
+<p> FISCAL AGENT - Sanwa Bank Ltd</p>
+<p> TYPE straight bond   ISSUE NO   1	  AMT   2.50 bln yen</p>
+<p> COUPON 2.08%	   ISS PRICE  100.00   MATURITY 20.Dec.01</p>
+<p> LAST MOODY'S	   PAY DATE 20.Dec.96  INT PAY 20th Jun/Dec</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 11.Dec</p>
+<p> LAST JCR   A-	  LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

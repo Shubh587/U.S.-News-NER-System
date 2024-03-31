@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470062" id="root" date="1997-03-26" xml:lang="en">
+<title>UK: Baltic Freight Index fell six points to 1,518.</title>
+<headline>Baltic Freight Index fell six points to 1,518.</headline>
+<dateline>LONDON 1997-03-26</dateline>
+<text>
+<p>The Baltic Freight Index for spot dry cargo shipping rates fell to 1,518 today from 1,524 on March 25, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route Index     Rate   Prev Index  Rate</p>
+<p>   1    1525    13.844	  1528    13.871</p>
+<p>   1a   1544 11694.000	  1558 11800.000</p>
+<p>   2    1812    25.881	  1810    25.857</p>
+<p>   2a   1878 15400.000	  1893 15521.000</p>
+<p>   3    1754    16.181	  1758    16.214</p>
+<p>   3a   1642 12963.000	  1652 13036.000</p>
+<p>   6    1238    12.769	  1239    12.781</p>
+<p>   7    1148     5.588	  1150     5.600</p>
+<p>   8     928    10.206	   931    10.238</p>
+<p>   9    1043  9119.000	  1050  9179.000</p>
+<p>  10    1093     5.519	  1095     5.531</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

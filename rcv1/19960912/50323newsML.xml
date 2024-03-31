@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50323" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Network Solutions mulling IPO - New York Times.</title>
+<headline>Network Solutions mulling IPO - New York Times.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>Network Solutions Inc, the private company that the federal government put in charge of registering Internet and World Wide Web addresses, is considering offering stock to the public, the New York Times reported on Thursday.</p>
+<p>Network Solutions was acquired in March 1995 by the Science Applications International Corp, a privately held company closely aligned with the U.S. Department of Defense, the newspaper reported.</p>
+<p>It was awarded a five-year contract in 1993 by a panel of government, computer industry and educational experts with the provision that it may charge fees for its work.</p>
+<p>New registrations, now at a fee of $100 each, are coming in at a rate of 50,000 a month. Together with a $50 annual fee to maintain an existing address, the company's revenues could approach $40 million, the newspaper said.</p>
+<p>--New York Newsdesk  (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

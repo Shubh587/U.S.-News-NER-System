@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160558" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: US court grants order in Octel stock case.</title>
+<headline>US court grants order in Octel stock case.</headline>
+<dateline>SAN FRANCISCO 1996-10-31</dateline>
+<text>
+<p>A U.S. district court judge on Thursday issued a temporary restraining order against a software engineer at Octel Communications Corp and ordered his assets frozen after the Securities and Exchange Commission filed a complaint alleging he engaged in insider trading.</p>
+<p>On Wednesday, the SEC said it filed a complaint against Shahryar Soroosh, alleging he engaged in insider trading in Octel stock. The commission said it had obtained an emergency order freezing his assets pending a hearing on Thursday.  </p>
+<p>On Wednesday, the SEC said it filed a complaint against Soroosh, alleging he engaged in illegal insider trading just before a company announcement last Thursday, which caused the price of Octel stock to drop more than 35 percent of its value the next day.</p>
+<p>The commission alleged that Soroosh stood to profit by more than $500,000 through the alleged trades.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

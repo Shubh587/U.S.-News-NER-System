@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96172" id="root" date="1996-10-04" xml:lang="en">
+<title>RUSSIA: Russia says Jan-Aug non-CIS oil exports 67 mln T.</title>
+<headline>Russia says Jan-Aug non-CIS oil exports 67 mln T.</headline>
+<dateline>MOSCOW 1996-10-04</dateline>
+<text>
+<p>Russia exported 67.020 million tonnes of crude oil over January to August to countries outside the Commonwealth of Independent States, State Customs Committee data obtained by Reuters on Tuesday said.</p>
+<p>The committee said Russia had exported 74.449 million tonnes to all destinations over the eight months, including 7.429 million tonnes to CIS destinations.</p>
+<p>The State Statistics Committee on September 24 released different figures for Russian oil exports over the same period.</p>
+<p>It said Russian crude exports over January to August were 83.435 million tonnes.</p>
+<p>-- Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

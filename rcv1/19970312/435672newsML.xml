@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435672" id="root" date="1997-03-12" xml:lang="en">
+<title>UK: Metals end mixed, LME movements unpredictable.</title>
+<headline>Metals end mixed, LME movements unpredictable.</headline>
+<text>
+<p>COPPER - Ends lower after whippy volatile trading.</p>
+<p>ALUMINIUM - Mirrors copper and thrashes around to close softer.</p>
+<p>NICKEL - Closes steadier, supported around $8,000.</p>
+<p>ZINC - Ends firm, near 4-1/2 year peak.</p>
+<p>LEAD - Finishes strong.</p>
+<p>TIN - Concludes steadier above $6,000. ALLOY - Quiet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

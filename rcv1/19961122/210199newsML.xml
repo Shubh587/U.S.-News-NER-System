@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210199" id="root" date="1996-11-22" xml:lang="en">
+<title>GREECE: Avg price on Greek FRN/bond auction at 100.3/99.82.</title>
+<headline>Avg price on Greek FRN/bond auction at 100.3/99.82.</headline>
+<dateline>ATHENS 1996-11-22</dateline>
+<text>
+<p>The following information on Greece's auction of seven-year floaters and three-year coupon bonds was made available by the Bank of Greece.</p>
+<p>			 7-YEAR FLOATING RATE NOTES FORMULA</p>
+<p>12MTH T-BILL		 + 1.40%</p>
+<p>12MTH T-BILL		  12%</p>
+<p>MIN PRICE		    100.303</p>
+<p>AVERAGE PRICE		100.361</p>
+<p>MAX OFFERED PRICE	  100.560</p>
+<p>COMPETITIVE AMOUNT	 200 BLN DRACHMAS</p>
+<p>NON-COMPETITIVE AMOUNT    60 BLN DRACHMAS</p>
+<p>			  3-YEAR COUPON BONDS</p>
+<p> MIN PRICE				99.550</p>
+<p> AVERAGE PRICE			  99.823</p>
+<p> MAXIMUM PRICE			 100.800</p>
+<p> COMPETITIVE AMOUNT		  100 BLN DRACHMAS</p>
+<p> NON-COMPETITIVE			30 BLN DRACHMAS</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

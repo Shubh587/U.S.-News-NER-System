@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="752024" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: SOCCER-PALMEIRAS BEAT NEW ENGLAND.</title>
+<headline>SOCCER-PALMEIRAS BEAT NEW ENGLAND.</headline>
+<dateline>FOXBORO, Massachusetts 1997-07-23</dateline>
+<text>
+<p>Palmeiras of</p>
+<p>Brazil beat the New England Revolution of the United States</p>
+<p>1-0 (halftime 0-0) in an exhibition soccer game at Foxboro</p>
+<p>Stadium Wednesday.</p>
+<p>Scorer: Euller, 70th minute</p>
+<p>Attendance: 19,623</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOXBORO, Massachusetts"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

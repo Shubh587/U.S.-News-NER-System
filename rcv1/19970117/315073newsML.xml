@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="315073" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: AT&amp;T says Telstar 401 satellite permanently down.</title>
+<headline>AT&amp;T says Telstar 401 satellite permanently down.</headline>
+<dateline>BEDMINSTER, N.J. 1997-01-17</dateline>
+<text>
+<p>AT&amp;T Corp. said Friday it has been unsuccessful in re-establishing contact with Telstar 401 and has declared the communications satellite permanently out of service.</p>
+<p>The satellite's telemetry and communications equipment stopped working early last Saturday morning, the company said. AT&amp;T said it immediately restored service for customers whose contracts called for transfer of their transponder service to the Telstar 402R satellite, and restored other services as well.</p>
+<p>AT&amp;T said it is working closely with Lockheed Martin Corp., the manufacturer of Telstar 401 satellite, to determine the cause of the problem.</p>
+<p>It will also petition the Federal Communications Commission to move the Telstar 302 satellite to Telstar 401's orbital slot at 97 degrees west longitude to provide temporary transponder capacity for customers.</p>
+<p>Telstar 5, which is under construction by Space Systems/Loral, is scheduled to be launched in May, and will be the permanent replacement for Telstar 302 at 97 degrees west longitude, subject to FCC approval, ATT said.</p>
+<p>An agreement had been reached on Sept. 25, 1996, to sell the AT&amp;T Skynet Satellite Services, of which the Telstar satellites are part, to Loral Space &amp; Communications Ltd. Both companies said in a statement that they are committed to the transaction and are holding discussions on terms of the sale.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDMINSTER, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

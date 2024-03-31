@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397925" id="root" date="1997-02-24" xml:lang="en">
+<title>IRAN: Iran launches new shipping service to UAE.</title>
+<headline>Iran launches new shipping service to UAE.</headline>
+<dateline>TEHRAN 1997-02-24</dateline>
+<text>
+<p>Iran launched on Monday a new passenger shipping service to Dubai in the United Arab Emirates, the Iranian news agency IRNA said.</p>
+<p>It quoted a local shipping official in Iran's Gulf port city of Bandar Lengeh as saying an Iranian passenger ship would run from the port to Dubai and back once a week.</p>
+<p>The vessel can carry 234 passengers, 24 tonnes of cargo and 10 cars, it added.</p>
+<p>Iran has a busy cargo traffic, mostly with traditional wooden dhows, and other passenger services to several ports in the UAE, with which it has extensive trade ties.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

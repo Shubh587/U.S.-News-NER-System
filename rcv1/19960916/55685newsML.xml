@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55685" id="root" date="1996-09-16" xml:lang="en">
+<title>PHILIPPINES: Typhoon Violet gains strength, leaves Philippines.</title>
+<headline>Typhoon Violet gains strength, leaves Philippines.</headline>
+<dateline>MANILA 1996-09-16</dateline>
+<text>
+<p>Typhoon Violet gathered strength as it headed out of the Philippines on Monday towards Okinawa in Japan with winds at its centre of 165 kmh (102 mph), the weather bureau said.</p>
+<p>The cyclone was 400 km (250 miles) east of the northern Philippine island of Basco in the Batanes island group, the bureau said in a bulletin.</p>
+<p>It was travelling at seven kmh (4.5 mph) and was forecast to be about 470 km (290 miles) southwest of Okinawa by Tuesday afternoon, the bureau said.</p>
+<p>The typhoon brought heavy rain over a wide area of the main Philippine island of Luzon, including the capital Manila, but there were no reports of casualties or damage, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

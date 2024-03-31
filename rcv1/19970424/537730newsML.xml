@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537730" id="root" date="1997-04-24" xml:lang="en">
+<title>JAPAN: Orix sets terms on straight bond at 2.92%.</title>
+<headline>Orix sets terms on straight bond at 2.92%.</headline>
+<dateline>TOKYO 1997-04-24</dateline>
+<text>
+<p>BORROWER - Orix Corp</p>
+<p>LEAD MGR - Daiwa Securities Co Ltd</p>
+<p>FISCAL AGENT - Sanwa Bank Ltd</p>
+<p> TYPE straight bond   ISSUE NO   22	 AMT   20 bln yen</p>
+<p> COUPON 2.92%	   ISS PRICE  100.00   MATURITY 15.May.09</p>
+<p> LAST MOODY'S	   PAY DATE 15.May.97  INT PAY 15th May/Nov</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 24.Apr</p>
+<p> LAST JCR   AA-	 LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

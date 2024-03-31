@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327536" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: SOCCER-DENMARK BEAT UNITED STATES IN U.S. CUP COMPETITION.</title>
+<headline>SOCCER-DENMARK BEAT UNITED STATES IN U.S. CUP COMPETITION.</headline>
+<dateline>PASADENA, California 1997-01-22</dateline>
+<text>
+<p>Denmark beat the</p>
+<p>United States 4-1 (halftime 3-1) in a U.S. Cup tournament</p>
+<p>match on Wednesday.</p>
+<p>Scorers:</p>
+<p>United States - Joe-Max Moore (45th minute)</p>
+<p>Denmark - Per Pedersen (16th, 26th, 45th, 55th)</p>
+<p>:</p>
+<p>In the second match, Mexico drew 0-0 with Peru to win the</p>
+<p>U.S. Cup tournament.</p>
+<p>Attendance: 17,342</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

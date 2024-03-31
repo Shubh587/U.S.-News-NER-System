@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="673101" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: &quot;Year 2000&quot; computer problem seen striking early.</title>
+<headline>&quot;Year 2000&quot; computer problem seen striking early.</headline>
+<byline>Randall Mikkelsen</byline>
+<dateline>PHILADELPHIA 1997-06-19</dateline>
+<text>
+<p>The &quot;Millenium Bug,&quot; which is expected to cause problems for computers around the world when the year 2000 arrives, could strike a year earlier than expected, in 1999, an expert on the issue said Thursday.</p>
+<p>&quot;The time to fail is sooner than you think,&quot; Jim Woodward, senior vice president of information technology consultants Cap Gemini America told a business seminar on the issue in Philadelphia.</p>
+<p>&quot;It really could be called the 'Year 1999' problem,&quot; he said.</p>
+<p>European and Asian firms are lagging U.S. firms in work to correct the problem, Woodward told the seminar, which was sponsored by Emerald Asset Managment and Safeguard Scientifics Inc.</p>
+<p>The problem also has significant legal and regulatory issues, affecting income statements and contracts, experts said.</p>
+<p>The root of the problem is that many computer systems record the year with just two digits, with the first two digits, &quot;19,&quot; considered a given. Such computer systems interpret &quot;00&quot; as &quot;1900.&quot;</p>
+<p>The cost of delving into and correcting old computer files -- affecting everything from bank records to airplane guidance systems -- has been estimated in the hundreds of billions of dollars.</p>
+<p>Woodward said the problem will strike early because computers will be used in 1999 for planning budgets, making projections and carrying out other tasks that extend into the next year.</p>
+<p>Already, he said, many credit card issuers are unwilling to issue cards with expiration dates beyond 1999 due to the problem.</p>
+<p>Such problems make it essential that companies update their systems by the end of 1998, he said.</p>
+<p>A survey conducted by Cap Gemini in April of 150 companies -- mostly in the Fortune 500 -- indicated that only 13 percent had put into effect a full-fledged plan to correct the issue.</p>
+<p>This is despite the huge commitment of staff time and equipment that will be needed. A modest-sized firm with 10,000 computer programmes will need to update 133 per week to complete the conversion by the end of 1998, Woodward said.</p>
+<p>&quot;The work isn't getting started, and it is not nearly fast enough,&quot; he said. Although automated conversion programmes exist, testing updated programmes, implementing them, and overseeing the projects will consume about 80 percent of the cost of updating programmes.</p>
+<p>Companies will be obliged to disclose their exposure to the problem and project fix-it costs, and treat corrections as expenses when they occur, Ernst &amp; Young accountancy partner Jim Mulherin said.</p>
+<p>&quot;Obviously, it's going to be a big hit to the collective income statements of companies around the world,&quot; he said. adding that the update costs could not be treated as a capital expense.</p>
+<p>&quot;It's going to affect virtually all of our clients,&quot; he said. &quot;We see this as a significant business risk.&quot;</p>
+<p>Attorney Cathleen Judge said the Big Three U.S. automakers recently wrote suppliers insisting their computer systems be ready to deal with 2000, and that bank examiners have begun to consider the year 2000 exposure of borrowers.</p>
+<p>In describing the problem's already-noted effects on such systems as bank-vault doors, traffic lights, and navigation systems, she said, &quot;I for one am not going to be in an airplane on New Year's Eve in 1999.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

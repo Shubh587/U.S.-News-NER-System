@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171011" id="root" date="1996-11-06" xml:lang="en">
+<title>UK: UK longer leading index falls 0.7% in Oct.</title>
+<headline>UK longer leading index falls 0.7% in Oct.</headline>
+<dateline>LONDON 1996-11-06</dateline>
+<text>
+<p>The Office for National Statistics released the following indices on economic activity in Britain:</p>
+<p>    LONGER LEADING INDICATOR	  OCTOBER	 SEPTEMBER</p>
+<p>    Monthly change (percent)	  -0.7*	    +0.1</p>
+<p>    Index				   98.1	     98.8</p>
+<p>SHORT LEADING INDICATOR</p>
+<p>    Monthly change (percent)	  +0.8	     +0.5</p>
+<p>    Index				   101.9	   101.1</p>
+<p>    COINCIDENT INDEX		    SEPTEMBER     AUGUST</p>
+<p>    Monthly change (percent)	  -0.1	     +0.1</p>
+<p>    Index				   102.0	   102.1</p>
+<p>    LAGGING INDEX			 AUGUST	  JULY</p>
+<p>    Monthly change			-0.7	     +0.6</p>
+<p>    Index				   103.6	   104.3</p>
+<p>* This is the first fall in the longer leading index since December 1995.</p>
+<p>The ONS said the longer leading index dropped because of falls in the contributions from interest rates and the yield curve, which outweighed an increase in the contribution from the Confederation of British Industry optimism index.</p>
+<p>The main cause of the rise in the index in the third quarter of 1996 was higher housing starts.  </p>
+<p>The main causes of the rise in the index in the first half of 1996 were the contributions from the financial surplus of industrial and commercial companies and from housing starts, together with the contribution from the yield curve in the first quarter and CBI optimism in the second quarter, the ONS said.</p>
+<p>The shorter leading index rose over the three months to October as contributions rose from EC/GfK consumer confidence, CBI new orders and share prices, the ONS said.</p>
+<p>They outweighed falls in seasonally adjusted new car registrations in August and September.  </p>
+<p>NOTES - longer leader signals turning points in the economy some 13 months in advance, shorter leading index indicates turning points about five months in advance, coincident index moves in line with business cycle, lagging index shows turning points about 12 months after it happened.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

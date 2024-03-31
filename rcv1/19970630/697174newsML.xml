@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="697174" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: U.S. June 1 grain stocks highlights--USDA.</title>
+<headline>U.S. June 1 grain stocks highlights--USDA.</headline>
+<dateline>WASHINGTON 1997-06-30</dateline>
+<text>
+<p>USDA estimates of June 1 grain stocks, with year-ago below (1,000 bu):</p>
+<p>    -	  On Farm   Off Farm	Total</p>
+<p> Soybeans    216,000    283,460    499,460</p>
+<p>		 234,100    338,701    622,801</p>
+<p> Corn	1,501,000    993,925  2,494,925</p>
+<p>		 780,100    937,794  1,717,894</p>
+<p> All Wheat   154,560    289,655    444,215</p>
+<p>		  74,610    301,410    376,020</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91484" id="root" date="1996-10-02" xml:lang="en">
+<title>GERMANY: German court permits far-right party rally.</title>
+<headline>German court permits far-right party rally.</headline>
+<dateline>BONN 1996-10-02</dateline>
+<text>
+<p>The far-right National Party of Germany (NPD) will be permitted to hold a rally in Bonn, despite police objections, on the country's national Unity Day holiday, a court ruled on Wednesday.</p>
+<p>An administrative court in Cologne, which has jurisdiction over nearby Bonn, lifted a ban that Bonn police had imposed on the small party whose German name -- Nationaldemokratische Partei Deutschlands -- is similar to that of the outlawed Nazi party.</p>
+<p>Police wanted to ban the rally, to be held in Bonn's town centre on Thursday, on grounds that it would present a danger to public safety. They said the event might become violent because far-left groups could try to interrupt it.</p>
+<p>The court said the police did not present sufficient evidence that the rally would pose a danger.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

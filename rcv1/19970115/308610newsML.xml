@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="308610" id="root" date="1997-01-15" xml:lang="en">
+<title>MEXICO: Mexico's 28-day Cetes rate falls in auction.</title>
+<headline>Mexico's 28-day Cetes rate falls in auction.</headline>
+<dateline>MEXICO CITY 1997-01-14</dateline>
+<text>
+<p>Mexico's 28-day Cetes rate fell in this week's primary auction and demand rose, Banco de Mexico said.</p>
+<p>Auction results were: (all rates in percent)</p>
+<p>Maturity    Weighted Avg   Change (bps)  Min Rate  Max Rate</p>
+<p>28-Day	22.98	    -126	    22.85     23.30</p>
+<p>91-Day	24.43	    - 50	    24.24     24.54</p>
+<p>182-Day     24.68	    - 84	    24.58     24.78</p>
+<p>349-Day     25.54				25.34     25.72</p>
+<p>Last week the 356-day paper was assigned at 26.00 pct.</p>
+<p>Maturity    Assigned	  Demand		Bid/Cover</p>
+<p>28-Day	900 million pesos   3.34 bln pesos     3.71</p>
+<p>91-Day	900 million pesos   4.12 bln pesos     4.58</p>
+<p>182-Day     900 million pesos   4.01 bln pesos     4.46</p>
+<p>349-Day     600 million pesos   2.33 bln pesos     3.88</p>
+<p>The bid-to-cover ratio for the auction as a whole was 4.18 compared with 2.92 the week before, on demand of 9.63 billion pesos the week before.</p>
+<p>Tails were as follows:</p>
+<p>    28-Day			   32 basis points</p>
+<p>    91-Day			   11 basis points</p>
+<p>    182-Day			  10 basis points</p>
+<p>    349-Day			  18 basis points</p>
+<p>((-- Mexico City newsroom, 525 728-9559))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

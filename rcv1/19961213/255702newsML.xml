@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255702" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Santa Barbara Bank agrees to merger.</title>
+<headline>Santa Barbara Bank agrees to merger.</headline>
+<dateline>SANTA BARBARA, Calif 1996-12-11</dateline>
+<text>
+<p>Santa Barbara Bancorp said on Thursday it agreed to merge with First Valley Bank, Lompoc.</p>
+<p>The agreement provides for First Valley Bank shareholders to receive $58 in cash for each of the 450,000 First Valley Bank shares outstanding.</p>
+<p>The transaction, valued at $26.1 million, represents 1.7 times First Valley's estimated book value at closing and 16.3 times estimated 1996 earnings.</p>
+<p>The merger is anticipated to close at the end of the first quarter of 1997, subject to regulatory approval and the approval of First Valley Bank shareholders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA BARBARA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

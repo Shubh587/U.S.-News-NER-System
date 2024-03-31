@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70007" id="root" date="1996-09-23" xml:lang="en">
+<title>MALI: French cooperation minister starts Mali visit.</title>
+<headline>French cooperation minister starts Mali visit.</headline>
+<dateline>BAMAKO 1996-09-23</dateline>
+<text>
+<p>French Cooperation Minister Jacques Godfrain arrived in Mali on Monday for an official visit expected to smooth relations after France deported more than 100 African illegal immigrants last month, mostly Malians.</p>
+<p>Godfrain will go on Tuesday to Kayes, Mali's poorest region and home of most of the illegal Malian immigrants seeking a better life in France.</p>
+<p>He is expected to assess how French aid could encourage Kayes people to stay at home and those in France to return to their native villages.</p>
+<p>Human rights groups in Mali, angered by the expulsions, had called for Godfrain's two-day visit to be cancelled.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAMAKO"/>
+<dc element="dc.creator.location.country.name" value="MALI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

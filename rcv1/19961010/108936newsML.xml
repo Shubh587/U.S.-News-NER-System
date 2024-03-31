@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108936" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Consolidated Stores Sept sales surge.</title>
+<headline>Consolidated Stores Sept sales surge.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-10</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month	     $181.3     $104.0     +74.3	 +7.0</p>
+<p>Year-to-date    $1,228     $801.2     +53.3	 +4.3</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>    Month is   four weeks ended Sept. 28, 1996.</p>
+<p>    Full company name is	    Consolidated Stores Corp.</p>
+<p>Consolidated Stores completed the acquisition of Kay Bee Toys in May 1996 for $285.3 million from Melville Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

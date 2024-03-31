@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185101" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Walshire Assurance Co Q3 shr down.</title>
+<headline>Walshire Assurance Co Q3 shr down.</headline>
+<dateline>YORK, Pa. 1996-11-13</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   0.19		  $  0.33</p>
+<p> Net			    831		    1,419</p>
+<p> Revs			12,925		    9,779</p>
+<p> Avg shrs		   4,886		    4,846</p>
+<p>			  9 MONTHS</p>
+<p> Shr			 $ 0.58		    $0.86</p>
+<p> Net			  2,513		    3,791</p>
+<p> Revs			37,647		   28,643</p>
+<p> Avg shrs		   4,344		    4,208</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORK, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

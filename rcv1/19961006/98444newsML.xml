@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98444" id="root" date="1996-10-06" xml:lang="en">
+<title>USA: Apple takes dual track systems approach.</title>
+<headline>Apple takes dual track systems approach.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-06</dateline>
+<text>
+<p>Apple Computer Inc said it will take a &quot;dual track&quot; approach to its long-awaited new operating system, codenamed Copland, to focus on creating new features rather than on compatibility with its existing Macintosh system.</p>
+<p>The move, which the company first outlined publicly in an interview with the San Francisco Examiner last week, means the company will still extend the life of its current Mac OS System 7.5 with upgrades in January and July 1997.  </p>
+<p>But it will redesign the Copland project to concentrate on new capabilities such as multitasking, allowing a computer to work on several functions at one time, while reducing the importance of running existing Macintosh software programs.</p>
+<p>A spokesman said the company &quot;plans to move to a twin- track, or dual track, approach to software development and put a bigger emphasis on new capabilities instead of backward compatability.&quot;</p>
+<p>The backward compatability capability would have allowed programs which currently run on Apple's Macintosh operating system to also operate on the new Copland system.  </p>
+<p>The migration path may be risky, according to analysts briefed on it, because unlike rival Microsoft Corp, which has made its latest versions of Windows and Windows NT largely compatible with previous editions, Apple's tack will force software programmers essentially to start from scratch.</p>
+<p>However, the analysts noted, Apple is also committed to supporting an initiative known as Opendoc and Sun Microsystems Inc's Java platform, which are both designed to enable programs to run across a variety of platforms.  </p>
+<p>By using these rapidly-emerging capabilities, developers may actually reduce their costs by writing programs for the higher-level programming interfaces with software known as &quot;middleware,&quot; instead of for specific operating systems.</p>
+<p>&quot;On the one hand you have a track for the OS (operating system) itself, and on the other hand you have a track for developing middleware,&quot; the Apple spokesman said.</p>
+<p>In fact, the new strategy may enable Apple to build a far more powerful and compelling system using Copland, while at the same time taking advantage of the newly-emerging standards that will enable software to run across multiple systems.  </p>
+<p>In the interview with the Examiner, Apple Chief Technology Officer Ellen Hancock said she had halted Copland development in mid-August until executives could determine on overarching strategy, as they have now done with the dual track approach.</p>
+<p>&quot;If we have to pick between backwards compatibility and new functions, we're voting for new functions,&quot; said Hancock, a former executive at IBM N and National Semiconductor who joined Apple in July.  </p>
+<p>Gilbert Amelio, Apple's chairman and chief executive who had hired Hancock at National Semiconductor and then, most recently, at Apple, has said in recent months Apple was going to take a more gradual approach to operating systems releases.</p>
+<p>For example, its current System 7.5 versions are being updated more frequently as new technologies and capabilities are being added. Apple executives plan to use the two upcoming 1997 releases to provide advances for existing customers.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

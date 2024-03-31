@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181876" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: USA Waste reports loss in third quarter.</title>
+<headline>USA Waste reports loss in third quarter.</headline>
+<dateline>HOUSTON</dateline>
+<text>
+<p>USA Waste, the nation's third-largest solid waste company, Tuesday reported a third-quarter loss after a one-time charge of $50.8 million to abandon or dispose of noncore assets.</p>
+<p>The Houston-based company had a loss of $38.9 million, or 27 cents a share, in the quarter ended Sept. 30, compared with profits of $24.7 million, or 22 cents a share, in the year-ago period. Operating revenues rose to $352.8 million from $262.4 million.</p>
+<p>USA Waste completed the acquisition of Sanifill Inc. for $1.6 billion, catapulting it to the top ranks in the industry.</p>
+<p>USA Waste serves municipal, commercial, industrial and residential customers in 35 states, Washington DC, Canada, Puerto Rico and Mexico.</p>
+<p>Its stock rose 62.5 cents to $33.125 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

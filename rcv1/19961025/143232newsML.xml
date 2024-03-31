@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143232" id="root" date="1996-10-25" xml:lang="en">
+<title>UKRAINE: Ukraine has $798 mln Q2 current a/c deficit.</title>
+<headline>Ukraine has $798 mln Q2 current a/c deficit.</headline>
+<dateline>KIEV 1996-10-25</dateline>
+<text>
+<p>Ukraine posted a current account deficit of $798 million in second quarter 1996, down from a $980 million first quarter shortfall, a central bank statement said on Friday.</p>
+<p>The bank issued the following balance of payment details.</p>
+<p> UKRAINE BALANCE OF PAYMENTS (in $mln)  Q2		 Q1</p>
+<p> Current account balance		   -798	     -980</p>
+<p> Balance on trade and services	    -22	     -560</p>
+<p> Foreign currency reserves		 +216	     -361</p>
+<p> Direct investments			   +80	     +115</p>
+<p> Portfolio investments			+11		 +9</p>
+<p> Foreign credits (from IMF)		+291		  0</p>
+<p>NOTE - 1996 is the first year the central bank has calculated the above figures.</p>
+<p>--Natalia Zinets, Kiev Newsroom +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

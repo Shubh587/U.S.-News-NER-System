@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74557" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Goldman launches new adjusted Japan index.</title>
+<headline>Goldman launches new adjusted Japan index.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Goldman, Sachs &amp; Co said it introduced a new index for the Japanese equity market which is adjusted for crossholdings among corporations.</p>
+<p>Goldman Sachs said the the index, known as the Goldman Sachs Crossholdings-Adjusted Japan index (GSCA Japan), more accurately reflects the investable free float of Japan's stock market.  </p>
+<p>&quot;We think this index will be very helpful in giving people an objective measurement tool to evaluate the peformance of managers in the Japanese market,&quot; Mark Zurack, partner and head of equity derivatives research said in a telephone interview.</p>
+<p>Goldman Sachs said the GSCA more closely matches the aggregate portfolio of Japan stocks held by foreign investors and is a better match with real liquidity in the daily market compared to existing benchmarks.  </p>
+<p>According to a pamphlet explaining the GSCA, investors who believe Japan's market capitalization has been overstated because of crossholdings have reduced Japan's weight by using a gross domestic product weighting scheme or by using a percentage reduction of the listed market capitalization.</p>
+<p>Goldman said it constructed the index by using calculations developed by the Frank Russell Co and Nomura Research Institute Inc. The data are combined with the Financial Times/Standard &amp; Poor's index data.  </p>
+<p>In an example, Goldman cited Sony Corp, which has a current crossholding ratio of 24.45 percent. Goldman said it multiplied one minus the crossholding ratio (0.7555) by the 374.28 million total outstanding shares. Multiplying that product by the share price gives the &quot;adjusted market capitalization&quot; of Sony, Goldman said. The particular weight of Sony is its adjusted market capitalization divided by the aggregate market capitalization of GSCA Japan.  </p>
+<p>&quot;We've taken the Russell data and overlaid it on top of our index,&quot; Zurack said. &quot;It's the first attempt to integrate the Russell/NRI crossholdings information on the Japanese market into a global index.&quot;</p>
+<p>Goldman said the most pronounced difference in industry sector weightings after the adjustment was in the banking group. There, banking dropped from almost one quarter in the Financial Times/Standard &amp; Poor's to just over one-ninth in the GSCA.  </p>
+<p>Goldman said compared to the FT/S&amp;P the GSCA Japan had less or a large capitalization bias, better valuations and better liquidity.</p>
+<p>Goldman Sachs said market participants agree reduction of crossholdings is a general objective of most Japanese coporations, and several coporations have begun programs to unwind significant portions of their crossholdings. The report said there could be a government-led effort to unwind crossheld postions, but the more likely scenario was a gradual unwinding as the level of the Japanese stock market rose.  </p>
+<p>Golmdan Sachs said industries where the largest crossholdings are being unwound include banks and electric appliances. The report said a trend to underperformance by the banks may indicate growing domestic supply, while outperformance by electric appliances may be the result of foreign demand bringing out sellers of crossholdings. For example, the crossholding ratio of Sony rose from 23.10 percent in 1985 to a high of 40.64 percent in 1989, but then subsequently declined to 24.45 percent as foreigners bought the stock.  </p>
+<p>Discussing the impact of the crossholding adjustment on Japan's weight in the FT/S&amp;P world indices, Goldman Sachs said Japan's weight in the Pacific region grouping dropped to to two-thirds from four-fifths, and in the Europe-Pacific grouping Japan's weight dropped to 27.41 percent from 42.46 percent. Japan's weight in the world index declined to 13.10 percent in the GSCA model from 22.76 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

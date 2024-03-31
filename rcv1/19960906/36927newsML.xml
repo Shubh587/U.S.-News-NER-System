@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36927" id="root" date="1996-09-06" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.African economic indicators consensus.</title>
+<headline>FORECAST - S.African economic indicators consensus.</headline>
+<dateline>JOHANNESBURG 1996-09-06</dateline>
+<text>
+<p>The following major South African economic indicators are due for release next week:</p>
+<p>DAY-----GMT--INDICATOR-----PERIOD--FORECAST--RANGE------PREVIOUS</p>
+<p>MON     0900 PPI Y/Y	 JULY    6.6 PCT   6.4/6.8    6.1</p>
+<p>MON     0900 PPI M/M	 JULY    0.8 PCT   0.6/1.0    0.7</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

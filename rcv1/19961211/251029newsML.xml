@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251029" id="root" date="1996-12-11" xml:lang="en">
+<title>FRANCE: French inflation drop due to fall in car prices.</title>
+<headline>French inflation drop due to fall in car prices.</headline>
+<dateline>PARIS 1996-12-11</dateline>
+<text>
+<p>A fall in French consumer prices in November was largely caused by a drop in car prices due to sales promotions, national statistics institute INSEE said on Wednesday.</p>
+<p>INSEE said earlier that consumer prices fell between 0.1 and 0.2 percent in November, giving a year-on-year rise of between 1.5 and 1.6 percent.</p>
+<p>Prices of manufactured goods, which make up 33 percent of the index, fell 0.6 percent. Making up this fall was a 0.1 percent drop in prices of clothes and shoes and a 0.7 percent fall in prices of other manufactured goods.</p>
+<p>INSEE said the fall in manufactured goods prices was due mainly to a reduction in car prices due to sales promotions.</p>
+<p>Car sales have slumped since a government car sales incentive scheme ended in September.</p>
+<p>An INSEE economist said the drop in car prices was the main reason behind the November monthly inflation fall.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

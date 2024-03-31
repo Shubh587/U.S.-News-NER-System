@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56483" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Cascade enters Internet access business. [CORRECTED 14:55 GMT]</title>
+<headline>Cascade enters Internet access business. [CORRECTED 14:55 GMT]</headline>
+<dateline>WESTFORD, Mass. 1996-09-16</dateline>
+<text>
+<p>Cascade Communications Corp said Monday it plans to enter the Internet access equipment business by offering two new high-capacity dial-up Internet switches for use by telephone service carriers.</p>
+<p>The company said it plans to begin offering in the fourth quarter (corrects time of offering) its AX 800 and AX 1600 High Capacity Access Switches.</p>
+<p>The switches will provide the industry's highest capacity modem density in a single product and are designed to meet the rigorous requirements of service providers, Cascade said.  </p>
+<p>The AX switches integrate analog modem-based applications with high speed digital services, such as Integrated Services Digital Network (ISDN) and leased line Internet connections.</p>
+<p>Cascade said its new offering will allow it to expand into new areas such as outsourcing of remote access and provision of multiple levels of service for Internet access.</p>
+<p>The AX 800, aimed at applications that require mid-range capacity, is priced in the range of $27,500 to $200,000.</p>
+<p>The AX 1600 is targeted for scalable high-end applications, and is priced in the range of $32,500 to $485,000.  </p>
+<p>&quot;Now, for the first time, service providers can rapidly scale their dial-up networks to meet the explosive demand for access driven by the growth of the Internet and telecommuting applications,&quot; said Jim Dolce, vice president, remote access marketing, Cascade Communications Corp.</p>
+<p>Scale refers to the capacity of the products to be expanded to handle thousands of simultaneous connections as demand for Internet access service increases.</p>
+<p>&quot;This is the same emphasis on scalability that made us a leader in the Frame Relay and ATM markets,&quot; Dolce said.</p>
+<p>The executive was referring to Cascade's two existing core product lines switching produc lines, which are focused on the backbone portion of telecommunications networks.</p>
+<p>Frame relay is a method of transmitting data at high-speeds and Asynchronous Transfer Mode (ATM) allows voice video and data to be transmitted over backbone networks at high speeds.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

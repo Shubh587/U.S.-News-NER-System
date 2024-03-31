@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800218" id="root" date="1997-08-14" xml:lang="en">
+<title>FINLAND: FINNISH BOND MARKET CLOSING -  AUGUST 14.</title>
+<headline>FINNISH BOND MARKET CLOSING -  AUGUST 14.</headline>
+<text>
+<p>CLOSING VALUES:</p>
+<p>			     Close   Change    Pct change	Open  Pvs close</p>
+<p>			  At 16:06				 At 10:03   At 16:05</p>
+<p>FIM-06 bond	   5.88 pct   +1.0 bp	-	  5.88 pct   5.87 pct</p>
+<p>FIM-04 bond	   5.54 pct   +1.0 bp	-	  5.54 pct   5.53 pct</p>
+<p>FIM-99 bond	   3.94 pct   +5.0 bp	-	  3.88 pct   3.89 pct</p>
+<p>German Bund	   5.68 pct   +1.1 bp	-	  5.67 pct   5.67 pct</p>
+<p>Gap over Germany     20.3 bp   -0.1 bp	-	   21.2 bp    20.4 bp</p>
+<p>One-year spot rate  3.74 pct   +2.0 bp	-	  3.74 pct   3.72 pct</p>
+<p>1-yr to longest yld   214 bp   -1.0 bp	-	    214 bp     215 bp</p>
+<p> SEP FRA rate	 3.30 pct   +1.0 bp	-	  3.30 pct   3.29 pct</p>
+<p> JUN FRA rate	 4.26 pct   +2.0 bp	-	  4.25 pct   4.24 pct</p>
+<p>DEM/FIM		   2.9940   +0.0010   +0.000 pct    2.9965     2.9930</p>
+<p>USD/FIM		   5.5021   -0.0142   -0.003 pct    5.5174     5.5163</p>
+<p>SEK/FIM		   0.6858   -0.0034   -0.005 pct    0.6882     0.6892</p>
+<p>USD/JPY		   116.50   +0.2700   +0.002 pct    116.20     116.23</p>
+<p>USD/DEM		   1.8357   -0.0077   -0.983 pct    1.8415     1.8434</p>
+<p>ECUFIM=		   100.87     +0.06   -0.169 pct    101.01     100.81</p>
+<p>Prices</p>
+<p>FIM-06 bond	     109.05     -0.07   -0.001 pct    109.05     109.12</p>
+<p>FIM-04 bond	     121.27     -0.07   -0.001 pct    121.27     121.34</p>
+<p>FIM-99 bond	     109.42     -0.09   -0.001 pct    109.51     109.51</p>
+<p>German Bund	     102.32     -0.08   -0.001 pct    102.39     102.40</p>
+<p>			  NOTES:  - Some figures may not match due to rounding</p>
+<p>				    - All comparisons versus pvs close</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

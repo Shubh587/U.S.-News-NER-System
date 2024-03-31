@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468407" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: IBM unit, Bellcore offer Year 2000 services.</title>
+<headline>IBM unit, Bellcore offer Year 2000 services.</headline>
+<dateline>SOMERS, N.Y. 1997-03-26</dateline>
+<text>
+<p>International Business Machines Corp's IBM Global Services unit said on Wednesday that it and Bell Communications Research Inc established a relationship that will allow them to offer Year 2000 transition services to telecommunications carriers.</p>
+<p>Bellcore and IBM will jointly market Year 2000 services to help companies handle the transition made necessary by the practice of designating calendar years with two digits rather than four, creating problems for years after 1999.</p>
+<p>Bellcore, based in Morristown, N.J., is owned by the regional Bell companies. Its acquisition by Science Applications International Corp, announced in November 1996, is expected to close in the second half of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOMERS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

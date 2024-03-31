@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602174" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Louisiana Gulf accidents injure three, kill one.</title>
+<headline>Louisiana Gulf accidents injure three, kill one.</headline>
+<dateline>NEW ORLEANS 1997-05-21</dateline>
+<text>
+<p>A diver has died and three oil rig workers have been injured in two accidents in the Gulf of Mexico, the Coast Guard reported on Wednesday.</p>
+<p>An explosion on a drilling barge owned by Samson Resources of Tulsa, Oklahoma, injured three people. They were rescued by an offshore supply vessel on Monday afternoon, the Coast Guard said.</p>
+<p>The drilling barge, in the marsh nine miles (14 km) southwest of Port Sulphur, Louisiana, was not actively pumping oil before the explosion and the well has been secured.</p>
+<p>On Sunday, a professional diver undergoing decompression on the dive boat White Dove was killed when the chamber caught fire, the Coast Guard said. James Little, 28, of Lafayette, was one of several divers who had been examining rigs in the Gulf of Mexico southeast of Venice, Louisiana.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

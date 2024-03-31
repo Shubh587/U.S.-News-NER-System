@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="305711" id="root" date="1997-01-14" xml:lang="en">
+<title>PHILIPPINES: Manila says mechanical fault downed air force jet.</title>
+<headline>Manila says mechanical fault downed air force jet.</headline>
+<dateline>MANILA 1997-01-14</dateline>
+<text>
+<p>A mechanical fault apparently caused the crash of a Philippine Air Force F-5 fighter jet last week which killed its pilot and a man on the ground, the military said on Tuesday.</p>
+<p>Armed forces chief General Arnulfo Acedera said the plane's elevator, a device at the tail that allows the plane to go up or down, got stuck while the pilot was taking off preventing him from controlling the plane.</p>
+<p>&quot;Investigators have found out that something went wrong with the elevator...Nothing definite about it but that seems to be the cause of the accident,&quot; he told reporters.</p>
+<p>The plane crashed after it failed to gain altitude while performing a flypast during an official ceremony at an air base north of Manila.</p>
+<p>The aircraft was one of three F-5s acquired by the Philippines from South Korea two years ago for a token amount of about $100, said a military spokesman who asked not to be identified.</p>
+<p>Acedera has ordered the temporary grounding of the country's 10 other F-5s, mostly acquired from the United States in the 1960s, for checks and maintainance.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

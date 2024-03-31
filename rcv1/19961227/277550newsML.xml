@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277550" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: U.S. issues new rules on encryption exports.</title>
+<headline>U.S. issues new rules on encryption exports.</headline>
+<dateline>WASHINGTON 1996-12-27</dateline>
+<text>
+<p>The Clinton administration said Friday it had issued new rules governing export restrictions on computer encryption technology.</p>
+<p>&quot;The new export rules for encryption products will promote the robust growth of international electronic commerce and secure global communications while balancing our nation's economic and national security needs,&quot; said Commerce Department undersecretary William Reinsch in a statement.  </p>
+<p>In November, President Bill Clinton signed an order easing Cold War era limits on exports containing powerful encryption technology if the products allowed the government to decode encrypted messages by recovering the encryption keys.</p>
+<p>The new rules implement that order. Today's statement said there would be liberalized treatment for encryption products with recoverable keys.</p>
+<p>There would also be a two-year transition period during which non-key recovery 56-bit or equivalent products might be approved for export based on company commitments to build and market key recovery products and to support a key management infrastructure.  </p>
+<p>In addition, the new rules would transfer commercial encryption products from the U.S. Munitions List to the Commerce Control List.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

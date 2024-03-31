@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42077" id="root" date="1996-09-09" xml:lang="en">
+<title>SWITZERLAND: Suedelektra H1 profit declines.</title>
+<headline>Suedelektra H1 profit declines.</headline>
+<dateline>ZUG, Switzerland 1996-09-09</dateline>
+<text>
+<p>Six months ended June 30, 1996.</p>
+<p>				(million U.S. dollars unless stated)</p>
+<p> Group after-tax net income 19.5		vs 43.4</p>
+<p> Operating income	     32.9		vs 23.8</p>
+<p> Operating cash flow	  47.8		vs 31.9</p>
+<p> Capital spending	     126.3	     vs 32.3</p>
+<p> Turnover			 164.1	     vs 114.6</p>
+<p>NOTE - Fll name is Suedelektra Holding AG. -- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZUG, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488051" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: Banco Mercantil FY96 net 34.89 bln bolivars.</title>
+<headline>Banco Mercantil FY96 net 34.89 bln bolivars.</headline>
+<dateline>NEW YORK 1997-04-04</dateline>
+<text>
+<p>(In millions of bolivars)</p>
+<p>					1996	  1995*</p>
+<p>Interest income		 168,316	109,713</p>
+<p>Interest expenses		67,899	 59,738</p>
+<p>Financial margin		100,417	 49,975</p>
+<p>Operating expenses	     74,132	 39,205</p>
+<p>Provisions			 15,289	  6,352</p>
+<p>Other income		     27,329	 13,159</p>
+<p>Other expenses		    3,434	  3,042</p>
+<p>Net income			 34,891	 14,535</p>
+<p>* Reclassified for comparison purposes.</p>
+<p>NOTE: The bank is based in Caracas, Venezuela.</p>
+<p>Net income for fiscal 1996 adjusted for inflation is 13.93 billion bolivars.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

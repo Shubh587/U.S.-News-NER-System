@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180223" id="root" date="1996-11-11" xml:lang="en">
+<title>EGYPT: Over 200 Egyptian school children poisoned by food.</title>
+<headline>Over 200 Egyptian school children poisoned by food.</headline>
+<dateline>CAIRO 1996-11-11</dateline>
+<text>
+<p>More than 200 school children, aged between three and 16 years, were hospitalized on Monday with suspected food poisoning, security sources said.</p>
+<p>&quot;Some cases were discharged, but most of them are still in hospital,&quot; one source told Reuters.</p>
+<p>Police suspect biscuits, on the menu in state school meals, caused the food poisoning in three provinces.</p>
+<p>Those poisoned included 21 students in Cairo, 100 students in the Mediterranean city of Alexandria and 99 others at four schools in the city of Suez, 120 km (75 miles) east of the capital.</p>
+<p>&quot;The prosecutor general ordered the suppliers of school meals to be summoned for questioning,&quot; one of the sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165031" id="root" date="1996-11-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-ANZ alters job ad model to derive jobs growth.</title>
+<headline>RTRS-ANZ alters job ad model to derive jobs growth.</headline>
+<dateline>SYDNEY 1996-11-04</dateline>
+<text>
+<p>The Australian and New Zealand Banking Group said on Monday it had modified the procedure used to derive short-term projections of employment growth from its monthly jobs advertisement series.</p>
+<p>The modification follows a critique published by the Commonwealth Treasury earlier this year, the bank said.</p>
+<p>Previously the bank had used a simple rule linking the annual growth rate of employment to the annual growth rate of job advertisements, lagged by six months.  </p>
+<p>ANZ's new procedure derives forecasts of employment growth from the quarterly growth in job ads and, as suggested by Treasury, changes in unemployment.</p>
+<p>In this &quot;model&quot;, job ads leads unemployment by three rather than six months, which is more in line with anecdotal evidence regarding the time taken to fill a position once advertised, but (together with lagged changes in unemployment) still &quot;explains around two-thirds of the growth in employment,&quot; ANZ said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

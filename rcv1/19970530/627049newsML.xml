@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="627049" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: CME sets half-ticks June 2 in most AON currencies.</title>
+<headline>CME sets half-ticks June 2 in most AON currencies.</headline>
+<dateline>CHICAGO 1997-05-30</dateline>
+<text>
+<p>The Chicago Mercantile Exchange (CME) said Friday it would move to half-tick minimum price increments for most currency futures traded in all-or-none (AON) pit transactions, starting June 2.</p>
+<p>The CME, in a members' bulletin, said the Commodity Futures Trading Commission approved the change May 29. CME's board okayed the rule amendments May 7.</p>
+<p>The change cuts in half the minimum price change for Canadian dollar, mark, yen, Swiss franc, sterling, French franc, Australian dollar and New Zealand dollar futures involved in AON trades only.  </p>
+<p>The amendment does not affect Mexican peso and South African rand AON futures trades. Brazilian real futures already use half-tick AON pricing, CME noted.</p>
+<p>The AON program, launched last August, created a new type of pit order in which users stipulate that trades of 100 or more currency futures contracts either be filled at one specific price in the pit or not be pit-traded at all.</p>
+<p>CME said the smaller price increments should encouraage institutional use of currency AON futures and &quot;make those pits more competitive with the interbank and currency EFP (exchange-for-physicals) markets,&quot; the bulletin said. ((DerivativesDesk(312)408-8750)) E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

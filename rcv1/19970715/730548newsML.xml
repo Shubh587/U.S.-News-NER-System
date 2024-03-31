@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730548" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Man shot at Versace mansion in Miami Beach.</title>
+<headline>Man shot at Versace mansion in Miami Beach.</headline>
+<dateline>MIAMI BEACH 1997-07-15</dateline>
+<text>
+<p>A man was shot and wounded on Tuesday outside the Miami Beach mansion of world-famous fashion designer Gianni Versace, police said.</p>
+<p>The identity of the victim was not immediately known, Miami Beach spokesman Al Boza told reporters.</p>
+<p>Local television station WPLG, an ABC affiliate, quoted unconfirmed reports that Versace himself had been shot. A spokeswoman for Jackson Memorial Hospital would not immediately confirm the victim's identity.</p>
+<p>&quot;I'm waiting for confirmation right now from our trauma center,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GFAS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI BEACH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

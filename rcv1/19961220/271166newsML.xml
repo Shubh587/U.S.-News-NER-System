@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271166" id="root" date="1996-12-20" xml:lang="en">
+<title>THAILAND: Bank of Thailand notes average yield 10.90 pct.</title>
+<headline>Bank of Thailand notes average yield 10.90 pct.</headline>
+<dateline>BANGKOK 1996-12-20</dateline>
+<text>
+<p>The Bank of Thailand announced on Friday the following result of its weekly notes auction:</p>
+<p>   MATURITY  TENDER AMT   ALLOTED AMT    AVG YIELD    RANGE</p>
+<p>		 (MLNS BAHT)  (MLNS BAHT)</p>
+<p>    28 days    4,460	   2,000	  10.90     9.69-11.75</p>
+<p>    91 days    2,635	   1,000	   9.92     8.80-10.50</p>
+<p>-- Bangkok newsroom (662)-2529950-3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542293" id="root" date="1997-04-27" xml:lang="en">
+<title>FRANCE: FRENCH ELECTION - LATEST OPINION POLLS.</title>
+<headline>FRENCH ELECTION - LATEST OPINION POLLS.</headline>
+<dateline>PARIS 1997-04-27</dateline>
+<text>
+<p>Following are the results of opinion polls conducted since President Jacques Chirac dissolved the National Assembly on April 21 and called a snap election for May 25 and June 1.</p>
+<p>The dates indicate when the poll was taken. The first table is of voting intentions in percentage terms. Most surveys have a margin of error of plus or minus two percent.</p>
+<p>---------------------------------------------------------------</p>
+<p> Polling institute	  CSA	Ipsos	IFOP     SOFRES</p>
+<p>				 22/4     22-23/4     25/4     25-26/4</p>
+<p>---------------------------------------------------------------</p>
+<p> Extreme left		  1	   1.5	  2	  2.5</p>
+<p>---------------------------------------------------------------</p>
+<p> Communists		    9	  10	   10	  9</p>
+<p>---------------------------------------------------------------</p>
+<p> Socialists-other left    28	  29	   26	 29.5</p>
+<p>---------------------------------------------------------------</p>
+<p> Ecologists		    6	   5	    6.5	5</p>
+<p>---------------------------------------------------------------</p>
+<p> RPR-UDF-other right	43	  39.5	 39.5     40</p>
+<p>---------------------------------------------------------------</p>
+<p> National Front	     13	  15	   16	 14</p>
+<p>---------------------------------------------------------------</p>
+<p>The second table, with a wider margin of error, is of projections in seats. Some polling institutes give a range with a median figure, some give a range but no median figure, some give only a median figure.</p>
+<p>---------------------------------------------------------------</p>
+<p> Polling institute	  CSA*     Ipsos     IFOP*    SOFRES*</p>
+<p>				 22/4     22-23/4    25/4    25-26/4</p>
+<p>---------------------------------------------------------------</p>
+<p> extreme left		 0	    0	   0	  0</p>
+<p>---------------------------------------------------------------</p>
+<p> Communists		  20	   28     19-25	 23</p>
+<p>---------------------------------------------------------------</p>
+<p> Socialists-other left  201	  256    200-220     202</p>
+<p>---------------------------------------------------------------</p>
+<p> ecologists		   1	    0	 (**)     (**)</p>
+<p>---------------------------------------------------------------</p>
+<p> RPR-UDF-other right    332	  292    311-331     329</p>
+<p>---------------------------------------------------------------</p>
+<p> National Front	     1	    1	 0-3	  1</p>
+<p>---------------------------------------------------------------</p>
+<p>*poll only covers the 555 constituencies in metropolitan France, not the 22 seats in overseas departments and territories, most of which were held by the centre-right coalition in the outgoing Assembly.</p>
+<p>** no separate figure given for ecologists, who were included in total for Socialists and other left.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

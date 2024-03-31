@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777609" id="root" date="1997-08-04" xml:lang="en">
+<title>FRANCE: FRENCH STOCKS EXPECTED TO START STEADY.</title>
+<headline>FRENCH STOCKS EXPECTED TO START STEADY.</headline>
+<text>
+<p>PARIS, Aug 4 (Reuter) French shares were expected to start with a steady tone, pulled downward by weaker bonds but supported by a steady dollar, traders said.</p>
+<p>The market was likely to be thin, with the start of the August holiday lull.</p>
+<p>* CAC-40 index closed doen 26.33, or 0.85 percent, at 3,049.44.</p>
+<p>* CAC-40 August futures contract on GLOBEX up 11 at 3,064.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

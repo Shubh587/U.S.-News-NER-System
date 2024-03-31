@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574568" id="root" date="1997-05-11" xml:lang="en">
+<title>USA: CHESS-Moves in game six of Kasparov vs. Deep Blue.</title>
+<headline>CHESS-Moves in game six of Kasparov vs. Deep Blue.</headline>
+<dateline>NEW YORK 1997-05-11</dateline>
+<text>
+<p>The following are the moves in Sunday's sixth and final game of the $1.1 million re-match between world chess champion Garry Kasparov and the IBM supercomputer Deep Blue.</p>
+<p>Caro-Kann defence</p>
+<p>Deep Blue (white)  Kasparov (black)</p>
+<p>    1.  e4		 c6</p>
+<p>    2.  d4		 d5</p>
+<p>    3.  Nc3		dxe4</p>
+<p>    4.  Nxe4	     Nd7</p>
+<p>    5.  Ng5		Nf6</p>
+<p>    6.  Bd3		e6</p>
+<p>    7.  N1f3	     h6</p>
+<p>    8.  Nxe6	     Qe7</p>
+<p>    9.  O-O		fxe6</p>
+<p>    10. Bg6+	     Kd8</p>
+<p>    11. Bf4		 b5</p>
+<p>    12. a4		  Bb7</p>
+<p>    13. Re1		 Nd5</p>
+<p>    14. Bg3		 Kc8</p>
+<p>    15. axb5		cxb5</p>
+<p>    16. Qd3		 Bc6</p>
+<p>    17. Bf5		 exf5</p>
+<p>    18. Rxe7		Bxe7</p>
+<p>    19. c4		  Resigns</p>
+<p>1-0 Match score 3-1/2 to 2-1/2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

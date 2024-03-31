@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113199" id="root" date="1996-10-13" xml:lang="en">
+<title>USA: Computer science guru joins government.</title>
+<headline>Computer science guru joins government.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>ARLINGTON, Va.</dateline>
+<text>
+<p>Geographically and metaphorically, Juris Hartmanis finds himself a long way from the leafy campus of Cornell University, where he spent 30 years doing groundbreaking computer science research.</p>
+<p>After benefiting for decades from National Science Foundation grants, and three years after winning the Turing Award, the &quot;Nobel Prize of computer science,&quot; Hartmanis decided it was time to give something back.</p>
+<p>So, despite gentle warnings from some of his colleagues, Hartmanis started last month as head of the NSF's computer division, known as the Directorate of Computer and Information Science and Engineering.</p>
+<p>&quot;It's a very important time for computing and communications as they are converging,&quot; Hartmanis said in a recent interview. &quot;And it's very important to try to do whatever is possible for computer research now.</p>
+<p>&quot;I feel a certain sense of duty to make sure good decisions are made for these fields,&quot; the soft-spoken former professor said.</p>
+<p>Though the National Science Foundation no longer runs the main thoroughfares of the Internet, having turned that task over to the private sector, Hartmanis said the agency plans to continue nurturing the global network.</p>
+<p>The computer directorate doles out about $300 million a year. Some grants will go to schools and smaller universities to subsidise Internet link-ups, but considerable sums will go toward basic research to improve the Internet of the future.</p>
+<p>One critical area of research, called knowledge networking, will generate tangible benefits for typical &quot;net surfers,&quot; according to Hartmanis.</p>
+<p>Tens of millions of World Wide Web pages are accessible over the Internet, but finding a page on a specific topic can be like finding a needle in a haystack.</p>
+<p>Existing services for searching the Web basically rely on indexing, generating vast tables of every word on every Web page.</p>
+<p>&quot;These are really doing an amazingly efficient job indexing things,&quot; Hartmanis said. &quot;But the searching is not on the semantics of pages, the knowledge there, just on keywords. Search mechanisms could be improved to get more at understanding the content.&quot;</p>
+<p>Such technology could then spread beyond the Internet, Hartmanis said. A &quot;smart&quot; search programme could sort electronic mail for a harried executive or even a U.S. Senator.</p>
+<p>&quot;It might classify what each letter is about so the Senator could see what topics are important to people,&quot; Hartmanis said.</p>
+<p>Computer science is also trying to incorporate research about human learning to create software that can learn.</p>
+<p>&quot;These technologies can be explored and implemented reasonably soon,&quot; Hartmanis said. &quot;We can endow programmes with more and more insights.&quot;</p>
+<p>Hartmanis also praised President Clinton's $100 million Internet initiative announced last Thursday.</p>
+<p>&quot;The plan focuses attention on a very important matter of networking and connecting everyone,&quot; he said. &quot;Eventually it will provide a tremendous benefit for all of education.&quot;</p>
+<p>The computer division of the foundation encompasses other areas in addition to the Internet, such as robotics, artificial intelligence and supercomputers.</p>
+<p>The foundation is on the verge of announcing new grants for supercomputer research, Hartmanis said.</p>
+<p>Early next year, probably by March, the foundation will award $60 million in grants for proposals submitted this year, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

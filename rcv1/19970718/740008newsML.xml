@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740008" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: Superoctanos MTBE unit downed by power failure.</title>
+<headline>Superoctanos MTBE unit downed by power failure.</headline>
+<dateline>NEW YORK 1997-07-18</dateline>
+<text>
+<p>Superoctanos' MTBE complex in Jose, Venezuela, shutdown early Friday morning due to an electrical failure, a company official said.</p>
+<p>The official said the 12,500 MTBE plant, which has been in on extended turnaround, will return online to full capacity by late afternoon.</p>
+<p>The official said it was unclear if the power failure was contained to the complex or affected other parts of the country.</p>
+<p>The MTBE unit was originally scheduled to return to full production on June 30 but has been delayed by technical problems. The latest startup date was this morning. -- New York Oil Desk 1212-859-1631 --</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

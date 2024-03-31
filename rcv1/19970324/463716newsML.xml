@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463716" id="root" date="1997-03-24" xml:lang="en">
+<title>FRANCE: European space agency delays Ariane-5 launch.</title>
+<headline>European space agency delays Ariane-5 launch.</headline>
+<dateline>PARIS 1997-03-24</dateline>
+<text>
+<p>The European Space Agency said on Monday it was delaying until mid-September a second test flight of the Ariane 5 rocket whose inaugural launch ended in disaster last June when it had to be blown up in mid-air.</p>
+<p>The delay was needed to complete modifications on electrical and computer systems, ESA said.</p>
+<p>The new flight was originally planned for July 8 and ESA said additional delay did not indicate any problems with the design of the launcher.</p>
+<p>The agency said the modifications were intended to make further improvements.</p>
+<p>The first Ariane 5 flight, from ESA's space base at Kourou in French Guiana on the northeast coast of South America, lasted just 37 seconds until the rocket had to be destroyed after veering off course.</p>
+<p>Officials said later the problem was due to problems with the guidance system.</p>
+<p>Ariane 5 is designed to carry two three-tonne satellites compared to its predecessor Ariane 4 which can carry a total of 4.8 tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FGNA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

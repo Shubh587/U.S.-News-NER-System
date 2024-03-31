@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="348779" id="root" date="1997-01-31" xml:lang="en">
+<title>JAPAN: Japan Dec housing starts up 1.4 pct yr/yr.</title>
+<headline>Japan Dec housing starts up 1.4 pct yr/yr.</headline>
+<dateline>TOKYO 1997-01-31</dateline>
+<text>
+<p>Japan's housing starts rose 1.4 percent in December from a year earlier to 137,594 units, and were up 11.8 percent to 1,643,266 units in 1996 from a year earlier, the Construction Ministry said on Friday.  </p>
+<p>				    Dec starts   yr/yr pct change</p>
+<p> Private homes			48,726	   +6.9</p>
+<p> Rental homes			 56,860	   -1.1</p>
+<p> Employee housing		    1,918	  -10.8</p>
+<p> Housing built for sale	   30,090	   -1.4</p>
+<p> Total				 137,594	   +1.4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

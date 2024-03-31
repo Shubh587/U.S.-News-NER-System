@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212127" id="root" date="1996-11-23" xml:lang="en">
+<title>INDIA: CRICKET-INDIA BEAT SOUTH AFRICA IN OPENING TEST.</title>
+<headline>CRICKET-INDIA BEAT SOUTH AFRICA IN OPENING TEST.</headline>
+<dateline>AHMEDABAD, India 1996-11-23</dateline>
+<text>
+<p>India beat South Africa by by 64 runs on the fourth day of the first test on Saturday.</p>
+<p>Scores: India 223 and 190. South Africa 244 and 105 (H. Cronje 48 not out, J. Srinath 6-21).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AHMEDABAD, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

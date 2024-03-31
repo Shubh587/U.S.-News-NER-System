@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101251" id="root" date="1996-10-07" xml:lang="en">
+<title>JAPAN: Japan Atomic closes 357,000 kw Tsuruga reactor.</title>
+<headline>Japan Atomic closes 357,000 kw Tsuruga reactor.</headline>
+<dateline>TOKYO 1996-10-07</dateline>
+<text>
+<p>The Japan Atomic Power Co said it closed a 357,000 kilowatt boiling water nuclear reactor at its Tsuruga plant on the Sea of Japan coast early Monday morning due to the malfunction of a pump circulating coolant.</p>
+<p>The Japan Atomic decided to shut the reactor after detecting an unusual rise in water seeping out of the pump, a company spokesman said.</p>
+<p>The company will replace some parts of the troubled pump, and plans to put the reactor back on line in about 10 days, he said. No radiation was leaked, he added.  </p>
+<p>The reactor was closed for seven days in August following a similar incident at another pump.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

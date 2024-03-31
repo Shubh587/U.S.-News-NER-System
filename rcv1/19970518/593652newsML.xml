@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593652" id="root" date="1997-05-18" xml:lang="en">
+<title>SRI LANKA: Weather-Rain seen over many parts of Sri Lanka.</title>
+<headline>Weather-Rain seen over many parts of Sri Lanka.</headline>
+<dateline>COLOMBO 1997-05-18</dateline>
+<text>
+<p>Sri Lanka's metereological department released the following rainfall figures for 24 hours ending Sunday morning</p>
+<p>Hydro catchment areas (in mm):</p>
+<p>    Bowathenna		0</p>
+<p>    Canyon		    23.8</p>
+<p>    Castlereigh	     17.4</p>
+<p>    Kotmale		   10</p>
+<p>    Laxapana		  8</p>
+<p>    Moussakele		16.7</p>
+<p>    Norton		    5.5</p>
+<p>    Randenigala	     0</p>
+<p>    Victoria		  0</p>
+<p>    Samanalawewa	    2.0</p>
+<p>    Ukuwela		   0</p>
+<p>    Rantembe		  0</p>
+<p>The department forecasts scattered showers in the Central, Sabaragamuwa, Western and Southern provinces and over the sea off the south and west coasts. Light showers will occur elsewhere in the island. Fairly strong gusty winds are expected over the southwestern and central regions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

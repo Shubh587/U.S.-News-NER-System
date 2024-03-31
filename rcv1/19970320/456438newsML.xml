@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456438" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: US bank examiners look to year 2000 computer issue.</title>
+<headline>US bank examiners look to year 2000 computer issue.</headline>
+<dateline>PHOENIX, Ariz. 1997-03-20</dateline>
+<text>
+<p>Bank regulators are concerned that some financial institutions could be crippled by computers that cannot properly process dates after 1999, a top regulator said on Thursday.</p>
+<p>&quot;It's important that we stress this as much as possible now,&quot; Nicholas Ketcha, director of the supervision division of the Federal Deposit Insurance Corp, said at a meeting of the Independent Bankers Association of America here.  </p>
+<p>&quot;We're only three years away from this and there are a lot of problems that every bank in this room and every bank in the country are going to face,&quot; unless numerous data management issues are addressed, he said.</p>
+<p>&quot;The impact we see on the institutions if this isn't done is of serious concern to us,&quot; Ketcha said.</p>
+<p>Many older computers record only the last two digits of a year to track dates and could treat the year 2000 as the year 1900. Computer analysts have estimated that revising computers and software to eliminate the so-called millennium bug could cost billions of dollars worldwide.  </p>
+<p>Problems could cripple not only older mainframe computers, but also a host of other computer equipment and software including local area networks and automated teller machines, Ketcha said.</p>
+<p>As a result, the agency has added a year 2000 preparedness component to bank examinations, he said. Bank examiners from the FDIC will try to give banks information about recognizing potential problems rather than taking enforcement actions, Ketcha said. &quot;It's not a 'gotcha' basis but are you looking at this issue, are you aware of what impact it has on your bank,&quot; he explained.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

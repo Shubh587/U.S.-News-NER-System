@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218293" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: U.S. space shuttle plucks satellite from space.</title>
+<headline>U.S. space shuttle plucks satellite from space.</headline>
+<dateline>CAPE CANAVERAL, Fla. 1996-11-25</dateline>
+<text>
+<p>The U.S. space shuttle Columbia used its long robotic arm to pluck a prototype satellite factory from space on Monday, after swooping around the device as a second satellite orbited nearby.</p>
+<p>&quot;Wake Shield is grappled,&quot; astronaut Tammy Jernigan said as the retrieval took place at 9:01 p.m. EST (0201 GMT on Tuesday).  </p>
+<p>Shortly before Columbia's robot arm reached out and intercepted the Wake Shield Facility, shuttle commander Ken Cockrell moved to Columbia's cockpit to steer the spacecraft manually towards the satellite as it spun more than 200 miles (320 km) above the earth.</p>
+<p>The satellite retrieval came three hours earlier than originally scheduled. On Sunday, NASA managers decided to move up the retrieval so that the Orfeus-Spas telescope, an orbiting observatory also deployed by Columbia, would not stray too close to it.</p>
+<p>It is the first time NASA has flown the shuttle in formation with two recoverable satellites. Wake Shield was about 16 miles (26 km) from Orfeus-Spas when Columbia swooped between them and retrieved Wake Shield.</p>
+<p>The saucer-shaped Wake Shield was designed to manufacture ultra-pure film used to make semiconductors for the electronics industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

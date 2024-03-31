@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521725" id="root" date="1997-04-18" xml:lang="en">
+<title>FRANCE: France EDF cuts electricity rates from April 20.</title>
+<headline>France EDF cuts electricity rates from April 20.</headline>
+<dateline>PARIS 1997-04-18</dateline>
+<text>
+<p>French Finance Minister Jean Arthuis said on Friday that planned cuts in the rates charged by state-owned electric utility EDF would take effect on Sunday and save consumers in total 10 billion francs a year.</p>
+<p>&quot;The reductions, which will take effect on Sunday, will translate into annual savings of about 10 billion francs for intermediate- and end-users,&quot; Arthuis said.</p>
+<p>At the franc's current value, the rate cuts will amount to a 3.2 percent reduction for individuals, 9.2 percent for craftspeople and small businesses and between 2.7 percent and 5.7 percent for big firms and other users.</p>
+<p>The rate cuts were agreed as part of a new contract between EDF and the state, which allowed for a cut in prices of 14 percent by the year 2000.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

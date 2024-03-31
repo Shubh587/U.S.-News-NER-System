@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210481" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 21-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 21-NOV.</headline>
+<text>
+<p>Tropical Storm Marco, with 45 mph winds, is stationary at this time, about 180 miles south of Kingston Jamaica. A tropical storm warning is up for Jamaica. Marco may begin to drift slowly north northeastward toward Jamaica during the next 24 hours as top winds remain near 45 mph or weaken slowly. Marco is a threat to shipping and boating in the region. Heavy rain may lead to flash flooding over areas from eastern Cuba through Jamaica, Hispaniola, and western Puerto Rico during the next day or so. Heavy rains not directly associated with Marco may also cause local flooding over Central America this period.  </p>
+<p>A moderately strong storm system moving into California today may lead to flooding, especially in mountain locations. Heavy rains may linger into Friday. This storm will be further south than the one that brought heavy snow to the Pacific Northwest the past few days.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

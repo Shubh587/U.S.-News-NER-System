@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125614" id="root" date="1996-10-18" xml:lang="en">
+<title>CANADA: Domtar Inc Q3 net earnings plunges.</title>
+<headline>Domtar Inc Q3 net earnings plunges.</headline>
+<dateline>MONTREAL 1996-10-18</dateline>
+<text>
+<p>1996			 1995</p>
+<p> Shr			 C$0.05		   C$0.55</p>
+<p> Net			  8,000		   91,000</p>
+<p> Revs		     510,000		  604,000</p>
+<p>	   9  MONTHS</p>
+<p> Shr			 C$0.63		   C$1.52</p>
+<p> Net			101,000		  258,000</p>
+<p> Revs		   1,502,000		1,704,000</p>
+<p> Avg shrs		 162,800		  170,500</p>
+<p>    (All data above 000s except per share numbers)</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

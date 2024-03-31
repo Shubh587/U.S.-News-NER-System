@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104138" id="root" date="1996-10-08" xml:lang="en">
+<title>GERMANY: Buba says Sept adjusted jobless rate 10.4 pct.</title>
+<headline>Buba says Sept adjusted jobless rate 10.4 pct.</headline>
+<dateline>FRANKFURT 1996-10-08</dateline>
+<text>
+<p>The Bundesbank reported the following seasonally adjusted unemployment rates (pct)</p>
+<p>PAN-GERMAN UNEMPLOYMENT	Sep 96     Aug 96     Sep 95</p>
+<p> Rate				 10.4	 10.3	 9.6</p>
+<p>WEST GERMAN UNEMPLOYMENT</p>
+<p> Rate				  9.3	  9.1	 8.4</p>
+<p>EAST GERMAN UNEMPLOYMENT</p>
+<p> Rate				 15.3	 15.2	14.3</p>
+<p>NOTE - The Federal Labour Office earlier reported the bulk of the jobless figures.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

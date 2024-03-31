@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108872" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Michigan Financial Corp Q3 net rises.</title>
+<headline>Michigan Financial Corp Q3 net rises.</headline>
+<dateline>MARQUETTE, Mich. 1996-10-10</dateline>
+<text>
+<p>(in thousands, except percentages and per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					  September 30,   September 30,</p>
+<p>					  1996    1995     1996    1995</p>
+<p> Net income			  2,467   2,381    7,204   6,370</p>
+<p> Shr Net				 .44     .43     1.29    1.14</p>
+<p> Average shares outstanding    5,598   5,598    5,598   5,598</p>
+<p>Assets - $783,870 vs $775,320</p>
+<p>Deposits - $671,875 vs 684,678</p>
+<p>Loans - $586,929 vs 552,419</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARQUETTE, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117993" id="root" date="1996-10-15" xml:lang="en">
+<title>UK: Partners key in managing risk - Goldman Sachs.</title>
+<headline>Partners key in managing risk - Goldman Sachs.</headline>
+<dateline>LONDON 1996-10-15</dateline>
+<text>
+<p>One of the best ways to manage market risk is to have partners actively involved on the trading floor, said a risk managment official at the U.S.-based investment bank Goldman Sachs International.</p>
+<p>Traders, and partners with their capital at stake, are at the front line of Goldman Sachs' risk management strategy, said Bernard Minsky, executive director of firm-wide risk at Goldman.</p>
+<p>And while value-at-risk (VAR) models are also a key part of risk management, they can not themselves prevent financial disasters, Minsky told a conference on risk models in London.</p>
+<p>&quot;The front line of risk management is the traders,&quot; he said.</p>
+<p>&quot;We also have partners on the floor,&quot; he said. &quot;It's their capital at risk. We find this very powerful in terms of control of the business.&quot;</p>
+<p>VAR models measure the potential loss in the market value of a portfolio using mathematical equations that measure variables such as volatility.</p>
+<p>VAR and stress testing, which tests a firm's risk profile under extreme conditions and gives worst case scenarios, have become popular tools in determining how much risk financial institutions are exposed to.</p>
+<p>Minsky said VAR is used across the company's business lines, like equities, fixed income, currencies and commodities, rather than across separate business entities.</p>
+<p>He said Goldman now has risk committees meeting once a week, as well as a separate risk group carrying out more intensive analytical work using specific models.</p>
+<p>He said the &quot;Linear Value at Risk&quot; model was the group's main risk model. While it has its roots in fixed income, it can be aggregated across different sectors.</p>
+<p>Goldman uses this model regularly to look at &quot;hot spots&quot;, where it has a large exposure to a specific market. The model is available to the risk management group and traders, he said.</p>
+<p>Minsky said in commodities and currencies, historic simulation models were useful, while stress testing is used actively in equities.</p>
+<p>&quot;Particularly in equities, traders like to use this a great deal,&quot; he said.</p>
+<p>But Minsky said all models must be treated with caution and only as part of a firm' overall risk management strategy. Goldman also views holding periods as important, he said.</p>
+<p>&quot;VAR, stress testing, capital at risk, are not the answer,&quot; Minsky said. &quot;There is a danger in having a model-generated measure of VAR if you think it is the be-all-and-end-all.&quot;</p>
+<p>He added: &quot;We are also aware unexpected events happen more than you would expect.&quot;</p>
+<p>-- Jacqueline Thorpe, Interantional Bonds +44 171 542 6176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

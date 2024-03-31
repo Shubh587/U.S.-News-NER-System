@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555063" id="root" date="1997-05-01" xml:lang="en">
+<title>JAPAN: Tokyo stocks jump, inspired by U.S. stock market.</title>
+<headline>Tokyo stocks jump, inspired by U.S. stock market.</headline>
+<dateline>TOKYO 1997-05-01</dateline>
+<text>
+<p>Tokyo stocks jumped in the early Thursday session, bolstered by a rise in the U.S. stock markets overnight, brokers said.</p>
+<p>They said that bellwether issues such as Sony Corp were attracting attention and leading indices higher.</p>
+<p>As of 0025 GMT, the Nikkei average was 283.42 points or 1.48 percent higher at 19,434.54. Its June futures were 210 points higher at 19,460.</p>
+<p>&quot;If dealers become over-enthusiastic due to the start of the new calendar month, the gains may be difficult to hold onto in the latter half of the session,&quot; one broker said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

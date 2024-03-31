@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="464087" id="root" date="1997-03-24" xml:lang="en">
+<title>UK: New test shows whether cancer drugs are working.</title>
+<headline>New test shows whether cancer drugs are working.</headline>
+<dateline>LONDON 1997-03-24</dateline>
+<text>
+<p>British cancer researchers said on Monday they had developed a new test that showed whether cancer drugs were working on a tumour.</p>
+<p>The test shows within 24 hours whether chemotherapy is killing the tumour, giving doctors a chance to try another drug quickly if the first one is not.</p>
+<p>&quot;It's a very rapid means of determining whether the drugs are working,&quot; said Mitch Dowsett of the Institute of Cancer Research, who worked on the study.</p>
+<p>Dowsett, whose team works at the Royal Marsden Hospital, told the Institute's annual meeting the test showed that giving drugs to women with breast cancer before they had surgery helped start a process called apoptosis, or programmed cell death.</p>
+<p>Cells are supposed to die when they are damaged, and failure of this apoptosis process can cause tumours to grow.</p>
+<p>&quot;First it confirms that in solid tumours in humans that apoptosis is indeed induced by cytotoxic drugs,&quot; Dowsett said in an interview before the meeting.</p>
+<p>&quot;Second, it potentially gives us a predictive test for individual patients -- does that patient have a responsive tumour to that particular treatment, and if she doesn't, she has a better chance of moving on to a better treatment.&quot;</p>
+<p>Dowsett said previous tests had been clumsy and time-consuming. &quot;What we have been doing until now has been taking a sliver of tissue -- a Tru-cut biopsy -- and then physically counting cells under a microscope. It's a more invasive procedure that involves using local anaesthetic.&quot;</p>
+<p>The new method involves using a syringe similar to those used to take blood. &quot;We can get tens of thousands, up to millions of cells off tumours,&quot; Dowsett said. These could be counted in an instrument called a flow cytometer, which counted them in minutes as compared to hours under a microscope.</p>
+<p>&quot;This is such a simple observation, but no one's done it in the past,&quot; Dowsett said.</p>
+<p>The team's work is also described in a letter to this week's Lancet medical journal.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

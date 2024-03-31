@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272245" id="root" date="1996-12-22" xml:lang="en">
+<title>ISRAEL: Blast damages Israel army hitchhiking post.</title>
+<headline>Blast damages Israel army hitchhiking post.</headline>
+<dateline>JERUSALEM 1996-12-22</dateline>
+<text>
+<p>An Israeli soldiers' hitchhiking post was damaged in a West Bank explosion apparently caused by Palestinian guerrillas early on Sunday but no one was injured, military sources said.</p>
+<p>They said the explosive device blew up near the Alon Shvut Jewish settlement in the Bethlehem area south of Jerusalem. Israeli army reinforcements were rushed in and began a search of the area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220183" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Illinois River grain barge prices - Nov 27.</title>
+<headline>Illinois River grain barge prices - Nov 27.</headline>
+<text>
+<p>Illinois River barge loading terminals bids to producers(dollar/bu)</p>
+<p>					South of Peoria  change (cents/bu)</p>
+<p>US 2 Yellow Corn		     2.73-2.77		up 1-2</p>
+<p>US 1 Yellow Soybeans		 7.22-7.25		up 1-2</p>
+<p>			  Contract bids for January delivery</p>
+<p>US 2 Yellow Corn		     2.76-2.80		unc-dn 1</p>
+<p>US 2 Yellow Soybeans		 7.21-7.24		up 1-2</p>
+<p>				   North of Peoria</p>
+<p>US 2 Yellow Corn		     2.74-2.77		mixed</p>
+<p>US 1 Yellow Soybeans		 7.22-7.26		up 2-4</p>
+<p>			    Contract bids for January delivery</p>
+<p>US 2 Yellow Corn		     2.74-2.76		dn 1-2</p>
+<p>US 1 Yellow Soybeans		 7.20-7.22		up 2-3</p>
+<p>Source: USDA</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="340133" id="root" date="1997-01-29" xml:lang="en">
+<title>UK: Researchers find gene that helps grow nerves.</title>
+<headline>Researchers find gene that helps grow nerves.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1997-01-29</dateline>
+<text>
+<p>A gene that can help tumours grow could be put to good use to re-grow damaged nerves, offering hope to millions of people paralysed by damaged spinal cords, U.S. researchers reported on Wednesday.</p>
+<p>The gene, bcl-2, is normally suppressed by chemicals in the body. But the researchers, reporting in the scientific journal Nature, said it could possibly be turned back on.</p>
+<p>Susumu Tonegawa, Dong Feng Chen and colleagues at the Massachusetts Institute of Technology (MIT), working with Glaxo's Institute for Molecular Biology, bred two kinds of mice -- one lacking the gene, and one genetically engineered to have an extraordinarily active gene.</p>
+<p>The bcl-2 gene directs cells to produce a protein that is known to interfere with apoptosis, the &quot;voluntary&quot; suicide by old or damaged cells. When this fails to happen and cells keep on dividing out of control, it can be a first step to cancer.</p>
+<p>Tonegawa's group found bcl-2 also helped regenerate axons in the retina, both in test tubes and in laboratory mice. Axons are the long threadlike arms that link neurons -- brain cells and nerve cells.</p>
+<p>&quot;We believe this applies to all of the neurons in the central nervous system, including not only the brain, but also the spinal cord,&quot; Tonegawa, director of MIT's centre for learning and memory, said in a telephone interview.</p>
+<p>The mice genetically engineered to lack the gene had 80 percent fewer retinal axons than normal mice, even at the embryonic stage.</p>
+<p>In the other group of mice, expression of bcl-2 protein was high all their lives, and experiments showed their neurons re-generated.</p>
+<p>&quot;We believe that the level of expression of bcl-2 is essential in dictating ability to re-generate,&quot; Tonegawa said.</p>
+<p>&quot;In normal animals, and also probably in humans, expression of bcl-2 is high in the embryonic stage but it becomes low around the time of birth.&quot;</p>
+<p>If chemicals could be found that allowed the body to keep bcl-2 turned on, they could help repair damaged nerves, he said.</p>
+<p>&quot;It provides a basis for the design of new therapeutic strategies for treatment of brain and spinal injuries, as well as many neurodegenerative diseases,&quot; the report in Nature added.</p>
+<p>Gene therapy was a distant possibility, Tonegawa added. What his group would pursue was finding drugs that helped control production of bcl-2.</p>
+<p>This would best be done locally, as turning the gene on all over the body could result in tumours. Doctors would want only a very localised effect.</p>
+<p>&quot;Our goal will be to temporarily and regionally in the brain or where the injury occurred, to boost the expression of bcl-2,&quot; Tonegawa said. Each year, 700 people in Britain and 10,000 people in the United States injure their spinal cords.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

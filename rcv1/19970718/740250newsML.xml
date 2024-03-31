@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740250" id="root" date="1997-07-18" xml:lang="en">
+<title>SWITZERLAND: Soffex trade briefly interrupted during expiry.</title>
+<headline>Soffex trade briefly interrupted during expiry.</headline>
+<dateline>ZURICH 1997-07-18</dateline>
+<text>
+<p>Trade on the Swiss Financial Futures Exchange (Soffex), part of the electronic Swiss Exchange, was interrupted for about 45 minutes due to problems with the central computer, the Swiss Exchange said.</p>
+<p>The interruption, between 0913 GMT and 1000 GMT, happened during the expiry period for exchange-traded options and futures on the Swiss Market Index (SMI), the exchange said in statement.</p>
+<p>The main computer was calculating the closing price for the expiring SMI contracts when there was a technical disruption.</p>
+<p>But the computer continued the calculation after 1000 GMT and was completed at 1017 GMT.</p>
+<p>The SMI closing price was set at 5,840.4 points.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

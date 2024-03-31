@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166766" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Arkansas deliverable rice stocks.</title>
+<headline>Arkansas deliverable rice stocks.</headline>
+<dateline>CHICAGO 1996-11-05</dateline>
+<text>
+<p>- The Chicago Board of Trade reported the following stocks of rice in Arkansas warehouses, deliverable against CBOT futures.   (in 000's CWT).</p>
+<p>					     11/01     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Total Deliverable Grades	     14,351  14,435  15,103</p>
+<p>Non-Del Grades/Ungraded		 1,046     906   1,613</p>
+<p>CCC Stocks				     87	82     126</p>
+<p>TOTAL ARKANSAS RICE STOCKS	   15,484  15,423  16,842</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

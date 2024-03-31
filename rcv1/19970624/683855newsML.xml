@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="683855" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: U.S. test index for May CPI unchanged.</title>
+<headline>U.S. test index for May CPI unchanged.</headline>
+<dateline>WASHINGTON 1997-06-24</dateline>
+<text>
+<p>The U.S. Labor Department on Tuesday released its experimental Consumer Price Index for April.</p>
+<p>Below are percent changes for April for the experimental using geometric and Laspeyres CPIs, and the official current CPI issued last week.</p>
+<p>APRIL 1997</p>
+<p>    -		   GEOMETRIC   LASPEYRES   CURRENT</p>
+<p>			  MEAN CPI	 CPI	  CPI</p>
+<p> All Items		Unch	  -0.1	  0.1</p>
+<p> -Less Food/Energy    -0.1	  Unch	  0.2</p>
+<p>The experimental CPI uses two formula bases. The geometric formula differs from the official current method because it takes into account consumers' tendency to substitute among similar items.</p>
+<p>The Laspeyres formula uses the same mathematical base as the current CPI but adds a technical adjustment to make it comparable to the geometric mean index.</p>
+<p>Labor had previously reported that the Geometric CPI for all items was up 0.1 percent in April and increased 0.3 percent less food and energy. The Laspeyres CPI for all items and less food and energy both rose 0.2 percent in April.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

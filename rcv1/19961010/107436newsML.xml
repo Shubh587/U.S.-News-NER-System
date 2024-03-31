@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107436" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Michael Foods Inc Q3 net down.</title>
+<headline>Michael Foods Inc Q3 net down.</headline>
+<dateline>MINNEAPOLIS 1996-10-10</dateline>
+<text>
+<p>(000's)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					  September 30,  September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net sales		    $159,928 $136,257 $455,478 $393,821</p>
+<p> Cost of sales		 144,828  116,243  403,267  333,913</p>
+<p> Gross profit		   15,100   20,014   52,211   59,908</p>
+<p>Selling, general &amp;</p>
+<p>  administrative		11,155   11,367   33,597   34,292</p>
+<p> Operating profit		3,945    8,647   18,614   25,616</p>
+<p> Interest expense, net	 1,730    1,768    5,474    5,872</p>
+<p>Earnings before income taxes</p>
+<p>				     2,215    6,879   13,140   19,744</p>
+<p> Income tax expense		890    2,650    5,260    7,600</p>
+<p>  NET EARNINGS		   1,325    4,229    7,880   12,144</p>
+<p> Earnings per share	     0.07     0.22     0.41     0.63</p>
+<p>Weighted average common shares</p>
+<p>  outstanding		   19,396   19,332   19,379   19,326</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

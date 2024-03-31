@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195435" id="root" date="1996-11-17" xml:lang="en">
+<title>TURKEY: Istanbul hotel fire kills 17.</title>
+<headline>Istanbul hotel fire kills 17.</headline>
+<dateline>ISTANBUL 1996-11-17</dateline>
+<text>
+<p>At least 17 people died in a fire that broke out at a hotel in central Istanbul early on Sunday, the state-run Anatolian news agency reported.</p>
+<p>According to initial reports, 41 people were hurt in the blaze which began around 4.00 a.m. (0200 GMT) in a seven-storey, three star hotel in Istanbul's Laleli district.</p>
+<p>Anatolian said mostly Ukranian tourists were staying in the hotel at the time.</p>
+<p>The agency quoted unnamed officials as saying the fire may have been caused by a gas leak and that the number of deaths, caused mainly by smoke inhalation, may rise.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

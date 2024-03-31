@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61543" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Georgia Power sees 900 MW unit up end-Oct.</title>
+<headline>Georgia Power sees 900 MW unit up end-Oct.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>Georgia Power Co said it expects the 900 megawatt (MW) Scherer coal-fired generating unit in Juliette, Ga., to resume operation at the end of October after being shut Monday for seasonal maintenance.</p>
+<p>Scherer's three other units, also rated at 900 MW each, were operating at full output, a company spokesman said.</p>
+<p>Georgia Power, the operator of Scherer, owns 16 percent interest in unit 4; Florida Power &amp; Light Co 66 percent; and Jacksonville Electric Authority of Florida 18 percent.</p>
+<p>Georgia Power is a subsidiary of The Southern Co.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296201" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Chrysler to operate six of nine U.S. plants.</title>
+<headline>Chrysler to operate six of nine U.S. plants.</headline>
+<dateline>AUBURN HILLS, Mich. 1997-01-09</dateline>
+<text>
+<p>Chrysler said six of its nine U.S. assembly plants and all three Canadian assembly plants will operate the week of January 13.</p>
+<p>It said a shutdown at its Belvidere, Ill. plant will be extended by another week. The facility, used to assemble Neons, was shut down this week for inventory adjustment. Chrysler said it has a 99-day supply of Neons.</p>
+<p>Chrysler's Conner Avenue (Michigan) and Newark (Delaware) plants will not operate due to model changeover.</p>
+<p>((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUBURN HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

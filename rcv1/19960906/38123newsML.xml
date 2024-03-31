@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38123" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: National Beverage Corp Q1 net rises.</title>
+<headline>National Beverage Corp Q1 net rises.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-09-06</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.54		    $0.44</p>
+<p> Net			  5,050		    4,375</p>
+<p> Revs		     110,204		  101,660</p>
+<p> Avg shrs		   9,430		    9,300</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Q1 ended July 27.</p>
+<p>Average shares does not include the effect of the 100 percent stock dividend to holders of record on September 9.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

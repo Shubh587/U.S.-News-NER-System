@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="655145" id="root" date="1997-06-11" xml:lang="en">
+<title>JAPAN: TEPCO's Fukushima reactor back to full operations.</title>
+<headline>TEPCO's Fukushima reactor back to full operations.</headline>
+<dateline>TOKYO 1997-06-11</dateline>
+<text>
+<p>Tokyo Electric Power Co Inc (TEPCO) said on Wednesday that its 784,000-kilowatt (kw) nuclear reactor in northern Japan is back running at full capacity.</p>
+<p>The unit, one of six reactors at the Fukushima No. 1 nuclear power plant on the Pacific coast, had been running at about 70 percent capacity, or 550,000 kw, as a precaution after a leakage of a small amount of radioactive coolant from one of two back-up pumps at the reactor on Sunday.</p>
+<p>TEPCO later found that a tiny foreign object in a water seal in the pump caused the leakage, and replaced the part.</p>
+<p>The leak had no impact on the environment, TEPCO said.</p>
+<p>-- Tokyo Energy Desk +81-3-3432-8837</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

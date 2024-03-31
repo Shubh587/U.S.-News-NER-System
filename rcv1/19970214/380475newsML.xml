@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="380475" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: Industry groups blast U.S. encryption policy.</title>
+<headline>Industry groups blast U.S. encryption policy.</headline>
+<dateline>WASHINGTON 1997-02-13</dateline>
+<text>
+<p>An array of private-sector trade groups charged Thursday the Clinton administration's new export policy on computer encoding technology was a failure.</p>
+<p>Encryption products, which scramble information and render it unreadable without a password or software &quot;key,&quot; are subject to strict export limits, although the administration recently relaxed the rules a bit.</p>
+<p>The new policy &quot;does not adequately address the needs of either the American business community or the general public,&quot; the 13 groups said in a letter to Clinton dated Wednesday and released Thursday.</p>
+<p>Among the groups signing the letter were the U.S. Chamber of Commerce, the National Association of Manufacturers and the National Retail Federation, along with a host of high-tech industry groups such as the Business Software Alliance and the Information Technology Association of America.</p>
+<p>The Centre for Democracy and Technology, an advocacy group for civil liberties in cyberspace, and the Association of Research Libraries also signed the letter.</p>
+<p>An administration spokeswoman said that, despite the complaints, the current policy would be maintained.</p>
+<p>&quot;The administration is moving ahead with our encryption export liberalisation policy,&quot; spokeswoman Heidi Kukis said. The policy balances diverse interests by &quot;allowing us to develop exports while protecting our national security,&quot; she said.</p>
+<p>The administration has repeatedly said it opposes allowing unfettered powerful encryption programmes out of the country where they could be used by international criminals and terrorists.</p>
+<p>Under current policy, U.S. companies cannot export products containing so-called strong encryption, used to protect everything from a business' electronic mail to a consumer's credit card number sent over the Internet, unless the products also allow the government to crack the code by recovering the software keys.</p>
+<p>Companies can get a license to export medium-strength encryption lacking so-called key recovery features if the companies agree to incorporate key recovery in future products within two years.</p>
+<p>The Commerce Department has issued three licenses so far under the two-year provision. Digital Equipment Corp., Trusted Information Systems Inc., and Cylink Corp. won approval by promising to offer key recovery products by 1999.</p>
+<p>International Business Machines Corp. and Hewlett Packard Co. have said they are also seeking licenses.</p>
+<p>But companies and privacy advocates rejected the administration's key recovery-based approach.</p>
+<p>&quot;It fails to accommodate the competitiveness concerns of sellers of encryption products, the security concerns of the buyers of such products, or important privacy rights,&quot; the groups said in their letter.</p>
+<p>&quot;We believe a fundamental rethinking of this policy is necessary,&quot; they added. &quot;We remain interested in working with you to achieve a constructive solution to this very difficult problem.&quot;</p>
+<p>Congress is already considering proposals to dramatically relax the export restrictions without requiring key recovery.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

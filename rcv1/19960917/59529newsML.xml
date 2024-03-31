@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59529" id="root" date="1996-09-17" xml:lang="en">
+<title>ITALY: Italian electricity consumption fell in August.</title>
+<headline>Italian electricity consumption fell in August.</headline>
+<dateline>ROME 1996-09-17</dateline>
+<text>
+<p>Italian electricity usage in August fell an unadjusted 0.9 percent compared to the same month in 1995, according to data from electricity utility Enel.</p>
+<p>Provisional data from leading Italian cities published earlier this month by Enel pointed to electricity consumption falling a seasonally adjusted 0.5 percent in August.</p>
+<p>In the first eight months of 1996, electricity consumption rose 0.4 percent on an unadjusted basis compared with the same period last year, Enel said. Taking into account calendar and climatic considerations, usage climbed 0.2 percent.</p>
+<p>&quot;The trend of electricity usage by industry, which has been in a recessionary phase since last autumn, has been key,&quot; Enel said. &quot;In fact there has been a downturn (in consumption) especially in the steel and transport sectors,&quot; it added.</p>
+<p>-- Rome newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

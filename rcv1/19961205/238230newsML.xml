@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238230" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: NASA delays U.S. shuttle landing.</title>
+<headline>NASA delays U.S. shuttle landing.</headline>
+<dateline>CAPE CANAVERAL, Florida 1996-12-05</dateline>
+<text>
+<p>Flight controllers delayed space shuttle Columbia's return to earth on Thursday due to cloudy skies at its Florida landing site.</p>
+<p>The five astronauts were 15 minutes away from firing Columbia's braking rockets to begin their descent when mission control called off the planned 7:33 a.m. EST (1233 GMT) landing.  </p>
+<p>&quot;The clouds around KSC (Kennedy Space Center) are not going to cooperate with us on this particular attempt,&quot; mission control's Curt Brown informed the crew. &quot;We are no-go for the deorbit burn.&quot;</p>
+<p>Forecasters advised against a landing because clouds were moving off the Atlantic Ocean toward the shuttle's landing strip at its Florida base.</p>
+<p>Columbia had another landing opportunity at the Kennedy Space Center at 9:10 a.m. EST (1410 GMT). The shuttle could also be diverted to NASA's backup runway at Edwards Air Force Base in California.</p>
+<p>NASA ordered Columbia home a day early because of a poor weather outlook for both landing sites on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

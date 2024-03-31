@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81685" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Bonneville Power Monday price offers unchanged.</title>
+<headline>Bonneville Power Monday price offers unchanged.</headline>
+<dateline>LOS ANGELES 1996-09-27</dateline>
+<text>
+<p>The Bonneville Power Administration left price offers for Monday unchanged from Friday's levels, while weekend prices were adjusted only to reflect the usual lack of peak-demand periods.</p>
+<p>Monday prices for peak-hour sales between 0800 and 2100 PDT were unchanged at $20.00 per MWh ($19.00 non-firm). Off-peak prices were also steady at $15.00 ($14.00 non-firm).</p>
+<p>Shoulder hour prices continued to be split between $17.00 for hours ending 0600 and 2400 ($16.00 non-firm) and $18.00 for hours ending 0700, 2200 and 2300 ($17.00 non-firm).</p>
+<p>Early morning hour prices on Saturday and Sunday were the same as Monday, but the high end for prices was $18.50 for hours 0800-2300 PDT on Saturday and $18.00 on Sunday.</p>
+<p>In addition, sales volumes during 0800-2300 PDT on Sunday were limited to 500 MW.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="683294" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: U.S. to further privatize Internet management.</title>
+<headline>U.S. to further privatize Internet management.</headline>
+<dateline>WASHINGTON 1997-06-24</dateline>
+<text>
+<p>In a move designed to further extricate the U.S. government from administering the Internet, National Science Foundation said Tuesday it would establish a non-profit entity to dole out numerical net addresses.</p>
+<p>Assignment of the addresses, known as Internet Protocol number assignments, had previously been carried out by Network Solutions Inc under a contract from the science agency.</p>
+<p>Network Solutions, based in Herndon, Virginia, also assigns names to the numerical addresses, a more controversial task which was not affected by Tuesday's announcement.  </p>
+<p>Assigning names to the underlying numercial addresses simplifies Web surfing for Internet users.</p>
+<p>Instead of typing a long string of numbers like &quot;198.105.232.6&quot;, a Web surfer enters a name like &quot;www.microsoft.com&quot; to reach Microsoft Corp's web site on the Internet's World Wide Web, an international network of computer networks. Computers that route traffic on the net look up the name in a registry database and match it with the underlying numerical address.</p>
+<p>But naming assignments have generated controversey involving possible trademark infringements.  </p>
+<p>Until recently, the National Science Foundation paid Network Solutions to handle numercial address assignments. But as the net has become more commercially oriented, the agency has sought to curtail its involvement and turn fucntions over to the private sector.</p>
+<p>&quot;This move is another step by the federal government in the continuing privatization and commercialization of the Internet,&quot; George Strawn, NSF's director of networking and communications research, said. &quot;The Internet is no longer in its infancy.&quot;  </p>
+<p>The new non-profit entity, called the American Registry for Internet Numbers or ARIN, will handle addresses in North and South America, South Africa and the Caribbean. Europe and Asia already have similar organizations.</p>
+<p>Most Internet users will be unaffected by the change and most Internet service providers will continue to receive their numerical address assignments from the largest providers, the agency said.</p>
+<p>Just a few hundred Internet service providers deal directly with numerical address assignments. They will be required to pay a few thousand dollars each per year to the new registry, the science agency said.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

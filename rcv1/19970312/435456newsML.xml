@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435456" id="root" date="1997-03-12" xml:lang="en">
+<title>FRANCE: SOCCER-ENGLAND-BRAZIL FRIENDLY MOVED FROM LENS.</title>
+<headline>SOCCER-ENGLAND-BRAZIL FRIENDLY MOVED FROM LENS.</headline>
+<dateline>LENS, France 1997-03-12</dateline>
+<text>
+<p>England's friendly match against Brazil, scheduled to take place in Lens on June 10, is being switched to another venue because of delayed renovation work on the Felix Bollaert stadium.</p>
+<p>The match could now be played at the Parc des Princes in Paris, which is due to stage the France-Italy match the following day.</p>
+<p>Lens mayor Andre Delelis told organisers of the Tournoi de France on Wednesday that bad weather had delayed renovation work on the stadium which is due to stage six matches during the World Cup next year. The Tournoi de France, being used as a warm-up test ahead of next year's finals, also includes France and Italy as well as England and Brazil and runs from June 3-11 with matches also scheduled for Lyon, Nantes and Montpellier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LENS, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

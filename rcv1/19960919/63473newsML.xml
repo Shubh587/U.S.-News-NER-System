@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63473" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Philadelphia Fed index 13.9 Sept vs 21.5 Aug.</title>
+<headline>Philadelphia Fed index 13.9 Sept vs 21.5 Aug.</headline>
+<dateline>NEW YORK 1996-09-19</dateline>
+<text>
+<p>The Federal Reserve Bank of Philadelphia said its diffusion index of business activity in the manufacturing sector fell to 13.9 in September from 21.5 in August.</p>
+<p>			     Sept   Drop   Unch   Rise     Aug</p>
+<p>Current Conditions     13.9   19.7   46.7   33.6    21.5</p>
+<p>New orders		 16.8   22.0   37.8   38.8    22.7</p>
+<p>Shipments		  24.1   18.9   38.1   43.0    23.5</p>
+<p>Unfilled orders	   2.0   18.0   61.9   20.1     4.2</p>
+<p>Delivery time	   - 2.2   17.6   63.0   15.3   - 0.4</p>
+<p>Inventories	     -11.5   31.3   48.0   19.8   -25.6</p>
+<p>Prices paid		18.0    5.7   70.2   23.7     4.6</p>
+<p>Prices received	   4.6    7.8   78.8   12.4   - 3.0</p>
+<p>Number of employees     9.5   12.1   62.6   21.6     5.1</p>
+<p>Average Workweek	- 1.7   16.2   68.9   14.5     6.3</p>
+<p>-- N.A. Treasury Desk, 212-869-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

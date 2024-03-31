@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291898" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: James Earl Ray back in Tennessee hospital.</title>
+<headline>James Earl Ray back in Tennessee hospital.</headline>
+<dateline>NASHVILLE, Tenn. 1997-01-07</dateline>
+<text>
+<p>James Earl Ray, the assassin of civil rights leader Martin Luther King Jr., was back in a Nashville hospital in fair condition on Tuesday, hospital officials said.</p>
+<p>Ray, 68, returned to Columbia Memorial Hospital in Nashville from a prison hospital where he was moved last week after emerging from a coma.</p>
+<p>His family has said Ray suffers from cirrhosis of the liver, though he never drank, and that his liver and kidneys are failing.</p>
+<p>Ray confessed to the 1968 slaying of King in Memphis, although he later recanted and claimed he was set up.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

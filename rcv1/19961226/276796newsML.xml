@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276796" id="root" date="1996-12-26" xml:lang="en">
+<title>JAPAN: JSDA says to start T+3 JGB settlement next April.</title>
+<headline>JSDA says to start T+3 JGB settlement next April.</headline>
+<dateline>TOKYO 1996-12-26</dateline>
+<text>
+<p>The Japan Securities Dealers Association (JSDA) said on Thursday it would begin T plus three settlement for Japanese government bonds starting next April.</p>
+<p>Settlement of JGB transactions will take place three business days after the trade date (T plus three) starting with JGBs traded on April 21, 1997, and scheduled for delivery on April 24, the JSDA said in a statement.</p>
+<p>Starting with bonds traded on September 19 and delivered on October 1, settlement of JGB transactions has taken place using a T plus seven rolling settlement system, in which settlement occurs seven business days after the trade date.  </p>
+<p>The change from T plus seven to T plus three is intended to reduce risk by shortening the time between trades and settlements, the JSDA said.</p>
+<p>The larger the time lag between trade and settlement, the more risk there is for traders of bonds, said Akio Kimura, director at Japan Bond Trading Co Ltd, the largest inter-dealer broker in Japan.</p>
+<p>For example, if a seller of JGBs goes bankrupt after a trade has taken place but before settlement and JGB prices rise in the meantime, the buyer may have to buy from someone else at a higher price, Kimura said.  </p>
+<p>Shortening the time between trade and settlement will reduce the exposure to such risk, Kimura said.</p>
+<p>In the Eurobond market, transactions are settled three days after a deal and U.S. Treasuries are settled one day after the transaction.</p>
+<p>--Tokyo Treasury Desk, +81-3-5473-3748</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

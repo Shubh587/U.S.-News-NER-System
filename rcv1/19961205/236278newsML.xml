@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236278" id="root" date="1996-12-05" xml:lang="en">
+<title>COLOMBIA: SOCCER-LANUS WIN CONMEBOL CUP.</title>
+<headline>SOCCER-LANUS WIN CONMEBOL CUP.</headline>
+<dateline>BOGOTA 1996-12-04</dateline>
+<text>
+<p>Santa Fe (Colombia) beat Lanus</p>
+<p>(Argentina) 1-0 (halftime 1-0) in the second leg of the South</p>
+<p>American Conmebol Cup final on Wednesday.</p>
+<p>Scorer: Francisco Whittingham (3rd minute, penalty)</p>
+<p>Attendance: 50,000</p>
+<p>Lanus win 2-1 on aggregate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

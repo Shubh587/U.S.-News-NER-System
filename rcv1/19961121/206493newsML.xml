@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206493" id="root" date="1996-11-21" xml:lang="en">
+<title>NEW ZEALAND: Voyager NZ launches cut rate fax service.</title>
+<headline>Voyager NZ launches cut rate fax service.</headline>
+<dateline>AUCKLAND 1996-11-22</dateline>
+<text>
+<p>Internet provider Voyager New Zealand said on Friday it would launch a cut-rate fax service on December 15, which it said could reduce fax transmission costs by about half.</p>
+<p>By making user of off-peak Internet times, which corresponds with prime business hours, Voyager said it would enable users to send faxes at off-peak charges.</p>
+<p>The service uses &quot;black boxes&quot; Voyager has developed.  </p>
+<p>The box, called a global router, breaks the fax machine's connection to the Telecom line and determines whether the destination number would involve a national or international toll call.</p>
+<p>For Voyager it creates a revenue stream from Internet circuits during business hours, the time when Internet activity is at its lowest, Voyager's managing director John O'Hara said.</p>
+<p>Internet use rises dramatically after 5.30 p.m., peaking between 7 p.m. and 1 a.m., and an ordinary Internet session brings in around five to eight NZ cents a minute.</p>
+<p>-- Wellington Newsroom (64-4-4734746)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUCKLAND"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

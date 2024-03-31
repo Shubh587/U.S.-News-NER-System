@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281999" id="root" date="1996-12-31" xml:lang="en">
+<title>NEW ZEALAND: NZ debt markets closed on Wednesday, Thursday.</title>
+<headline>NZ debt markets closed on Wednesday, Thursday.</headline>
+<dateline>WELLINGTON 1996-01-01</dateline>
+<text>
+<p>New Zealand debt markets were closed on Wednesday and Thursday for the New Year's break, with trade resuming on Friday, January 3.</p>
+<p>At Tuesday's close the 90-days were at 7.90 percent, while the 02/00 bond was four points weaker at 7.01 percent and the 10-year maturity was a point weaker at 7.20 percent.</p>
+<p>-- Wellington Newsroom (64 4) 473 4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-01-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

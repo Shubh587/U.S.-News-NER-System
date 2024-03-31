@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213462" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Chrysler year-to-date sales beat 1988 record.</title>
+<headline>Chrysler year-to-date sales beat 1988 record.</headline>
+<dateline>AUBURN HILLS, Mich. 1996-11-25</dateline>
+<text>
+<p>Chrysler Corp said its U.S. vehicle sales from January 1, 1996 through November 22 reached 2,214,289.</p>
+<p>This toppled a previous record -- sales of 2,208,057 achieved for all of 1988.</p>
+<p>&quot;This record represents more than just our best year,&quot; said James Holden, exeuctive vice president-sales and marketing. &quot;We see it as a strong sign of what Chrysler is really capable of in the years ahead.&quot;</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUBURN HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

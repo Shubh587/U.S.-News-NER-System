@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712103" id="root" date="1997-07-07" xml:lang="en">
+<title>JAPAN: Fujitsu, others to unify mainframe software.</title>
+<headline>Fujitsu, others to unify mainframe software.</headline>
+<dateline>TOKYO 1997-07-07</dateline>
+<text>
+<p>Fujitsu Ltd said on Monday that it and three other Japanese mainframe computer makers have agreed to introduce software which will enable the free exchange of data among the machines they make.</p>
+<p>The companies, Fujitsu, Hitachi Ltd, NEC Corp and Nihon Unisys Ltd, are expected to develop the software by next May, a Fujitsu spokesman said.</p>
+<p>The move is expected to help promote electronic commerce, he said.</p>
+<p>As a first step, the companies will set up a body in September to promote the project and start development of programmes allowing computers with different platforms to exchange data through in-house networks and the World Wide Web.</p>
+<p>They will also ask International Business Machines Corp and other computer makers to participate in the project as they aim to make their data-exchange software a worldwide industry standard.</p>
+<p>The combined value of shipments by the four makers accounts for more than 70 percent of the Japanese mainframe market, the spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250716" id="root" date="1996-12-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia Oct housing finance down 5.8 pct.</title>
+<headline>RTRS-Australia Oct housing finance down 5.8 pct.</headline>
+<dateline>CANBERRA 1996-12-11</dateline>
+<text>
+<p>Finance commitments for owner-occupied housing in Australia fell 5.8 percent by volume to 40,049 dwellings in October, seasonally-adjusted, the Australian Bureau of Statistics said.</p>
+<p>In value terms, housing finance fell to A$3.97 billion in October from A$4.14 billion in September, the bureau said.  </p>
+<p>Australian housing finance, October 1996 -</p>
+<p>    Dwelling commitments	Oct 96    Sept 96     Oct 95</p>
+<p>    Seasonally-adjusted	 40,049     42,536     39,070</p>
+<p>    Unadjusted		    40,886     40,910     37,797</p>
+<p>    Trend			   41,317     40,640     38,025</p>
+<p>Value (A$ billion)</p>
+<p>    Seasonally-adjusted	  3.97	 4.14	  3.72</p>
+<p>    Unadjusted		     4.06	 4.04	  3.61</p>
+<p>    Trend estimates		4.08	 4.01	  3.65</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

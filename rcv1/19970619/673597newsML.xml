@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="673597" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Sun City Q1 shr loss $0.04 vs profit.</title>
+<headline>Sun City Q1 shr loss $0.04 vs profit.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1997-06-19</dateline>
+<text>
+<p>(unaudited) Three months ended</p>
+<p>			  May 3 1997		  May 4 1996</p>
+<p> Shr	loss  $0.04	   profit $0.08</p>
+<p> Net	loss  56,361	  profit 116,544</p>
+<p> Revs	     19,320,269	     19,301,698</p>
+<p> Avg shrs	 N/A			 N/A</p>
+<p>NOTE: The company's full name is Sun City Industries Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

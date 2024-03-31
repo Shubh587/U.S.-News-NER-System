@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195886" id="root" date="1996-11-18" xml:lang="en">
+<title>UK: Northern Ireland police foil mine attack.</title>
+<headline>Northern Ireland police foil mine attack.</headline>
+<dateline>BELFAST 1996-11-18</dateline>
+<text>
+<p>Northern Ireland police said on Monday they had foiled an attempted guerrilla attack using a landmine near Londonderry, the province's second city.</p>
+<p>&quot;It appears the terrorists were planning to carry out a landmine attack on a security force patrol,&quot; a police spokesman said.</p>
+<p>Police were alerted after people were seen acting suspiciously in an area of the city close to the border with County Donegal in the Irish Republic.</p>
+<p>They found a hole dug into a bank and a concealed detonating wire in apparent preparation for a strike against security forces. No arrests were made.</p>
+<p>British troops and Northern Ireland police have been the target of Irish Republican Army guerrillas fighting to end British rule and unite the province with the Irish Republic.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

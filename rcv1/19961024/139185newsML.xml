@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139185" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: IPO PRICING - Granite prices at $7.50/shr.</title>
+<headline>IPO PRICING - Granite prices at $7.50/shr.</headline>
+<dateline>NEW YORK 1996-10-24</dateline>
+<text>
+<p>Company Name	    Granite Financial Inc</p>
+<p>    Priced At				     $7.50</p>
+<p>    Estimated Pricing Range		   $6-$8</p>
+<p>    Number of Shares			1,500,000</p>
+<p>    Lead Underwriter		Cruttenden Roth</p>
+<p>    Description     Provides equipment lease financing</p>
+<p>Note: The shares were increased to 1.5 million from 1.0 million.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

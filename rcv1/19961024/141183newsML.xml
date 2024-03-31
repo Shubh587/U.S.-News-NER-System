@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141183" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Delta Q1 load factor up, cargo revs down.</title>
+<headline>Delta Q1 load factor up, cargo revs down.</headline>
+<dateline>MONROE, La. 1996-10-24</dateline>
+<text>
+<p>Delta Air Lines Inc on Thursday attributed an 8 percent increase in first quarter revenues to a 12 percent rise in revenue passenger miles.</p>
+<p>The increase was offset by a 5 percent reduction in the passenger mile yield, and cargo revenue fell 4 percent to $124 million, the company said.</p>
+<p>Passenger load factor for the quarter rose to 73.9 percent, compared with 68.1 percent for the year-ago quarter, the carrier said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONROE, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

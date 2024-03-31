@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571959" id="root" date="1997-05-09" xml:lang="en">
+<title>USA: IBM, others, see no big impact from flaw.</title>
+<headline>IBM, others, see no big impact from flaw.</headline>
+<dateline>NEW YORK 1997-05-09</dateline>
+<text>
+<p>International Business Machines Corp said Friday that it believes that the &quot;reported anomaly&quot; with Intel Corp's Pentium Pro and Pentium II processors will not have any major impact on its PC customers.</p>
+<p>The computer giant said it is working closely with Intel in the investigation and characterization of the problem.</p>
+<p>&quot;We currently have no information to believe that this reported anomaly will have a major impact on our customers,&quot; said a spokesman for the IBM PC Co.</p>
+<p>Earlier, Intel said its Pentium Pro and Pentium II chips have a flaw that can sometimes lead computers to make mistakes.  </p>
+<p>Intel launched the Pentium II, its new Pentium line, earlier this week and over 100 computer makers endorsed the chip and unveiled new products designed around the Pentium II.</p>
+<p>&quot;We are continuing to ship product,&quot; said a Compaq Computer Corp spokesman in Houston. &quot;At this point, we haven't received a lot of calls on it (from customers). Every processor has some kind of errata. This is obviously one that Intel is working on. It's not a show stopper.&quot;</p>
+<p>A Dell Computer Corp spokesman pointed out that Dell and many other PC makers have been shipping PCs based on the Pentium Pro chip since January 1996.  </p>
+<p>&quot;We can't trace any specific customer calls to this specific errata,&quot; said a Dell spokesman in Austin, Texas. &quot;Based on what I know from Intel, it's not something that should cause alarm...We don't believe it's a significant issue and we stand behind our product and theirs. We have full confidence in the product.&quot;</p>
+<p>All the PC makers reached late Friday said they were working closely with Intel, which is working with developers on a software fix for the problem. Intel said it will not need to recall the chips.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

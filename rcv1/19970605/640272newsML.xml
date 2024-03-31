@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640272" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: OPTIONS - Dlr/mark vol curve flips, front end sags.</title>
+<headline>OPTIONS - Dlr/mark vol curve flips, front end sags.</headline>
+<dateline>CHICAGO 1997-06-05</dateline>
+<text>
+<p>The dollar/mark volatility curve, which had been inverted for a while, flipped as spot hovered below recent highs and depressed the time decay-sensitive front end, U.S. dealers said.</p>
+<p>&quot;Basically, the dollar stopped going up, so people said 'Okay, we're maybe still in this range,'&quot; said a European bank trader in Chicago.</p>
+<p>The dollar, which had gapped up three pfennigs on Monday and tested one-month highs in the mid-1.73 mark area each day this week, drifted slightly below 1.73 marks for most of the day today.  </p>
+<p>One-month dollar/mark implied volatility was nearly a full point lower from late Wednesday levels at 8.9/9.1 percent in afternoon U.S. business, while one-year was off about 0.2 at 9.4/9.5 percent.</p>
+<p>A U.S. bank trader in California said end-user interest in range-binary options weighed on the front end. Range-binaries are essentially a bet that spot would hold a certain range, and they disappear when pre-determined boundaries are touched.</p>
+<p>&quot;There was buying interest in short-dated range-binaries, which made dealers long vega (long options),&quot; he said. &quot;Consequently they had to sell the front end of the curve.&quot;  </p>
+<p>A Japanese bank trader said there was talk that 1.7350 marks was the upper level for some of the big range binaries.</p>
+<p>Risk perception remained skewed to the dollar's upside. Risk reversal, the cost of swapping equally out-of-the-money puts and calls, for one-month 25-delta options stood little changed at around 0.1/0.4 point in favor of mark puts.</p>
+<p>The back end was also bid relative to the front end in dollar/yen options, where volatilities were up across the board, although the curve remained inverted.</p>
+<p>&quot;People are buying options that don't decay,&quot; the Chicago trader said.  </p>
+<p>&quot;They have gone up more in the back end because there's not much actual movement but there's nervousness,&quot; he added. &quot;The range still seems to be 115-117 (yen), but with spot near the lower end of that range, people are more nervous.&quot;</p>
+<p>Shorter-dated options have higher gamma acceleration against movement in spot but are vulnerable to time decay.</p>
+<p>One-month dollar/yen volatility was up 0.2 point at 10.4/10.6 percent. One-year volatility, which tends to move much slower than the front end, also gained about 0.2 to 10.1/10.3 percent.  </p>
+<p>Traders said the market's nervousness stemmed from a host of near-term event risk, including Friday's May U.S. employment report, the June 20-22 Group of Seven summit, the Bank of Japan's &quot;tankan&quot; report due out on June 25 and the Federal Open Market Committee meeting scheduled for July 1-2.</p>
+<p>Of those, tankan was probably the most important, the Chicago trader said. He noted that the G7 should be content with the market's recent stability, and the focus appeared to be more on Japanese interest rates than U.S. rates.</p>
+<p>The California trader said a strong jobs data could push the dollar above 1.7350 marks and trigger bids for options.</p>
+<p>-- Shin Kishima/Chicago Derivatives Desk ((312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

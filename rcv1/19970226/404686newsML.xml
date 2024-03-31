@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404686" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Fed sets money supply growth targets for 1997.</title>
+<headline>Fed sets money supply growth targets for 1997.</headline>
+<dateline>WASHINGTON 1997-02-26</dateline>
+<text>
+<p>The following ranges for growth of monetary and credit aggregates were set by the Federal Reserve's Federal Open Market Committee.</p>
+<p>				(Percent change Q4 to Q4)</p>
+<p>			Actual	     Target</p>
+<p>			 1996		 1997</p>
+<p>   M2		  4.6	     1.0 to 5.0</p>
+<p>   M3		  6.9	     2.0 to 6.0</p>
+<p>   Debt		5.3	     3.0 to 7.0</p>
+<p>(The Fed in July, 1996, set provisional targets of 1.0 to 5.0 pct for M2, 2.0 to 6.0 pct for M3 and 3.0 to 7.0 pct for debt)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49200" id="root" date="1996-09-12" xml:lang="en">
+<title>COLOMBIA: Bogota's airport evacuated after gas leak.</title>
+<headline>Bogota's airport evacuated after gas leak.</headline>
+<dateline>BOGOTA, Colombia 1996-09-12</dateline>
+<text>
+<p>Bogota's international airport was evacuated on Thursday after potentially explosive methane gas was detected in underground pipes, Colombian radio reported.</p>
+<p>Officials ordered the El Dorado airport's buildings and runways to be completely cleared at mid-day because of the risk of explosion, according to RCN radio.  </p>
+<p>All flights in and out of Bogota were suspended as a result of the alert, RCN reported, but no immediate details were available about whether incoming flights were being rerouted to other airports.</p>
+<p>Radio said the methane gas may have been caused by a build-up of waste. The odor was first detected in pipes in the toilets at the main terminal building.</p>
+<p>Officials could not be reached for comment but were quoted by radio as saying there was a risk of explosion both in the terminal and on the runways.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA, Colombia"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

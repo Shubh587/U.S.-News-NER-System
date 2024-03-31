@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="722257" id="root" date="1997-07-11" xml:lang="en">
+<title>SOUTH KOREA: S.Korea-U.S. reach agreement on telecom talks.</title>
+<headline>S.Korea-U.S. reach agreement on telecom talks.</headline>
+<dateline>SEOUL 1997-07-11</dateline>
+<text>
+<p>Seoul and Washington reached an agreement on telecom talks as South Korea promised to publish a statement that it would not intervene in private deals for the purchase of telecommunications equipment, local papers reported on Friday.</p>
+<p>The Ministry of Information and Communication announced the agreement and added that in return Washington would remove South Korea from the U.S. list of priority foreign countries (PFC) in the telecom sector, the newspapers said.</p>
+<p>Ministry officials were not available for comment.</p>
+<p>The reports said that the U.S. puts countries it suspects are engaging in unfair trade practices on the PFC list.</p>
+<p>The ministry said it would published its statement in the ministry's newsletter in July.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

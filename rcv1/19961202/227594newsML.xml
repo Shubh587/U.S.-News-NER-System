@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227594" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Vical Inc gets patent.</title>
+<headline>Vical Inc gets patent.</headline>
+<dateline>SAN DIEGO 1996-12-02</dateline>
+<text>
+<p>Vical Inc Monday said it received a patent covering the company's technology for direct intramuscular injection of &quot;naked&quot; DNA sequences to cause production of specific proteins intended to prevent or treat diseases.</p>
+<p>In a statement, Vical said scientists and collaborators discovered that cells in certain tissues are able to take up DNA directly and subsequently produce the protein encoded by the DNA for extended periods of time.</p>
+<p>The company said it believes this &quot;naked&quot; DNA delivery represents a significant departure from other gene delivery techniques in that no portion of a virus is required to effectively transfer DNA into living cells.</p>
+<p>Vical's gene-based approach may offer safer and more cost-effective alternatives for the prevention or treatment of many diseases, including cancer, infectious diseases and metabolic disorders, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

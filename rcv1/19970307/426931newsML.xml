@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="426931" id="root" date="1997-03-07" xml:lang="en">
+<title>HONG KONG: Trade in CNT Group shares suspended.</title>
+<headline>Trade in CNT Group shares suspended.</headline>
+<dateline>HONG KONG 1997-03-07</dateline>
+<text>
+<p>Trading in shares of CNT Group Ltd was suspended at its own request, pending an announcement, the Hong Kong Stock Exchange said on Friday.  </p>
+<p>The company shares rose HK$0.04 to end at HK$0.97 on Thursday. Volume was 200.63 million shares worth HK$197.75 million.</p>
+<p>CNT Group is a paint manufacturer.</p>
+<p>-- Hong Kong News Room (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

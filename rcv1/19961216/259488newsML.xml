@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259488" id="root" date="1996-12-16" xml:lang="en">
+<title>UK: UK delivered grain trades - Dec 16.</title>
+<headline>UK delivered grain trades - Dec 16.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1515 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to Yorkshire Jan/Mar 118.50</p>
+<p>London Dec 116.00</p>
+<p>Feed wheat Ipswich Spot 99.00</p>
+<p>Shropshire/Cheshire Feb 98.00 Mar 99.00 Apr/Jun 102.00</p>
+<p>Liverpool Jan 99.50/99.00</p>
+<p>East Anglia Jan 99.00 Jan/Mar 100.00 Apr/Jun 103.00</p>
+<p>Tilbury Jan 99.00</p>
+<p>Feed barley to Shropshire/Cheshire Jan 97.00</p>
+<p>Tilbury Jan 99.50</p>
+<p>Avon Jan 99.00 Feb 100.00 Jan/Mar 100.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

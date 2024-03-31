@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146882" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Scientific in Fla. energy monitoring pact.</title>
+<headline>Scientific in Fla. energy monitoring pact.</headline>
+<dateline>ATLANTA 1996-10-28</dateline>
+<text>
+<p>Scientific-Atlanta Inc said Monday it signed a contract with Gulf Power Co to provide and manage utility-monitoring and energy management systems in the homes of Gulf Power customers in Florida.</p>
+<p>Scientific-Atlanta's &quot;MainGate&quot; system will be installed in about 40,000 homes in northwestern Florida over the next seven to eight years, beginning in May 1997, the company said.</p>
+<p>Gulf Power is a subsidiary of Atlanta-based Southern Co.  </p>
+<p>The MainGate system is built around an open architecture and supports a variety of communications protocols and media, including Lonworks, CEBus, RF and hardwire.</p>
+<p>The MainGate communications system links customers via a VHF paging interface, with a telephone line response back to the utility.</p>
+<p>It lets customers program major appliances, such as heat-and-air conditioning systems, water heaters and pool pumps, to respond to external control from the utility company based on different pricing tiers.</p>
+<p>Additional services that Gulf Power may decide to offer include outage detection, surge suppression and monitoring, and, in the future, home security and home automation, Scientific-American said.</p>
+<p>The two-way interactive system also enables Gulf Power to remotely read meters and detect certain forms of meter tampering, the company said.</p>
+<p>The contract covers an eight-year period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

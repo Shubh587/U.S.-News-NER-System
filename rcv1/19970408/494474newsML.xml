@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494474" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: InteliData unveils home banking &quot;smart card&quot;.</title>
+<headline>InteliData unveils home banking &quot;smart card&quot;.</headline>
+<dateline>NEW YORK 1997-04-08</dateline>
+<text>
+<p>InteliData Technologies Corp. on Tuesday launched MoneyClip, saying the small, floppy disk-like device makes it easy for personal computers to read so-called &quot;smart cards&quot; and allows PC users to effectively turn their computers into automated teller machines.</p>
+<p>The Herndon, Va.-based company hopes the product will lead to faster acceptance of plastic smart cards and of electronic commerce by consumers, who have lagged their foreign counterparts in adopting the newest banking technologies, InteliData President John Backus told a news conference.</p>
+<p>Smart cards -- plastic cards with a computer chip for storing information embedded in the card -- can hold electronic cash and have other uses, such as serving as identification.</p>
+<p>A smart card can be inserted in the MoneyClip, which resembles a standard 3.5-inch floppy disk. The device is then inserted into a PC's disk drive, which reads information on the card.</p>
+<p>The MoneyClip, small enough to fit in one's pocket, can be carried along and used in PCs in the home, office or at a remote location. It allows computer users to store new information on the cards without having to install a separate card reader on their PCs.</p>
+<p>The product uses the patented Smarty smart card reader developed by Fischer International Systems, integrating it with a security system developed by V-One Corp.</p>
+<p>The card used with MoneyClip contains a digital certificate that identifies the user. The online banking institution uses a V-ONE SmartGate computer security system known as a firewall and a digital certificate computer.</p>
+<p>The certificate is required for the user to pass through the firewall and access home banking and bill payment services. Backus likened the security feature to a system in which a bank and the bank customer each have a key to the customer's safe deposit box and it takes both keys to open the box.</p>
+<p>Another partner, Home Financial Network Inc., provides software that lets bank customers conduct home banking and other electronic commerce on the Internet. In a demonstraton of the product, Home Financial Chairman Daniel Schley showed how a user would transfer $500 from a checking or savings account onto a smart card, in effect making the device like an automated teller machine at home.</p>
+<p>MoneyClip has a retail price of $59.95 but Backus said it would be up to individual banks to decide how much to charge. He said some banks might make the device available for free.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

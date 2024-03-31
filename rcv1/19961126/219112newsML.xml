@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219112" id="root" date="1996-11-26" xml:lang="en">
+<title>SWITZERLAND: Swiss bourse suspends trade in Riviera.</title>
+<headline>Swiss bourse suspends trade in Riviera.</headline>
+<dateline>ZURICH 1996-11-26</dateline>
+<text>
+<p>The Swiss stock exchange said it had suspended trade in securities of Riviera Participations Holding SA, based in Vevey, Switzerland, due to a request from the company.</p>
+<p>The suspension will last until the end of trade at 1530 GMT.</p>
+<p>&quot;The company will announce important news during this afternoon which might have a substantial impact on the securities of the aforementioned company,&quot; the stock exchange said in a statement. -- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

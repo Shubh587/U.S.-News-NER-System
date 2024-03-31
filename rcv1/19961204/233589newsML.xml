@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233589" id="root" date="1996-12-04" xml:lang="en">
+<title>CANADA: Weekly Canada spot natgas export prices - Dec 4.</title>
+<headline>Weekly Canada spot natgas export prices - Dec 4.</headline>
+<text>
+<p>EXPORT (DECEMBER SALES)     $CDN/GJ	  $US/MMBTU</p>
+<p> HUNTINGDON B.C.		4.38/4.44	 3.48/3.53</p>
+<p> KINGSGATE B.C. (TO PNW)    4.00/4.06	 3.18/3.23</p>
+<p> MONCHY SASK		    3.90/3.96	 3.10/3.15</p>
+<p> EMERSON MAN		    4.30/4.36	 3.42/3.47</p>
+<p> NIAGARA ONT		    5.00/5.07	 3.98/4.03</p>
+<p>N=Notional. Canada/U.S. dollar conversion based on Bank of Canada noon rate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

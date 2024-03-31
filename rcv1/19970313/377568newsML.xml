@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="377568" id="root" date="1997-03-13" xml:lang="en">
+<title>NETHERLANDS: Dutch bonds close down, but sentiment remains good.</title>
+<headline>Dutch bonds close down, but sentiment remains good.</headline>
+<dateline>AMSTERDAM 1997-03-13</dateline>
+<text>
+<p>Dutch bonds ended down on Thursday but below the midsession lows as the market shrugged off U.S. February retail data which came out above expectations.</p>
+<p>U.S. retail sales, announced in the early afternoon, rose 0.8 percent in February, but a 0.6 percent rise was expected.</p>
+<p>&quot;It looks like the market is starting to believe U.S. economic data can be good without necessarily entailing inflationary pressures,&quot; one dealer said.</p>
+<p>He added that recent U.S. economic data had pointed in that direction. &quot;They seem to have things pretty much under control,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

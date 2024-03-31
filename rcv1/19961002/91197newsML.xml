@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91197" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: U.S. feeder cattle markets - USDA.</title>
+<headline>U.S. feeder cattle markets - USDA.</headline>
+<text>
+<p>Med/lrg frame 1 700-799 lb steers (dollars/cwt)</p>
+<p>Market	   Date   Trend		   Price Range</p>
+<p>Amarillo	10/02   off $2		  not tested</p>
+<p>Billings	09/26   steady-up $1	  62.00-63.00</p>
+<p>Dodge City    09/26   off $3-$6	     61.50-64.70</p>
+<p>Lexington     10/02   steady-off $1	 55.00-62.00</p>
+<p>Louisville    10/02   unevenly steady     56.00-58.50</p>
+<p>Oklahoma City 10/01   up $1-$2		61.75-65.00</p>
+<p>St.Joseph     09/26   steady-off $1	 63.00-64.85</p>
+<p>St.Louis	09/20   off $2-3		50.00-57.00</p>
+<p>San Antonio   09/17   up $3-$5		61.00-63.25</p>
+<p>Sioux City    08/12   no trend		not tested</p>
+<p>Sioux Falls   10/01   off $1-$2	     60.50-62.80</p>
+<p>West Fargo    09/26   steady up $1	  61.50-64.20</p>
+<p>--Chicago newsdesk - 312-983-7347</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

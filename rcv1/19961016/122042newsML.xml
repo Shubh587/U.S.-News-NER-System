@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122042" id="root" date="1996-10-16" xml:lang="en">
+<title>JAPAN: MHI wins test cell order from S'pore Airlines unit.</title>
+<headline>MHI wins test cell order from S'pore Airlines unit.</headline>
+<dateline>TOKYO 1996-10-16</dateline>
+<text>
+<p>Mitsubishi Heavy Industries Ltd (MHI) said on Wednesday it had received an order for a large test cell for jet engines from SIA Engineering Co, an aircraft maintenance company of Singapore Airlines Ltd.</p>
+<p>The test cell would be able to test engines with a thrust of up to 150,000 pounds, a Mitsubishi Heavy spokesman said.</p>
+<p>The spokesman did not give the value of the turnkey order, which excludes civil engineering work and supply of some of measurement equipment. But industry sources said it was estimated at about two billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

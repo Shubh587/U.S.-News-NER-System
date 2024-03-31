@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14232" id="root" date="1996-08-26" xml:lang="en">
+<title>CZECH REPUBLIC: Czech 1996 wheat harvest seen dipping - stats bureau.</title>
+<headline>Czech 1996 wheat harvest seen dipping - stats bureau.</headline>
+<dateline>PRAGUE 1996-08-26</dateline>
+<text>
+<p>The Czech Statistical Bureau on Monday estimated the 1996 total wheat harvest at 3.629 million tonnes compared with 3.822 million tonnes in 1995.</p>
+<p>The figures were revised slightly downward from a July forecast of 3.648 million due to marginally lower-than expected yield on fewer hectares sown.</p>
+<p>Agriculture ministry officials have said recently that the harvest should still meet the country's grain demand, and there is a possibility of surplus exports.  </p>
+<p> CZECH HARVEST		1996	   1996	  1995</p>
+<p>				(AUG-est)   (JULY-est)</p>
+<p> winter wheat (million tonnes)3.461	  3.477	 3.693</p>
+<p> spring wheat		 0.168	  0.171	 0.130</p>
+<p>   total wheat		3.629	  3.648	 3.823</p>
+<p>avg yield (tonnes/hectare)</p>
+<p> winter wheat		  4.58	   4.60	  4.65</p>
+<p> spring wheat		  3.76	   3.81	  3.59</p>
+<p>   total wheat		 4.53	   4.55	  4.60</p>
+<p>hectares sown (actual)</p>
+<p> winter wheat	     756,484	   n/a	 794,647</p>
+<p> spring wheat		44,855	   n/a	  36,106</p>
+<p>   total		    801,339	   n/a	 830,753</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179076" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: BankAmerica adds non-customer ATM fee.</title>
+<headline>BankAmerica adds non-customer ATM fee.</headline>
+<dateline>SAN FRANCISCO 1996-11-08</dateline>
+<text>
+<p>BankAmerica Corp said on Friday that beginning November 17, it will charge $1.50 per cash withdrawal by non-customers who use the bank's Versateller ATM network in California, Oregon, Washington, Idaho, and Hawaii.</p>
+<p>It said the fee will not affect Bank of America Versateller cardholders who use the bank's ATM network free of transaction charges.</p>
+<p>The fee will not be charged at many Versateller ATMs at retail outlets, including nearly 500 ATMs in Lucky Stores throughout California. The company operates a total of nearly 7,000 ATMs throughout its franchise.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

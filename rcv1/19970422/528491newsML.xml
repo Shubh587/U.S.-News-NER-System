@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="528491" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: One Valley Bancorp filed for NYSE listing.</title>
+<headline>One Valley Bancorp filed for NYSE listing.</headline>
+<dateline>CHARLESTON, W.Va. 1997-04-22</dateline>
+<text>
+<p>One Valley Bancorp Inc said it filed a listing application with the New York Stock Exchange (NYSE) and has been informed by the NYSE that it meets the eligibility requirements for the listing of its common stock.</p>
+<p>Pending NYSE authorization, One Valley anticipates that it will begin trading on the NYSE in late May 1997.  One Valley expects to be assigned an NYSE symbol within the next few weeks, which will be announced prior to listing.</p>
+<p>One Valley Bancorp is a bank holding company based in West Virginia with $4.4 billion in total assets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLESTON, W.Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

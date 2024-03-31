@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225052" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 29-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 29-NOV.</headline>
+<text>
+<p>Tropical Cyclone 08B is located near 14.2N/83.9E in the Bay of Bengal and has maximum sustained winds of 52 mph.  This system is moving off to the northwest at 8 mph and isexpected to make landfall sometime on Sunday in central-eastern India. Heavy rain and gusty winds are expected to accompany this storm as it moves inland, leading to some flash flooding.  </p>
+<p>Tropical Cyclone Chantelle, packing winds of 35 mph, is located near 3.9S/73.8E and moving northwest at 9 mph.  This system is expected to continue to decrease in intensity and dissipate within the next 12-24 hours.  </p>
+<p>Tropical Depression 40W has regenerated in the Pacific Ocean near 15.0N/134.2E and is moving west at 3 mph.  This sysyem is expected to become nearly stationary and not strengthen over the next 24-36 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

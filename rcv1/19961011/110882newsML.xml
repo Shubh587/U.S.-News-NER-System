@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110882" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Clinton to meet Lebanese leader next week.</title>
+<headline>Clinton to meet Lebanese leader next week.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>U.S. President Bill Clinton will meet Prime Minister Rafik al-Hariri of Lebanon at the White House on Oct. 18, the White House announced on Friday.</p>
+<p>&quot;The two leaders will discuss a range of issues to include Lebanon's economic reconstruction and recent developments in the Middle East,&quot; a White House statement said.</p>
+<p>Clinton's meeting with Hariri comes at a time when U.S. efforts to broker a comprehensive Middle East peace agreement are at a standstill as Israel and the Palestineans try to put the peace process back on track after violence last month that killed 60 Palestinians and 15 Israelis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

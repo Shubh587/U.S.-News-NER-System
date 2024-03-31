@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61852" id="root" date="1996-09-18" xml:lang="en">
+<title>INDIA: India, South Korea to expand aviation services.</title>
+<headline>India, South Korea to expand aviation services.</headline>
+<dateline>NEW DELHI 1996-09-18</dateline>
+<text>
+<p>India and South Korea have signed an agreement to expand air services between the two countries, a government statement said on Wednesday.</p>
+<p>The agreement was made during talks held recently in New Delhi among officials of India's civil aviation ministry and South Korea's international air transport division, the statement said.</p>
+<p>Currently, India and South Korea share two air services a week. It will be increased to four, the statement said.</p>
+<p>According to the new air route schedule, New Delhi would be allowed to be the originating point for the Korean airline and Seoul would be the point of call for the Indian flight.</p>
+<p>Both countries also signed a code-sharing agreement according to which they would allow all cargo flights to be operated by either side.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

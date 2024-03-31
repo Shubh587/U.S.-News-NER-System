@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789798" id="root" date="1997-08-10" xml:lang="en">
+<title>UK: PRESS DIGEST - LONDON-BASED ARAB NEWSPAPERS - AUG 10.</title>
+<headline>PRESS DIGEST - LONDON-BASED ARAB NEWSPAPERS - AUG 10.</headline>
+<dateline>LONDON 1997-08-10</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Palestinian President Arafat says Israel wants to create confrontation among Palestinians.</p>
+<p>- Two Israeli raids on Lebanon's Bekaa.</p>
+<p>- Saudi Arabia approves new regulations for companies wanting to go public in the kingdom.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Iran rejects Iraqi president's call for improving relations between the two countries.</p>
+<p>- Yemen's interior minister to visit Saudi Arabia for talks on border dispute between the two countries.</p>
+<p>- Gulf Investment Corporation says it has direct investments in 22 projects worth around $2.7 billion.</p>
+<p>- Egypt plans to increase number of hotel rooms to 200,000 by the year 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

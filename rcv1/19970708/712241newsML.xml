@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712241" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: Wall St indices closing - July 8.</title>
+<headline>Wall St indices closing - July 8.</headline>
+<text>
+<p>NYSE	  HIGH     LOW     CLOSE</p>
+<p>Comp	 478.59   475.16   478.49   up   2.94</p>
+<p>Inds	 606.89   601.63   606.88   up   4.91</p>
+<p>Trans	430.58   426.81   430.52   up   3.36</p>
+<p>Util	 290.93   289.62   290.79   up   0.59</p>
+<p>Finance    441.03   436.31   437.71   up   0.36</p>
+<p>Up 1680  Down 1122 Unch 588</p>
+<p>Volume: 541,480,000</p>
+<p>AMEX</p>
+<p>Index  634.11  up 2.14</p>
+<p>Volume: 24,576,830</p>
+<p>Up 300 Down 261 Unch 171</p>
+<p>NASDAQ</p>
+<p> Comp 1485.10  up  14.36</p>
+<p> Ind  1200.16  up   9.37</p>
+<p> Bank 1650.18  up   5.17</p>
+<p> Ins  1665.52 off   4.97</p>
+<p>OTHER</p>
+<p> Fin  1954.68  up   5.08</p>
+<p> Tran  971.27 off   4.26</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

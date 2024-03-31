@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210394" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: CompuTrac Inc Q3 net loss vs profit.</title>
+<headline>CompuTrac Inc Q3 net loss vs profit.</headline>
+<dateline>RICHARDSONA TEXAS 1996-11-21</dateline>
+<text>
+<p>(Unaudited)	   Three-month period     Nine-month period</p>
+<p>			   ended October 31,     ended October 31,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net (loss) income (149,600)    224,000  (424,800)    559,900</p>
+<p>Net (loss) income</p>
+<p>  per common share    (0.02)	0.04	(0.07)	 0.09</p>
+<p>Weighted average</p>
+<p>shares outstanding:</p>
+<p>			 6,241,281  6,323,371  6,229,167  6,270,140</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHARDSONA TEXAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

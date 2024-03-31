@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212145" id="root" date="1996-11-23" xml:lang="en">
+<title>POLAND: SOCCER-RESULTS OF POLISH FIRST DIVISION MATCHES.</title>
+<headline>SOCCER-RESULTS OF POLISH FIRST DIVISION MATCHES.</headline>
+<dateline>WARSAW 1996-11-23</dateline>
+<text>
+<p>Results of Polish first division soccer matches on Saturday:</p>
+<p> GKS Belchatow     1   Lech Poznan     1</p>
+<p> Polonia Warszawa  1   Ruch Chorzow    0</p>
+<p> Amica Wronki	3   Gornik Zabrze   0</p>
+<p> Legia Warszawa    2   GKS Katowice    1</p>
+<p> LKS Lodz	    1   Sokol Tychy     0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

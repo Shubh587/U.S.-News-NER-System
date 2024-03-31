@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335801" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: U.S. coffee roastings lower in latest week.</title>
+<headline>U.S. coffee roastings lower in latest week.</headline>
+<dateline>NEW YORK 1997-01-27</dateline>
+<text>
+<p>Complete Coffee Coverage reported U.S. green coffee roastings as follows:</p>
+<p>For the week ended Jan 18, roastings totaled about 385,000 60-kg bags, down from 420,000 bags the previous week but up from 375,000 bags in the corresponding week a year ago.</p>
+<p>Cumilative roastings totaled 1,135,000 60-kg bags versus 1,150,000 bags in the same year-ago period.</p>
+<p>--New York Commodities Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

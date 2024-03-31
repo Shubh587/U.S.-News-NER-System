@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328540" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Simtek Corp Q4 shr profit vs loss.</title>
+<headline>Simtek Corp Q4 shr profit vs loss.</headline>
+<dateline>COLORADO SPRINGS, Colo. 1997-01-23</dateline>
+<text>
+<p>3 Mos ended	    12 Mos ended</p>
+<p>			    12/31/96  12/31/95  12/31/96    12/31/95</p>
+<p>Product Sales,Net $1,676,935  $737,316  $5,196,653  $2,038,749</p>
+<p> Total Revenue	1,677,286   737,316   5,205,560   2,039,050</p>
+<p> Cost of Goods	  869,202   555,863   3,073,611   2,192,795</p>
+<p> Gross Margin	   807,733   181,453   2,123,042   (154,046)</p>
+<p> Gross Margin %	  48.17%    24.61%	40.85%     (7.56%)</p>
+<p> Net Income (Loss)    316,662 (312,616)     144,515 (1,931,008)</p>
+<p> EPS (Loss)		  0.01    (0.01)	  0.01	(0.09)</p>
+<p> Wgtd avg shs	27,103,059 21,497,035 27,103,059  21,497,035</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLORADO SPRINGS, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

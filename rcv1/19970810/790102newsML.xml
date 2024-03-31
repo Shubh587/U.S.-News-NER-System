@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="790102" id="root" date="1997-08-10" xml:lang="en">
+<title>MOROCCO: Moroccan party leader hurt in accident.</title>
+<headline>Moroccan party leader hurt in accident.</headline>
+<dateline>RABAT 1997-08-10</dateline>
+<text>
+<p>Veteran Moroccan politician Ali Yata, 76, was badly injured in a accident at the weekend when caught between two cars as a third crashed into them.</p>
+<p>Yata, secretary-general of the opposition Progress and Socialism Party, underwent surgery on Saturday night, shortly after the accident, his party said on Sunday.</p>
+<p>His condition was described as stable.</p>
+<p>Yata's party, which has 14 seats in Morocco's 333-seat parliament, is a member of the opposition bloc known as the Koutla.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

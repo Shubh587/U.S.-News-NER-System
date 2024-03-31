@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283391" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: CME scraps currency large-lot pilot, expands AON. [CORRECTED 21:06 GMT]</title>
+<headline>CME scraps currency large-lot pilot, expands AON. [CORRECTED 21:06 GMT]</headline>
+<dateline>CHICAGO 1997-01-02</dateline>
+<text>
+<p>The Chicago Mercantile Exchange (CME) said Thursday it would scrap its failed pilot program for electronic currency large order execution (LOX) but would expand its more liquid &quot;all-or-nothing&quot; (AON) execution program.</p>
+<p>In a members' letter distributed on the trading floor, the CME said its board via poll had approved an immediate end to the LOX project, which it began as a pilot last July.</p>
+<p>It said no trades occurred over the electronic currency LOX system during the pilot period.</p>
+<p>Both the AON and LOX pilots were slated to end January 15.  </p>
+<p>LOX was a PC-based order execution system which was intended to compete with the cash market. It initially allowed orders of at least 400 futures to be filled at one price.</p>
+<p>The CME said it would make permanent its AON trading starting immediately, and would expand the program to Brady bond and Mexican stock index futures, with a 20-contract minimum, starting January 21. (Corrects to make clear that 20-contract minimum applies only to Brady bond and Mexican stock index futures)</p>
+<p>The AON project, introduced last June in mark futures, allows large orders -- originally 100 contracts or more -- to be filled at one price in the trading pit.  </p>
+<p>The CME said 151,552 currency futures contracts traded in 889 AON trades since August 5, when the exchange expanded AON to all currency futures.</p>
+<p>The Commodity Futures Trading Commission approved the initiatives in mid-December, the CME added.</p>
+<p>The CME introduced the LOX and AON programs as part of an effort to draw institutional business back into its currency futures trading pits, where volume has dwindled over the last few years, from the burgeoning over-the-counter foreign exchange market. ((DerivativesDesk(312)408-8750/E-mail:derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

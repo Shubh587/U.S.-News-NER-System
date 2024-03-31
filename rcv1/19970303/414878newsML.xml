@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414878" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Intel offers MMX OverDrive processors.</title>
+<headline>Intel offers MMX OverDrive processors.</headline>
+<dateline>FOLSOM, Calif. 1997-03-03</dateline>
+<text>
+<p>Intel Corp said Monday its Pentium OverDrive processors with MMX technology were available to upgrade Pentium processor-based systems with speeds of 100, 90 and 75 megahertz.</p>
+<p>The company said the 100-MHz chip would run at 166-MHz with an OverDrive upgrade. The upgraded 90-MHz chip would run at 150-MHz and the upgraded 75-MHz chip would run at 125-MHz.</p>
+<p>The company said test results show a significant increase in processor performance for common desktop applications with the upgrade. The new OverDrive MMX chips bring television-quality video, three-dimensional graphics and better sound to personal computers, Intel said.</p>
+<p>Each Pentium OverDrive MMX chip will include a CD-ROM sampler featuring a free MMX technology software application, &quot;Rebel Moon Rising&quot; from Fenris Wolf, and several demonstrations of other MMX applications.</p>
+<p>Intel shares closed up four at 145-7/8.</p>
+<p>The company said the manufacturer's prices for the new series of OverDrive chips are $499 for the 100-MHz Pentium OverDrive processor and $399 for the 75-MHz and 90-MHz upgrades.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOLSOM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

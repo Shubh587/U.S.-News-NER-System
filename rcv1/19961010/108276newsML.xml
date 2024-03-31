@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108276" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: PHLX to trade options on Longhorn Steaks.</title>
+<headline>PHLX to trade options on Longhorn Steaks.</headline>
+<dateline>PHILADELPHIA 1996-10-10</dateline>
+<text>
+<p>The Philadelphia Stock Exchange said it will begin trading put and call options on Longhorn Steaks Inc. on October 15.</p>
+<p>The options will trade on the February expiration cycle with initial expirations in November, December, February and May. Opening strikes will be 12-1/2, 15 and 17-1/2.</p>
+<p>--Reuters Chicago Derivatives Desk</p>
+<p>312-408-8750; E-mail derivatives@reuter.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

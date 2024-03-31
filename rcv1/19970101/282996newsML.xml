@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="282996" id="root" date="1997-01-01" xml:lang="en">
+<title>HONG KONG: Hong Kong gold closed for New Year holiday.</title>
+<headline>Hong Kong gold closed for New Year holiday.</headline>
+<dateline>HONG KONG 1997-01-01</dateline>
+<text>
+<p>Hong Kong's gold markets will be closed on January 1, 1997, for the New Year holiday. They will reopen on Thursday, January 2.</p>
+<p>-- Hong Kong Newsroom (852) 2843-6441</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

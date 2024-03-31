@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77032" id="root" date="1996-09-25" xml:lang="en">
+<title>SOUTH KOREA: Seoul to close bourse on Nov 23 for system change.</title>
+<headline>Seoul to close bourse on Nov 23 for system change.</headline>
+<dateline>SEOUL 1996-09-25</dateline>
+<text>
+<p>The Korea Stock Exchange said on Wednesday it would close the local stock market on November 23 to upgrade its main computer systems.</p>
+<p>An exchange official said the one-day closure was inevitable because the upgrading requires to suspend system operation for at least 60 hours.</p>
+<p>-- Seoul Newsroom (822) 727-5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

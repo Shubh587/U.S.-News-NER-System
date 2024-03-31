@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="723491" id="root" date="1997-07-11" xml:lang="en">
+<title>GREECE: Greek/Bund gap widens to 377 bps, 284 vs BTP.</title>
+<headline>Greek/Bund gap widens to 377 bps, 284 vs BTP.</headline>
+<dateline>ATHENS 1997-07-11</dateline>
+<text>
+<p>The spread of Greece's 10-year bond over bunds rose to 377 basis points today from 365 on Thursday.</p>
+<p>The Greek/BTP gap also increased to 284 basis points from 270 on Thursday.</p>
+<p>		 CPN     MATURITY  YIELDS    SPREADS    PREVIOUS</p>
+<p>								    SPREADS</p>
+<p>   GREECE    8.80%   25JUN07    9.32%</p>
+<p>   GERMANY   6.0%    04JUL07    5.55%	377	365 bps</p>
+<p>   FRANCE    5.5%    25APR07    5.42%	390	379 bps</p>
+<p>   ITALY     6.75%   01FEB07    6.48%	284	270 bps</p>
+<p>   PORTUGAL  6.63%   23FEB07    6.27%	305	291 bps</p>
+<p>   SPAIN     7.35%   31MAR07    6.21%	311	298 bps</p>
+<p>   UK	  7.25%   07DEC07    7.22%	210	200 bps</p>
+<p>   US	  6.63%   15MAY07    6.35%	297	286 bps</p>
+<p>All yields are annualised and based on bid prices at 1155 GMT. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

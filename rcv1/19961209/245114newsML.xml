@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245114" id="root" date="1996-12-09" xml:lang="en">
+<title>DENMARK: Danish Sept/Oct retail sales rise.</title>
+<headline>Danish Sept/Oct retail sales rise.</headline>
+<dateline>COPENHAGEN 1996-12-09</dateline>
+<text>
+<p>Denmark's seasonally adjusted retail sales index rose to 108.9 in September and 109.0 in October 1996 from 107.31 in August 1996, the national statistics office said on Monday.  </p>
+<p>				  Sept 96   Oct 96     Aug 96</p>
+<p>  Season adjusted volume    108.9    109.0     107.3</p>
+<p>  Food, beverages,tobacco   103.8    104.1     105.4</p>
+<p>  Clothing etc.		 110.1    109.2     106.9</p>
+<p>  Other consumer goods	115.6    115.8     110.0</p>
+<p>NOTE - 1990 base = 100. The non-seasonally adjusted index for Sept-October 1996 was on average up about 0.3 percent on the same period in 1995, the statistics office said.</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

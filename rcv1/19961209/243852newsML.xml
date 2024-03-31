@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243852" id="root" date="1996-12-09" xml:lang="en">
+<title>SPAIN: FORECAST-Consensus of Spanish Indicator Forecasts.</title>
+<headline>FORECAST-Consensus of Spanish Indicator Forecasts.</headline>
+<dateline>MADRID 1996-12-09</dateline>
+<text>
+<p>The following is a simple average</p>
+<p>of Spanish indicator forecasts from private economists: MONTHLY</p>
+<p> Mth  Change   Range    Pvs  Yr-yr   Range   96/95 Ave PPI (%)</p>
+<p> Oct  +0.04  -0.2/0.0   0.3  +1.00  0.8/1,2  +1.28 +1.53 IPI (%)</p>
+<p> Oct    -	  -     -0.8  +1.45 -1.1/6.2  +2.23 -0.72 Jobless</p>
+<p> Nov 18,483  -25/+40  +40.1   -166 -146/-208  -146*-173*</p>
+<p>QUARTERLY		 Range     Pvs    Yr-yr   96/95   Ave 96/95</p>
+<p>EPA  Q4    -314	-78/100 +182,51  +373.5   +358.2   +344,057</p>
+<p>GDP  Q3 (%) +0.64   +0.4/+0.9   +1.9  +2.14    +2.42     +2.15</p>
+<p>Sources: Intermoney, AFI, Argentaria, BBV, BoA, Merrill Lynch, ICAE, C. Madrid, Beta Capital, C. Lyonnais, BSN, BCH, Caja Cataluna, Wrightson Associates, SocGen, Benito y Monjardin.</p>
+<p>** NOTES AND INDICATOR RELEASE DATES  **</p>
+<p>PPI - Industrial producer prices, released by the National Statistics Institute (INE) - Next data due 12/12</p>
+<p>IPI - Industrial production (INE), year on year - 09/01</p>
+<p>Jobless - Variation in numbers of registered unemployed, in thousands of persons (* Figures are 1996 over 1995) - 10/12</p>
+<p>EPA - Quarterly survey of employment levels (INE). Data give variation in employed persons, in thousands -</p>
+<p>GDP - Figures in real terms (INE) - 18/12</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23611" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: Nasdaq closing most actives - Aug 30.</title>
+<headline>Nasdaq closing most actives - Aug 30.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Friday.</p>
+<p>  World Comm Inc			   21	   up   1/2</p>
+<p>  Boatmens Bancs			   53 1/4     up 10 15/16</p>
+<p>  Oracle Corp				35 1/4     off 1 1/8</p>
+<p>  Valujet Inc				12 1/2	up 1 1/2</p>
+<p>  MFS Comms				  42 3/8	up 1 1/8</p>
+<p>  Cisco Systems			    52 3/4     off 1 1/4</p>
+<p>  Dell Computer			    67 1/8     up   1/2</p>
+<p>  Intel Corp				 79 13/16   off 1 9/16</p>
+<p>  Merisel Inc				2 15/16    up   1/2</p>
+<p>  Novell Inc				 10 7/16    up  1/16</p>
+<p>Volume:  336,612,600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

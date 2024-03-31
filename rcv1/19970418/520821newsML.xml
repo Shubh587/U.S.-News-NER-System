@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="520821" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: Ohio unemployment rate down 0.8 percent in March.</title>
+<headline>Ohio unemployment rate down 0.8 percent in March.</headline>
+<dateline>CHICAGO 1997-04-18</dateline>
+<text>
+<p>The seasonally adjusted unemployment rate for Ohio dropped to 4.7 percent in March from 5.5 percent the previous month, the Ohio Bureau of Employment Services reported Friday.</p>
+<p>The rate for February was &quot;unrealistically high&quot; and the March figures more accurately reflect the Ohio labor market, according to the bureau.</p>
+<p>The number of Ohio residents with jobs rose 12,000 in March to nearly 5.5 million, the bureau reported. The March 1996 unemployment rate was 5 percent, the bureau noted.</p>
+<p>((--David Bailey, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="401151" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: NYCE cotton speculator/hedge report - Feb 25.</title>
+<headline>NYCE cotton speculator/hedge report - Feb 25.</headline>
+<text>
+<p>As of Feb 21 for long and short positions, in contracts -</p>
+<p>Spec	long     accts    pct     short    accts   pct</p>
+<p>Customer 16,029  1,134  24.3  30,678 1,474 46.6</p>
+<p> House     3,380     90   5.2   1,651    85  2.5</p>
+<p> Total    19,409  1,224  29.5  32,329 1,559 49.1</p>
+<p>Hedger</p>
+<p> Customer 43,359    586  65.8  23,125   378 35.1</p>
+<p> House     3,102     10   4.7  10,416    10 15.8</p>
+<p> Total    46,461    596  70.5  33,541   388 50.9</p>
+<p>Grand Ttl 65,870  1,820  100.0 65,870 1,947 100.0 Source: New York Cotton Exchange</p>
+<p>(New York Commodity Desk 1-212-859-1640)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

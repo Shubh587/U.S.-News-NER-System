@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766475" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: FINAL PRICING-.</title>
+<headline>FINAL PRICING-.</headline>
+<text>
+<p>FINAL PRICING AMT: 6,215,000	DATE: 07/30/97		   CUSIP: 735040</p>
+<p>ISSUER: Port Orange						     ST: FL</p>
+<p>ISSUE: Capital improvement refunding, Series 1997	     TAX STAT:Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: MBIA Aaa/NA/NA</p>
+<p>DTD: 08/01/97</p>
+<p>DUE: 10/1/02-12, 16</p>
+<p>1ST CPN: 10/01/97</p>
+<p>CALL: 10/1/05 @ 103, dtp 10/1/08</p>
+<p>DELIVERY: 8/21/97 approx</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2001			5,000     4.000     4.100</p>
+<p>2002		     30,000     4.100     4.200</p>
+<p>2003		     35,000     4.150     4.250</p>
+<p>2004		     35,000     4.200     4.300</p>
+<p>2005		     35,000     4.300     4.400</p>
+<p>2006		     35,000     4.400     4.500</p>
+<p>2007		    485,000     4.500     4.600</p>
+<p>2008		    510,000     4.600     4.700</p>
+<p>2009		    530,000     4.700     4.800</p>
+<p>2010		    555,000     4.800     4.900</p>
+<p>2011		    585,000     4.850     4.950</p>
+<p>2012		    610,000     4.900     5.000</p>
+<p>2016		  2,765,000     5.000     5.200</p>
+<p>Merchant Capital LLC</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

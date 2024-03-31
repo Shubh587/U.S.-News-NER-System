@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33999" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: Scientists find key cancer repair gene.</title>
+<headline>Scientists find key cancer repair gene.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>A gene that works to repair damage done by the sun, tobacco and other cancer-causing agents could hold the key to future cancer treatments, a team of international researchers reported on Friday. The gene, dubbed XPF, controls enzymes that snip out and repair damage to DNA, the basic genetic building block. Without their constant grooming, DNA can mutate, causing tumours and other forms of cancer.</p>
+<p>The research, published in the journal Cell, was highly significant, said Tomas Lindahl, director of Britain's Imperial Cancer Research Fund charity (ICRF).</p>
+<p>&quot;Isolating this gene and purifying the protein enzyme it controls is a landmark in DNA repair research,&quot; he said.</p>
+<p>&quot;Now that we have identified the gene we can make its product in large quantities and work out how it operates,&quot; said Rick Wood, who led an ICRF team working on the study. &quot;We have started to study the enzyme and we know that it always cuts the DNA in the correct place and at a set point away from the damage. But it's not smart enough to do this without instructions because it's really only a pair of scissors,&quot; he added.</p>
+<p>&quot;Somehow these scissors are guided to the right place by other proteins. Understanding how that works is the next step.&quot;</p>
+<p>Wood said scientists had already identified most of the 30 or so other genes involved in cell repair. XPF was the final piece in the puzzle.</p>
+<p>&quot;I think we know the main players now in the process and now we need to know how they work together,&quot; he said.</p>
+<p>&quot;One question is whether people actually have different levels of this protein...In the future we may be able to use this information to improve chemotherapy,&quot; he added.</p>
+<p>&quot;It may be possible to target the XPF gene specifically and turn it off in tumour cells. Then you could make chemotherapy Wood said it might also be possible to boost levels of the enzyme so that people could better fight off cancer naturally.</p>
+<p>The researchers used tissue and blood samples donated by sufferers of xeroderma pigmentosum, a rare genetic skin disease that causes unnatural sensitivity to the sun. Victims develop skin cancer while they are still children, with tumours even on their eyes and tongues, and about half die of it.</p>
+<p>Sufferers of an extremely rare strain called xeroderma pigmentosum-f (XPF) are missing the XPF gene.</p>
+<p>Their cells are cultured and become &quot;immortal&quot; cell lines, which can be grown and used for generations for research. Animals and human volunteers can be bypassed.</p>
+<p>Wood's group worked with Human Genome Sciences Incorporated in Maryland, in the United States and Erasmus University in Rotterdam to search human DNA databases before zeroing in on XPF.</p>
+<p>They knew yeast had a similar gene called RAD 1 and so they looked for the human version. &quot;This shows that research on yeast really pays off,&quot; Wood said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

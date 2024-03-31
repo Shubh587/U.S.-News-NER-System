@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277107" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: U.S spot MTBE down notionally in thin trade.</title>
+<headline>U.S spot MTBE down notionally in thin trade.</headline>
+<dateline>NEW YORK 1996-12-26</dateline>
+<text>
+<p>Cts/Gallon  Prompt(Dec)	Any (Jan)	 12/19/96(PptDec)</p>
+<p>Houston     85.00/86.00 N    87.00/88.00 N   88.00/89.00</p>
+<p>New York    89.00/90.00 N    91.00/92.00 N   91.00/92.00</p>
+<p>-------------------------------------------------------------</p>
+<p>U.S. spot MTBE prices sagged in slow trade this week due to the extended Christmas holiday that shuttered many offices, players said.</p>
+<p>Little activity was seen Thursday in the U.S. Gulf and New York Harbor and talk of December barrels was thin. Many players were also out of their offices today, the day after Christmas, and prices were assessed notionally.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

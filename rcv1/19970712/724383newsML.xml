@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="724383" id="root" date="1997-07-12" xml:lang="en">
+<title>EGYPT: Three die, one missing after Cairo sewer plunge.</title>
+<headline>Three die, one missing after Cairo sewer plunge.</headline>
+<dateline>CAIRO 1997-07-12</dateline>
+<text>
+<p>Three Egyptians died in a Cairo sewer on Saturday while searching for a four-year-old child who disappeared after falling down an open manhole, security sources said.</p>
+<p>They said the unnamed child, whose body has yet to be found, fell into the manhole while playing in the street.</p>
+<p>The two sanitary workers who had neglected to close the manhole tried to rescue the child and when they did not reappear after almost an hour another man went looking for them. Police found their three bodies floating in the sewer.</p>
+<p>Several children have died after falling down open manholes in Cairo.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

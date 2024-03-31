@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294210" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Fed injects reserves via 5-day fixed system RPs.</title>
+<headline>Fed injects reserves via 5-day fixed system RPs.</headline>
+<dateline>NEW YORK 1997-01-08</dateline>
+<text>
+<p>The Federal Reserve injected reserves into the banking system during its usual intervention period Wednesday via a round of five-day fixed system repurchase agreements.</p>
+<p>The action was not completely unexpected but some economists thought the Fed would remain out this session and instead inject via four-day systems on Thursday to carry it through the current two-week maintenance period.</p>
+<p>The federal funds rate was trading at 5-13/16 percent, near the current target level of 5.25 percent.</p>
+<p>-- John P. Hughes, N.A. Treasury Desk, 212-859-1663</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

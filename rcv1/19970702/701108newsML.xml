@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701108" id="root" date="1997-07-02" xml:lang="en">
+<title>UK: TENNIS-KRAJICEK BEATEN AT WIMBLEDON BY HENMAN.</title>
+<headline>TENNIS-KRAJICEK BEATEN AT WIMBLEDON BY HENMAN.</headline>
+<dateline>LONDON 1997-07-02</dateline>
+<text>
+<p>Wimbledon champion Richard Krajicek of the Netherlands lost his men's singles title on Wednesday when he was beaten in the fourth round by Tim Henman.</p>
+<p>The 14th seeded Briton won 7-6 (9-7) 6-7 (7-9)_7-6 (7-5) 6-4.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

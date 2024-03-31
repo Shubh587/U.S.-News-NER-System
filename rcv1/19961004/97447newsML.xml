@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97447" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: U.S. jobless rate rose to 5.2 percent in September.</title>
+<headline>U.S. jobless rate rose to 5.2 percent in September.</headline>
+<dateline>WASHINGTON 1996-10-04</dateline>
+<text>
+<p>The unemployment rate rose to 5.2 percent last month from 5.1 percent in August as the number of jobs in the economy shrank for the first time since January, the Labor Department said Friday.</p>
+<p>In the government's first assessment of the economy's health in September, the department said the number of non-farm jobs declined by a seasonally adjusted 40,000 during the month after payrolls grew by a solid 241,000 in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

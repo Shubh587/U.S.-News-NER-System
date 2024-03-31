@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141312" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: American Toys becomes U.S. Wireless Corp.</title>
+<headline>American Toys becomes U.S. Wireless Corp.</headline>
+<dateline>SAN RAMON, Calif. 1996-10-23</dateline>
+<text>
+<p>U.S. Wireless Corp said it has changed its name from American Toys Inc., effective from October 21, and its stock now trades under the symbol &quot;USWC.&quot;</p>
+<p>&quot;The change is attributable to the new focus and direction of the company into the wireless telecommunications field,&quot; the company said in a statement.</p>
+<p>The company said its principal activity is the development of its digital radio front-end system for cellular and wireless base stations, following its spinoff of Play Co Toys &amp; Entertainment Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN RAMON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

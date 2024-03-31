@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576242" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Finback whale corpse floats into Boston Harbor.</title>
+<headline>Finback whale corpse floats into Boston Harbor.</headline>
+<dateline>BOSTON 1997-05-12</dateline>
+<text>
+<p>The badly-decomposed corpse of a 30-foot-long finback whale washed into Boston Harbour Monday, possibly dragged in unintentionally by a ship, officials said.</p>
+<p>The whale, weighing perhaps 25 tons, had been dead for quite a while, said Susan Gedutis, a spokeswoman for the New England Aquarium.</p>
+<p>Experts could not tell what the cause of death was, she said, adding: &quot;It's very possible that this animal was dragged (into the harbour) by a large ship. The ship quite possibly did not even know it was dragging it.&quot;</p>
+<p>Finback whales, which can grow up to 90 feet and weigh 80 tons, are not an endangered species but are protected, Gedutis said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

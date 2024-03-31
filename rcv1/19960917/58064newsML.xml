@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58064" id="root" date="1996-09-17" xml:lang="en">
+<title>MOLDOVA: Moldovan leu falls to 4.6325 per dollar.</title>
+<headline>Moldovan leu falls to 4.6325 per dollar.</headline>
+<dateline>CHISINAU 1996-09-17</dateline>
+<text>
+<p>The Moldovan leu fell to 4.6325 to the dollar on the Moldovan Interbank Currency Exchange on Tuesday from 4.6310 at the last trading session on August 30.</p>
+<p>				     Sept 17		 Aug 30</p>
+<p> Lei per dollar		  4.6325		  4.6310</p>
+<p> Volume traded ($)	     5,000		   50,000</p>
+<p>				     Sept 17		 Sept 16</p>
+<p> Lei per 1,000 roubles	 0.8570		  0.8577</p>
+<p> Volume traded (R million)   150		     200</p>
+<p>--Moscow newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHISINAU"/>
+<dc element="dc.creator.location.country.name" value="MOLDOVA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

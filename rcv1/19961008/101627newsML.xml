@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101627" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 08-OCT.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 08-OCT.</headline>
+<text>
+<p>Josephine has been classified as extratropical.  The storm is now moving rapidly up the eastern seaboard with maximum sustained winds of 60 mph.  Little change is strength is anticipated over the next 48 hours.  Tropical Storm Warnings have been changed to Gale Warnings.  Gale Warnings are now in affect from Cape Canaveral northward to New England.  The biggest threat from this system now comes from heavy rains. Some flooding is possible from the Carolinas northward to the northern Mid Atlantic region today and up into New England tonight.  </p>
+<p>Tropical Storm Genevieve is now located about 770 miles southwest of the southern tip of Baja California.  The storm was moving southwest at 10 mph.  Maximum sustained winds were near 50 mph.  Some slow weakening is anticipated over the next two days.  The storm does not pose a significant threat to land.</p>
+<p>Elsewhere, a weak tropical disturbance about 1650 miles west southwest of the southern tip of Baja does not look as though it will develop.  No other disturbances were reported.  </p>
+<p>There are no further statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

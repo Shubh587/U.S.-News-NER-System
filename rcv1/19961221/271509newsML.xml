@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271509" id="root" date="1996-12-21" xml:lang="en">
+<title>SWITZERLAND: ALPINE SKIING-RIEGLER WINS SLALOM.</title>
+<headline>ALPINE SKIING-RIEGLER WINS SLALOM.</headline>
+<dateline>CRANS MONTANA, Switzerland 1996-12-21</dateline>
+<text>
+<p>Claudia Riegler of New Zealand won the women's World Cup slalom race on Saturday in an unoffical two-run combined time of one minute, 29.83 seconds.</p>
+<p>Pernilla Wiberg of Sweden was second and Patricia Chauvet of France third, also according to provisional results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CRANS MONTANA, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

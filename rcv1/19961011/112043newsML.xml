@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112043" id="root" date="1996-10-11" xml:lang="en">
+<title>JAPAN: Japan Oct-Nov temperatures seen average to lower.</title>
+<headline>Japan Oct-Nov temperatures seen average to lower.</headline>
+<dateline>TOKYO 1996-10-11</dateline>
+<text>
+<p>Japan's temperatures from October 12 to November 11 are forecast to range from average to lower-than-average, the Meteorological Agency said on Friday.</p>
+<p>Northern Japan and the southernmost Ryukyu islands are expected to see average temperatures, while other parts of the country are likely to see lower-than-average temperatures, it said.</p>
+<p>Rainfall is expected to be heavier-than-average in northern Japan, but average in other areas, it said.</p>
+<p>Eastern areas along the Pacific coast are forecast to see much sunshine during the one-month period, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

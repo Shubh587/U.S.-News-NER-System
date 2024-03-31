@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79798" id="root" date="1996-09-26" xml:lang="en">
+<title>SWITZERLAND: Results of Swiss Federal Bond auction.</title>
+<headline>Results of Swiss Federal Bond auction.</headline>
+<dateline>BERNE 1996-09-26</dateline>
+<text>
+<p>The following terms were announced by the Swiss Treasury and the Swiss National Bank.</p>
+<p>BORROWER - Swiss Government</p>
+<p>Tranche 1 -</p>
+<p> TOTAL AMT 310.0 MLN CHF  COUPON 5-1/2     MATURITY   06.Jan.05</p>
+<p> TYPE   fixed-rate    ISS PRICE  111.50    PAY DATE   07.Oct.96</p>
+<p> YIELD TO MATURITY    3.844 PCT</p>
+<p>TOTAL BIDS 489.6 MLN CHF</p>
+<p>LOCAL CODE 525 428  (Fungible with 322 523)</p>
+<p>Tranche 2 -</p>
+<p>BORROWER - Swiss Government</p>
+<p> AMT 1.0 BLN CHF     COUPON     4-1/4     MATURITY   08.Jan.08</p>
+<p> TYPE  fixed-rate   ISS PRICE  100.60    PAY DATE   07.Oct.96</p>
+<p> YIELD TO MATURITY   4.180 PCT</p>
+<p>TOTAL BIDS 1,598.9 MLN CHF</p>
+<p>LOCAL CODE 525 437 (Fungible with 108 546)</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

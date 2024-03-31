@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272016" id="root" date="1996-12-22" xml:lang="en">
+<title>USA: Electronic commerce on the 'Net - maybe next year?.</title>
+<headline>Electronic commerce on the 'Net - maybe next year?.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Electronic commerce over the Internet - buying airplane tickets, music CDs, or clothes with a credit card - is not fiction anymore.</p>
+<p>But security and other concerns hampered the Internet from becoming an international shopping mall in 1996, and security remains an issue for 1997.</p>
+<p>Electronic commerce in 1996 was not quite as robust as some firms had anticipated, as delays in developing the software to secure credit card transactions on the Net kept merchants and consumers at bay. E-commerce is still in its infancy and likely to explode toward the end of the century.</p>
+<p>&quot;This was kind of a building year,&quot; said Scott Smith, a Jupiter Communications analyst. &quot;Many consumers are just starting to get online, merchants are trying to still figure out how to present themselves online.&quot;</p>
+<p>According to Jupiter, total revenues generated from all consumer shopping over the Internet and online services will reach about $1.2 billion in 1996. The revenues are expected to almost double next year, to $2.3 billion.</p>
+<p>Jupiter, a New York market research firm, forecasts 1999 revenues to jump to $5.5 billion and to $7.3 billion in 2000.</p>
+<p>Travel and the direct distribution of electronic products, such as PCs, software, etc., are the two biggest categories of electronic commerce right now, Smith said, with travel making up about half of the $1.2 billion in 1996 commerce revenues.</p>
+<p>Most of the giant retailers are sitting by the sidelines, watching and waiting for the security to be in place and to see what some of the catalog merchants and other more daring retailers are doing on the Internet, where there are many opportunities to save costs, keep inventories low and target customers with specific products aimed at their profiles.</p>
+<p>&quot;It's inventing whole new ways of selling stuff,&quot; said Irving Wladawsky-Berger, the head of International Business Machines Corp.'s Internet division.</p>
+<p>IBM has developed a shopping mall called World Avenue, where mostly speciality retailers have storefronts.It also includes Express, the popular unit of Limited Inc.</p>
+<p>But still, Internet shopping is not viewed by consumers as completely safe. A recent study by O'Reilly &amp; Associates of Sebastopol, Calif., reported that fewer than 1 percent of all public World Wide Web sites are fully able to host secure transactions.</p>
+<p>&quot;It's easy enough to know that if you get a warning from your browser that what you are about to do is dangerous...that this is a deterrant,&quot; said Richard Peck, a vice president at O'Reilly &quot;Commerce readiness is an issue of consumer trust, confidence.&quot;</p>
+<p>Credit card companies MasterCard International and Visa International have been working together since last February on software to secure credit card transactions, using data encryption (scrambling) techniques and authentication software to ensure identities of the consumer, the merchant and the Web site.</p>
+<p>But the software development is behind, analysts and industry executives said, even though the protocols (the roadmap for software developers) called the SET (secure electronic transaction) specification have been published.</p>
+<p>The companies had said in February they expected banks to be able to offer secure bankcard services via the Internet to their cardholders in the fourth quarter 1996.</p>
+<p>&quot;They have totally blown that deadline out of the water,&quot; Smith of Jupiter said. &quot;There was a bit of hype about it originally that made people think it would be done really fast.&quot; Smith said the development has many diverse layers.</p>
+<p>&quot;There are issues that have to be sorted out. It probably won't be until 1998 when it is fully implemented,&quot; Smith said.</p>
+<p>Visa did not return a call seeking comment. A spokesman for MasterCard in Purchase, N.Y. said that the companies remain &quot;on track&quot; with their original timeframes, but that MasterCard had no news since a recent announcement.</p>
+<p>Last month, MasterCard purchased 51 percent of Mondex International Inc., a leading electronic payment system using a payment card called a smart card, which are like electronic wallets. A group of banks and AT&amp;T endorsed the electronic cash card, with pilot testing already going on in some cities.</p>
+<p>Smart cards will likely become one of the many ways consumers pay for purchases online. PCs will have built-in smart card readers, specifically designed for online buys.</p>
+<p>So while the SET software is still in development, companies are finding other ways to do transactions.</p>
+<p>CyberCash, which is also a partner working on the SET transaction system, is providing encryption software for America Online Inc's Web hosting service, so that small or large companies selling goods can have a secure credit card payment system, based on data encryption software currently available.</p>
+<p>&quot;SET isn't really all there yet,&quot; said Doug McKee, manager of Web server development at AOL. &quot;Cybercash has a system that is like a proprietary version of SET...I don't think there is a reason to wait.&quot;</p>
+<p>Some companies are not waiting. While the big retail giants slowly enter cyberspace, a new breed of Internet retailers and brands are being born, like Amazon.com, the popular site bookseller and Onsale.com, an auction house for computers and consumer electronics goods.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

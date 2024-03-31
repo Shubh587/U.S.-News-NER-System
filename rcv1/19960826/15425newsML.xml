@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15425" id="root" date="1996-08-26" xml:lang="en">
+<title>JAPAN: Kansai Electric shuts down reactor.</title>
+<headline>Kansai Electric shuts down reactor.</headline>
+<dateline>TOKYO 1996-08-26</dateline>
+<text>
+<p>Kansai Electric Power Co Inc said on Monday it had shut down a 1.18 million kilowatt nuclear reactor at its Oi plant on Sunday due to an unusual rise in the temperature of a pump circulating coolant.</p>
+<p>The pump temperature rose four to seven degrees Celsius higher than the usual level of 64 degrees after the supply of water for cooling lubricant oil in the pump decreased from 1.6 cubic metres (cm) per hour to 0.6 cm per hour on Sunday morning, a spokesman for Kansai Electric said.</p>
+<p>It was not yet known why the water supply decreased, he said.  </p>
+<p>Kansai Electric has not decided when to bring the reactor, located on the Sea of Japan coast, back on line, the spokesman said.</p>
+<p>No radiation leaked in the incident, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

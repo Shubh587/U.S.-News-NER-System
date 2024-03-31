@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66166" id="root" date="1996-09-20" xml:lang="en">
+<title>CANADA: Canada economic indicators survey Sept 23-27.</title>
+<headline>Canada economic indicators survey Sept 23-27.</headline>
+<text>
+<p>DATE   EDT/GMT    INDICATOR	 PERIOD AVG-FCAST    PREV</p>
+<p>09/23 0830/1230  Wholesale trade   Jul   +0.7 pct    +0.3 pct</p>
+<p>09/26 0830/1230  Avg wkly earn y/y Jul   +2.4 pct    +2.8 pct</p>
+<p>09/27 0830/1230  Industrial prices Aug   +0.2 pct    -0.2 pct</p>
+<p>09/27 0830/1230  Raw materials PI  Aug   +0.7 pct    +0.9 pct</p>
+<p>Bank	  WHLSL TRD   AVG WK EARNS    IPPI     RMPI</p>
+<p>Nesbitt	 +1.0	   +2.4	   +0.4     +0.6</p>
+<p>Tech Data     +0.3	   +2.0	   +0.3     +0.8</p>
+<p>MMS Intl	+1.0	   +2.3	   +0.1     +1.0</p>
+<p>Montreal	 N/A	    N/A	   +0.3	N/A</p>
+<p>Scotia	   N/A	    N/A	   +0.1     +0.6</p>
+<p>Deutsche	+0.5	   +2.7	   +0.2     +0.7</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

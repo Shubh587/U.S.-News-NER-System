@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184549" id="root" date="1996-11-12" xml:lang="en">
+<title>JAPAN: Nakabayashi sets terms on straight bond.</title>
+<headline>Nakabayashi sets terms on straight bond.</headline>
+<dateline>TOKYO 1996-11-12</dateline>
+<text>
+<p>BORROWER - Nakabayashi Co Ltd</p>
+<p> LEAD MGR - LTCB Securities</p>
+<p> TRUSTEE - Fuji Bank Ltd</p>
+<p> TYPE straight bond   ISSUE NO   1	  AMT   3 bln yen</p>
+<p> COUPON 2.6%	    ISS PRICE  100.00   MATURITY 21.Nov.01</p>
+<p> LAST MOODY'S	   PAY DATE 21.Nov.96  INT PAY 21st May/Nov</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 12.Nov</p>
+<p> LAST JCR		 LAST JBRI  BBB	LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

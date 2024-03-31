@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439696" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: JTS ships new family of PC hard drives.</title>
+<headline>JTS ships new family of PC hard drives.</headline>
+<dateline>NEW YORK 1997-03-13</dateline>
+<text>
+<p>Disk drive maker JTS Corp said it was shipping its Champion family of 3.5-inch hard disk drives with capacity ranging up to three gigabytes.</p>
+<p>The company said its Champion family of Fast ATA-3 disk drives have capacities of 1.7, 2.0, 2.5 and 3.0 gigabytes, or billions of bytes.</p>
+<p>The products are aimed at the Intel Corp Pentium-based desktop PC market, and are capable of handling full-screen, full-motion video for multimedia applications.</p>
+<p>JTS is based in San Jose, Calif. It made the announcement at the CeBIT computer trade show in Hanover, Germany.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

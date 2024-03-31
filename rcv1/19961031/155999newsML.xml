@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155999" id="root" date="1996-10-31" xml:lang="en">
+<title>FRANCE: TENNIS-KRAJICEK PULLS OUT OF STOCKHOLM OPEN.</title>
+<headline>TENNIS-KRAJICEK PULLS OUT OF STOCKHOLM OPEN.</headline>
+<dateline>PARIS 1996-10-31</dateline>
+<text>
+<p>Wimbledon champion Richard Krajicek pulled out of next week's $825,000 Stockholm tournament because of a knee injury, ATP Tour officials said on Thursday.</p>
+<p>The Dutchman, ranked seventh in the world, lost to Spain's Alberto Berasategui in the second round of the Paris Open on Tuesday and afterwards complained about stomach pains.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

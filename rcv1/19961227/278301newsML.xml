@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278301" id="root" date="1996-12-27" xml:lang="en">
+<title>TURKEY: Istanbul stock exchange on extended New Year break.</title>
+<headline>Istanbul stock exchange on extended New Year break.</headline>
+<dateline>ISTANBUL 1996-12-27</dateline>
+<text>
+<p>The Istanbul stock exchange will be closed from today until January 2, the stock exchange said.</p>
+<p>This follows the announcement of public sector holidays for December 30 and 31, along with a New Year's Day holiday.</p>
+<p>The Turkish central bank also announced half-day holidays in the money markets for December 31.</p>
+<p>The central bank brokered money interbank market will open between 0800 and 1200 GMT and the central bank brokered foreign exchange market will be open between 0800 and 1000 GMT on December 31. Both exchanges will be open on December 30.</p>
+<p>The Istanbul gold exchange will remain open during December 30 and 31, but will be closed for New Year's Day.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

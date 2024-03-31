@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345818" id="root" date="1997-01-30" xml:lang="en">
+<title>FRANCE: Alcatel Alsthom sales breakdown.</title>
+<headline>Alcatel Alsthom sales breakdown.</headline>
+<dateline>PARIS 1997-01-30</dateline>
+<text>
+<p>Year to December 31, 1996.</p>
+<p>(All figures in millions of French francs)</p>
+<p>    Turnover 161,979    vs  160,416</p>
+<p>    - telecom				     71,152    vs   66,926</p>
+<p>    - cables					36,409    vs   40,696</p>
+<p>    - GEC Alsthom (50 pct)	 29,917    vs   29,384</p>
+<p>    - Systems				     23,651    vs   21,163</p>
+<p>    - batteries				    5,025    vs    4,440</p>
+<p>NOTE - Alcatel gave the figures in a statement. The figures may not add up to the total due to intra-group sales.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

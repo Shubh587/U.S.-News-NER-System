@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="505216" id="root" date="1997-04-13" xml:lang="en">
+<title>USA: VLSI unveils gigabit Ethernet chips.</title>
+<headline>VLSI unveils gigabit Ethernet chips.</headline>
+<dateline>SAN JOSE, Calif. 1997-04-13</dateline>
+<text>
+<p>VLSI Technology Inc said it will Monday introduce the industry's first commercially available gigabit Ethernet-class silicon for high-speed data networking applications.</p>
+<p>A spokeswoman for VLSI said the Ethernet integrated circuit, to be demonstrated at the Networld+Interop trade show in Las Vegas in early May, can be used to relieve networking traffic bottlenecks on corporate networks.</p>
+<p>The chip, dubbed the VNS67500, moves information over networks at the speed of one gigabit, or one billion bits per second, which is 100 times faster than Ethernet and ten times faster than so-called Fast Ethernet devices.</p>
+<p>VLSI said it had beat out rivals such as Texas Instruments Inc, International Business Machines Corp and Lucent Technologies, although analysts expect the market to gather momentum quickly.</p>
+<p>VLSI said the chip also uses the Media Access Controller (MAC) technology from Packet Engines Inc, which is a leading platform for controlling how computers communicate over an Ethernet link.</p>
+<p>Prototypes of the chip are available now in 0.5 micron complex metal oxide semiconductor technology priced at $60 each for small production quantities. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

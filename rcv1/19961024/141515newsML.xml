@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141515" id="root" date="1996-10-24" xml:lang="en">
+<title>TURKEY: Turkey to build second intl. airport in Istanbul.</title>
+<headline>Turkey to build second intl. airport in Istanbul.</headline>
+<dateline>ISTANBUL 1996-10-24</dateline>
+<text>
+<p>Turkey is to build a second international airport in Istanbul within the next two years and has secured the necessary financing for the project, the state-run Anatolian news agency said on Thursday.</p>
+<p>The agency quoted Deputy Prime Minister Tansu Ciller as saying that the airport will occupy an area of 6.5 million square metres on the Asian side of the city.</p>
+<p>The Ataturk Airport, on the European shores of the Bosphorus Strait, currently handles all international and domestic commercial flights in and out of Istanbul.</p>
+<p>Anatolian did not say how much the new airport project would cost.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I5020002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

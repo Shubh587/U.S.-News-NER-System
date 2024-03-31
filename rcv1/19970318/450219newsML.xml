@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450219" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Trade estimates for US Census Bureau oilmill data.</title>
+<headline>Trade estimates for US Census Bureau oilmill data.</headline>
+<dateline>CHICAGO 1997-03-18</dateline>
+<text>
+<p>Trade estimates for the monthly U.S. Census Bureau monthly oilmill report due to be issued Thursday at 0800EST/1300GMT. Data is for February 1997.</p>
+<p>				   Range	   Average   January '97</p>
+<p> Soy crushings-X	 125,000-128,000   125,875     137,265</p>
+<p> Soycake/Meal stocks-Z 220,000-240,000   230,500     213,566</p>
+<p>SOYOIL FACTORY AND WAREHOUSE STOCKS (Mln Lbs):</p>
+<p>    Total		    2,190-2,210	 2,200	 2,169.3</p>
+<p>(X=1,000 Bu, Z=Short Tons)</p>
+<p>((Chicago newsdesk 312-408 8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

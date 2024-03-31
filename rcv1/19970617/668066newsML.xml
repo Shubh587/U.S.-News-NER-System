@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="668066" id="root" date="1997-06-17" xml:lang="en">
+<title>UK: Sainsbury to launch all-night shopping.</title>
+<headline>Sainsbury to launch all-night shopping.</headline>
+<dateline>LONDON 1997-06-16</dateline>
+<text>
+<p>British supermarket chain J. Sainsbury Plc plans to launch all-night shopping at 25 of its biggest stores from the end of this month, The Times newspaper said.</p>
+<p>The newspaper said in its Tuesday edition that the stores would stay open from 0700 GMT on Fridays to 2100 GMT on Saturdays, starting on June 27.</p>
+<p>Several of Britain's major supermarket chains have been experimenting with all-night shopping.</p>
+<p>--London Newsroom +44 171 542 4017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

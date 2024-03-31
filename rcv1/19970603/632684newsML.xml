@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632684" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Suzuki May US car sales fall.</title>
+<headline>Suzuki May US car sales fall.</headline>
+<dateline>DETROIT 1997-06-02</dateline>
+<text>
+<p>Suzuki Motor Corp</p>
+<p>			May 1-31, 1997     May 1-31, 1996 *Pct Chng</p>
+<p> Domestic Car		 111		 176	    -36.9</p>
+<p> Domestic Truck	     523		 617	    -15.2</p>
+<p> Import Car		   479		 491	     -2.4</p>
+<p> Import Truck	     1,339	     1,025	    +30.6</p>
+<p>		  Jan 1-May 31, 1997 Jan 1-May 31, 1996 *Pct Chng</p>
+<p> Domestic Car		 741	     1,983	    -62.3</p>
+<p> Domestic Truck	   2,051	     3,524	    -41.3</p>
+<p> Import Car		 3,713	     2,697	    +38.7</p>
+<p> Import Truck	     6,431	     6,077	     +6.7</p>
+<p>* Pct change based on daily selling rate. Sale days 26 in latest month vs 26, 128 for year to date vs 129 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367582" id="root" date="1997-02-10" xml:lang="en">
+<title>UK: OPTIONS - Volatility trades struck in FTSE index.</title>
+<headline>OPTIONS - Volatility trades struck in FTSE index.</headline>
+<dateline>LONDON 1997-02-10</dateline>
+<text>
+<p>The main equity options trades on Monday concerned positions in FTSE 100 index options against FTSE futures in volatility trades, dealers said.</p>
+<p>If correctly hedged, these trades will make money irrespective of the market's direction and rely on volatility to increase/decrease depending on whether options were bought/sold.</p>
+<p>The biggest deal was a bullish call spread which was hedged by selling futures. It consisted of buying 3,000 February 4350 calls and selling 3,000 February 4375 calls for a net debit of 10p against selling March FTSE futures at 4312.</p>
+<p>By 1430 GMT, March futures were up 15 at 4314.</p>
+<p>Over in stock options British Gas was fairly active. The biggest deal was a short strangle established by selling 500 June 220 puts at 9p as well as 500 June 260 puts at 12p.</p>
+<p>The maximum profit of 21p will be made at expiry if the underlying shares stay between 220p and 260p. British Gas shares added 2p to 245-1/2p.</p>
+<p>In pharmaceuticals group Glaxo Wellcome a long strangle was created through the purchase of 1,000 April 950 puts at 20p along with 1,000 April 1050 calls at 16p.</p>
+<p>If the shares stay between 950p-1050p at expiry then both options will be worthless and a loss of 36p will be made.</p>
+<p>For a profit, the shares need to be either below 914p or above 1086p.</p>
+<p>Glaxo Wellcome shares gained 7-1/2p to 1008-1/2p.</p>
+<p>In National Westminster Bank the main deal was a short straddle achieved by selling 500 April 800 puts and calls at 28p and 42p each.</p>
+<p>NatWest shares went up 26-1/2p to 842-1/2p. The bank will announce its full year results on February 25.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

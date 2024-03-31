@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="279612" id="root" date="1996-12-29" xml:lang="en">
+<title>ITALY: Italian loses only kidney as surgeon slips up.</title>
+<headline>Italian loses only kidney as surgeon slips up.</headline>
+<dateline>PESCARA, Italy 1996-12-29</dateline>
+<text>
+<p>A surgeon cut out his patient's only kidney by accident during a routine stomach ulcer operation earlier this month, health authorities said on Sunday.</p>
+<p>An official at the main hospital in this eastern Italian city said the surgeon thought the kidney was a malignant growth and cut it out.</p>
+<p>Tests later showed it was a perfectly healthy kidney.</p>
+<p>It also transpired that the 46-year old patient only had one kidney. He now has to undergo twice-daily dialysis treatment and is waiting for a transplant.</p>
+<p>Magistrates have opened an inquiry into the operation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PESCARA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

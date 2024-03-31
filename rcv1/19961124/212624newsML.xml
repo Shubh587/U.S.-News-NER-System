@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212624" id="root" date="1996-11-24" xml:lang="en">
+<title>UK: RUGBY UNION-NEW ZEALAND BARBARIANS 86-0.</title>
+<headline>RUGBY UNION-NEW ZEALAND BARBARIANS 86-0.</headline>
+<dateline>HUDDERSFIELD, England 1996-11-24</dateline>
+<text>
+<p>New Zealand Barbarians beat The North 86-0 (halftime 40-0) in a rugby union tour match on Sunday.</p>
+<p>Scorers: Andrew Blowers (3), Joeli Vidiri (3), Chris Cullen (2), Carlos Spencer (2), Ole Brown, Dylan Mika, Taine Randell, Mark Robinson. Conversions: Spencer (7), Mehrtens.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUDDERSFIELD, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

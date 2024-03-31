@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68616" id="root" date="1996-09-21" xml:lang="en">
+<title>USA: BASEBALL-FRIDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-FRIDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1996-09-21</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games on Friday (home team in CAPS):</p>
+<p>		  National League</p>
+<p> ATLANTA		3   Montreal	  2</p>
+<p> CINCINNATI	   4   St Louis	  2</p>
+<p> FLORIDA		3   Houston	   1</p>
+<p> PITTSBURGH	   6   Chicago	   4</p>
+<p> New York	     5   PHILADELPHIA    2</p>
+<p> SAN DIEGO	    4   Los Angeles     2</p>
+<p> SAN FRANCISCO	6   Colorado	  2</p>
+<p>		  American League</p>
+<p> SEATTLE	     12   Oakland	   2</p>
+<p> CALIFORNIA	   6   Texas	     5 (10 innings)</p>
+<p> Toronto		5   BALTIMORE	 1</p>
+<p> Boston		 4   NEW YORK	  2</p>
+<p> Kansas City	  6   CLEVELAND	 4</p>
+<p> CHICAGO		7   Minnesota	 3</p>
+<p> Detroit	     10   MILWAUKEE	 1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

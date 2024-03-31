@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111733" id="root" date="1996-10-11" xml:lang="en">
+<title>FRANCE: French inflation up in September.</title>
+<headline>French inflation up in September.</headline>
+<dateline>PARIS 1996-10-11</dateline>
+<text>
+<p>French consumer prices rose 0.4 percent in September after falling for three consecutive months, helping allay fears of deflation, according to figures from the national statistics institute INSEE issued Friday.</p>
+<p>Year-on-year, consumer prices rose 1.6 percent, the same as in August and down from 2.0 percent in September 1995.</p>
+<p>The September rise came after a monthly drop of 0.3 percent in August that followed falls of 0.2 percent in July and 0.1 percent in June, which prompted some politicians to warn of a risk of deflation in the French economy.</p>
+<p>But economists said then it was risky to read too much into data skewed by a traditional summer drop in fresh food prices.</p>
+<p>Economists said the September figures were more or less in line with expectations and would have no influence on Bank of France policy in setting interest rates.</p>
+<p>The Bank of France traditionally tracks Bundesbank rate moves closely, keeping a narrow premium over German rates to cushion the franc against any attack by the currency markets, and is very rarely influenced by monthly inflation data.</p>
+<p>It has set a goal of keeping inflation below 2 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

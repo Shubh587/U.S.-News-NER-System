@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104289" id="root" date="1996-10-09" xml:lang="en">
+<title>ALBANIA: SOCCER-PORTUGAL BEAT ALBANIA 3-0 IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-PORTUGAL BEAT ALBANIA 3-0 IN WORLD CUP QUALIFIER.</headline>
+<dateline>TIRANA 1996-10-09</dateline>
+<text>
+<p>Portugal beat Albania 3-0</p>
+<p>(halftime 1-0) in a World Cup European group nine qualifier on</p>
+<p>Wednesday.</p>
+<p>Scorers: Luis Figo (11th minute), Helder Cristovao (77th),</p>
+<p>Rui Costa (89th).</p>
+<p>Attendance: 10,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25272" id="root" date="1996-08-30" xml:lang="en">
+<title>UK: UK budget deficit 5.8 percent of GDP in 1995.</title>
+<headline>UK budget deficit 5.8 percent of GDP in 1995.</headline>
+<dateline>LONDON 1996-08-30</dateline>
+<text>
+<p>Britain had a general government financial deficit, calculated under the European Union's system of integrated accounts, of 5.8 percent of gross domestic product in calendar 1995, the Office for National Statistics (ONS) said.</p>
+<p>This compared with 6.8 percent in calendar 1994.</p>
+<p>General government gross debt at the end of calendar 1995 (nominal value) was 54.1 percent of GDP compared with 50.4 percent at the end of 1994.</p>
+<p>Under the Maastricht Treaty, countries wishing to join a single currency should have deficits not exceeding three percent of GDP and debt not exceeding 60 percent.  </p>
+<p>Britain's own national accounts are based on a financial year ending April 5.</p>
+<p>The ONS estimated the general government financial deficit for the 1995/96 financial year at 5.1 percent of GDP and general government gross debt at 53.8 percent of GDP.</p>
+<p>-- Richard Murphy, London Newsroom 44 171 542 2774</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

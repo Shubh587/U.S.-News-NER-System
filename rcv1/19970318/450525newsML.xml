@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450525" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Lake asks Clinton to drop his nomination for CIA.</title>
+<headline>Lake asks Clinton to drop his nomination for CIA.</headline>
+<dateline>WASHINGTON 1997-03-17</dateline>
+<text>
+<p>Former National Security Adviser Anthony Lake has asked President Bill Clinton to withdraw his nomination to head the CIA and Clinton had reluctantly agreed, CNN and ABC Radio reported late on Monday.</p>
+<p>ABC Radio said in his letter Lake expressed frustration over three days of tough Senate confirmation hearings on Capitol Hill, saying &quot;Washington has gone haywire.&quot; No comment was immediately available from the White House.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="633972" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Lucent adds high-speed Web access to phone systems.</title>
+<headline>Lucent adds high-speed Web access to phone systems.</headline>
+<dateline>NEW ORLEANS 1997-06-03</dateline>
+<text>
+<p>Lucent Technologies Inc. said Tuesday it planned to add Westell Technologies Inc.'s technology for sending high-speed Internet and other data over standard copper phone lines to the equipment it supplies local carriers.</p>
+<p>Lucent said it had agreed to integrate the Westell technology -- known as Advanced Digital Subscriber Line (ADSL) -- into its digital local loop carrier systems, which are the most widely used local phone systems in the United States.</p>
+<p>The announcement was made at SuperComm '97, the phone industry's annual equipment trade show, in New Orleans.</p>
+<p>Lucent supplies its local loop systems, which are used to connect local phone customers to phone company central offices, to all of the Baby Bells and GTE Corp.</p>
+<p>A Lucent spokeswoman said the pact would allow the company to have digital subscriber line products available by the second quarter of 1998 that are capable of transmitting data at speeds of up to 6 megabits per second to customers. That is 100 to 200 times faster than the technology now typically used by home computer users to connect to the Interent over standard phone lines.</p>
+<p>Lucent said such high-speed data services can be added incrementally by local phone carriers based on customer demand. Service providers simply plug the new product into their existing digital local service phone systems.</p>
+<p>More than 25 million customers receive their local phone connections via Lucent digital loop carrier systems.</p>
+<p>On the receiving end, Lucent said its systems would be designed to work with high-speed Westell modems located in the customer's home or business.</p>
+<p>The new systems would be designed to satisfy the growing demand for high-speed data transmission from customers who work out of their homes and Internet users who want rapid access to the World Wide Web.</p>
+<p>The deal announced Tuesday was the second such pact by a major telecommunications network supplier to incorporate Westell technology into its local phone systems. Two weeks ago, DSC Communications Corp. announced a similar arrangement with Westell.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

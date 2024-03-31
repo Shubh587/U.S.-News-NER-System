@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200201" id="root" date="1996-11-19" xml:lang="en">
+<title>MALTA: Malta's trade deficit widens 5.5 pct in Jan-Sept.</title>
+<headline>Malta's trade deficit widens 5.5 pct in Jan-Sept.</headline>
+<dateline>VALLETTA 1996-11-19</dateline>
+<text>
+<p>Malta's trade gap widened by 5.5 percent in the first nine months of this year as exports fell more sharply than imports, the Central Office of Statistics said on Tuesday.</p>
+<p>MALTESE TRADE(million Maltese lira) Jan-Sept 96  Jan-Sept 95</p>
+<p>    Trade balance			  296.6	    281.1</p>
+<p>    Exports				  458.4	    479.7</p>
+<p>    Imports				  755.0	    760.8</p>
+<p>Domestic exports fell Lm 29.4 million to Lm 416.7 million, but this fall was offset by re-exports which rose to Lm 41.7 million from Lm 33.6 million, the office said.</p>
+<p>A Lm 4.8 million rise in consumer goods imports was offset by falls in imports of industrial supplies, capital and other goods.</p>
+<p>(Lm1= $2.8)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537203" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Cisco realigns to focus on customer units.</title>
+<headline>Cisco realigns to focus on customer units.</headline>
+<dateline>SAN JOSE, Calif 1997-04-23</dateline>
+<text>
+<p>Cisco Systems Inc said Wednesday it was realigning its organization to focus on customer segments as part of an effort to switch from a product-focused structure to a customer-oriented structure.</p>
+<p>The company said all its research-and-development and solutions marketing will be organized under three lines of business -- service provider, enterprise and small/medium business.</p>
+<p>It said its service provider organization will provide end-to-end networking systems for service provider customers, including telecommunication carriers, Internet service providers, cable and wireless companies.</p>
+<p>The enterprise group will serve large corporate and institutional customers, and the small/medium business group will deliver networking solutions for small to medium-sized customers.</p>
+<p>&quot;This alignment will enable us to bring increased focus to our customers and provide them with complete end-to-end solutions, including integrated software, hardware and network management,&quot; the company said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

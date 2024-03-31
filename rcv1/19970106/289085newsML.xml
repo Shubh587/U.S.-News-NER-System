@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289085" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: Sugen files IND for psoriasis drug.</title>
+<headline>Sugen files IND for psoriasis drug.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-01-06</dateline>
+<text>
+<p>Sugen Inc said on Monday it filed an Investigational New Drug, or IND, application with the U.S. Food and Drug Administration for the clinical testing of SU5271 in the treatment of psoriasis.</p>
+<p>SU5271 is a synthetic small molecule signal transduction inhibitor that blocks keratinocyte growth, the company said.</p>
+<p>Sugen said it plans to initiate a Phase I study to evaluate the safety of the topical use of SU5271 in psoriatic patients during 1997.</p>
+<p>Psoriasis is a chronic skin disorder that affects about four million people in the United States, with annual U.S. treatment costs estimated at over $1.5 billion, Sugen said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

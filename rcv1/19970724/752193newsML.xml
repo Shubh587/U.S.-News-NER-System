@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="752193" id="root" date="1997-07-24" xml:lang="en">
+<title>UK: London precious metals end quiet day mixed.</title>
+<headline>London precious metals end quiet day mixed.</headline>
+<text>
+<p>GOLD - Closed at $322.50/$322.90 vs $324.50/$325.00. Eased overnight on fund and producer selling. Little movement thereafter. Some pressure from dollar.</p>
+<p>SILVER - Barely moved. $4.29/$4.31, off two cents.</p>
+<p>PLATINUM - Ended up $3.00 at $419.00/$422.00.</p>
+<p>PALLADIUM - Closed at $201.50/$204.50 up $5.10.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

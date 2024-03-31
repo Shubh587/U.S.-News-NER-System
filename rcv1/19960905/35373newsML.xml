@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35373" id="root" date="1996-09-05" xml:lang="en">
+<title>SPAIN: Peseta debt/interbank closing report.</title>
+<headline>Peseta debt/interbank closing report.</headline>
+<dateline>MADRID 1996-09-05</dateline>
+<text>
+<p>Spanish government bonds corrected in afternoon trade as non-residents took positions ahead of the release of U.S. August payroll data on Friday, dealers said.</p>
+<p>Although volume was not significant, non-residents were restocking their portfolios with Spanish and Italian debt in anticipation of a rise in U.S. employment. &quot;They're squaring positions ahead of tomorrow,&quot; said an analyst.</p>
+<p>Economists polled by Reuters expect the U.S. unemployment rate to fall to 5.3 percent in August from 5.4 percent in July.</p>
+<p>The dollar's rebound, attributed to technical factors, was also expected to help domestic bonds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

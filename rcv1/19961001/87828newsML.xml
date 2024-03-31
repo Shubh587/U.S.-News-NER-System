@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87828" id="root" date="1996-10-01" xml:lang="en">
+<title>Zambia: Five killed, three hurt in Zambian explosion.</title>
+<headline>Five killed, three hurt in Zambian explosion.</headline>
+<dateline>LUSAKA 1996-10-01</dateline>
+<text>
+<p>Five people were killed and three others injured in a tanker explosion at the state-run Zambia Oxygen plant in the capital Lusaka on Tuesday, police said.</p>
+<p>Police spokesman Francis Musonda said the explosion was caused by a technical error in the decanting of liquified petroleum gas at the Zamox plant just before midday (1000 GMT) on Tuesday.</p>
+<p>&quot;Five people, all of them Zamox employees, died instantly in the explosion. Three were injured, two of them quite seriously,&quot; Musonda told Reuters.</p>
+<p>Police would investigate a possible charge of criminal negligence, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

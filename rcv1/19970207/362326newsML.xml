@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="362326" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Image Sensing Systems wins Minnesota pact.</title>
+<headline>Image Sensing Systems wins Minnesota pact.</headline>
+<dateline>ST. PAUL, Minn. 1997-02-07</dateline>
+<text>
+<p>Image Sensing Systems Inc said Friday it won a contract from the Minnesota Department of Transportation worth $795,000 to provide its integrated machine vision product for a field test of an advanced traffic management system.</p>
+<p>The company said the project will test the feasibility of using an intelligent system of traffic signals that adapt to traffic conditions in real time. The test area includes up to 70 intersections in the Minneapolis central business district, Image Sensing Systems said.</p>
+<p>The company's device measures traffic volumes using video technology and sends the information to a central computer that controls the trafic signals using logic control software.</p>
+<p>Image Sensing Systems develops traffic management systems using video image processing technology.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

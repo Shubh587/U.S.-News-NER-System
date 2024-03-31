@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120352" id="root" date="1996-10-16" xml:lang="en">
+<title>IRAN: Iran reports problems with Caspian oil drilling.</title>
+<headline>Iran reports problems with Caspian oil drilling.</headline>
+<dateline>TEHRAN 1996-10-16</dateline>
+<text>
+<p>Iran said on Wednesday it had temporarily halted drilling its first oil well in the Caspian Sea after operations ran into problems, the Iranian news agency IRNA said.</p>
+<p>It quoted Mehdi Husseini, exploration director for the National Iranian Oil Company, as saying &quot;the presence of water below the Caspian sea bed...is the main reason for the temporary halt to (the) drilling operation&quot;.</p>
+<p>&quot;In view of the fact that everything in the sea is unknown and unexpected problems particulary in relation to controlling water pressure may arise, a temporary halt of operation is quite natural,&quot; he said.</p>
+<p>Husseini denied an Azeri media report that Iran had stopped drilling the well, its first in the Caspian Sea, after reaching a depth of 5,767 metres, IRNA said.</p>
+<p>He said work was progressing normally and drilling would continue to 6,000 metres and deeper &quot;if technically possible&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

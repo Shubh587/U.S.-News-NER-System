@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284038" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: FDA proposes ban on ruminant feeding to animals.</title>
+<headline>FDA proposes ban on ruminant feeding to animals.</headline>
+<dateline>WASHINGTON 1997-01-02</dateline>
+<text>
+<p>The Food and Drug Administration on Thursday proposed to prohibit using tissues from ruminants -- animals such as cows, sheep and goats -- in the manufacture of ruminant feeds. Mink tissue would also be prohibited.</p>
+<p>The proposed regulation was taken to protect animals from transmissable degenerative neurological diseases -- among these the BSE (bovine spongiform encephalopathy) or the so-called mad cow disease -- and to minimize any potential risk that such diseases could be transmitted from animals to humans, the FDA said.  </p>
+<p>FDA's proposed regulation would prohibit the use of nearly all potential sources of ruminant and mink protein in feed intended for ruminants.</p>
+<p>The only exceptions would be bovine blood and ruminant-derived milk and gelatin, since FDA has no information suggesting that these proteins are potentially risky for TSE's (transmissable spongiform encephalopathies).</p>
+<p>In addition to prohibiting tissues with the potential to spread TSE's, the proposed rule also requires control systems to ensure that ruminant feed does not contain the prohibited tissues.  </p>
+<p>The proposed ban is now open to public comment. Normally there is a 90-day comment period before a final rule is adopted.</p>
+<p>The first case of BSE was reported in the United Kingdom in 1986. Evidence gathered in the UK suggests an asociation between the outbreak of BSE there and the feeding to cattle of protein derived from sheep infected with scrapie, another TSE.</p>
+<p>Recently, scientists have maintained an association between BSE and a variant from of Creutzfeldt-Jakob Disease reported in the UK, which is a degenerative neurological disorder that affecting humans.</p>
+<p>There have been no reported cases of BSE in the United States.</p>
+<p>&quot;This is a precautionary measure,&quot; said Secretary of Health and Human Services Donna Shalala of the FDA action.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42210">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

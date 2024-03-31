@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130626" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Beef carcass price equivalent index Oct 21 - USDA.</title>
+<headline>Beef carcass price equivalent index Oct 21 - USDA.</headline>
+<text>
+<p>CH 1-3   CH 1-3    SE 1-3    SE 1-3</p>
+<p>Index	   550-700  700-850   550-700   700-850</p>
+<p>Values =     $103.30  $100.74    $95.89   $92.78</p>
+<p>Change =	 -0.03     0.28	0.50     0.49</p>
+<p>----------------------------------------</p>
+<p>Current Index Reflects the Equivalent of    65,150 hd of cattle.</p>
+<p>SUPPLY (Live)</p>
+<p>Equivalent:  $106.51  $103.95    $99.10   $95.99    3,280 Hd</p>
+<p>DEMAND (Box)</p>
+<p>Equivalent:  $100.08   $97.52    $92.67   $89.56   61,870 Hd*</p>
+<p>    Five Area Direct Cattle Data     :  Grade % Breakdown</p>
+<p>		 Weight   Price     Head  :   (previous week)</p>
+<p>Live Str:     1215   $70.43	 297 :  Lht Ch   22.34%</p>
+<p>Live Hfr:     1172   $70.18	 247 :  Hvy Ch   25.20%</p>
+<p>Drsd Str:     1261  $113.03     1,715 :  Lht Se   22.61%</p>
+<p>Drsd Hfr:     1157  $112.86     1,021 :  Hvy Se   29.85%</p>
+<p>Boxed Beef Cutouts -		Drop Credit:	    $9.65</p>
+<p>Ch 550-700#   $106.83	    Steer Dressing %  :   63.50%</p>
+<p>Ch 700-850#   $105.27	    Heifer Dressing % :   63.00%</p>
+<p>Se 550-700#    $99.42	    Processing Cost   :</p>
+<p>Se 700-850#    $97.31		550-700# Carcass:   $6.75</p>
+<p>Current  Lds:    212.0		700-850# Carcass:   $7.75</p>
+<p>Previous Lds:    326.0	    Slaughter Cost    :  $28.00</p>
+<p>*Reflects current and previous day's total boxed beef load count multiplied by 115, the average head per boxed beef load. Note: Index reflects simple average of live/box equivalents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

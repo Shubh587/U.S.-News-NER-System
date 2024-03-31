@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140590" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: ComEd 789 MW Ill. nuke seen on line Thurs.</title>
+<headline>ComEd 789 MW Ill. nuke seen on line Thurs.</headline>
+<dateline>NEW YORK 1996-10-24</dateline>
+<text>
+<p>Commonwealth Edison Co's 789 megawatt Quad Cities nuclear power unit 2 was expected to resume electricity output Thursday afternoon after being taken off the grid for repairs, a company spokesman said.</p>
+<p>&quot;We expect to begin ramping up later this afternoon,&quot; spokesman Gary Wald said Thursday.</p>
+<p>The unit was removed from the grid Thursday, although the unit's turbine remained at 20 percent power, while the company replaced a circuit board, Wald said.</p>
+<p>Power output at the Cordova, Ill. unit was reduced Wednesday to about 35 percent of capacity ahead of the repairs.</p>
+<p>Commonwealth Edison is a subsidiary of Unicom Corp.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

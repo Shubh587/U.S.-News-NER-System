@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203827" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Entergy Miss. nuke seen on line Sunday.</title>
+<headline>Entergy Miss. nuke seen on line Sunday.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>Entergy Corp's 1,173 megawatt (MW) Grand Gulf 1 nuclear power unit is expected to resume power production on Sunday, the Nuclear Regulatory Commission said in its Wednesday morning plant status report.</p>
+<p>The unit, located in Port Gibson, Miss., was shut October 19 for scheduled refueling and maintenance.</p>
+<p>Separately, Entergy's 858 MW Arkansas 2 nuclear unit, shut Saturday for repairs to steam generator tubes, is expected to remain off line for about three weeks.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

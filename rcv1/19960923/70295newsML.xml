@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70295" id="root" date="1996-09-23" xml:lang="en">
+<title>CHILE: Chilean economy grew 5.8 pct in July - Central Bank.</title>
+<headline>Chilean economy grew 5.8 pct in July - Central Bank.</headline>
+<dateline>SANTIAGO 1996-09-23</dateline>
+<text>
+<p>The economy grew 5.8 percent in July, down from 6.3 percent in June, as measured by the Imacec index, the Central Bank reported.</p>
+<p>The figure, compared to 7.5 percent growth in July 1995, was below most expectations and added to signs of slower growth in Chile starting in the second quarter.</p>
+<p>Private forecasts for the July Imacec index had ranged up to seven percent.</p>
+<p>The index is the Central Bank's main monthly indicator of economic activity and is considered a kind of early barometer of gross domestic product.</p>
+<p>-- Roger Atwood, Santiago Newsroom 56-2-699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

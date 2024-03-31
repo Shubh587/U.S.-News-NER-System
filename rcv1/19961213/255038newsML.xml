@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255038" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Alexion Pharmaceuticals Inc Q1 net loss up.</title>
+<headline>Alexion Pharmaceuticals Inc Q1 net loss up.</headline>
+<dateline>NEW HAVEN, Conn. 1996-12-13</dateline>
+<text>
+<p>(Unaudited)			 Three months ended October 31,</p>
+<p>							 1996	   1995</p>
+<p> CONTRACT RESEARCH REVENUES		$810,755	$453,428</p>
+<p>  Total Operating Expenses		2,622,993     1,762,878</p>
+<p> NET LOSS				  ( 1,577,610)  ( 1,286,259)</p>
+<p> NET LOSS PER COMMON SHARE		  ( 0.22)	 ( 0.29)</p>
+<p>SHARES USED IN COMPUTING NET</p>
+<p>  LOSS PER COMMON SHARE		   7,328,407     4,513,171</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW HAVEN, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

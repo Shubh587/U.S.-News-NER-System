@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87136" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Harmon Industries buys two Florida firms.</title>
+<headline>Harmon Industries buys two Florida firms.</headline>
+<dateline>BLUE SPRINGS, Mo. 1996-10-01</dateline>
+<text>
+<p>Harmon Industries Inc said Tuesday it has acquired First Coast Signal Engineering Inc and Omaha Railway Signal Inc, both of Jacksonville, Florida.</p>
+<p>Terms of the acquisitions were not disclosed.</p>
+<p>First Coast Signal Engineering is a privately-held corporation with 13 engineers and has focused on engineered railroad highway crossing services for class one railroads, Harmon said.</p>
+<p>Omaha Railway Signal has a staff of five engineers, many of whom are former rail employees, Harmon said.</p>
+<p>Harmon supplies signal and train control products to freight and transit systems.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLUE SPRINGS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

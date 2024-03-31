@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365705" id="root" date="1997-02-09" xml:lang="en">
+<title>AUSTRALIA: Telstra starts secure Internet payment system.</title>
+<headline>Telstra starts secure Internet payment system.</headline>
+<dateline>MELBOURNE 1996-02-10</dateline>
+<text>
+<p>Australian government-owned telecommunications group Telstra Corp on Monday launched a system to provide secure payments over the Internet.</p>
+<p>Customers will register credit card and delivery details once with the service, called Surelink, and then buy goods and services over the Internet without having to provide the information for each transaction, Telstra said.</p>
+<p>It said Surelink would authorise and process payments, send purchase orders and confirm delivery instructions while Westpac Banking Corp and St George Bank Ltd unit Advance Bank Australia Ltd would manage the settlements system.  </p>
+<p>Telstra said it would begin testing of Surelink in March and gradually roll out to a full commercial launch over the second quarter of 1997.</p>
+<p>-- Melbourne Bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

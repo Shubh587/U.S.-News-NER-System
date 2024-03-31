@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268141" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: U.S. rice weekly export sales highlights--USDA.</title>
+<headline>U.S. rice weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1996-12-19</dateline>
+<text>
+<p>USDA rice export sales highlights in latest reporting week:</p>
+<p>Net sales of 33,100 MT were down 52 percent from the prior week and 61 percent below the 4-week average.  Mexico (7,500 MT, of which 7,000 MT was rough), the Leeward and Windward Islands (7,000 MT), the Netherlands (6,900 MT), and South Africa (3,800 MT) were the primary buyers.</p>
+<p>Exports of 41,700 were 52 percent below the prior week and one-fifth under the 4-week average.  The primary destinations were Moldova (12,200 MT), Japan (10,000 MT), and Mexico (7,600 MT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

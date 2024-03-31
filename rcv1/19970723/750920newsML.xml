@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750920" id="root" date="1997-07-23" xml:lang="en">
+<title>UK: UK firms warm to Internet as security improves.</title>
+<headline>UK firms warm to Internet as security improves.</headline>
+<byline>Pratima Desai</byline>
+<dateline>LONDON 1997-07-23</dateline>
+<text>
+<p>British companies say they are becoming increasingly confident about using the Internet to ply their trade because of ever-improving solutions devised by the industry to ward off intruders and ensure security.</p>
+<p>Until now, many businesses have been nervous about using the Internet as a business tool because of some well-publicised breaches of security.</p>
+<p>In a recent Reuters survey of British financial companies, 59 percent of the respondents said they felt the Internet was either insecure or very insecure. Only five out of 123 contributors thought the Internet was very secure.</p>
+<p>Information technology managers said there were two types of security issues surrounding the Internet which had limited its development as a medium for business and commerce.</p>
+<p>&quot;The first class is hackers, viruses and intrusions. These can be dealt with by correctly-designed firewalls and related technologies,&quot; said Richard Pugh, assistant general manager of information technology at Friends Provident mutual insurance company.</p>
+<p>&quot;The other issue, to do with identification, can be resolved by authentication and encryption procedures.&quot;</p>
+<p>Encryption software scrambles information, leaving it unreadable without a password or key. Firewalls are systems designed to protect internal computer networks from external predators.</p>
+<p>Elly Sample, manager of PC Internet and home banking at the Alliance &amp; Leicester Plc bank, said banking transactions on the Internet were safer than using the telephone.</p>
+<p>&quot;We are installing firewalls, but the encryption software we have just implemented would take many, many years to crack,&quot; she said.</p>
+<p>&quot;We are taking responsibility for any problems our customers may have.&quot;</p>
+<p>Sample disagrees with a widely-held view that Internet security could be improved substantially if the United States allowed the export of encryption software developed by U.S. companies.</p>
+<p>&quot;We bought ours off the shelf (in Britain) and adapted it. We didn't need to import it,&quot; she said.</p>
+<p>The U.S. government currently controls encryption exports unless it gets the key that allows unscrambling.</p>
+<p>But moves are afoot to implement a bill to ease the restrictions which hurt U.S. companies while allowing foreign companies to gain market share.</p>
+<p>Internet banking is subject to rigid authentication procedures. Checks include a digital signature, a customer identification number and a password.</p>
+<p>Authentication procedures vary little between banks and if there is any doubt about identification, the system shuts down, Internet managers said.</p>
+<p>Although confident that encryption works, IT managers say there are still problems with firewalls.</p>
+<p>&quot;Firewalls only keep out idiots. There are ... tonnes of back doors,&quot; said Adrian Thomas, data processing manager at Danesfield Securities.</p>
+<p>&quot;I found a Web site with listings of back doors, password breaking software. And there were programmes to fool Netware (a network operating system) into believing that you hadn't tried to log on more than once.&quot;</p>
+<p>Most firewalls, indeed the Internet itself, are based on computer systems with origins in academia, where security was not as strict as many in the commercial world would like.</p>
+<p>But some companies say they are developing technology which will close gaps in firewalls.</p>
+<p>ANS Communications, a subsidiary of America Online Inc, has developed a firewall called Interlock, which removes the troublesome computer code that creates the gaps in the first place.</p>
+<p>&quot;Most other firewalls turn the code off. Ours removes it completely from the system,&quot; said Mark R. Anderson, product manager at ANS Communications.</p>
+<p>But firewall problems persist, frustrating some computer users.</p>
+<p>&quot;Our firewall stops us from transferring and downloading files, we have to switch it off,&quot; said Paul Harrison, IT manager at Quaestor Investment.</p>
+<p>Harrison said the more complex the firewall, the more potential holes there were and a high level of expertise was required to operate it efficiently.</p>
+<p>&quot;Salespeople don't have the level of knowledge required to make the firewall work. They need to be able to explain fully the technicalities and they can't,&quot; he said.</p>
+<p>--London Polling Unit:+44 171 542 2737</p>
+<p>			email:polling.unit@rtrlondon.co.uk</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

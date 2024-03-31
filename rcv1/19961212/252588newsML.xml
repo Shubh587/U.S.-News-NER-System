@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252588" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Digital Equipment cuts Alpha chip prices.</title>
+<headline>Digital Equipment cuts Alpha chip prices.</headline>
+<dateline>BOSTON 1996-12-12</dateline>
+<text>
+<p>Digital Equipment Corp. said Thursday it cut prices by up to 50 percent on microprocessors that compete with Intel Corp.'s popular Pentium Pro computer chips.</p>
+<p>&quot;This announcement is part of our continuing strategy to enhance the competitiveness of Alpha microprocessors in the Windows NT market,&quot; said William Johnson, vice president of Digital's semiconductor business segment.</p>
+<p>Johnson said the Alpha chips deliver superior performance compared with Intel Corp.'s popular Pentium Pro chips and that with the price cuts, Digital's chips would be more attractive to personal computer makers.</p>
+<p>The cuts come as demand for chips has strengthened in recent months, reflecting higher orders by personal computer makers and more stable prices for memory chips.</p>
+<p>A top Intel official said Wednesday that the company's chip factories were running full tilt and an industry group said Monday that a key ratio of chip orders to shipments rose to the highest level in more than a year in November.</p>
+<p>Digital cut its Alpha 21164-300 megahertz (MHz) chip to $395 from $695, the 366 MHz chip to $495 from $950 and the 433 MHz to $750 from $1,492. The prices are based on 1,000-unit quantities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

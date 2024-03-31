@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="672698" id="root" date="1997-06-19" xml:lang="en">
+<title>CHILE: Tremor hits ski center in Chilean capital.</title>
+<headline>Tremor hits ski center in Chilean capital.</headline>
+<dateline>SANTIAGO 1997-06-19</dateline>
+<text>
+<p>The Chilean capital of Santiago was shaken on Thursday morning by a 40-second tremor measuring 5.1 degrees on the Richter scale, although no damages were initially reported.</p>
+<p>The rough movement was felt at 8:22 a.m. (1222 GMT), with its epicentre in the ski centre of Farallones, east of Santiago, according to Chile's National Emergency Bureau.</p>
+<p>Albertu Maturana, head of the bureau, called on the population to refrain from going to Farallones, a snow covered resort town in the Andes mountain range, due to the danger of landslides.</p>
+<p>He added that no damages had been reported, and telephone and electric connections remained in service throughout Santiago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

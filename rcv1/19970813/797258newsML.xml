@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="797258" id="root" date="1997-08-13" xml:lang="en">
+<title>CANADA: THUNDER BAY VESSEL CLEARANCES - AUG 13.</title>
+<headline>THUNDER BAY VESSEL CLEARANCES - AUG 13.</headline>
+<text>
+<p>Daily vessel loading/clearances at Thunder Bay, Ontario:</p>
+<p> Date	Vessel		Cargo (MT)     Status   Destination</p>
+<p>Aug 11   Algoport		22,500 dom     Clrd	Halifax</p>
+<p>Aug 11   Mantadoc		15,800 dom/wht Clrd	Bay Ports</p>
+<p>Aug 11  *Mallard		  5,500 wht     Clrd	Foreign Port</p>
+<p>Aug 12   Algoville	     27,300 wht     Clrd	StL</p>
+<p>Aug 12  *Lake Superior	 25,300 wht     Loading   Foreign Prt</p>
+<p>Aug 13   Quebecois	     25,000 --	Due  8/13 StL</p>
+<p>Aug 14   Canadian Venture    25,000 --	Due  8/14 StL</p>
+<p>Aug 14   Canadian Leader     26,000 --	Due  8/14 StL</p>
+<p>Aug 15  *Lake Erie	     25,000 --	Due  8/15 Foreign Port</p>
+<p>Aug 16   Algonorth	     25,000 --	Due  8/16 StL</p>
+<p>Aug 16   Paterson		28,000 --	Due  8/16 StL</p>
+<p>Aug 16   Cartierdoc	    25,000 --	Due  8/16 StL</p>
+<p>*ocean vessel</p>
+<p>NOTE: Thunder Bay reopened April 1 when H.M. Griffith cleared.</p>
+<p>Source: Lake Shippers Clearance Assn.</p>
+<p>Note wht=wheat, can=canola, m/wht=milling wheat, dom=domestic milling wheat,</p>
+<p>M=meal, P=pellets, O=oil, pea=peas, lntl=lentils. Ready=preparing to load.</p>
+<p>MT=metric tonne. Stl Ports=St Lawrence Ports. Wind=Windsor.</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

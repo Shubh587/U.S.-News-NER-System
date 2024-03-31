@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230081" id="root" date="1996-12-02" xml:lang="en">
+<title>IRAN: Quake jolts western Iran, no damage reported.</title>
+<headline>Quake jolts western Iran, no damage reported.</headline>
+<dateline>TEHRAN 1996-12-02</dateline>
+<text>
+<p>An earthquake jolted the vicinity of Ardel in western Iran, but reports of casualties or damage were not immediatly available, the state-run news agency IRNA said on Monday.</p>
+<p>The agency said the quake, measuring 4.2 degrees on the open-ended Richter scale -- enough to cause heavy damage in a populated area -- occured at 6.30 am local time (0300 GMT).</p>
+<p>Quakes hit Iran regularly. The worst recorded one, measuring 7.3 on the Richter scale, killed 35,000 people in a densely populated region near the Caspian coast in 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

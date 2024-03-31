@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179101" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Dirty tanker fixtures and enquiries - 2326 GMT.</title>
+<headline>Dirty tanker fixtures and enquiries - 2326 GMT.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>IXTURES</p>
+<p>WESTERN HEMISPHERE -</p>
+<p>Geroi Sevastopolya 50 15-18/11 Caribs/Freeport $210,000 Lagoven.</p>
+<p>Stavanger Prince 74 21-23/11 Dos Bocas/USG W110 Exxon.</p>
+<p>BT Navigator 60 19-20/11 Caribs/up W120 Hess.</p>
+<p>-- New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

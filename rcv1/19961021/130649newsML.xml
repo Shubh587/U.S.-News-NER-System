@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130649" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Albuquerque, N.M., $18 mln.</title>
+<headline>Albuquerque, N.M., $18 mln.</headline>
+<text>
+<p>AMT: 18,345,000     DATE: 10/21/96	NYC Time: 1200	CUSIP: 013554H</p>
+<p>ISSUER: Albuquerque						     ST: NM</p>
+<p>ISSUE: Gross receipts tax refdg, Series 1996		    TAX STAT:Exempt-REV</p>
+<p>M/SP/F: A1/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: MBIA Aaa/AAA/NA					 BANK QUAL: N</p>
+<p>DTD: 10/15/98							     SURE BID: Y</p>
+<p>DUE: 7/1/97-21						SR MGR: Bear Stearns</p>
+<p>1ST CPN: 07/01/97					   DOLLAR BID: 99.125</p>
+<p>CALL: 7/1/07 @ par					  TIC 5.125</p>
+<p>DELIVERY: 11/14/96 approx				 ORDERS: NA</p>
+<p>PAYING AGENT: City Treasurer's Office, Albuquerque</p>
+<p>L.O.: Modrall, Sperling, Roehl, Harris &amp; Sisk, Albuquerque</p>
+<p>F.A.: None</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		  1,140,000     4.500	NRO		  NRO</p>
+<p>1998		  2,250,000     4.500     4.200		 .125</p>
+<p>1999		  2,475,000     5.000     4.300		 .125</p>
+<p>2000		    515,000     5.000     4.400		 .125</p>
+<p>2001		    460,000     5.000     4.500		 .125</p>
+<p>2002		    695,000     5.000     4.600		 .125</p>
+<p>2003		    625,000     5.000     4.700		 .125</p>
+<p>2004		  1,065,000     5.000     4.800		 .125</p>
+<p>2005		  1,115,000     5.000     4.900		 .125</p>
+<p>2006		  1,170,000     5.000     5.000		 .125</p>
+<p>2007		  1,230,000     5.000     5.100		 .125</p>
+<p>2008		  1,295,000     5.000     5.200		 .250</p>
+<p>2009		  1,360,000     5.000     5.300		 .250</p>
+<p>2010		  1,435,000     5.000     5.350		 .250</p>
+<p>2011		  1,515,000     5.000     5.400		 .250</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

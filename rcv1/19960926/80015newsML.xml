@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80015" id="root" date="1996-09-26" xml:lang="en">
+<title>AUSTRALIA: Australia appoints new ambassador to Indonesia.</title>
+<headline>Australia appoints new ambassador to Indonesia.</headline>
+<dateline>CANBERRA 1996-09-26</dateline>
+<text>
+<p>Australian Foreign Minister Alexander Downer on Thursday named Australia's current ambassador to the United States, John McCarthy, as ambassador to Indonesia.  </p>
+<p>McCarthy replaces Allan Taylor, who has held the Jakarta post since April 1993, and ends months of searching after Australia's former nominee for the post, career diplomat Miles Kupa, withdrew.</p>
+<p>&quot;The government regards the relationship with Indonesia as of fundamental importance,&quot; Downer said in a statement.</p>
+<p>Relations between the two countries soured in 1995 when Canberra rejected Indonesia's choice of its new ambassador to Australia, Lieutenant-General Herman Mantiri, because of controversial remarks over the 1991 Dili massacre in East Timor.</p>
+<p>Kupa withdrew himself from nomination for the Jakarta post earlier this year after controversy about comments he had made several years ago about the business interests of President Suharto.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218317" id="root" date="1996-11-26" xml:lang="en">
+<title>SPAIN: Spain details 1997 tax revenue objectives.</title>
+<headline>Spain details 1997 tax revenue objectives.</headline>
+<dateline>MADRID 1996-11-26</dateline>
+<text>
+<p>Spain's Economics Ministry gave the following targets for tax revenues as included in the 1997 budget law. In trillions of pesetas:</p>
+<p>		gross revenues	returns	net revenues</p>
+<p> Income tax	6.49		  0.919	     5.57</p>
+<p> Corp tax	  1.79		  0.365	     1.42</p>
+<p> import VAT	4.10		  1.18		2.92</p>
+<p> Domestic VAT    0.954				     0.954</p>
+<p> Special taxes   2.16					2.16</p>
+<p> External traffic0.109				     0.109</p>
+<p> Other	     0.285				     0.285</p>
+<p> TOTAL	    15.89		  2.46	     13.42</p>
+<p>NOTE: Returns column does not include returns to non-residents for withholding on public debt interest payments. -- Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

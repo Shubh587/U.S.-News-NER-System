@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360423" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Cars pile up on Colorado highway in snowy weather.</title>
+<headline>Cars pile up on Colorado highway in snowy weather.</headline>
+<dateline>DENVER 1997-02-06</dateline>
+<text>
+<p>Heavy snow and icy conditions on an interstate highway south of Denver on Thursday sent as many as 50 cars crashing into each other, authorities said.</p>
+<p>Four people were listed in critical condition at area hospitals.</p>
+<p>The accident occured about 15 miles south of Denver on Interstate 25 and closed the highway in both directions. Officials sent out a call for all emergency vehicles in the area to be dispatched to the site.</p>
+<p>Another multiple-vehicle accident occurred about a mile south of the first pileup after traffic started backing up, a Colorado Department of Transportation spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

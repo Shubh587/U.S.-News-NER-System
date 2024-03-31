@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344314" id="root" date="1997-01-30" xml:lang="en">
+<title>FRANCE: French court uphold politician's conviction.</title>
+<headline>French court uphold politician's conviction.</headline>
+<dateline>PARIS 1997-01-30</dateline>
+<text>
+<p>A French court on Thursday upheld a 15-month suspended jail term imposed on a Gaullist member of parliament in May on charges he used three city council workers as domestic employees.</p>
+<p>The court also upheld a 200,000 franc ($37,000) fine and two-year ban against standing in an election against Patrick Balkany, sentenced for illegally benefiting from his position as mayor of suburban Levallois, a post he since lost in a municipal poll.</p>
+<p>Balkany's now-estranged wife Isabelle had received a similar sentence but did not appeal.</p>
+<p>The appeal court's decision, if not appealed to a higher court, would leave Balkany ineligible to stand in general elections next year.</p>
+<p>Balkany, one of a string of French politicians embroiled in corruption scandals, is now relatively isolated in the RPR party, having backed former prime minister Edouard Balladur in the 1995 French presidential race won by fellow Gaullist Jacques Chirac.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

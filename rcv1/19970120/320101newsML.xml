@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320101" id="root" date="1997-01-20" xml:lang="en">
+<title>JAPAN: Japan Nov compound feed output falls 1.6 pct yr/yr.</title>
+<headline>Japan Nov compound feed output falls 1.6 pct yr/yr.</headline>
+<dateline>TOKYO 1997-01-20</dateline>
+<text>
+<p>Japan's compound feed production in November 1996 totalled 2.13 million tonnes, down 1.6 percent from a year earlier, the Agriculture Ministry said on Monday.</p>
+<p>Details of November output, sales and stocks were as follows (in millions of tonnes):</p>
+<p>		  Nov 96     Oct 95     yr/yr pct change</p>
+<p> Production   2.13	 2.18	 -1.6</p>
+<p> Sales	  2.14	 2.16	 -0.8</p>
+<p> Stocks	 0.19	 0.18	 +0.8</p>
+<p>Major grains used in base mixes for November compound feed output (in tonnes):</p>
+<p>		    Nov 96	     Oct 96	     Nov 95</p>
+<p> Corn	    998,475	   1,019,990	  1,035,479</p>
+<p> Sorghum	 230,095	     234,413	    199,510</p>
+<p>Major meals used in base mixes (in tonnes):</p>
+<p>		    Nov 96	     Oct 96	     Nov 95</p>
+<p> Soybean meal  259,878	     268,167	    257,330</p>
+<p> Rapeseed meal  73,606		74,524	     77,158</p>
+<p> Fish meal	25,596		26,672	     28,299</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42210">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

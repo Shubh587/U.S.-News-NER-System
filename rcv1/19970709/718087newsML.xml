@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718087" id="root" date="1997-07-09" xml:lang="en">
+<title>JORDAN: Seven Saudis, one Jordanian die in road crash.</title>
+<headline>Seven Saudis, one Jordanian die in road crash.</headline>
+<dateline>AMMAN 1997-07-09</dateline>
+<text>
+<p>Seven Saudi nationals and one Jordanian were killed in head-on crash in eastern Jordan, the official Petra news agency reported.</p>
+<p>Petra said the accident happened on Tuesday near the border with Iraq when a freight truck collided with a bus carrying at least 30 Saudis.</p>
+<p>It said the Jordanian freight driver was killed and his truck burned out. Seven Saudis were killed and another 22 were wounded, Petra said.</p>
+<p>The Jordan Times newspaper quoted a civil defence official as saying the Saudis were Shiite pilgrims travelling to holy sites in Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

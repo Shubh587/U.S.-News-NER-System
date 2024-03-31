@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261078" id="root" date="1996-12-17" xml:lang="en">
+<title>PERU: Peru, Colombia launch border anti-drug offensive.</title>
+<headline>Peru, Colombia launch border anti-drug offensive.</headline>
+<dateline>LIMA 1996-12-17</dateline>
+<text>
+<p>Peru and Colombia announced Tuesday a major anti-drug offensive intended to flush out traffickers and destroy operations around their shared jungle border.</p>
+<p>Peru's anti-narcotics police said the operation, under way since the weekend, involved at least 270 officers from both countries, nine helicopters, three planes and 20 boats.</p>
+<p>The operation has already brought the destruction of 12 secret landing-strips and the capture of 20 traffickers from both countries, according to Colombian police sources.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

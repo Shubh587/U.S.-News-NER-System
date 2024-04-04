@@ -19,8 +19,23 @@ def extract_headlines():
     
     print('Headlines extracted successfully!')
     print(headlines)
+    return headlines
+
+def store_headlines(headlines):
+    # Have each word in the headline seperate in a new line
+    # Seperate each headline with a new line
+    print('Storing headlines...')
+    with open('headlines.txt', 'w') as file:
+        for headline in headlines:
+            words = headline.split()
+            for word in words:
+                file.write(word + '\n')
+            file.write('\n')
+    print('Headlines stored successfully!')
 
 def main():
-    extract_headlines()
+    headlines = extract_headlines()
+    store_headlines(headlines)
+
 
 main()

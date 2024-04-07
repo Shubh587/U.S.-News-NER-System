@@ -8,14 +8,13 @@ def extract_headlines():
     headlines = []
     i = 0
     for subdir, dirs, files in os.walk(rootdir):
-        if subdir == 'rcv1\\19960820':
-            for file in files:
-                if file.endswith('.xml'):
-                    tree = ET.parse(os.path.join(subdir, file))
-                    root = tree.getroot()
-                    for child in root:
-                        if child.tag == 'headline':
-                            headlines.append(child.text)
+        for file in files:
+            if file.endswith('.xml'):
+                tree = ET.parse(os.path.join(subdir, file))
+                root = tree.getroot()
+                for child in root:
+                    if child.tag == 'headline':
+                        headlines.append(child.text)
     
     print('Headlines extracted successfully!')
     print(headlines)

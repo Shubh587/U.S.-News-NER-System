@@ -6,18 +6,21 @@ import xml.etree.ElementTree as ET
 def extract_headlines():
     rootdir = 'rcv1'
     headlines = []
-    i = 0
+    print('Extracting headlines...')
     for subdir, dirs, files in os.walk(rootdir):
+        print('Extracting headlines from:', subdir)
         for file in files:
+            # print('Extracting headlines from:', file)
             if file.endswith('.xml'):
                 tree = ET.parse(os.path.join(subdir, file))
                 root = tree.getroot()
                 for child in root:
                     if child.tag == 'headline':
-                        headlines.append(child.text)
+                        if child.text:
+                            headlines.append(child.text)
     
     print('Headlines extracted successfully!')
-    print(headlines)
+    print('Number of headlines extracted:', len(headlines))
     return headlines
 
 def store_headlines(headlines):

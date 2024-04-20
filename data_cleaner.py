@@ -51,10 +51,41 @@ def store_cleaned_headlines(headlines):
             file.write('\n')
     print('Cleaned headlines stored successfully!')
 
+def seperate_headlines(headlines):
+    # Seperate the first 150 headlines in the array into three different .txt files
+    # The first file contains the first 50 headlines, the second file contains the next 50 headlines, and the third file contains the last 50 headlines
+    print('Seperating headlines...')
+    with open('headlines1.txt', 'w') as file:
+        for i in range(50):
+            # have a word per line
+            words = headlines[i].split()
+            for word in words:
+                file.write(word + '\n')
+            # add a newline after each headline
+            file.write('\n')
+    with open('headlines2.txt', 'w') as file:
+        for i in range(50, 100):
+            # have a word per line
+            words = headlines[i].split()
+            for word in words:
+                file.write(word + '\n')
+            # add a newline after each headline
+            file.write('\n')
+    with open('headlines3.txt', 'w') as file:
+        for i in range(100, 150):
+            # have a word per line
+            words = headlines[i].split()
+            for word in words:
+                file.write(word + '\n')
+            # add a newline after each headline
+            file.write('\n')
+    print('Headlines seperated successfully!')
+        
 
 def main():
     headlines = extract_headlines()
     headlines = clean_headlines(headlines)
     store_cleaned_headlines(headlines)
+    seperate_headlines(headlines)
 
 main()

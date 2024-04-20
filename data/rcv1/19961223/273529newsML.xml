@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273529" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Inco cut to neutral.</title>
+<headline>RESEARCH ALERT - Inco cut to neutral.</headline>
+<text>
+<p>-- Lehman Brothers said analyst Richard Aldrich reduced the rating on Inco Ltd to neutral from outperform.</p>
+<p>-- cited reduction in spot nickel price forecast to $3.55 per pound from $4.25 for 1997; increase in break-even nickel price assumption to $2.80 per pound through 1997, assuming average copper price of $0.95 per pound; and reduction in share repurchase assumptions.</p>
+<p>-- shares fell 1/4 to 32-3/8 on the New York Stock Exchange at midmorning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

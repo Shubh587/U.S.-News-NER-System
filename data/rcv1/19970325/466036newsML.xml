@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466036" id="root" date="1997-03-25" xml:lang="en">
+<title>AUSTRALIA: LAST TRADES - Australian Stocks Overseas.</title>
+<headline>LAST TRADES - Australian Stocks Overseas.</headline>
+<dateline>SYDNEY 1996-03-26</dateline>
+<text>
+<p>Last Trades of Australian stocks listed on overseas markets. Previous close in brackets.</p>
+<p>FTSE-100 Index     4270.7 (  4214.8)</p>
+<p>Dow Jones Average  6876.17 ( 6905.25)</p>
+<p>NASDAQ Composite   1248.06 ( 1242.64)</p>
+<p>		     NEW YORK ADRS (US$)</p>
+<p>ANZ			32 (  32.625)</p>
+<p>BHP			26.625 (	27)</p>
+<p>Coles		     36.625 (  36.625)</p>
+<p>FAI			  UNTR (  11.250)</p>
+<p>NAB			61.875 (  62.875)</p>
+<p>News		     18.875 (  19.125)</p>
+<p>Orbital		    6.500 (   6.125)</p>
+<p>Westpac		  29.375 (  29.500)</p>
+<p>WMC			25.500 (  25.625)</p>
+<p>		     NASDAQ (US$)</p>
+<p>Boral		  23.750 (  23.250)</p>
+<p>Cen Pac	     13.5000 (    13.5)</p>
+<p>Cortecs		22.375 (  22.500)</p>
+<p>GCM		    6.3750 (  6.3750)</p>
+<p>Memtec		  23.75 ( 23.0000)</p>
+<p>S.Pac		  5.2500 (  5.4375)</p>
+<p>Santos		 15.250 (  15.000)</p>
+<p>--Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

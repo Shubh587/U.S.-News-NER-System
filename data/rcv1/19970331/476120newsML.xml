@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476120" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: PanAmSat makes New Zealand Web connection.</title>
+<headline>PanAmSat makes New Zealand Web connection.</headline>
+<text>
+<p>GREENWICH, Conn. , March 31 - PanAmSat Corp said Monday it has recently added New Zealand to the list of more than 20 countries that access the U.S. Internet backbone using its global satellite system.</p>
+<p>Internet Group, an Auckland-based international Internet service provider, has turned to PanAmSat and the PAS-2 Pacific Ocean Region satellite to connect its users to the Internet.</p>
+<p>Terms of the transaction were not disclosed.</p>
+<p>PanAmSat is actively marketing its new satellite-based Internet service, SPOTbytesSM, to international Internet service providers worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

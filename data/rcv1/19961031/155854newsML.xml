@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155854" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. 48-day bill auction average rate 5.17 pct.</title>
+<headline>U.S. 48-day bill auction average rate 5.17 pct.</headline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>The U.S. Treasury said its auction of 48-day cash management bills brought these results:</p>
+<p>48-DAY BILLS DUE DEC 19, 1996 * $17.048 BILLION</p>
+<p>	  DISCOUNT	    INVESTMENT	    PRICE</p>
+<p>	  BID RANGE	     RATE		  RANGE</p>
+<p>     LOW  5.15		  5.26		 99.313</p>
+<p>    HIGH  5.18		  5.29		 99.309</p>
+<p> AVERAGE  5.17		  5.28		 99.311</p>
+<p>TOTAL BIDS $54.347 BLN OR 3.19 TIMES AMOUNT SOLD</p>
+<p>		     AWARDED AT HIGH DISCOUNT: 34 PCT</p>
+<p> U.S. TREASURY (GOVERNMENT DEBT)		 MATURITY 19.Dec.96</p>
+<p> MATURITY/TYPE    48-DAY BILLS		   PAY DATE 01.Nov.96</p>
+<p> TYPE OF DEBT     STRAIGHT			 LAUNCHED 30.Oct.96</p>
+<p> ISSUED/ACCEPTED  17.048 BLN USD		 CUSIP    9127943S1</p>
+<p> BIDS SUBMITTED   54.347			   COUNTRY	  USA</p>
+<p> NONCOMPETITIVE   0.50 MLN			  AUCTION AVERAGES</p>
+<p> NY FED DISTRICT    N.A.			   DISCOUNT     5.17</p>
+<p>			     =			   PRICE	99.311</p>
+<p> BIDDING RANGE    5.15-5.18 PCT		  YIELD	  5.28</p>
+<p>	 COVER (Bids Over Amount Auctioned) = 3.188 Times</p>
+<p>	 TAIL  (High  Minus Average  Yield) = 1 BASIS PT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

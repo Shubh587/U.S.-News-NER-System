@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646248" id="root" date="1997-06-09" xml:lang="en">
+<title>UK: RUGBY LEAGUE-WORLD CLUB CHAMPIONSHIP RESULTS.</title>
+<headline>RUGBY LEAGUE-WORLD CLUB CHAMPIONSHIP RESULTS.</headline>
+<dateline>LONDON 1997-06-09</dateline>
+<text>
+<p>Results Super League world club</p>
+<p>championship rugby league matches played on Monday:</p>
+<p>Pool A</p>
+<p> Canterbury (Australia)  18  Wigan  (England)     22</p>
+<p> Bradford (England)	16  Penrith (Australia)  20</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

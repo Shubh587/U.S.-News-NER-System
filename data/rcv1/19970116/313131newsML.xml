@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313131" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: CBOT soyoil deliveries - Jan 16.</title>
+<headline>CBOT soyoil deliveries - Jan 16.</headline>
+<dateline>CHICAGO 1997-01-16</dateline>
+<text>
+<p>Delivery notices against the January soyoil contract for delivery on January 17. (In lots).</p>
+<p>LOCATION: EASTERN TERRITORY	     GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>2061 CARGILL-LOGANSPORT	     492</p>
+<p>				TOTAL     492</p>
+<p>LOCATION: EASTERN IOWA TERRITORY	GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>2102 CARGILL  BUFFALO, IA	    27</p>
+<p>2257 A.G.P. INC MASON CITY	   67</p>
+<p>				TOTAL	94</p>
+<p>LOCATION: ILLINOIS TERRITORY	    GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>2113 CENTRAL GIBSON CITY, IL	204</p>
+<p>2510 LAUHOFF DANVILLE, IL	    20</p>
+<p>				TOTAL     224</p>
+<p>LOCATION: NORTHWEST TERRITORY	   GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>2088 AG PROCESSING-DAWSON	    44</p>
+<p>2220 A.G.P. OMAHA TRML TANK1	 65</p>
+<p>2250 AG PROCESSING,SRGNT BLF	 49</p>
+<p>2252 AG PROCESSING-EAGLE GR.	100</p>
+<p>2512 SDSP				  99</p>
+<p>				TOTAL     357</p>
+<p>LOCATION: SOUTHWEST TERRITORY	   GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>2016 ADM N.KANSAS CITY, MO.	  51</p>
+<p>2063 BUNGE EMPORIA		     64</p>
+<p>				TOTAL     115</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	ISSUES  CUSTOMER  HOUSE</p>
+<p>020  PRUDENTIAL	 67	 67</p>
+<p>140  COMBS		10		    10</p>
+<p>200  A &amp; D		69	 69</p>
+<p>230  MERCHANTS	  20	 20</p>
+<p>399  HENNING	   230	230</p>
+<p>470  KENOSHA	   470		   470</p>
+<p>525  TENCO, INC	 50	 50</p>
+<p>865  LBS DIV.	  366	366</p>
+<p>     TOTAL	   1,282	802	480</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	 STOPS  CUSTOMER  HOUSE</p>
+<p>140  COMBS		 7		     7</p>
+<p>200  A &amp; D		52	 52</p>
+<p>230  MERCHANTS	  18	 18</p>
+<p>255  REFCO		21	 21</p>
+<p>399  HENNING	   183	183</p>
+<p>470  KENOSHA	   450		   450</p>
+<p>865  LBS DIV.	  299	299</p>
+<p>905  ADM		 252		   252</p>
+<p>     TOTAL	   1,282	573	709</p>
+<p>	 LAST DAY ASSIGNED:  01/15/97</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

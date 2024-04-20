@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127680" id="root" date="1996-10-18" xml:lang="en">
+<title>ITALY: Fire at Italian PVC plant put out, no gas leak seen.</title>
+<headline>Fire at Italian PVC plant put out, no gas leak seen.</headline>
+<dateline>VENICE, Italy 1996-10-18</dateline>
+<text>
+<p>A fire broke out at a PVC producing plant at the Marghera industrial complex near Venice in northeast Italy on Friday but was quickly put out with no immediate signs of a leak of toxic gas, a company official said.</p>
+<p>The fire started in a cracking oven in a combustion chamber at the European Vinyls Corp (EVC) plant, apparently due to a small leak in a conduit carrying ethane dichloride which is used in the process of making polyvinylchloride (PVC).</p>
+<p>The section of the plant was immediately shut down and an automatic sprinkler system extinguished the fire in about 20 minutes with no external damage or injury to workers, spokeswoman Erica Lobuglio said.</p>
+<p>The fire brigade was called in to cool down the external walls of the combustion chamber.</p>
+<p>The fire was expected to have a minimal effect on production and there were no signs of any toxic gas leaks, she said.</p>
+<p>EVC is a public company quoted in Amsterdam, in which Britain's ICI and Italy's Enichem have minority stakes of 15 percent each.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VENICE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

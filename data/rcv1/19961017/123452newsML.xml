@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123452" id="root" date="1996-10-17" xml:lang="en">
+<title>NEW ZEALAND: NZ new dwelling estimates fall 3.7 pct in Sept yr.</title>
+<headline>NZ new dwelling estimates fall 3.7 pct in Sept yr.</headline>
+<dateline>WELLINGTON 1996-10-18</dateline>
+<text>
+<p>New Zealand provisional figures show 1,694 new dwelling units were authorised for construction in Setpember, 3.7 percent fewer than in September 1995, Statistics New Zealand said on Friday.</p>
+<p>It said the trend esimate fell 4.5 percent from August to Setpmber. It said the trend reached a peak in April 1996 and had been declining since.  </p>
+<p>The largest increases in the year were for North Shore City, up to 119 from 83, Hamilton, up to 88 from 64, and Auckland to 106 from 90.</p>
+<p>The largest decreases were for Waitakere, down to 91 from 137, Manukau to 126 from 157 and Kapiti to 32 from 60.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

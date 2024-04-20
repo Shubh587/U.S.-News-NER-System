@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602824" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: U.S. coffee imports - Commerce.</title>
+<headline>U.S. coffee imports - Commerce.</headline>
+<dateline>WASHINGTON 1997-05-21</dateline>
+<text>
+<p>U.S. Commerce Department report of unroasted, roasted and soluble coffee imports.</p>
+<p> (Tonnes):    Mar97    Feb97    Mar96</p>
+<p> Unroasted  117,989  110,230  105,173</p>
+<p> Roasted	2,072    1,683    1,849</p>
+<p> Soluble	1,975    2,095    1,890</p>
+<p>Soluble</p>
+<p> from Brazil    335	872	716</p>
+<p>Note - Coffees include decaffeinated and nondecaffeinated. Soluble includes instant and nonflavored, plus extracts, essences and concentrates.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

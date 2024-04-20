@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117564" id="root" date="1996-10-15" xml:lang="en">
+<title>SWITZERLAND: Schindler to expand N.America facility.</title>
+<headline>Schindler to expand N.America facility.</headline>
+<dateline>LUZERNE, Switzerland 1996-10-15</dateline>
+<text>
+<p>Schindler AG said its Schindler Elevator Corp unit in the U.S. plans to expand its escalator manufacturing facility in Clinton, North Carolina, by an additional 2,790 square meters.</p>
+<p>The expansion is aimed at accommodating further growth and will enable the company to diversify product offerings, Schindler said.</p>
+<p>The Clinton plant currently has a 2,790 square meter escalator step manufacturing facility and a 9,300 square meter escalator assembly plant which will now be expanded by the additional 2,790 meters.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32550">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUZERNE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

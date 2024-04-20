@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567941" id="root" date="1997-05-07" xml:lang="en">
+<title>CHINA: Shanghai April GDP up 15.6 percent year-on-year.</title>
+<headline>Shanghai April GDP up 15.6 percent year-on-year.</headline>
+<dateline>SHANGHAI 1997-05-07</dateline>
+<text>
+<p>Shanghai's gross domestic product (GDP) was 26.582 billion yuan in April 1997, up 15.6 percent from April 1996, Shanghai's Business News said on Wednesday.</p>
+<p>The city's GDP for the first four months of 1997 was 95.219 billion yuan, a rise of 14.1 percent compared with the same period last year, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

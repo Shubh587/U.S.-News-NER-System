@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319625" id="root" date="1997-01-20" xml:lang="en">
+<title>FRANCE: Bomb explodes by Algerian school, no casualties.</title>
+<headline>Bomb explodes by Algerian school, no casualties.</headline>
+<dateline>PARIS 1997-01-20</dateline>
+<text>
+<p>A bomb exploded on Monday outside a school for girls in El Harrach suburb, southeast of the capital Algiers, but there were no casualties and only slight material damage, residents said.</p>
+<p>&quot;The bomb went off outside Ourida Meddad high school at El Harrach. The explosion caused only slight damage,&quot; one resident in the neighbourhood told Reuters by telephone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

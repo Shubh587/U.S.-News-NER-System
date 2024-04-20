@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217533" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Minneapolis deliverable oat stocks.</title>
+<headline>Minneapolis deliverable oat stocks.</headline>
+<dateline>CHICAGO 1996-11-26</dateline>
+<text>
+<p>The Chicago Board of Trade reported the following stocks of oats in Minneapolis, deliverable against CBOT futures. (in 000's bu).</p>
+<p>					     11/22     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Total Deliverable Grades	     11,703  11,833  12,953</p>
+<p>Non-Del Grades/Ungraded		   961     918   2,696</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL MINNEAPOLIS OATS STOCKS	12,664  12,751  15,649</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349970" id="root" date="1997-02-02" xml:lang="en">
+<title>USA: Telecom start-up to launch data access unit.</title>
+<headline>Telecom start-up to launch data access unit.</headline>
+<byline>Gilles Castonguay</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>A start-up led by pioneer telecom technologists and backed by powerful venture capitalists is poised to unveil a system that would vastly multiply Internet transmission speeds over phone lines.</p>
+<p>Diamond Lane Communications Corp. said its digital subscriber line system would quicken data communications through all legs of the Internet: from a desktop computer screen, via an office network and over the phone network.</p>
+<p>Based in Petaluma, Calif., Diamond comes out with the system at a time when phone companies are trying to ease the strain that growing Internet use is putting on their networks.</p>
+<p>One of the company's founders is Georga Hawley, known as Dr. Loop for having invented a technology that phone companies use to reduce data traffic on their networks.</p>
+<p>Although the field has at least 40 firms like Ascend Communications Inc. promising to offer broad-band Internet access technologies capable of handling large amounts of voice, video and data simultaneously, Diamond is seen as one of the better prospects, according to analysts.</p>
+<p>&quot;If Dr. Loop can't do it, nobody can,&quot; said Randy Carlson of Yankee Group.</p>
+<p>Armed with funding from venture backers like Kleiner Perkins Caufield &amp; Byers, Diamond plans to begin pilot production in April before putting out commercially in July.</p>
+<p>Diamond, formed in June 1995, has 62 employees.</p>
+<p>The company's xDSL/ATM (Digital Subscriber Line/Asynchronous Transfer Mode) data access system transmits data at up to six megabits per second, or 200 times faster than the 28,800 bit-per-second modem most consumers use.</p>
+<p>Richard Aloia, the company's marketing vice president, said in an interview that Diamond was talking with several leading U.S. local exchange carriers who could potentially deploy the system on a wide scale.</p>
+<p>Aloia said Diamond would announce at least one major partnership deal at this week's ComNet 1997 communications equipment trade show in Washington D.C., where it is to present the product, called the ADSL Hitchhiker.</p>
+<p>The company's $15 million in initial financing should see it through the remainder of the year but it has nevertheless begun to look at ways of raising more money, he said. &quot;We'll either do an IPO (initial public offering) or get acquired.&quot;</p>
+<p>Co-founder Hawley, a famous former researcher at what was then AT&amp;T Corp 's Bell Laboratories, developed a technology used by phone companies to filter data traffic off of the telephone network, thereby reducing potential jams.</p>
+<p>The product, known as Lightspan 2000, was eventually acquired by DSC Communications Corp..</p>
+<p>&quot;What impresses me ...is they have a lot of experience in the local loop where a lot of difficulties happen to occur,&quot; said Virginia Brooks, an Aberdeen Group analyst.</p>
+<p>Aloia said the Hitchhiker used Asymmetric Digital Subscriber Line (ADSL) technology, which allows data to ride on a copper phone line and splits the voice and data signals, allowing data to be sent over newer, specially-dedicated high-speed networks.</p>
+<p>Aloia said Diamond's ADSL integrated system of software, modem and switching technology solved technical compatability issues throughout the network, both for the computer end-user and the phone service provider.</p>
+<p>The company plans to offer the end-user the personal computer adapter portion of the system for less than $500, he said, adding that it had not yet decided on the pricing for the switching equipment for the providers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

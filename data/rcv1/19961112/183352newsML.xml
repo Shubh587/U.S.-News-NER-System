@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183352" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: U.S. growth fund purchases drop - Schwab.</title>
+<headline>U.S. growth fund purchases drop - Schwab.</headline>
+<dateline>SAN FRANCISCO 1996-11-12</dateline>
+<text>
+<p>Charles Schwab Corp said customer purchases of U.S. domestic growth mutual funds dropped to $358 million in October, compared to $1.037 billion in September.</p>
+<p>Purchases of international growth funds climbed to $188.1 million from $174.3 million.</p>
+<p>Balanced funds dropped to $98.1 million from $209 million.</p>
+<p>Taxable bond funds were up to $107.6 million from $90.5 million.</p>
+<p>Meanwhile sales of tax-advantaged funds increased to $11.9 million from $8.1 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

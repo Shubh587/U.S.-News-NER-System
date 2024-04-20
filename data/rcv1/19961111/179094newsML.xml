@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179094" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: CyberGuard Corp Q1 loss widens.</title>
+<headline>CyberGuard Corp Q1 loss widens.</headline>
+<dateline>FT. LAUDERDALE, Fla. 1996-11-08</dateline>
+<text>
+<p>($000's except per share data)	    Three Months Ended</p>
+<p>						   Sep 30,	  Sep 30,</p>
+<p>						     1996		1995</p>
+<p> Total Revenues				  3,067	    8,707</p>
+<p> Net Loss					(8,261)	  (5,303)</p>
+<p> Loss per Common Share			(1.20)	   (0.90)</p>
+<p> Weighted Avg Number of shares	 6,859,146	5,911,437</p>
+<p>NOTE - Number of shares outstanding adjusted for one-for-three split.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FT. LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

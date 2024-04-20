@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="774869" id="root" date="1997-08-04" xml:lang="en">
+<title>SAN MARINO: TENNIS-SAN MARINO MEN'S TOURNAMENT RESULTS.</title>
+<headline>TENNIS-SAN MARINO MEN'S TOURNAMENT RESULTS.</headline>
+<dateline>SAN MARINO 1997-08-04</dateline>
+<text>
+<p>First round results of the</p>
+<p>$300,000 San Marino men's clay court tournament on Monday</p>
+<p>(prefix denotes seeding):</p>
+<p>2-Alberto Beresategui (Spain) beat Diego Nargiso (Italy) 6-3</p>
+<p>6-4</p>
+<p>Juan Marin (Spain) beat Elia Grossi (Italy) 7-5 6-1</p>
+<p>Alberto Martin (Spain) beat Davide Scala (Italy) 6-4 6-2</p>
+<p>Andrea Gaudenzi (Italy) beat Luis Morejon (Ecuador) 6-4 6-3</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SMARNO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MARINO"/>
+<dc element="dc.creator.location.country.name" value="SAN MARINO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

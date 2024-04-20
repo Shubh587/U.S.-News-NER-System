@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144384" id="root" date="1996-10-25" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-10-25</dateline>
+<text>
+<p>COAL - Pan Ocean TBN - 150,000 tonnes coal Roberts Bank/South Korea 1-15/12 $5.60 fio seven days shinc Posco.</p>
+<p>TBN 120,000 Newcastle or Port Kembla/Kaohsiung 10-20/12 $6.00 fio 35,000/28,000 China Steel.</p>
+<p>ORE - SGC Prosperity - 180,000 tonnes Cape Lambert/Rotterdam 1-15/12 $6.40 fio 80,000/40,000 Hanjin.</p>
+<p>Cape Australia - 12,000 tonnes ore Sepetiba/Kaosihung 5-15/12 $10.00 fio option Ponta da Madeira $9.80 40,000 shinc/38,000 shinc China Steel.</p>
+<p>There were no fixtures reported from New York on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

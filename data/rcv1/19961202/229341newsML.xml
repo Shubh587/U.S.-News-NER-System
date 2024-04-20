@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229341" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: U.S. Gold prices - Dec 2/96.</title>
+<headline>U.S. Gold prices - Dec 2/96.</headline>
+<text>
+<p>US dollars per Troy ounce-  Engelhard gold (bullion)	     372.03 (374.28)</p>
+<p> Engelhard gold (fabricated)	  390.63 (393.00)</p>
+<p> Handy and Harman gold (base price) 370.75 (373.00)</p>
+<p> Handy and Harman gold (fabricated) 389.29 (391.65)</p>
+<p> Krugerrand	    369.80/371.80  (372.10/374.10)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

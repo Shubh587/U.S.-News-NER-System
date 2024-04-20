@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103113" id="root" date="1996-10-08" xml:lang="en">
+<title>INDIA: India RBI SGL account trades-gilts/t bills - Oct 7.</title>
+<headline>India RBI SGL account trades-gilts/t bills - Oct 7.</headline>
+<dateline>BOMBAY 1996-10-08</dateline>
+<text>
+<p>The Reserve Bank of India (RBI) announced the following transactions in dated government securities and treasury bills through its Subsidiary General Ledger (SGL) account on October 7.</p>
+<p>  Name of the			Amount     Price	   YTM</p>
+<p>  instrument		    (Face value) (In rupees) Indicative</p>
+<p>				   million rupee</p>
+<p>OUTRIGHT TRANSACTIONS</p>
+<p>---------------------</p>
+<p>* Government of India</p>
+<p>dated securities</p>
+<p>  13.50% 1998 (Conversion)	50.00	101.81	12.1600</p>
+<p>  13.50% 1998 (Conversion)	50.00	101.79	12.1745</p>
+<p>  13.50% 1998 (Conversion)	50.00	101.80	12.1673</p>
+<p>  13.50% 1998 (Conversion)	50.00	101.80	12.1673</p>
+<p>  13.50% 1998 (Conversion)	50.00	101.795     12.1709</p>
+<p>  13.50% 1998 (Conversion)     100.00	101.78	12.1818</p>
+<p>  13.62% 1998			 50.00	101.10	12.8903</p>
+<p>  Zero Coupon Bond 1999	   50.00	 73.770     13.7946</p>
+<p>  Zero Coupon Bond 1999	   50.00	 73.800     13.7755</p>
+<p>  12.00% 1999			 50.00	 96.55	13.6755</p>
+<p>  12.00% 1999			 50.00	 96.50	13.7004</p>
+<p>  12.00% 1999			100.00	 96.72	13.5912</p>
+<p>  13.70% 1999			 50.00	101.32	13.0758</p>
+<p>  13.70% 1999			 50.00	101.33	13.0713</p>
+<p>  Zero Coupon Bond 2000 (III)  160.00	 60.220     13.9282</p>
+<p>  13.82% 2002			 50.00	100.05	13.8020</p>
+<p>  12.50% 2004			100.00	 93.05	14.0288</p>
+<p>  14.00% 2005 (Instalments)     20.00	101.00	13.7961</p>
+<p>  14.00% 2006			 40.00	100.77	13.8488</p>
+<p>  13.85% 2006			 01.20	100.00	13.8424</p>
+<p>  13.85% 2006			 42.50	 99.85	13.8707</p>
+<p>  Total			     1213.70</p>
+<p>* State Government Securities  --- N I L ---</p>
+<p>* Treasury Bills</p>
+<p>91 day bills (maturity-wise)</p>
+<p>  12/10/1996			  20.00	 99.8506    10.8926</p>
+<p>  26/10/1996			  50.00	 99.5182     9.2750</p>
+<p>  26/10/1996			 100.00	 99.5388     8.8766</p>
+<p>  30/11/1996			  65.00	 98.4741    10.4451</p>
+<p>  30/11/1996			  02.00	 98.6380     9.3077</p>
+<p>  30/11/1996			  02.00	 98.6860     8.9753</p>
+<p>  04/01/1997			 150.00	 97.5500    10.2719</p>
+<p>  04/01/1997			  50.00	 97.5616    10.2220</p>
+<p>  04/01/1997			  50.00	 97.5500    10.2719</p>
+<p>  Total				489.00</p>
+<p>* 364 Day Bills (maturity-wise)  --- N I L ---</p>
+<p>REPO TRANSACTIONS @</p>
+<p>-------------------</p>
+<p>(Other than with RBI)</p>
+<p>  Name of the	  Amount	  Price	 Repo Rate  Repo</p>
+<p>  instrument	   Face value    (In rupees) (% pa)    Period</p>
+<p>			   million rupee			     (Days)</p>
+<p>* Government of India</p>
+<p>Dated Securities</p>
+<p>  13.85% 2006	     140.00	 100.00     10.50	 3</p>
+<p>  Total		     140.00</p>
+<p>* Treasury Bills</p>
+<p>91 day bills (maturity-wise) ---- N I L ----</p>
+<p>* 364 day bills (maturity-wise) ---- N I L ----</p>
+<p>@ Relate to the first leg of Repos</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

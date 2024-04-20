@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35592" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: North American Scientific Inc Q3 profit.</title>
+<headline>North American Scientific Inc Q3 profit.</headline>
+<dateline>NORTH HOLLYWOOD, Calif. 1996-09-05</dateline>
+<text>
+<p>For the interim period ended July 31</p>
+<p>		    Three Months Ended	 Nine Months Ended</p>
+<p>			1996	 1995	   1996	 1995</p>
+<p>Net sales     $  836,300 $  442,400   $2,030,600 $1,226,100</p>
+<p>Net income	 115,800    (21,300)     261,500     43,300</p>
+<p>Net income</p>
+<p>per share	  4 cents    (1 cent)     9 cents     1 cent</p>
+<p>Weighted average number</p>
+<p>of shares outstanding</p>
+<p>		   2,983,201  2,966,856    2,983,201  2,966,856</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORTH HOLLYWOOD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

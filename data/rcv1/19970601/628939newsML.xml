@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="628939" id="root" date="1997-06-01" xml:lang="en">
+<title>UK: CRICKET-SUNDAY LEAGUE STANDINGS.</title>
+<headline>CRICKET-SUNDAY LEAGUE STANDINGS.</headline>
+<dateline>LONDON 1997-06-01</dateline>
+<text>
+<p>Sunday League cricket standings</p>
+<p>after the latest round of matches:</p>
+<p>			P  W  L  T  NR Pts Runrate</p>
+<p> Lancashire	 5  5  0  0  0  20  15.90</p>
+<p> Yorkshire	  5  4  1  0  0  16  12.13</p>
+<p> Essex		5  4  1  0  0  16  11.81</p>
+<p> Kent		 5  4  1  0  0  16  10.15</p>
+<p> Surrey	     5  3  1  0  1  14   1.52</p>
+<p> Warwickshire     5  3  2  0  0  12   8.90</p>
+<p> Glamorgan	  6  3  3  0  0  12   3.44</p>
+<p> Northamptonshire 5  2  2  0  1  10   1.93</p>
+<p> Somerset	   6  2  3  0  1  10  -0.12</p>
+<p> Worcestershire   4  2  2  0  0   8   7.11</p>
+<p> Nottinghamshire  5  2  3  0  0   8  -3.46</p>
+<p> Leicestershire   5  2  3  0  0   8  -9.44</p>
+<p> Middlesex	  5  2  3  0  0   8 -15.54</p>
+<p> Gloucestershire  4  1  2  0  1   6  15.29</p>
+<p> Hampshire	  6  1  4  0  1   6 -13.21</p>
+<p> Durham	     5  1  4  0  0   4 -10.81</p>
+<p> Sussex	     5  1  4  0  0   4 -19.14</p>
+<p> Derbyshire	 4  0  3  0  1   2 -11.93</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263258" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Neurobiological Tech says group starts test.</title>
+<headline>Neurobiological Tech says group starts test.</headline>
+<dateline>RICHMOND, Calif. 1996-12-18</dateline>
+<text>
+<p>Neurobiological Technologies Inc said on Wednesday a research group has started a Phase II clinical trial of the company's  neuroprotectant drug called Memantine.</p>
+<p>The group, called the Adult Aids Clinical Trials Group (AACTG), is a clinical research network supported by the National Institute of Allergy and Infectious Diseases (NIAID) of the National Institutes of Health.</p>
+<p>The trial will evaluate Memantine's ability to reduce dementia and neuropathic pain in AIDS patients for which there are currently no effective treatments, the company said.</p>
+<p>Neurobiological Technologies will supply Memantine and will have the right to use the data from the trial for the further commercial development of Memantine, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182596" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Supreme Court could jolt U.S. futures markets.</title>
+<headline>Supreme Court could jolt U.S. futures markets.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-11-12</dateline>
+<text>
+<p>U.S. laws governing the trillion dollar futures markets could be rocked by the Supreme Court's interpretation of the word &quot;in&quot; in a case to be argued Wednesday. But a legislative solution is in the offing.</p>
+<p>At issue is a 1974 amendment to the Commodity Exchange Act, the primary law regulating trading of futures contracts on everything from wheat and corn to interest rates and electricity.  </p>
+<p>Futures exchanges say a broad reading of the amendment would put them out of business, while major banks argue a narrow reading would force them to move vast operations out of the United States.</p>
+<p>Whatever the outcome, Congressional action is expected next year. &quot;It's certainly significant, but I suspect that at the end of the day, legislation will overtake this,&quot; said Howard Schneider, former Commodity Futures Trading Commission general counsel.  </p>
+<p>When Congress expanded the commodity act in 1974 to cover futures on non-agricultural commodities and created the Commodity Futures Trading Commission to police the markets, some big banks objected.</p>
+<p>They argued the law should not apply to trading of foreign currency, government securities and similiar items already flourishing among banks and securities firms.</p>
+<p>The Treasury Department agreed and in a letter to Congress suggested an amendment to the law that became known as the Treasury Amendment.  </p>
+<p>The amendment says &quot;transactions in&quot; foreign currency, security warrants, repurchase options, government securities and a few other items are exempt from the Commodity Exchange Act unless they involve sale for future delivery conducted &quot;on a board of trade.&quot;</p>
+<p>The banks continued to trade foreign currencies unimpeded but the CFTC began to encounter a new problem. Unscrupulous &quot;bucket shops&quot; that peddled off-exchange commodity contracts to rip off unsuspecting investors were expanding into foreign currency schemes.  </p>
+<p>The CFTC shut down the forex shops but lawyers for the shops argued forex investment contracts should be considered transactions &quot;in&quot; foreign currency and exempt from CFTC rules.</p>
+<p>Lower federal courts took up the issue but reached conflicting conclusions. Some said &quot;transactions in foreign currency&quot; exempted dealings only with actual currencies, not derivatives on the currencies like futures and options. Others decided that &quot;in&quot; exempted all trading involving currencies.</p>
+<p>The Supreme Court will likely resolve that conflict in Wednesday's case concerning William Dunn, the manager of a $180 million hedge fund investing in foreign currencies.  </p>
+<p>In November, 1993, Dunn told his investors he had lost $95 million. The CFTC soon charged Dunn with fraud under the Commodity Exchange Act. A lower court agreed.</p>
+<p>Asking the Supreme Court to uphold that decision, CFTC lawyers argue that Congress would have used the word &quot;involving&quot; rather than &quot;in&quot; if it had wanted to exempt forex derivatives.</p>
+<p>But Dunn's lawyers and four banks that dealt with his fund maintain that the CFTC has no jurisdiction to prosecute under the commodity act.  </p>
+<p>Affirming the earlier decision would undermine the $40 billion a day global currency market by subjecting it to unworkable regulation, the banks said. And Dunn, if guilty of any misconduct, could be prosecuted under wire fraud or securities laws, the banks said.</p>
+<p>At the other extreme, the Chicago futures exchanges appear terrified the court will strike down the lower court ruling.  </p>
+<p>Chicago Board of Trade, in an amicus brief written in part by Kenneth Starr, the independent counsel in the Whitewater investigation, warned that a broad reading of the exemption would create havoc, allowing unregulated dealings in all kinds of futures contracts now traded on exchanges.</p>
+<p>&quot;The idea that someone could clone the Board of Trade's principal products, trade them off-exchange and not be subject to any regulation is pretty darn troublesome,&quot; Mark Young, another exchange attorney, said.</p>
+<p>A ruling is not expected for months, but the banks and exchanges will have to continue their struggle in the legislative venue almost immediately.</p>
+<p>Congress could resolve the dispute through legislation, which would render the decision moot. One bill was introduced in the last Congress to amend the Treasury Amendment and Senator Richard Lugar (R-IN) has said he will likely offer a new bill early next year.</p>
+<p>-- 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

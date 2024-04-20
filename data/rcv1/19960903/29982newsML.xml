@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29982" id="root" date="1996-09-03" xml:lang="en">
+<title>SWITZERLAND: Swiss bankers revise asset management rules.</title>
+<headline>Swiss bankers revise asset management rules.</headline>
+<dateline>BERNE, Switzerland 1996-09-03</dateline>
+<text>
+<p>The Swiss Bankers' Association has issued revised guidelines for asset management which take into account widespread use of sophisticated financial instruments.</p>
+<p>&quot;Much that once was the preserve of a few specialists has come into general use by banks, such as securities lending or structured products and individual over-the-counter investments,&quot; the Bankers' Association said in a statement.</p>
+<p>The latest version of its guidelines, detailed under a set of rules titled &quot;the Asset Management Agreement,&quot; follows an earlier revision of August 1990.</p>
+<p>The latest rules stipulate that a bank may carry out &quot;all transactions it considers necessary in the context of regular asset management&quot; but said that banks must advise clients of risks associated with discretionary operations.</p>
+<p>Oversight will be conducted by the bank's internal supervisory body.</p>
+<p>The mandate stipulates that banks must avoid entering high risks as a result of low diversification, and also says that investments must be in readily marketable instruments.</p>
+<p>Banks may invest in standardised traded options on securities, currencies, precious metals, interest rate instruments and stock exchange indices provided these have no leverage effect on the portfolio.</p>
+<p>The same principles apply to over-the-counter transactions.</p>
+<p>With respect to derivatives instruments generally, the Bankers' Association said that these &quot;are only admitted if and as far as they meet the requirements of these Guidelines and the asset management mandate. The bank must apply measures of due diligence and professional handling.&quot;</p>
+<p>It said that banks may buy or sell financial futures but any sale must be generally covered by a corresponding position in the underlying security. In the case of stock index futures, foreign exchange or interest rate futures, the underlying asset need be only &quot;adequately represented,&quot; it said.</p>
+<p>Securities lending, a practice in which funds may lend out securities in their portfolios, is allowed as long as banks hedge risks by demanding collateral, or restricting lending to prime borrowers.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

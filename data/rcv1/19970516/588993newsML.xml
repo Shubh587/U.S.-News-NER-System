@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="588993" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: Federal Reserve business loans fell - May 7 week.</title>
+<headline>Federal Reserve business loans fell - May 7 week.</headline>
+<text>
+<p>ONE WEEK ENDED MAY 7</p>
+<p>(Seasonally adjusted, millions of dollars)</p>
+<p> Business loans............810,600 down...3,000</p>
+<p> U.S. Govt securities......722,700 down...6,300</p>
+<p> Large time deposits.......557,600 down...2,700</p>
+<p> U.S. commercial paper.....858,316 up.....4,790</p>
+<p> Financial companies.......660,621 up.....2,957</p>
+<p> New York business loans....46,296 down...1,532</p>
+<p> Excluding acceptances......46,029 down...1,541</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

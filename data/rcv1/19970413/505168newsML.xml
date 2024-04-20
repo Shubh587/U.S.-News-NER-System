@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="505168" id="root" date="1997-04-13" xml:lang="en">
+<title>AUSTRALIA: Rugby union-Wellington rally to beat Queensland.</title>
+<headline>Rugby union-Wellington rally to beat Queensland.</headline>
+<dateline>BRISBANE 1996-04-14</dateline>
+<text>
+<p>Wellington staged an outstanding revival to move into fifth place in the Super 12 table with a 47-29 win over struggling Queensland on Saturday.</p>
+<p>The New Zealanders scored six tries to two at Ballymore to earn an extra bonus point after falling 17-0 behind early in the game.</p>
+<p>The defeat added to the gloom for Queensland, the fallen giants of southern hemisphere rugby who have won only once in seven outings this season after reaching the semifinals last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

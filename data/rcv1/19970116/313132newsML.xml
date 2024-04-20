@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313132" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: CBOT soybean deliveries - Jan 16.</title>
+<headline>CBOT soybean deliveries - Jan 16.</headline>
+<dateline>CHICAGO 1997-01-16</dateline>
+<text>
+<p>Delivery notices against the January soybean contract for January 17 (In thousand bushels).</p>
+<p>LOCATION: TOLEDO DISTRICT		 GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL    1    2    3</p>
+<p>1600 THE ANDERSONS TOLEDO	   225	 225</p>
+<p>1610 THE ANDERSONS MAUMEE OH	200	 200</p>
+<p>1650 COUNTRYMARK-TOLEDO		 5	   5</p>
+<p>				TOTAL     430</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	ISSUES  CUSTOMER  HOUSE</p>
+<p>090  CIS		  25	 25</p>
+<p>455  IOWA GRAIN	 15	 15</p>
+<p>525  TENCO, INC	 25	 25</p>
+<p>711  USA TRDING	 25	 25</p>
+<p>825  ING		 330	330</p>
+<p>905  ADM		  10	  5	  5</p>
+<p>     TOTAL	     430	425	  5</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	 STOPS  CUSTOMER  HOUSE</p>
+<p>210  TERM COMM.	310		   310</p>
+<p>325  GOLDBERG	   20		    20</p>
+<p>525  TENCO, INC	 40	 40</p>
+<p>690  O CONNOR	   60		    60</p>
+<p>     TOTAL	     430	 40	390</p>
+<p>	 LAST DAY ASSIGNED:  01/09/97</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368164" id="root" date="1997-02-10" xml:lang="en">
+<title>AUSTRALIA: Australian Dec house material prices rise.</title>
+<headline>Australian Dec house material prices rise.</headline>
+<dateline>CANBERRA 1997-02-10</dateline>
+<text>
+<p>Australian house building materials prices increased 0.1 percent in December from the previous month and were 0.3 percent higher than a year earlier, the Australian Bureau of Statistics said on Monday.</p>
+<p>Other building materials prices rose 0.2 percent in December and were 0.1 percent higher than a year before.  </p>
+<p>The bureau said higher prices for structural timber was the main factor in the increase in the house building materials index.</p>
+<p>&quot;This was partly offset by a small decrease in prices for clay brick,&quot; it said.</p>
+<p>The rise in the index for non-house materials was fuelled mainly by increases in prices for ready-mix concrete and non-ferrous pipes.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I50400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

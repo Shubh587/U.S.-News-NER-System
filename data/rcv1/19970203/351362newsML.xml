@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351362" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Wash.-Canada power line re-energized over weekend.</title>
+<headline>Wash.-Canada power line re-energized over weekend.</headline>
+<dateline>LOS ANGELES 1997-02-03</dateline>
+<text>
+<p>The double circuit 500 kilovolt Raver-Schultz power line, running from Snohomish County, Wash., to Canada, was re-energized over the weekend, Bonneville Power Administration (BPA) said Monday.</p>
+<p>One circuit of the line was repaired Friday, while work on the second circuit took slightly longer, BPA said.</p>
+<p>The Raver-Schultz lines were damaged during ice storm just over two weeks ago.</p>
+<p>During part of the outage, BPA had to restrict hydroelectric power generation at certain dams due to voltage support concerns related to the transmission line outage.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604453" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: iMall Inc Q1 net loss vs profit.</title>
+<headline>iMall Inc Q1 net loss vs profit.</headline>
+<dateline>PROVO, Utah 1997-05-22</dateline>
+<text>
+<p>Three months ended   Three months ended</p>
+<p>				 March 31, 1997	 March 31, 1996</p>
+<p>Revenues			  $ 4,078,434	    $ 4,179,150</p>
+<p>Provision for Income Taxes	     --		  277,123</p>
+<p>Net Income			   (577,968)		 439,478</p>
+<p>Net Income Per Common Share     ($ 0.01)		  $ 0.03</p>
+<p>Total Shares Outstanding	60,489,827	     13,643,176</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVO, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

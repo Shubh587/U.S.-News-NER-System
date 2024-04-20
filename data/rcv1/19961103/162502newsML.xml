@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162502" id="root" date="1996-11-03" xml:lang="en">
+<title>ISRAEL: Pro-Israeli militiaman killed in Lebanon blast.</title>
+<headline>Pro-Israeli militiaman killed in Lebanon blast.</headline>
+<dateline>JERUSALEM 1996-11-03</dateline>
+<text>
+<p>A bomb blast killed a pro-Israeli South Lebanon Army (SLA) militiaman in Israel's Lebanon occupation zone on Sunday, Israeli security sources said.</p>
+<p>They said the blast occurred in the eastern sector of the 15 km (nine mile) -wide zone apparently while an SLA force was on patrol. There were no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

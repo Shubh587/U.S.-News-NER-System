@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73553" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: U.S. cotton consumption -- Census.</title>
+<headline>U.S. cotton consumption -- Census.</headline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>U.S. Census Bureau reports factory consumption of domestic and foreign cotton (bales):</p>
+<p>    Aug 96-A   Jul 96-B    Aug 95   Cum 1996   Cum 1995</p>
+<p>     842,312    731,449-R 829,188  6,794,286  7,030,715</p>
+<p>DAILY AVERAGE CONSUMPTION OF ALL COTTON (bales):</p>
+<p>    Aug 96-X   Jul 96-Y   Aug 95</p>
+<p>	40,001     40,240-R 39,232</p>
+<p>DAILY AVERAGE SPINDLE HOURS OPERATED:</p>
+<p>    Aug 96-X  Jul 96-Y   Aug 95</p>
+<p>	   148	 147-R    163</p>
+<p>A-4 weeks. B-4 weeks. X-Based on 20 days. Y-20 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

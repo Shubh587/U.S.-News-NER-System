@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118983" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Nasdaq closing most actives - Oct 16.</title>
+<headline>Nasdaq closing most actives - Oct 16.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Wednesday.</p>
+<p>  Sun Microsystems  17,984,900	 63 1/8     off  6 7/8</p>
+<p>  U.S. Robotics     13,604,500	 77 5/8	up    3/8</p>
+<p>  Intel Corp	  10,828,400	112 5/8	up  1 1/2</p>
+<p>  Amgen		  8,104,200	 58 1/2	up  1 1/8</p>
+<p>  Imega		  7,744,000	 25 13/16    up  1 1/2</p>
+<p>  MCI		    5,853,800	 24 1/2     off    5/8</p>
+<p>  Cisco		  4,700,200	 65 3/8     off    1/2</p>
+<p>  Memco		  4,368,100	 19	    up  4</p>
+<p>  Atmel		  4,163,200	 29 3/4     off    5/8</p>
+<p>  VLSI		   3,965,400	 18 3/4	up    3/8</p>
+<p>Volume: 546,750,300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

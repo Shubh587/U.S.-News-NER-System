@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155087" id="root" date="1996-10-30" xml:lang="en">
+<title>JAPAN: NTT aims to offer low-cost network service by 2005.</title>
+<headline>NTT aims to offer low-cost network service by 2005.</headline>
+<dateline>TOKYO 1996-10-30</dateline>
+<text>
+<p>Nippon Telegraph and Telephone Corp said on Wednesday it plans a new network service in Japan by 2005 which will allow users to connect to the Internet at a speed 400 times faster than the current phone line and at a low cost.</p>
+<p>NTT announced the network plan, called Mega Media, on Wednesday as its new research and development target for the year 2005.</p>
+<p>&quot;It will allow users a smooth and cheap downloading of motion pictures from the Internet,&quot; NTT's executive vice president Toshiharu Aoki said in a news conference.</p>
+<p>NTT aims to send information at a speed of 10 megabits per second -- about 400 times faster than that of the ordinary phone line -- on the nationwide optical network system it is now constructing.</p>
+<p>It will introduce a new telephone switch system called ATM on the optical network, which will help to reduce the monthly fee for consumers to use the new service to around 10,000 yen ($87), including the basic and service costs, he said.</p>
+<p>NTT plans to connect Japanese homes in big cities with the optical fibre network by 2005, completing the nationwide network by 2010. ($1=114 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

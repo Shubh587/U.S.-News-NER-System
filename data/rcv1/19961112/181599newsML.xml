@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181599" id="root" date="1996-11-12" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN CUP RESULTS. [CORRECTED 4:43 GMT 14/11]</title>
+<headline>SOCCER-GERMAN CUP RESULTS. [CORRECTED 4:43 GMT 14/11]</headline>
+<dateline>BONN 1996-11-12</dateline>
+<text>
+<p>Results of German Cup matches played on Tuesday:</p>
+<p> Energie Cottbus 0 St Pauli	0 - after extra time</p>
+<p>(Cottbus won 5-4 on penalties)</p>
+<p> Bayern Munich   3 Werder Bremen 1</p>
+<p>(Corrects to show matches were not quarter finals)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

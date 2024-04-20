@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270721" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Allegiance unit to buy consulting firm.</title>
+<headline>Allegiance unit to buy consulting firm.</headline>
+<dateline>MCGAW PARK, Ill. 1996-12-20</dateline>
+<text>
+<p>Allegiance Corp said its U.S. unit will acquire  West Hudson &amp; Co Inc, a privately owned health-care consulting firm with annual sales of about $38 million.</p>
+<p>Financial terms of the acquisition, expected to close January 2, were not disclosed.</p>
+<p>Allegiance makes and markets medical, surgical and laboratory supplies. It was spun off earlier this year by Baxter International Inc.</p>
+<p>West Hudson employs about 200 consultants across the United States who work full time at their client hospitals.</p>
+<p>((--Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MCGAW PARK, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

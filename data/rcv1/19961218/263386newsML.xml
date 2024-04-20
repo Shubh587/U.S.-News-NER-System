@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263386" id="root" date="1996-12-18" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION SUMMARIES.</headline>
+<dateline>AMSTERDAM 1996-12-18</dateline>
+<text>
+<p>Summaries of Dutch first</p>
+<p>division soccer matches played on Wednesday:</p>
+<p>Feyenoord 1 (Koeman 36 pen) Roda JC Kerkrade 0. Halftime 1-0.</p>
+<p>Attendance 20,000.</p>
+<p>Fortuna Sittard 2 (Burke 51, Van der Weert 66) NAC Breda 2</p>
+<p>(Arnold 30, Stewart 81). Halftime 0-1. Attendance 4,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

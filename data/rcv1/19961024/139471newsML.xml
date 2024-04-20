@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139471" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: ValuJet resumes some scheduled flights.</title>
+<headline>ValuJet resumes some scheduled flights.</headline>
+<dateline>ATLANTA 1996-10-24</dateline>
+<text>
+<p>ValuJet Airlines Inc said on Thursday it restarted scheduled services between Atlanta and Chicago, Philadelphia, Raleigh/Durham, N.C., and Mobile, Ala, the final phase in its plan to fly again.</p>
+<p>The discount carrier announced on September 26 it would resume service. It was grounded in June for safety concerns, after its Flight 592 crashed into the Florida Everglades, killing all 110 people aboard.</p>
+<p>Valujet said it would offer special introductory fares on these routes through October 31.</p>
+<p>The airline said it now operated a total of 102 peak daily departures, including flights from Atlanta to Florida, Washington D.C.'s Dulles Airport, Ohio, Georgia, Tennessee and Kentucky.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

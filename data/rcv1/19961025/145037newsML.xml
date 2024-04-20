@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145037" id="root" date="1996-10-25" xml:lang="en">
+<title>JAPAN: Japan Sept kerosene imports up, gas oil down yr/yr.</title>
+<headline>Japan Sept kerosene imports up, gas oil down yr/yr.</headline>
+<dateline>TOKYO 1996-10-25</dateline>
+<text>
+<p>Japan's Trade Ministry issued the following data on Friday on oil product imports during September (barrel equivalents are also shown):</p>
+<p>	 (In 1,000 kl)(1,000 bbl) mth/mth%  yr/yr %</p>
+<p> Gasoline     130	  818    -42.7	+25.0</p>
+<p> Naphtha    2,111     13,278    -19.0	 -6.7</p>
+<p> Kerosene     137	  862    -13.3     +101.5</p>
+<p> Gas oil	  5	   31    -88.1	-95.0</p>
+<p> Fuel oil A    85	  535    -17.5	+54.5</p>
+<p> Fuel oil C   225	1,415    -21.9	+45.2</p>
+<p>(Note: LSWR imports are included in the Fuel oil C statistics)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

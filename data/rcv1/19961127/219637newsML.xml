@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219637" id="root" date="1996-11-27" xml:lang="en">
+<title>CANADA: UGG details Canada oats supply and dispositions.</title>
+<headline>UGG details Canada oats supply and dispositions.</headline>
+<dateline>WINNIPEG 1996-11-27</dateline>
+<text>
+<p>United Grain Growers Ltd on Wednesday issued its supply and disposition estimates for oats in the 1996/97 (Aug/July) crop year.</p>
+<p>SUPPLY     96/97 Est.  95/96 Est.  5-yr-avg ('000 tonnes)</p>
+<p>open stocks  415	   740	   765</p>
+<p>output     4,637	 2,858	 2,934</p>
+<p>total:     5,056	 3,603	 3,701</p>
+<p>USE</p>
+<p>exports    1,250	 1,132	   931</p>
+<p>seed	   150	   171	   147</p>
+<p>human food   250	   266	   194</p>
+<p>feed/waste 2,100	 1,619	 1,770</p>
+<p>total:     3,750	 3,188	 3,043</p>
+<p>CARRYOVER  1,306	   415	   659</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

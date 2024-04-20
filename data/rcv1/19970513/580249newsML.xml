@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="580249" id="root" date="1997-05-13" xml:lang="en">
+<title>ALGERIA: Port conditions update - Algeria - Lloyds Shipping.</title>
+<headline>Port conditions update - Algeria - Lloyds Shipping.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>ALGERIA, May 10 - Algiers - Around 20 vessels, most with bagged potatoes and sugar are in Algiers roads awaiting entrance.</p>
+<p>Due to this congestion the port authorities decided to take severe measures to ease congestion and reduce waiting time.</p>
+<p>All sampling and quality control to be carried out while vessels are on roads with no berthing allowed before.</p>
+<p>The first measure if a vessel is berthed for three days without discharge is that she will be immediately shifted at anchorage at her own charges.</p>
+<p>Vessels have to be equipped with proper cranes/derricks otherwise they will be rerouted to another port.</p>
+<p>Cargoes are to be pre-slung or palletised to reduce time of discharge and discharge is to be carried out with maxi gangs on four shifts a day.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="ALGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

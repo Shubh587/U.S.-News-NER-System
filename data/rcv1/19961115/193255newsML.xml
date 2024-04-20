@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193255" id="root" date="1996-11-15" xml:lang="en">
+<title>EGYPT: Gunmen kill police guard in southern Egypt.</title>
+<headline>Gunmen kill police guard in southern Egypt.</headline>
+<dateline>ASSIUT, Egypt 1996-11-15</dateline>
+<text>
+<p>Gunmen thought to be Islamist militants shot dead a police guard in southern Egypt on Friday, security sources said.</p>
+<p>The gunmen opened fire at Mohyeddin Tolba Omar in the street in the village of Qasr Ghour near the town of Mallawi, killing him instantly. The gunmen escaped.</p>
+<p>Mallawi, 260 km (160 miles) south of Cairo, is the centre of activity of the Gama'a al-Islamiya (Islamic Group), the largest militant organisation fight the Egyptian government.</p>
+<p>The group, which wants strict Islamic rule, is fighting a low-level guerrilla war in Egypt's southern provinces. Almost 1,000 people have been killed and hundreds more wounded since it launched its armed campaign in 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASSIUT, Egypt"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

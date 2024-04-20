@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751930" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Boston Edison Co Q2 net rises.</title>
+<headline>TABLE - Boston Edison Co Q2 net rises.</headline>
+<dateline>BOSTON 1997-07-24</dateline>
+<text>
+<p>(in thousands except per share data)</p>
+<p> 3 months ended June 30:	 1997		1996  % Change</p>
+<p> Operating revenues	  $   426,735    $   389,756    9.5%</p>
+<p> Net income			   33,978	   27,926   21.7%</p>
+<p> Earnings per share		   0.63	     0.50   26.0%</p>
+<p> Weighted average # of shares   48,515	   48,194    0.7%</p>
+<p> 12 months ended June 30:	  1997	   1996   % Change</p>
+<p> Operating revenues	  $ 1,738,158  $ 1,645,601	5.6%</p>
+<p> Net income			  143,331   119,101(a)     20.3%</p>
+<p> Earnings per share		   2.65	2.17(a)     22.1%</p>
+<p> Weighted average # of shares   48,440	 47,771	1.4%</p>
+<p>NOTE: (a) Includes $34 million, or $0.43 per share after tax charge related to 1995 corporate restructuring.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

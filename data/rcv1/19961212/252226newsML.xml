@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252226" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Thursday.</p>
+<p>  Intel Corp	  18,990,900	 136 7/8    unch    UNCH</p>
+<p>  Microsoft Cp	9,753,400	 81	   off    2 3/8</p>
+<p>  Dell Computer     7,466,300	 57 1/4     off    2 5/8</p>
+<p>  Boston Tech	 6,788,400	 23 3/8     up     4 3/8</p>
+<p>  Intel Corp ws     6,282,600	 97 7/8     up     1/8</p>
+<p>  Ascend Comm	 5,825,800	 70 7/8     off    3</p>
+<p>  Sun Microsys	5,824,400	 30 3/8     off    1/8</p>
+<p>  Tele Comm Inc A   5,438,100	 13 1/8     unch    UNCH</p>
+<p>  Cisco Systems     5,201,300	 65 3/4     off    2 1/4</p>
+<p>  Applied Matl	5,012,100	 39 1/8     up     3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351276" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Study urges blueprint for US air traffic system.</title>
+<headline>Study urges blueprint for US air traffic system.</headline>
+<dateline>WASHINGTON 1997-02-03</dateline>
+<text>
+<p>A U.S. congressional body on Monday urged the Federal Aviation Administration to develop a technical blueprint for its air traffic control system modernization program to avoid costly duplication.</p>
+<p>A report by the General Accounting Office said the FAA lacks such a blueprint, or systems architecture, which would help it avoid inconsistency and incompatibility of systems as it modernizes the aging air traffic control system.  </p>
+<p>&quot;For example, two (air traffic control) systems perform flight data processing functions, one for traffic in the continental U.S. and the other for traffic over the oceans,&quot; the GAO report said.</p>
+<p>&quot;Since about 40 percent of the functions that these systems perform are the same, their replacements could potentially share a significant amount of software, avoiding duplicative development and saving money,&quot; the study said.</p>
+<p>&quot;However, without a technical architecture specifying the information technology standards and rules, the opportunity to share software will likely be lost,&quot; the report concluded.</p>
+<p>The report said that in some cases, system incompatibilities exist because the technology and standards now available to permit systems integration were unavailable at the time they were designed. But it said that in other cases systems were incompatible because of a lack of an overall technical blueprint.</p>
+<p>The report said lack of such a blueprint adds to costs of developing and maintaining systems and reduces performance.</p>
+<p>Since 1981, the FAA has spent about $23 billion to modernize the air traffic control system, the GAO said. It plans to spend another $11 billion through 2003.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172642" id="root" date="1996-11-07" xml:lang="en">
+<title>COLOMBIA: Two traffic policemen gunned down in Bogota.</title>
+<headline>Two traffic policemen gunned down in Bogota.</headline>
+<dateline>BOGOTA 1996-11-06</dateline>
+<text>
+<p>Three Colombian traffic policemen have been killed in the past six days, two of them on Tuesday, Bogota's El Espectador newspaper reported on Wednesday.</p>
+<p>It said the two were shot and killed in the capital's downtown area after pulling over a red Mazda sedan to check the driver's papers. The two gunmen who opened fire from the car escaped, police said.</p>
+<p>Another traffic cop was run down and killed by a city bus driver last Friday after the driver was ticketed for a minor infraction. The driver is under arrest.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

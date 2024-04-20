@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207207" id="root" date="1996-11-21" xml:lang="en">
+<title>INDIA: Bomb explodes in bus in India's northeastern state.</title>
+<headline>Bomb explodes in bus in India's northeastern state.</headline>
+<text>
+<p>GUWAHATI, India, Nov 21 - A bomb exploded in a bus on Thursday in India's northeastern state of Assam, but there were no immediate reports of deaths or injuries, local police said.</p>
+<p>Police said the bomb exploded in a private bus which was not carrying passengers in Guwahati, the state capital.</p>
+<p>&quot;Only the driver and his assistant were there in the bus. We have arrested them and interrogations are on,&quot; a police official, who asked not to be identified, told Reuters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

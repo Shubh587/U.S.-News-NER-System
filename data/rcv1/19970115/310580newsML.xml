@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="310580" id="root" date="1997-01-15" xml:lang="en">
+<title>ITALY: Italy's Repubblica launches internet site.</title>
+<headline>Italy's Repubblica launches internet site.</headline>
+<dateline>MILAN 1997-01-15</dateline>
+<text>
+<p>Italian newspaper La Repubblica reported on Wednesday that the launch of an on-line newspaper on the worldwide web of the internet had attracted 500,000 readers on its first day.</p>
+<p>La Repubblica said the site, located at http://www.repubblica.it, had been launched on January 14, the 21st anniversary of the newspaper's birth.</p>
+<p>The peak hour was between 1000 and 1100 gmt when the site attracted more than 60,000 connections, La Repubblica said.</p>
+<p>Milan newsroom +392-66102321</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

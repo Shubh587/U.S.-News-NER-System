@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214889" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: U.S. plane returns to airport with engine fault.</title>
+<headline>U.S. plane returns to airport with engine fault.</headline>
+<dateline>SAN FRANCISCO 1996-11-24</dateline>
+<text>
+<p>A United Airlines Boeing 747 dumped fuel over the Pacific Ocean and returned to San Francisco airport on Sunday after one of its engines died soon after takeoff, an airport official said.</p>
+<p>United Airlines Flight 807 to Seoul, South Korea took off from San Francisco International Airport at noon local time (3 P.M. EST) with 287 passengers and crew on board, airport duty manager Mike McCarron said.</p>
+<p>Soon after takeoff, one of the plane's four engines died, McCarron said. The plane climbed to a safe altitude and the crew flew out over the Pacific Ocean to jettison fuel to lower the aircraft's weight.</p>
+<p>Using only three engines, the plane returned to land at San Francisco airport about 50 minutes after takeoff. Emergency crews were standing by but the plane landed normally and there were no problems, McCarron said. No one was hurt.</p>
+<p>The passengers were transferred to another plane which took off for Seoul just over an hour later, McCarron said.</p>
+<p>United Airlines was investigating the cause of the engine problem, he said.</p>
+<p>United Airlines is a subsidiary of UAL Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168628" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Regulator backs First Union insurance plan.</title>
+<headline>Regulator backs First Union insurance plan.</headline>
+<dateline>WASHINGTON 1996-11-06</dateline>
+<text>
+<p>The Office of the Comptroller of the Currency said it had approved First Union Corp's proposal to establish operating units to engage in certain general insurance agency activites.</p>
+<p>Insurance business units would be established in the following states where First Union banks have branches: North Carolina, South Carolina, Georgia, Florida, Tennessee, Virginia, Maryland, Pennsylvania, New Jersey and New York.</p>
+<p>The units would be licensed under applicable state law and engage in general insurance agency activities including life, health, property and casualty, a statement by the regulator of nationally chartered banks said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

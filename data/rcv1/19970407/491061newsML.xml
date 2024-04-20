@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491061" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Clinton declares disaster in North, South Dakota.</title>
+<headline>Clinton declares disaster in North, South Dakota.</headline>
+<dateline>WASHINGTON 1997-04-07</dateline>
+<text>
+<p>President Clinton declared a major disaster in parts of North and South Dakota suffering from severe flooding and harsh winter storms, the White House said in a statement Monday.</p>
+<p>Clinton's action, which applied to 53 counties in North Dakota and 66 in South Dakota, makes federal aid available to individuals who are victims of the storms, which began in February, and the resulting flooding.</p>
+<p>Minnesota officials also were preparing a request for federal aid.</p>
+<p>Members of Congress from the Dakotas said emergency funds were needed immediately to help clear roads, provide emergency heat assistance and restore power and telephone services.</p>
+<p>Highways and many roads across North Dakota were blocked by downed power lines and littered with snowdrifts up to 10 feet deep. Most schools were closed and travel bans were in effect for all but essential trips in many towns.</p>
+<p>Thousands of people remained without power or heat and were warned they would not have them back for days because scores of high-voltage power towers had collapsed.</p>
+<p>Volunteers and National Guard troops piled sandbags in frigid temperatures along overflowing rivers across the region as ice-coated tree limbs sagged dangerously overhead.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

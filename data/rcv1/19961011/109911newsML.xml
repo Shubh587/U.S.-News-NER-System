@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109911" id="root" date="1996-10-11" xml:lang="en">
+<title>UK: GOLF-BJORN NAMED GOLFER OF THE MONTH.</title>
+<headline>GOLF-BJORN NAMED GOLFER OF THE MONTH.</headline>
+<dateline>ST ANDREWS, Scotland 1996-10-11</dateline>
+<text>
+<p>Thomas Bjorn, the first Dane to win on the European Tour, has been voted the tour's Golfer of the Month for September.</p>
+<p>Bjorn won the Loch Lomond World Invitational in Scotland three weeks ago. He was also sixth in the European Open in Ireland and seventh at the European Masters in Switzerland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST ANDREWS, Scotland"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

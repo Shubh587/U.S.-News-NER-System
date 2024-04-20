@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398649" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Motorola, LSI in modem technology deal.</title>
+<headline>Motorola, LSI in modem technology deal.</headline>
+<dateline>MANSFIELD, Mass. 1997-02-24</dateline>
+<text>
+<p>Motorola Inc's Information Systems Group and LSI Logic Corp said Monday they had agreed to embed Motorola's V.34 software modem technology in LSI's semiconductor chips.</p>
+<p>The licensing deal is expected to lower costs and speed the move to a new generation of consumer and communications products using built-in modems, the companies said.</p>
+<p>The new category of products, known as &quot;intelligent embedded devices,&quot; includes network computers, Web browsers, interactive-play games, and set-top television satellite and cable receivers.  </p>
+<p>An LSI official said his company expected to announce several products based on the embedded modem technology in the second half of 1997.</p>
+<p>The alliance will enable Motorola to expand the market for its new software modem technology, and will enable LSI Logic to leverage its leading position in the MIPS-based embedded microprocessor industry, the companies said in a joint statement.</p>
+<p>Silicon Graphics Inc's MIPS chips are high-end processors used in a wide variety of consumer electronics products. LSI chips are designed to run in conjunction with MIPS processors.</p>
+<p>LSI said it will add the Motorola software modem function to enhance its CoreWare library of technology building blocks, which allow customers to customize the design of LSI chips to build their own electronics products.</p>
+<p>&quot;This alliance should drive software modem technology deep into the consumer and communications markets,&quot; said John Daane, vice president and general manager of LSI Logic's Communication Products Division.</p>
+<p>((--E. Auchard, New York Newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANSFIELD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

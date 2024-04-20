@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234156" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: NY airport runways blocked by Delta plane.</title>
+<headline>NY airport runways blocked by Delta plane.</headline>
+<dateline>NEW YORK 1996-12-04</dateline>
+<text>
+<p>The landing gear on a Delta Air Lines 727 malfunctioned after arrival at New York's La Guardia airport on Wednesday, forcing two runways to close for six hours and delaying other air traffic, officials said.</p>
+<p>They said there was no emergency and no injuries to the 102 passengers and seven crew aboard the shuttle flight from Boston that landed at 7:19 a.m. EST (1219 GMT). All disembarked down the mobile stairways.</p>
+<p>More than six hours later, the plane was removed from the runway on a flatbed truck and normal flight schedules resumed, said a spokeswoman for the Port Authority of New York and New Jersey, which manages the region's three major airports.</p>
+<p>Delta spokesman Bill Berry said the pilot, after a routine landing, had reported a light came on in the cockpit indicating a landing gear problem. As a precaution, maintenance crews decided to remove the plane from the runway rather than risk the collapse of the landing gear by driving it to the terminal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

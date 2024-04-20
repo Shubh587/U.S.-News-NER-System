@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112871" id="root" date="1996-10-13" xml:lang="en">
+<title>USA: NHL-SATURDAY'S RESULTS.</title>
+<headline>NHL-SATURDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-10-13</dateline>
+<text>
+<p>Results of National Hockey</p>
+<p>League games played on Saturday (home team in CAPS):</p>
+<p> Dallas	    4    NEW JERSEY     2</p>
+<p> Detroit	   6    BUFFALO	  1</p>
+<p> FLORIDA	   6    Hartford	 0</p>
+<p> NY ISLANDERS    5    Philadelphia   1</p>
+<p> MONTREAL	  5    NY Rangers     2</p>
+<p> PITTSBURGH	3    Ottawa	   2</p>
+<p> Tampa Bay	 7    TORONTO	  4</p>
+<p> Los Angeles     4    WASHINGTON     3</p>
+<p> PHOENIX	   4    Anaheim	  2</p>
+<p> VANCOUVER	 5    St Louis	 3</p>
+<p> Boston	    5    SAN JOSE	 3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

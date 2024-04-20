@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594646" id="root" date="1997-05-19" xml:lang="en">
+<title>CHILE: Escondida reports higher copper output.</title>
+<headline>Escondida reports higher copper output.</headline>
+<dateline>SANTIAGO 1997-05-19</dateline>
+<text>
+<p>Minera Escondida Limitada reported the following copper production figures for April.</p>
+<p>COPPER (in metric tonnes)</p>
+<p>     April 1997   March 1997   April 1996</p>
+<p> Copper in concentrates	  72,139	 72,247	 69,269</p>
+<p>Copper cathodes		    5,085	  4,671	  3,045</p>
+<p>Total				 77,224	 76,918	 69,341</p>
+<p>					Jan-April 1997   Jan-April 1996</p>
+<p>Year-to-date			286,345	    244,981</p>
+<p>					April 1997   March 1997   April 1996</p>
+<p>GOLD (in ounces)		  14,126	 14,793	 14,344</p>
+<p>The mine is owned by Broken Hill Proprietary and RTZ Corp plc.</p>
+<p>((--Santiago newsroom +56-2-699-5595 x211))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47069" id="root" date="1996-09-11" xml:lang="en">
+<title>IRAN: Refugees, officials say four killed by Kurd group.</title>
+<headline>Refugees, officials say four killed by Kurd group.</headline>
+<dateline>BASHMAQ, Iran 1996-09-11</dateline>
+<text>
+<p>Iraqi Kurds at a camp near the Iran-Iraq border said on Wednesday that guerrillas from a Baghdad-backed Kurdish group fired into a crowd of refugees on the Iraqi side of the border, killing four people.</p>
+<p>&quot;On Tuesday night, KPD (Kurdistan Democratic Party) men came and asked us first nicely to go back home, but when people confronted them, they started shooting. Four were killed,&quot; a refugee told Reuters.  </p>
+<p>Local Iranian authorities at the Bashmaq border crossing said four people were killed and about 100 wounded.</p>
+<p>State-run Tehran radio reported the incident but said Iraqi troops were also involved. It said &quot;a number&quot; of people were killed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASHMAQ, Iran"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

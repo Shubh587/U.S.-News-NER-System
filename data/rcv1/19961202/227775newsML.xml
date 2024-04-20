@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227775" id="root" date="1996-12-02" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD RESULTS.</title>
+<headline>CRICKET-SHEFFIELD SHIELD RESULTS.</headline>
+<dateline>SYDNEY 1996-12-02</dateline>
+<text>
+<p>Sheffield Shield results on Monday:</p>
+<p>Brisbane: Queensland beat Victoria by eight wickets. Queensland 305 (Andrew Symonds 77) and 137-2 (Matthew Hayden 73 not out). Victoria 162 (Andrew Bichel 5-46) and 277 (Warren Ayres 56, Brad Hodge 51; Andrew Bichel 5-69).</p>
+<p>Adelaide: Western Australia beat South Australia by five wickets. Western Australia 318 (Justin Langer 116, Damien Martyn 96) and 288-5 (Tom Moody 89 not out). South Australia 277 and 325 (James Brayshaw 96, Geoff Parker 80).</p>
+<p>Hobart:  Tasmania and New South Wales drew. New South Wales 403-9 dec. (Brad McNamara 137 not out) and 225-3 dec. (Shane Lee 101 not out, Kevin Roberts 54). Tasmania 327-9 dec. (Shaun Young 108 not out, Michael DiVenuto 50) and 268-9 (David Boon 77, Jamie Cox 67).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

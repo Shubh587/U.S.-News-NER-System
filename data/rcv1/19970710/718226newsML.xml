@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718226" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: TABLE-Federal Reserve money supply report-July 10.</title>
+<headline>TABLE-Federal Reserve money supply report-July 10.</headline>
+<text>
+<p>One week ended June 30 (billions dollars)</p>
+<p>	 Latest   Change     Prev week  Rvsd from</p>
+<p>M-1...1,069.3...up.10.1 vs 1,059.2......1,058.9</p>
+<p>M-2...3,923.8 ..up..4.5 vs 3,919.3......3,918.4</p>
+<p>M-3...5,112.9 ..up.13.0 vs 5,099.9......5,097.5</p>
+<p>M2 Avg 4 wks (Vs Wk Ago)...3,916.2..vs..3,912.6</p>
+<p>Monthly aggregates (Adjusted avgs in billions)</p>
+<p>M-1 (June vs May).........1,063.8..vs..1,062.9</p>
+<p>M-2 (June vs May).........3,916.2..vs..3,901.6</p>
+<p>M-3 (June vs May).........5,092.3..vs..5,069.0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40529" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: IBM, banks form electronic banking firm.</title>
+<headline>IBM, banks form electronic banking firm.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-09-09</dateline>
+<text>
+<p>International Business Machines Corp. and 15 U.S. and Canadian banks announced Monday that they had formed a company to offer a broad range of electronic banking services in North America, the latest in several ventures seeking to jump start banking from home PCs.</p>
+<p>The company, the Integrion Financial Network, will offer interactive banking and electronic commerce services to U.S. and Canadian banks beginning early next year.</p>
+<p>&quot;With this new venture, electronic commerce will take its biggest step to date,&quot; IBM Chairman Louis Gerstner told a news conference, in a rare public appearance. &quot;Integrion is the customer pathway to an array of services ... that no bank could provide alone.&quot;</p>
+<p>Integrion will develop an electronic bill payment system and provide software to connect to its network for member banks' customers. Consumers will also be able to access the network via the Internet or any commercial online service.</p>
+<p>Electronic commerce, in which consumers buy goods and services via computer, could grow to $600 billion a year within 10 years, Gerstner said. By contrast, electronic commerce now runs at only about $700 million a year, he said.</p>
+<p>&quot;The demand is there,&quot; Barnett Banks Inc. Chief Executive Charles Rice told the news conference.</p>
+<p>&quot;There is a very important parallel here,&quot; said Gerstner, who was once also the president of American Express. &quot;A group of banks created a product called credit cards... That is exactly what I think will happen here.&quot;</p>
+<p>Gerstner said he believed Integrion was providing a system and a platform for a whole new banking service opportunity.</p>
+<p>Gerstner said he hoped that companies like Intuit Inc., which has its own set of deals with banks for electronic banking software, would develop versions of its popular Quicken personal financial software for Integrion.</p>
+<p>In addition to Barnett, banks teaming up with IBM include BankAmerica Corp., the Royal Bank of Canada, Fleet Financial Group Inc. and Banc One Corp.</p>
+<p>Integrion will be owned and operated by the member banks and IBM. It will be open to all banks in North America.</p>
+<p>Gerstner said his company would make money from the venture by selling the services of its Global Network and other services. He said Integrion is a for-profit company but that the companies involved will make money through electronic banking services.</p>
+<p>Gerstner was not specific on what kind of revenues IBM or any of the companies involved were expecting from the venture.</p>
+<p>The companies said they will use the IBM Global Network as the base network for electronic banking, a proprietary network maintained by IBM and used by many corporations as their own network or to conduct commerce with other companies.</p>
+<p>Several bankers attending the news conference said the partnership with IBM would lower the cost of developing technology for electronic banking.</p>
+<p>The companies said the most sensitive banking transactions will run over the IBM network, which they said is more secure than the Internet, but with connections to the Net.</p>
+<p>Gerstner said while the Internet has become a totally new communications medium in the past two years, it is still not yet the &quot;holy grail&quot; companies have hoped for.</p>
+<p>&quot;The payoff is what these institutions do with this,&quot; Gerstner said.</p>
+<p>Some analysts, however, said if the alliance took too long to get its software out the door, it could run the risk of being overshadowed by recent developments in Internet security, such as the use of longer encryption codes and digital signatures which verify the author of a transaction.</p>
+<p>&quot;The marketplace has changed a lot in the past two years,&quot; said Karen Epper, an analyst at Forrester Research. &quot;There has been a marked change in the perception of the Internet. The security options that are coming into existence now will make online banking more secure than even private dial-up.&quot;</p>
+<p>&quot;The Internet seems best suited for sharing information and not for conducting (business) because of the lack of security,&quot; Robert Gillespie, chief executive of KeyCorp, one of the bank partners with IBM said. &quot;We think the reason its grown rather slowly in terms of commerce being conducted is because of the lack of a private secure network to do transactions on.&quot;</p>
+<p>Epper pointed out that some banks, such as Wells Fargo Co. and BankAmerica Corp. already offer customers the ability to pay bills and access their accounts, via the banks' Web sites.</p>
+<p>Other banks teaming up with IBM are ABN AMRO Bank NV, Comerica Inc., First Bank System Inc., First Chicago NBD Corp., KeyCorp., Mellon Bank Corp., Michigan National Corp., NationsBank Corp., PNC Bank and Washington Mutual Savings Bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

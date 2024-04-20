@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209213" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Dial Corp to stay in Arizona.</title>
+<headline>Dial Corp to stay in Arizona.</headline>
+<dateline>PHOENIX 1996-11-22</dateline>
+<text>
+<p>Dial Corp said Friday it has decided to move its corporate headquarters to Scottsdale, a suburb near its present headquarters in Phoenix.</p>
+<p>The company said in September it planned to vacate its headquarters as part of an extensive cost-cutting program. The decision quells local concerns that the consumer packaging giant may be moving out of state.</p>
+<p>Dial's brands include Dial soaps, Purex detergents, Renuzit air fresheners and Armour Star canned meats.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

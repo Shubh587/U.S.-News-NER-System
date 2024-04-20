@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125998" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Northern States shuts King coal power unit.</title>
+<headline>Northern States shuts King coal power unit.</headline>
+<dateline>NEW YORK 1996-10-18</dateline>
+<text>
+<p>Northern States Power Co has shut its 581 megawatt Allen King coal-fired power plant for repairs, but the unit should return to service early Sunday morning, a company spokeswoman said Friday.</p>
+<p>The unit was shut Friday to repair a boiler tube leak, the spokeswoman said.</p>
+<p>The King plant is located in Oak Parks Heights near Stillwater, Minn., and came on line in 1968.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

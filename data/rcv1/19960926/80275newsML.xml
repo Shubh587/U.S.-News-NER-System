@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80275" id="root" date="1996-09-26" xml:lang="en">
+<title>SOUTH KOREA: Seoul stock market closed for three days.</title>
+<headline>Seoul stock market closed for three days.</headline>
+<dateline>SEOUL 1996-09-26</dateline>
+<text>
+<p>South Korea's stock market will be closed from Thursday for the Chusok holidays and will reopen on Monday.</p>
+<p>On Wednesday, the composite stock index closed 15.30 points higher at 793.21, led by blue chips.</p>
+<p>Brokers said blue chips were in favour ahead of the expansion of foreign stock ownership from October 1 to 20 percent from 18 percent.</p>
+<p>-- Yeom Yoon-jeong (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

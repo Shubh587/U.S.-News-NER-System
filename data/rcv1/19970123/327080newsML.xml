@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327080" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Noble Affiliates and partners in Gulf find.</title>
+<headline>Noble Affiliates and partners in Gulf find.</headline>
+<dateline>ARDMORE, Okla. 1997-01-23</dateline>
+<text>
+<p>Noble Affiliates Inc on Thursday said its Samedan Oil Corp subsidiary participated in an off-shore oil discovery in the Gulf of Mexico.</p>
+<p>The well drilled in the Eugene Island 254 area, 45 miles offshore from Louisiana, tested at 1,970 barrels of oil and 3.8 million cubic feet of natural gas per day.</p>
+<p>Samedan has a 30 percent working interest in the property, which it expects to be producing this year.</p>
+<p>Noble also said natural gas production has begun from the High Island 549 property offshore from Texas. This property, 50 percent owned by Noble, is now producing 12 million cubic feet per day.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDMORE, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

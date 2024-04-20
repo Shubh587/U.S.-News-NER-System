@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="754118" id="root" date="1997-07-24" xml:lang="en">
+<title>UK: OPTIONS -Delta-neutral position struck in NatWest.</title>
+<headline>OPTIONS -Delta-neutral position struck in NatWest.</headline>
+<dateline>LONDON 1997-07-24</dateline>
+<text>
+<p>UK stock options business eased off on Thursday as traders said they lacked sufficient fresh market intelligence to allow for more vigorous activity.</p>
+<p>One large deal by mid-afternoon was a delta-neutral position in National Westminster Bank in which 1,000 January 800 calls were bought at 121p against selling 700,000 shares at 853p. The delta of a call option is the amount by which the option will increase if the underlying shares rise by one penny.</p>
+<p>By buying calls and selling shares -- in the correct ratio -- a profit can be made if share price volatility increases because this will increase the value of the calls.</p>
+<p>If the shares move too far -- up or down -- the value of the delta will also change and the trader will then need to adjust his position by either buying more calls if the share price goes up or selling calls if the shares go down.</p>
+<p>In this way, the position will become delta-neutral once more. By 1350 GMT, NatWest shares were down 11-1/2p to 850-1/2p.</p>
+<p>Another large deal was in electricity generator National Power in which just under 1,000 October 500 puts were sold at 3-1/2p.</p>
+<p>If the shares stay above 500p by expiry the puts will be worthless and a profit of 3-1/2p will be made.</p>
+<p>But if the shares fall, the value of the puts will increase and losses will occur. National Power gained 15p to 583-1/2p.</p>
+<p>Over in FTSE index options, there was two-way business in August/September 4425 put spreads which were traded at about 20p. Buyers of the spread would expect the market to stay above 4425 by August expiry -- so that the near-term short puts would be worthless -- and then they would want the market to fall in order to make money from the long September puts.</p>
+<p>By 1350 GMT, cash FTSE was up 12.6 to 4887.1 while September FTSE futures were up nine points to 4896.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110342" id="root" date="1996-10-11" xml:lang="en">
+<title>CANADA: Canadian Gas Association storage survey - Oct 4.</title>
+<headline>Canadian Gas Association storage survey - Oct 4.</headline>
+<dateline>CALGARY 1996-10-11</dateline>
+<text>
+<p>Canadian Gas Association (CGA) weekly survey of Canadian natural gas in storage in billion cubic feet (bcf):</p>
+<p>							 Pct Full  Pct Full</p>
+<p>		 10/04/96  09/27/96  Pct Full  Week Ago  Year Ago</p>
+<p>East	    205.15    198.70    88.22	85.44     93.30</p>
+<p>West	    232.95    230.42    88.33	87.37     92.10</p>
+<p>Total Canada  438.10    429.11    88.27	86.46     92.20</p>
+<p>East-West division is the Manitoba/Saskatchewan and North Dakota/Minnesota borders.</p>
+<p>East capacity 10/04/96: 232.31 bcf, 09/27/96: 232.55 bcf.  </p>
+<p>West capacity 10/04/96: 263.74 bcf, 09/27/96: 263.74 bcf.</p>
+<p>The Canadian Gas Association survey includes liquefied petroleum gas, all Canadian operators of gas storage and Canadian companies contracting gas storage in the U.S. -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

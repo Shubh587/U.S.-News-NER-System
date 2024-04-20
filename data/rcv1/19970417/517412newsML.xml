@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="517412" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: FINAL PRICING - Riverside Cty, Calif..</title>
+<headline>FINAL PRICING - Riverside Cty, Calif..</headline>
+<text>
+<p>AMT: 21,834,879     DATE: 04/17/97	CUSIP: 768901</p>
+<p>ISSUER: Riverside County						ST: CA</p>
+<p>ISSUE: Certificates of Participation				TAX STAT: Exempt</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: MBIA Aaa/AAA/NA</p>
+<p>DTD: 05/07/97</p>
+<p>DUE: 11/1/99-14, 17, 27</p>
+<p>1ST CPN: 11/01/97</p>
+<p>CALL: 11/1/07 @ 102, dtp 11/1/09</p>
+<p>DELIVERY: 5/7/97 approx</p>
+<p>Year		     Amount    Coupon     Yield</p>
+<p>1999		    120,000     4.400     4.400</p>
+<p>2000		    145,000     4.500     4.500</p>
+<p>2001		    180,000     4.600     4.700</p>
+<p>2002		    210,000     4.700     4.800</p>
+<p>2003		    245,000     4.800     4.900</p>
+<p>2004		    275,000     4.900     5.000</p>
+<p>2005		    315,000     5.000     5.100</p>
+<p>2006		    355,000     5.100     5.200</p>
+<p>2007		    405,000     5.200     5.300</p>
+<p>2008		    445,000     5.300     5.450</p>
+<p>2009		    500,000     5.400     5.550</p>
+<p>2010		    555,000     5.500     5.650</p>
+<p>2011		    615,000	   0     6.000</p>
+<p>2012		    640,000	   0     6.000</p>
+<p>2013		    670,000	   0     6.050</p>
+<p>2014		    705,000	   0     6.100</p>
+<p>2017		  2,430,000     5.750     5.940</p>
+<p>2027		 14,640,000     5.875     6.000</p>
+<p>Stone &amp; Youngberg LLC</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

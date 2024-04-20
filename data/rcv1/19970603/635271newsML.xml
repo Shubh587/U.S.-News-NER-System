@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635271" id="root" date="1997-06-03" xml:lang="en">
+<title>NEW ZEALAND: Real time interbank settlement may up NZGS demand.</title>
+<headline>Real time interbank settlement may up NZGS demand.</headline>
+<dateline>WELLINGTON 1997-06-03</dateline>
+<text>
+<p>The introduction of Real Time Gross Settlement (RTGS) for interbank payments in New Zealand later this year could see increased demand for Government Securities (NZGS) and exert downward pressure on their interest rates, ANZ Investment Bank said on Tuesday.</p>
+<p>RTGS, currently under testing, is a development driven by the Reserve Bank's desire to make the New Zealand interbank payments system more robust in the face of any kind of settlement bank failure.  </p>
+<p>Eleven of the 17 registered banks in New Zealand are settlement banks, which hold exchange settlement accounts at the RBNZ.</p>
+<p>At the moment interbank transactions are not settled until the following morning. Should a bank default, the process of unwinding all the past day's transactions would be an &quot;unholy mess&quot;, ANZ Treasurer Grant Spencer told Reuters.</p>
+<p>&quot;If a bank has fallen over, then none of those transactions can go ahead because it won't have the funds.&quot;  </p>
+<p>He said under a real time system, banks are required to maintain their exchange settlement accounts in credit at all times as interbank transactions are settled through the day.</p>
+<p>RTGS should also reduce the Reserve Bank's credit exposure to the banks arising out of daylight overdrafts on exchange settlement accounts.</p>
+<p>The present timetable has live testing of RTGS commencing in late July with full implementation expected to be phased in from late September through to December or January 1998.  </p>
+<p>Spencer said there was potential for the new intraday liquidity requirements to put downward pressure on government stock interest rates.</p>
+<p>With the RTGS system, banks will need intraday liquidity via an Autorepo facility. This facility allows the RBNZ to lend within-day funds to banks, who are required to leave goverment paper (NZGS) with the Reserve Bank as security.</p>
+<p>While it was difficult to accurately assess the banks' liquidity requirements under RTGS, preliminary estimates by the RBNZ and others suggested a maximum intraday funding requirement in the order of NZ$4-6 billion, ANZ said in its Fixed Interest  </p>
+<p>Monthly report.</p>
+<p>This compared with current government securities and Reserve Bank bill holdings by banks in the order of $4 billion, repoable bank paper of up to $2.5 billion and repoable Commercial Paper holdings of around $700 million.</p>
+<p>&quot;On the face of it, with around $7 billion repoable securities against a maximum $6 billion demand, there should be an adequate supply of liquidity via Autorepo,&quot; ANZ said.</p>
+<p>&quot;However, changes in the distribution of assets between banks and between the banks and institutions could from time to time place pressure on intraday system liquidity.  </p>
+<p>&quot;In such situations the banks may be forced to chase bonds more aggressively in either the direct or repo markets. Alternatively the banks may retain more stable NZGS portfolios, thus increasing the average holdings of banks over time.&quot;</p>
+<p>ANZ said that with the overall downward trend in supply of government paper, due to fiscal supluses, and the large share of offshore NZGS ownership it was apparent that RTGS could exert some downward pressure on government securities' interest rates.</p>
+<p>The significance of this effect would only start to be assessed once the live test phase commenced, he added.</p>
+<p>--Matthew Brockett, Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

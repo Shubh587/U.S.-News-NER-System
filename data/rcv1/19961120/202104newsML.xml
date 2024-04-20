@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202104" id="root" date="1996-11-20" xml:lang="en">
+<title>UK: Hong Kong stocks end lower in London trading.</title>
+<headline>Hong Kong stocks end lower in London trading.</headline>
+<dateline>LONDON 1996-11-20</dateline>
+<text>
+<p>Hong Kong shares in London ended lower in a market lacking direction, despite significant gains in Hong Kong.</p>
+<p>&quot;The market is quiet and has lacked direction after the overnight close. There was not much trading today, but we hope for some short covering tomorrow,&quot; one dealer said.</p>
+<p>The Hang Seng London Reference Index ended 21.17 points, or 0.16 percent, lower at 13,145.99 after the Hang Seng Index in Hong Kong ended 110.23 points higher to set a record closing high of 13,167.16.  </p>
+<p>The index set a new intraday high of 13,229.15 early in the day in Hong Kong.</p>
+<p>Some dealers attributed the quiet market in London to the slight fall in Hang Seng Bank shares, which finished the session HK$1.50 lower at HK$93.50 in Hong Kong.</p>
+<p>-- London Newsroom ++ 171 542 5106</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

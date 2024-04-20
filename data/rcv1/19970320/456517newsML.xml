@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456517" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Calif. bill to fund class-size reductions advances.</title>
+<headline>Calif. bill to fund class-size reductions advances.</headline>
+<dateline>SACRAMENTO, Calif. 1997-03-20</dateline>
+<text>
+<p>A California state Senate committee has approved a bill that would increase funding for the state's class-size reduction program, officials said on Thursday.</p>
+<p>The Education Committee approved Senate Bill 50 by Senator Jack O'Connell, a Democrat.</p>
+<p>The bill would increase the per pupil funding rate under the class-size reduction program for kindergarten through third grade from $650 to $800.  The bill would also allow some schools to average their class sizes in order to become eligible for the class-size reduction funds.</p>
+<p>The bill now advances to the Senate Appropriations Committee.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

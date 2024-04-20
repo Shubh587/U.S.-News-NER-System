@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210425" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: U.S. domestic auto sales up 4.2 pct Nov 11-20 - CNW.</title>
+<headline>U.S. domestic auto sales up 4.2 pct Nov 11-20 - CNW.</headline>
+<dateline>NEW YORK 1996-11-22</dateline>
+<text>
+<p>U.S. domestic auto sales rose 4.2 percent in the 10 days of November 11-20 compared with the same period a year ago, according to a CNW Marketing/Research auto sales report released on Friday.</p>
+<p>Domestic car sales slipped to 193,114 in the survey period from 201,104 in the same period of 1995, CNW said. Domestic truck sales climbed 16.8 percent to 152,391 from 130,479, it said.</p>
+<p>Import car sales rose 2.3 percent to 55,001, and import truck sales rose 6.3 percent to 7,577, the report said.</p>
+<p>CNW said about 33.9 percent of the vehicles were leased, unchanged from the same survey period last year.</p>
+<p>About 13.64 million vehicles were sold from January through mid-November 1996, CNW said.</p>
+<p>--N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

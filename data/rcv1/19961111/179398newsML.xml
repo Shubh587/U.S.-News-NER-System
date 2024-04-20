@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179398" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Comair October load factor rises.</title>
+<headline>Comair October load factor rises.</headline>
+<dateline>CINCINNATI 1996-11-11</dateline>
+<text>
+<p>OCTOBER</p>
+<p>			  1996	     1995	     % Change</p>
+<p>    ASMs (000)     241,963	  204,622	   18.2%</p>
+<p>    RPMs (000)     139,018	  112,671	   23.4%</p>
+<p>    LOAD FACTOR    57.5%	    55.1%	     4.3%</p>
+<p>    PASSENGERS     416,916	  361,301	   15.4%</p>
+<p>					 FISCAL YTD</p>
+<p>			     1997	     1996	   % Change</p>
+<p>    ASMs (000)     1,599,988	1,361,301	  17.5%</p>
+<p>    RPMs (000)     924,434	  730,845	    26.5%</p>
+<p>    LOAD FACTOR    57.8%	    53.7%		7.6%</p>
+<p>    PASSENGERS     2,813,810	2,332,607	  20.6%</p>
+<p>NOTE: Full company name is Comair Holdings Inc.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

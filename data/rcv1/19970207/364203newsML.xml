@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="364203" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Strong dlr knocks barrier options off center stage.</title>
+<headline>Strong dlr knocks barrier options off center stage.</headline>
+<byline>Alden Bentley</byline>
+<dateline>NEW YORK 1997-02-06</dateline>
+<text>
+<p>A popular options strategy, commonly dubbed a knockout, played a big part in the dollar's January surge, but the spotlight is off these products now that key barriers have been shattered, currency experts said.</p>
+<p>Some trading firms bought vast amounts of dollars, helping the unit vault 1.60 marks and 120 yen this year, as a consequence of selling these hybrid currency options which were rendered worthless by the dollar's explosive gains.</p>
+<p>The extinguishing of these options -- called knockouts because, while similar to normal calls or puts, they also have a predetermined spot level (the knockout) which when traded snuffs out the option -- helped fling the dollar past 1.60 marks and 120 yen, where these barriers were concentrated at the beginning of the year, options experts said.</p>
+<p>The dollar surge generated frantic activity as options traders unwound huge hedges against their portfolios in January. But the flood into the dollar seems to have smothered these products as a major force for further gains in the near term, specialists said.  </p>
+<p>&quot;There is more liquidity in the market, so you don't have this kind of movement as a result of exotic options that we've been finding,&quot; said MaryBeth Slack, a derivatives analyst at MCM FX OptionWatch.</p>
+<p>Use of knockouts, a generic label for more than one type of barrier option, has dropped sharply of late because the strategies, as routinely deployed last year, are ill suited for a strong trend of the sort the dollar is enjoying during its current rally, experts said.</p>
+<p>&quot;If we settle back into a range, and this is true for (dollar/mark and dollar/yen)...then you'll start seeing interest again and seeing knockouts reemerging,&quot; said Ron Leven, a currency strategist at J.P. Morgan.</p>
+<p>Knockout options became trendy late last year when investors looked for a relatively inexpensive way to benefit from modest or predictable dollar appreciation.</p>
+<p>A knockout lowers the cost of an option because it raises the probability the instrument could suddenly become valueless before it expires, if the barrier is touched during the option's life.  </p>
+<p>For instance, some of these options became worthless when the dollar touched 1.60 marks and 120 yen, where knockout, or out-strike, levels were concentrated.</p>
+<p>Using dollar/mark as an example, specialists said when the dollar was near 1.50 marks late last year, many investors bought dollar calls, seeking to protect foreign currency investments against a rising dollar.</p>
+<p>A dollar call gives the owner the right to buy dollars at a fixed exchange rate, usually on a set expiration date. If the dollar strengthens during the option's life, the owner may be able to either exercise the option or sell it at a profit.</p>
+<p>But since a plain dollar call option can be very costly, many were structured to include a deep-in-the-money knockout at 1.60 marks, based on the premise that the dollar would not achieve such lofty levels before the option expired.</p>
+<p>Perversely, the addition of such a knockout threshold also means that at a certain point, as the spot price approaches the knockout barrier, the investor will instead lose money.</p>
+<p>&quot;It goes away when you need it the most,&quot; said David DeRosa, managing partner at Quadrangle Investments LLC, a hedge fund. DeRosa uses the term &quot;kick-out&quot; to describe this brand of option.  </p>
+<p>One reason profitability quickly evaporates is because any burst of activity -- quantified as &quot;implicit volatility&quot; by options traders -- such as often accompanies the approach of key levels, could result in the knockout being touched, thus killing the option.</p>
+<p>So the investor has a vested interest in keeping the market away from his out-strike.</p>
+<p>&quot;If the market is getting near my knockout, then I don't want things to move, which means implicitly I'm short volatility,&quot; said Ron Leven, a currency strategist at J.P. Morgan, speaking of the owner of the option.</p>
+<p>The trading firm has the opposite interest, however, and its risk-management procedures tend to generate increased activity as the dollar nears these thresholds.</p>
+<p>Though the firms that sold the options benefited from the surprising magnitude of the dollar's rally, managing their option books required them to neutralize those gains in the cash market by short-selling dollars in increasingly large amounts as the U.S. currency rose toward the knockout levels.  </p>
+<p>But when the knockouts were touched, dealers were forced to liquidate short-dollar hedges, which became a liability in a rising market after option positions were suddenly extinguished.</p>
+<p>&quot;The option disappears, now I don't need that spot position so I have to suddenly go back in the market and buy it back,&quot; Leven said, referring now to the option seller.</p>
+<p>The ensuing massive stop-loss buying helped lubricate the dollar's climb above 1.60 marks and 120 yen, dealers said.</p>
+<p>Experts predicted a smattering of knockouts remained at 125 yen and said some options were probably doused when the dollar recently penetrated 1.65 marks.</p>
+<p>But with the dollar still rallying, investors are more shy of placing out-strike barriers anywhere near current levels.</p>
+<p>The dollar powered to a new four-year peak at 124.00 yen and came within reach of January's recent 31-month high at 1.6570 marks on Thursday, but knockout-related buying did not play a discernible role in this leg higher, experts said.</p>
+<p>&quot;Not too many people were anticipating this high a level and as a consequence they just didn't have the out-strikes out here,&quot; DeRosa said. &quot;That is why it just didn't make a difference.&quot;</p>
+<p>((--212 859 1667))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

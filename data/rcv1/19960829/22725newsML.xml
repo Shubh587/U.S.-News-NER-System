@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22725" id="root" date="1996-08-29" xml:lang="en">
+<title>GERMANY: Bonn sees German 1996 grain crop up 3 pct.</title>
+<headline>Bonn sees German 1996 grain crop up 3 pct.</headline>
+<dateline>BONN 1996-08-29</dateline>
+<text>
+<p>Germany's 1996 grain crop was estimated at 41 million tonnes compared with 39.9 million tonnes, the Bonn farm ministry said on Thursday.</p>
+<p>The ministry also said the average yield would be 6.1 tonnes per hectare, unchanged from last year.</p>
+<p>The ministry stressed the figure was preliminary because harvesting was delayed. Only two-thirds of grain had been cut in the west, while in the east, only 30 to 50 percent had been harvested. --Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42830" id="root" date="1996-09-10" xml:lang="en">
+<title>SWEDEN: Swedish Riksbank cuts repo rate to 5.15 pct.</title>
+<headline>Swedish Riksbank cuts repo rate to 5.15 pct.</headline>
+<dateline>STOCKHOLM 1996-09-10</dateline>
+<text>
+<p>Sweden's central bank, the Riksbank, on Tuesday cut its repo rate, its key tool for controlling money market liquidity, to 5.15 percent from 5.25 percent.</p>
+<p>The fixed reverse repurchase tender will run for seven days from September 11 to September 18 and replaces a seven-day operation at a rate of 5.25 percent.  </p>
+<p>The central bank last cut its repo rate to 5.25 percent from 5.40 percent on August 27.</p>
+<p>In a Reuter survey 14 out of 18 analysts expected the Riksbank to cut the repo rate by 15 basis points while the other four forecast a 10 basis points cut.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

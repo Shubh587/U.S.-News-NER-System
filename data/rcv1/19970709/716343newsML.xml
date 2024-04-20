@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716343" id="root" date="1997-07-09" xml:lang="en">
+<title>JAPAN: Tokyo rocked by quake measuring 5 on Richter scale.</title>
+<headline>Tokyo rocked by quake measuring 5 on Richter scale.</headline>
+<dateline>TOKYO 1997-07-09</dateline>
+<text>
+<p>A strong earthquake measuring 5.0 on the Richter scale shook homes and offices in Tokyo on Wednesday, but there were no immediate indications of damage or casualties, the Meteorological Agency reported.</p>
+<p>The agency said the epicentre of the quake was 80 km (50 miles) underground in Chiba prefecture which borders the Tokyo metropolitan area.</p>
+<p>The quake happened at 6.36 p.m. (0936 GMT).</p>
+<p>Residents of the capital said the tremor was the strongest they had felt for many months, and a quake with a magnitude of five on the Richter scale could cause considerable damage.</p>
+<p>All national television networks flashed news of the quake during their main evening broadcasts.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

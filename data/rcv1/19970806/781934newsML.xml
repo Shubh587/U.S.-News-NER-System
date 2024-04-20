@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="781934" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Florida researchers say mower will cut grass smartly.</title>
+<headline>Florida researchers say mower will cut grass smartly.</headline>
+<dateline>GAINESVILLE, Fla 1997-08-06</dateline>
+<text>
+<p>It may be the ultimate suburbanite dream -- stretching out in a hammock with a cool drink while a robot cuts the grass.</p>
+<p>A robot lawn mower called the LawnNibbler will do the work and avoid obstacles like dogs, kids, trees and other lawn clutter, University of Florida researchers said Wednesday.</p>
+<p>The machine, operated by computers and powered by a rechargeable battery, uses a nylon cutting cord similar to those in lawn trimmers now on the market.</p>
+<p>A radio wire buried at the perimeter of the yard and a navigational beacon system using sonar and infrared emitters and detectors will keep it on track, researchers said.</p>
+<p>&quot;Previous attempts at robot lawnmowers were limited because of the absence of a navigation system,&quot; Kevin Hakala, a graduate student who developed the machine at UF's Machine Intelligence Lab, said in a statement.</p>
+<p>&quot;Because of the beacon navigation system, LawnNibbler knows where it is,&quot; he said.</p>
+<p>The machine's sonar and infrared system will allow it to avoid obstacles and know where it has already cut, researchers said.</p>
+<p>In mass production, the robot lawnmower could sell for $600-$1,000, lab director Keith Doty said. The university is searching for venture capital.</p>
+<p>There are still bugs to be worked out and social issues to consider, Doty said. &quot;For example, what if it gets out of control and goes on your neighbour's lawn or flowers?&quot;</p>
+<p>UF researchers also are working on a vacuum cleaner using the same technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAINESVILLE, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

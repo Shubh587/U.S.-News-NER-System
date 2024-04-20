@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34071" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: UK coffee imports rose in July.</title>
+<headline>UK coffee imports rose in July.</headline>
+<dateline>LONDON 1996-09-05</dateline>
+<text>
+<p>UK coffee imports in tonnes issued by UK Customs - coffee not roasted not decaffeinated:</p>
+<p>			    Jul    Jun    Jan/Jul 1996   Jan/Jul 1995</p>
+<p>  TOTAL		10,657  8,768	66,115	    56,487</p>
+<p>  Ivory Coast	   102    508	 1,926	     3,137</p>
+<p>  Uganda		1,047    730	 6,070	     1,151</p>
+<p>  Costa Rica	    665    762	 8,662	    12,169</p>
+<p>  Colombia	    1,896  1,179	 9,997	     6,620</p>
+<p>  Brazil		  419    564	 2,544	     7,829</p>
+<p>  Vietnam	     1,152  1,104	11,214	     4,447</p>
+<p>  Indonesia	   2,830  1,342	 8,790	     5,817</p>
+<p>  Guinea		  nil    nil	   nil		 977</p>
+<p>  Rwanda		  nil    nil	   546		 101</p>
+<p>  Kenya		 1,024    330	 2,466	     3,206</p>
+<p>  Guatemala		 5     42	   982		 481</p>
+<p>  Honduras		293    398	 2,171	     1,194</p>
+<p>  El Salvador	    93    643	 1,472		 172</p>
+<p>  Nicaragua	     nil    220	 1,721	     1,344</p>
+<p>  Thailand		nil    nil	 1,270	     3,059</p>
+<p>  Papua New Guinea    603    314	 2,237	     1,951</p>
+<p>  Others		  528    632	 4,047	     2,832</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

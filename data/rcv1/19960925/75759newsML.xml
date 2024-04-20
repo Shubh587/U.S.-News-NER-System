@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75759" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Coca-Cola Enterprises may issue debt.</title>
+<headline>Coca-Cola Enterprises may issue debt.</headline>
+<text>
+<p>NEW YORK, Sept 25 - Coca-Cola Enterprises is expected to price $250 million in debt via Lehman Brothers, syndicate sources said.</p>
+<p>The issue consist of a 30-year bond with a put option in the 10th year. Price talk is 33 to 36 basis points over the 10-year U.S. Treasury, sources added.</p>
+<p>The issue is rated A3 by Moody's Investors Service Inc and AA-minus by Standard &amp; Poor's.</p>
+<p>--Nancy Leinfuss, 212-859-1675</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

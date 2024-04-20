@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343932" id="root" date="1997-01-30" xml:lang="en">
+<title>DUBAI: Dubai to free 270 prisoners.</title>
+<headline>Dubai to free 270 prisoners.</headline>
+<dateline>DUBAI 1997-01-30</dateline>
+<text>
+<p>The crown prince of Dubai on Thursday ordered the release of 270 prisoners, the United Arab Emirates state-run news agency said.</p>
+<p>Sheikh Mohammed bin Rashid al-Maktoum, also head of Dubai central police department and UAE defence minister, asked security forces to free them before the end of the Moslem fasting month of Ramadan, around February 10.</p>
+<p>The pardon did not include political and drug-related offences.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

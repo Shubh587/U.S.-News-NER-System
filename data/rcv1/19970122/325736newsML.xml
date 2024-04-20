@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325736" id="root" date="1997-01-22" xml:lang="en">
+<title>UK: London gold closes weaker after slide below $350.</title>
+<headline>London gold closes weaker after slide below $350.</headline>
+<text>
+<p>GOLD - Closes sharply lower at $350.90/$351.40 vs $353.40/$353.90 previously. Bounced off lows after trading below $350, but still vulnerable to downside.</p>
+<p>SILVER - Ends just one cent down at $4.71/$4.73 after early dip.</p>
+<p>PLATINUM - Closes at $355.95/$356.95, down $1.80 with gold.</p>
+<p>PALLADIUM - Ends steady at $0.50 lower $120.75/$121.75.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

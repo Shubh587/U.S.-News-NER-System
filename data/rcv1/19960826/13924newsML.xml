@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13924" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Alfacell says Onconase seen inhibiting HIV.</title>
+<headline>Alfacell says Onconase seen inhibiting HIV.</headline>
+<dateline>BLOOMFIELD, N.J. 1996-08-23</dateline>
+<text>
+<p>Alfacell Corp said Monday that according to recently published findings, its anticancer drug Onconase significantly inhibited production of the human immunodeficiency virus in several infected human cell lines.</p>
+<p>The in vitro findings were published in the August 23 issue of Journal of Biological Chemistry, the company said.</p>
+<p>The company said the findings showed that Onconase preferentially degraded viral ribo nucleic acid (RNA) while not affecting normal cellular RNA and messenger RNA.</p>
+<p>Thus, the company said, Onconase has been shown to interfere with the HIV virus development process by effectively and selectively inhibiting replication of the HIV virus in vitro without necessarily killing the HIV-harboring cell.</p>
+<p>Onconase is a protein used in the investigational treatment of patients with solid tumors, most of which are resistant to other chemotherapeutic drugs, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLOOMFIELD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

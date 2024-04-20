@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204262" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: U.S. cottonseed oil export breakdown.</title>
+<headline>U.S. cottonseed oil export breakdown.</headline>
+<dateline>WASHINGTON 1996-11-20</dateline>
+<text>
+<p>U.S. Commerce Department breakdown of cottonseed oil exports (tonnes):</p>
+<p> -		    Sept96    Aug96   Sept95</p>
+<p> -	   Crude	13	Nil	 12</p>
+<p> -  Once Refined   2,168    7,014    3,984</p>
+<p> - Fully Refined   2,754    4,597    6,216</p>
+<p> -  Hydrogenated	11	  4	 20</p>
+<p> -	   Total   4,946   11,615   10,233</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

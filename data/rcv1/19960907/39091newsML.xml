@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39091" id="root" date="1996-09-07" xml:lang="en">
+<title>BELGIUM: SOCCER-BELGIAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-BELGIAN FIRST DIVISION RESULTS.</headline>
+<dateline>BRUSSELS 1996-09-07</dateline>
+<text>
+<p>Results of Belgian first</p>
+<p>division soccer matches on Saturday</p>
+<p> Lommel	   2	 Ghent	   2</p>
+<p> Mouscron	 2	 Antwerp	 2</p>
+<p> Anderlecht     4	 Cercle Brugge 0</p>
+<p> Ekeren	   0	 Genk	    1</p>
+<p> Charleroi	1	 Sint Truiden  1</p>
+<p> Mechelen	 2	 Lierse	  2</p>
+<p> Lokeren	  0	 Molenbeek     0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

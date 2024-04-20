@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202460" id="root" date="1996-11-20" xml:lang="en">
+<title>ARGENTINA: Argentina indicators calendar for next 3 months.</title>
+<headline>Argentina indicators calendar for next 3 months.</headline>
+<text>
+<p>INDICATOR			NOVEMBER     DECEMBER	JANUARY</p>
+<p>Tax revenue			 -	  2 approx (Nov) 2 approx</p>
+<p>Fiscal balance		    -	  2 approx (Nov) 2 approx</p>
+<p>Consumer price index	    -	  3 (Nov)	  3 approx</p>
+<p>Wholesale price index	   -	  3 (Nov)	  3 approx</p>
+<p>Industrial production (FIEL) 25 (Oct) 15 approx (Nov)15 approx</p>
+<p>Industrial production (Govt) 29 (Oct) 30 (Nov)	 30 approx</p>
+<p>Trade balance		     -	  5 (Oct)	  6 approx</p>
+<p>Unemployment		     n/a	18 (Oct)	    n/a</p>
+<p>Supermarket sales		 -	 19 (Oct)	 20 approx</p>
+<p>- already released</p>
+<p>-- Buenos Aires Newsroom, 541 318-0668</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738110" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 18-JUL.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 18-JUL.</headline>
+<text>
+<p>High temperatures of 90F or above will dominate much of the Plains, Midwest, and East in the USA through today. Across the Southwest desert regions will see temperatures near 120F in some locations. Heat-related problems are expected as a result of the widespread hot weather affecting many major cities.  </p>
+<p>Hurricane Danny, with 75 mph winds, has tracked near the southeast coast of Louisiana this morning and is now heading for landfall near the Mississippi/Alabama boarder. A storm surge of 4-5 feet is expected near and to the right of landfall. Rains of 10-20 inches are expected along the path of this system, mostly because of its slow movement. We expect this to cause severe and widespread flooding. The highest risk area is from southeast Mississippi through southern Alabama and into southwest Georgia.  </p>
+<p>Tropical Depression 05, with 35 mph winds, is about 270 miles east of the Lesser Antilles, moving west northwest at 15 mph. It may intensify into a tropical storm during Saturday and will likely threaten a portion of the Lesser Antilles tonight or Saturday.</p>
+<p>Hurricane Felicia, with 75 mph winds, is well south southwest of southern Baja near 15.2n/121.3w, moving west northwest at 12 mph. Felicia will maintain track and strength during the next 24 hours, threatening only shipping.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

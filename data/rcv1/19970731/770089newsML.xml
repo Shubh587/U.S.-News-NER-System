@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="770089" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: IBM unveils Internet &quot;concierge&quot; technology.</title>
+<headline>IBM unveils Internet &quot;concierge&quot; technology.</headline>
+<dateline>NEW YORK 1997-07-30</dateline>
+<text>
+<p>International Business Machines Corp. said Wednesday it is making available free over the Internet new software that acts as an intelligent &quot;concierge&quot; that monitors and remembers users' movements on the World Wide Web.</p>
+<p>The software, which is the latest in so-called intelligent agent software, is called WBI (pronounced Webby) and can remember usage patterns on the Internet, what sites are visited, alert users to site changes and helps make people more productive.</p>
+<p>WBI is an intermediary between the Web browser software that enables computer users to access the Web and a Web server, which is equivalent to a transmitting station for a Web site. It also alerts users how fast a Web site is, whether it is up and running, and the speed of its links.</p>
+<p>&quot;It's the beginning of a lot of very interesting possibilities to take some of the drudgery out of Web surfing,&quot; said John Patrick, IBM's vice president for Internet technology. &quot;Webby can be a concierge for your use on the Internet. The idea is to make it more productive for people.&quot;</p>
+<p>IBM said 70,000 users have downloaded WBI free from the IBM research Web site, IBM's online laboratory, alphaWorks (http://www.alphaworks.ibm.com), since it was first released as an experimental technology on the site about six months ago.</p>
+<p>WBI, which stands for Web browser intelligence, can also be downloaded at http://www.networking.ibm.com/iag/iaghome.html.</p>
+<p>&quot;We now feel we can make it more widely available and make it available to companies that want to build a business around it,&quot; Patrick said, but he declined to give any potential revenues IBM might gain from commercializing the technology.</p>
+<p>Another potential use of WBI is that users can customise it to their own interests and have particular Web sites captured and stored locally overnight. WBI can also be customised to monitor shopping patterns, checking out Web sites for updates and alerting a customer to new products.</p>
+<p>Target customers include corporate enterprise customers, software developers, Internet service providers and others.</p>
+<p>For corporate customers who want to customise, embed, or resell the WBI Personal Agent software, IBM will license it at terms to be negotiated, based on specific usage.</p>
+<p>IBM said it will also offer consulting and programming services for intelligent agent applications, to help design systems for business needs.</p>
+<p>Currently, there are some agents or robot-like software that search the Web and ferret things out for customers.</p>
+<p>But IBM said WBI is different in a few ways -- in particular that it offers download and link times for sites and traffic signals. A red light means a site is down, green means it is up, and a yellow light means it is running slow.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

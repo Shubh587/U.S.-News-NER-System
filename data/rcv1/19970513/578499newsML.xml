@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578499" id="root" date="1997-05-13" xml:lang="en">
+<title>UK: Transco UK gas forecasts for May 14.</title>
+<headline>Transco UK gas forecasts for May 14.</headline>
+<dateline>LONDON 1997-05-13</dateline>
+<text>
+<p>Transco, the pipeline and transport arm of BG plc has announced the following forecasts and data for UK gas consumption in the period May 12 to 14.</p>
+<p>DEMAND:</p>
+<p>(mcm = million cubic metres)</p>
+<p>May 12 (actual) 209 mcm, 49 percent of peak day demand</p>
+<p>May 13 (forecast) 204 mcm, 48 percent of peak day demand</p>
+<p>May 14 (forecast) 189 mcm, 44 percent of peak day demand</p>
+<p>TEMPERATURE:</p>
+<p>(SNT = seasonal normal temperature)</p>
+<p>May 12 (actual) 10.6 Celsius, SNT 12.5 Celsius</p>
+<p>May 13 (forecast) 11.4 Celsius, SNT 12.6 Celsius</p>
+<p>May 14 (forecast) 12.4 Celsius, SNT 12.7 Celsius</p>
+<p>There was no interruption called for Tuesday, with none expected on Wednesday.</p>
+<p>--London Newsroom, +44 171 542 6412</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

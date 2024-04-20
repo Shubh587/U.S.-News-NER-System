@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622426" id="root" date="1997-05-28" xml:lang="en">
+<title>GERMANY: German Sept trade surplus rises to 9.8 bln DM.</title>
+<headline>German Sept trade surplus rises to 9.8 bln DM.</headline>
+<dateline>WIESBADEN, Germany 1997-05-28</dateline>
+<text>
+<p>The Federal Statistics Office reported the following economic indicator (bln marks):</p>
+<p>GERMAN TRADE/CURRENT ACC Mar 97    Feb 97	  Mar 96</p>
+<p> Trade balance		 +9.8     +9.2	    +6.2</p>
+<p> Current account	     +2.3     -1.5	    +2.0</p>
+<p> Exports			 70.4     67.8	    65.1</p>
+<p> Imports			 60.6     58.6	    58.9</p>
+<p> Services			-3.8     -4.1	    -3.8</p>
+<p> Wage and property income  +0.8     -1.3	    +4.1</p>
+<p> Transfers		     -4.3     -5.2	    -5.0</p>
+<p> Supplementary trade	 -0.2     -0.1	    +0.5</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

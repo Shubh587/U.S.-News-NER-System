@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212464" id="root" date="1996-11-23" xml:lang="en">
+<title>USA: U.S. citizens aboard hijacked plane.</title>
+<headline>U.S. citizens aboard hijacked plane.</headline>
+<dateline>WASHINGTON 1996-11-23</dateline>
+<text>
+<p>Several American citizens were aboard the hijacked Ethiopian Airlines Boeing 767 that crashed into the Indian Ocean on Saturday but their fate was not immediately known, the State Department said.</p>
+<p>Spokesman Christopher Bush said there were &quot;several&quot; Americans on the aircraft, but could not say how many or if any of them were among the 50 survivors found so far.  </p>
+<p>The Ethiopian Airlines plane with 175 passengers and crew crashed near the Comoro Islands, killing at least 50 people.</p>
+<p>Bush said the United States was sending an inter-agency team to provide assistance for the American passengers and support for the Comoran authorities.</p>
+<p>The group would include FBI agents who would offer to help with any investigations, he said. Because the aircraft was hijacked with American citizens aboard, the incident amounted to air piracy under U.S. law, Bush added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COMOR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

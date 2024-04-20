@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242579" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: John Hancock Mutual names D'Alessandro president.</title>
+<headline>John Hancock Mutual names D'Alessandro president.</headline>
+<dateline>BOSTON 1996-12-09</dateline>
+<text>
+<p>John Hancock Mutual Life Insurance Co said on Monday it named David D'Alessandro, a senior executive vice president, to the posts of president and chief operations officer, effective January 1, 1998.</p>
+<p>D'Alessandro will succeed William Boyan, who will step down as president at that time, the company said.</p>
+<p>Stephen Brown, chairman and chief executive, said when he and Boyan were elected to their current posts in 1992, it was decided that Boyan would step down before his normal retirement age and Brown would stay to allow for a smooth transition.</p>
+<p>The company said Brown would stay with John Hancock until he reacheed the retirement age of 65 in 2002.</p>
+<p>D'Alessandro joined John Hancock in 1984 as vice president of corporate communications. Boyan joined John Hancock in 1959, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

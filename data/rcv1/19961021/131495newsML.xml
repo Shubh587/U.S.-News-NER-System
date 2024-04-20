@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131495" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: PRESALE - Ocean Cty BOE, N.J..</title>
+<headline>PRESALE - Ocean Cty BOE, N.J..</headline>
+<text>
+<p>AMT: 2,420,000	DATE: 10/23/96	NYC Time: 1100	CUSIP: 674690</p>
+<p>ISSUER: Ocean City BOE						  ST: NJ</p>
+<p>ISSUE: School bonds						     TAX STAT:Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 11/01/96							     SURE BID: N</p>
+<p>DUE: 2/1/98-02						SR MGR:</p>
+<p>1ST CPN: 08/01/97</p>
+<p>CALL: Non-Callable					  NIC</p>
+<p>DELIVERY: 11/7/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: School District Treasurer's Office, Ocean City</p>
+<p>L.O.: McManimon &amp; Scotland, Newark</p>
+<p>F.A.: None</p>
+<p>LAST SALE: None</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

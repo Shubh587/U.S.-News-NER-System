@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265788" id="root" date="1996-12-18" xml:lang="en">
+<title>JAPAN: Kimura Unity sets terms on straight bond.</title>
+<headline>Kimura Unity sets terms on straight bond.</headline>
+<dateline>TOKYO 1996-12-18</dateline>
+<text>
+<p>BORROWER - Kimura Unity Co Ltd</p>
+<p>LEAD MGR - Tokai Int'l Securities</p>
+<p>TRUSTEE - Dai-Ichi Kangyo Bank Ltd</p>
+<p> TYPE straight bond   ISSUE NO   1	  AMT   3 bln yen</p>
+<p> COUPON 2.6%	    ISS PRICE  100.00   MATURITY 25.Dec.02</p>
+<p> LAST MOODY'S	   PAY DATE 25.Dec.96  INT PAY 25th Jun/Dec</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 18.Dec</p>
+<p> LAST JCR		 LAST JBRI  BBB+     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

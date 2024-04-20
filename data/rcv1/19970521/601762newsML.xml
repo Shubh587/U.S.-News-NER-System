@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="601762" id="root" date="1997-05-21" xml:lang="en">
+<title>PERU: Suspected rebels kill Peruvian policeman.</title>
+<headline>Suspected rebels kill Peruvian policeman.</headline>
+<dateline>LIMA 1997-05-20</dateline>
+<text>
+<p>Suspected leftist guerrillas shot dead one policeman and injured another on Tuesday night while the pair was patrolling a Lima suburb, police said.</p>
+<p>The shooting, at about 10 p.m. (0300 GMT Wednesday), coincided with the detonation of small explosives at a Lima cinema on Tuesday.</p>
+<p>Police believe the attacks to be the work of the Shining Path guerrilla movement, which last week set off a powerful car bomb in what was seen as the start of a new offensive. Ten people were injured in last week's attack.</p>
+<p>The smaller Tupac Amaru Revolutionary Movement (MRTA), who overshadowed the Shining Path with a four-month siege of the Japanese ambassador's residence, has also threatened reprisal attacks against security forces.</p>
+<p>Peruvian troops killed 14 MRTA rebels during an April 22 operation to release their 72 hostages, who had been held at the residence since Dec. 17.</p>
+<p>Two soldiers and one of the hostages also died in the bloody finale to the crisis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

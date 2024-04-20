@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592755" id="root" date="1997-05-17" xml:lang="en">
+<title>AUSTRALIA: RUGBY UNION-AUCKLAND BEAT NEW SOUTH WALES 34-20.</title>
+<headline>RUGBY UNION-AUCKLAND BEAT NEW SOUTH WALES 34-20.</headline>
+<dateline>SYDNEY 1997-05-17</dateline>
+<text>
+<p>Auckland beat New South Wales 34-20 (halftime 13-20) in a Super 12 rugby union match at the Sydney Football Stadium on Saturday.</p>
+<p>Scorers:</p>
+<p>Auckland - Tries: Zinzan Brooke, Brian Lima (2), Dylan Mika. Conversions: Adrian Cashmore (4). Penalties: Adrian Cashmore (2).</p>
+<p>New South Wales - Tries: Alistair Murdoch (2). Conversions: Matthew Burke (2). Penalties: Matthew Burke (2).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="693313" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: U.S. Supreme Court strikes down part of gun law.</title>
+<headline>U.S. Supreme Court strikes down part of gun law.</headline>
+<dateline>WASHINGTON 1997-06-27</dateline>
+<text>
+<p>In a bitter defeat for President Bill Clinton, the U.S. Supreme Court on Friday struck down an important part of the historic Brady gun-control law requiring that local sheriffs conduct background checks on prospective handgun buyers.</p>
+<p>The high court by a 5-4 vote ruled that Congress exceeded its power by imposing the requirement under the 1993 law that triggered a political battle and strong opposition from the powerful National Rifle Association gun lobby.</p>
+<p>The law, the first successful effort by Congress to regulate firearms in 25 years, was named after former White House Press Secretary James Brady, who was wounded in the 1981 assassination attempt on President Ronald Reagan.</p>
+<p>President Clinton had defended the law's constitutionality and strongly supported it as a way of reducing handgun murders nationwide.</p>
+<p>At issue was a key provision requiring local checks by sheriffs for any record of crimes, mental illness, drug use or other disqualifying problems during a five-day waiting period before the gun sale can be completed.</p>
+<p>Justice Antonin Scalia wrote for the majority in the 37-page opinion from the sharply divided court that the interim provision &quot;commanding&quot; state and local law enforcement officers to conduct the background checks on prospective handgun buyers was unconstitutional.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

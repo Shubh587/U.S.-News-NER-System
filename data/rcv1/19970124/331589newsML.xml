@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331589" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Pharmacopeia hits milestone in Berlex pact.</title>
+<headline>Pharmacopeia hits milestone in Berlex pact.</headline>
+<dateline>PRINCETON, N.J. 1997-01-23</dateline>
+<text>
+<p>Pharmacopeia Inc said on Thursday that it has received a cash milestone payment from Berlex Laboratories Inc as part of Berlex's decision to pursue an in vivo evaluation of a candidate compound identified by Pharmacopeia for treating multiple sclerosis.</p>
+<p>A company spokesman declined to quantify the payment but said that the overall contract is worth about $20 million.</p>
+<p>Phamacopeia said that Berlex has exercised its option to extend the term of its agreement and continue research in the current field.</p>
+<p>Berlex is a unit of Schering AG.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

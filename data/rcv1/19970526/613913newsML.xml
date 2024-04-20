@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="613913" id="root" date="1997-05-26" xml:lang="en">
+<title>OMAN: Oman, Yemen sign international border maps.</title>
+<headline>Oman, Yemen sign international border maps.</headline>
+<dateline>MUSCAT 1997-05-26</dateline>
+<text>
+<p>Oman and Yemen on Monday signed final copies of maps defining their international border, the official Omani news agency said.</p>
+<p>The two Arabian peninsula countries signed a border accord in October 1992, ending a 25-year dispute over the 308 km (180 miles) frontier. A year later, they opened their first border crossing after the frontier was surveyed and new maps were printed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUSCAT"/>
+<dc element="dc.creator.location.country.name" value="OMAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

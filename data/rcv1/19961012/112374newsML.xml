@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112374" id="root" date="1996-10-12" xml:lang="en">
+<title>UK: SOCCER SHOWCASE-MANCHESTER UNITED BEAT LIVERPOOL 1-0.</title>
+<headline>SOCCER SHOWCASE-MANCHESTER UNITED BEAT LIVERPOOL 1-0.</headline>
+<dateline>MANCHESTER, England 1996-10-12</dateline>
+<text>
+<p>Manchester United</p>
+<p>beat Liverpool 1-0 (halftime 1-0) in their English premier</p>
+<p>league match at Old Trafford on Saturday.</p>
+<p>Scorer: David Beckham (23rd minute)</p>
+<p>Attendance: 55,128</p>
+<p>Leading standings (tabulated under played, won, drawn, lost,</p>
+<p>goals for, against, points):</p>
+<p> Liverpool		 9  6  2  1 18  7   20</p>
+<p> Manchester United     9  5  4  0 19  6   19</p>
+<p> Newcastle		 8  6  0  2 14 10   18</p>
+<p> Arsenal		   8  5  2  1 17  8   17</p>
+<p> Wimbledon		 8  5  0  3 12  7   15</p>
+<p> Chelsea		   8  3  4  1 11 10   13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

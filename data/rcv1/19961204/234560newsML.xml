@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234560" id="root" date="1996-12-04" xml:lang="en">
+<title>NORWAY: Fire on N. Sea drilling rig quickly put out - Amoc.</title>
+<headline>Fire on N. Sea drilling rig quickly put out - Amoc.</headline>
+<dateline>OSLO 1996-12-04</dateline>
+<text>
+<p>Amoco Norway said a fire on the Maersk Guardian drilling rig on Wednesday had been manually extinguished and had caused no injuries.</p>
+<p>A company statement said the blaze began at 1200 GMT and was put out in &quot;only a few minutes&quot;.</p>
+<p>The Maersk Guardian is drilling oil wells on the Amoco-operated Valhall field.</p>
+<p>&quot;The cause of the field is not known, but preliminary investigations point towards it having started in the mud room ventilation system,&quot; Amoco said. No one was in the room when the fire broke out.</p>
+<p>The are 79 workers on board the rig.</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

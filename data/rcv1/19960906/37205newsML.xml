@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37205" id="root" date="1996-09-06" xml:lang="en">
+<title>MEXICO: Mexican police hold eight in burning death of man.</title>
+<headline>Mexican police hold eight in burning death of man.</headline>
+<dateline>MEXICO CITY 1996-09-05</dateline>
+<text>
+<p>Mexican police were holding eight people in connection with the burning death of a man who was lynched for allegedly raping and killing a young woman, the state government of Veracruz said on Thursday.</p>
+<p>Mexicans were shocked by images broadcast on Wednesday showing a man in his late 20s being burned alive before a large crowd of people, including women and children.</p>
+<p>The man had allegedly raped and killed a young woman in the town of Playa Vicente in the southern state of Veracruz.</p>
+<p>After being badly beaten and tied to a tree, the townspeople poured gasoline over the man, then set him on fire. The onlookers stood in shock or smiled as flames engulfed the man.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

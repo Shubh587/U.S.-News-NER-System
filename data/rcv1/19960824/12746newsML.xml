@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12746" id="root" date="1996-08-24" xml:lang="en">
+<title>DUBAI: Qatar Airways to launch Frankfurt route.</title>
+<headline>Qatar Airways to launch Frankfurt route.</headline>
+<dateline>DUBAI 1996-08-24</dateline>
+<text>
+<p>Qatar Airways will begin flights to Frankfurt in November, the official Qatar News Agency reported on Saturday.</p>
+<p>It quoted the company's chief executive, Sheikh Hamad bin Ali bin Jabr al-Thani, as saying the airline would fly to Frankfurt twice a week.</p>
+<p>Al-Thani said earlier this month that the two-year-old airline expects to add another five destinations to its route network before the end of the year, bringing the total to 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

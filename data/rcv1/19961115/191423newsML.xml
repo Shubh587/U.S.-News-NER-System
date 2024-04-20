@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191423" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Montana coal units cut power for repairs.</title>
+<headline>Montana coal units cut power for repairs.</headline>
+<dateline>NEW YORK 1996-11-15</dateline>
+<text>
+<p>Montana Power Co will reduce power output from its Colstrip coal-fired power station in Colstrip, Mont. through the weekend, a company spokesman said Friday.</p>
+<p>The 320 megawatt Colstrip unit 2 was expected to return to service on Saturday after being taken off line Thursday to repair a boiler tube leak, said company spokesman Cort Freeman.</p>
+<p>Montana Power will also shut the 700 megawatt Colstrip unit 4 at about 0100 MST (0300 EST) on Saturday for repairs, Freeman said.</p>
+<p>Unit 4 is expected to be out of service for about 36 hours, he said.</p>
+<p>Freeman would not comment on whether Montana Power would have to purchase electricity on the open market to make up for the outages.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

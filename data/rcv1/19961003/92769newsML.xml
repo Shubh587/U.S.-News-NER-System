@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92769" id="root" date="1996-10-03" xml:lang="en">
+<title>CANADA: BC Telecom to invest C$26 mln more.</title>
+<headline>BC Telecom to invest C$26 mln more.</headline>
+<dateline>VANCOUVER 1996-10-03</dateline>
+<text>
+<p>BC Telecom Inc said Thursday it will invest an additional C$26 million for electronic information services.</p>
+<p>It will introduce later this month an integrated services digital network and is going to test in November asymmetric digital subscriber line technology.</p>
+<p>The first program, called ISDN Home, will allow customers to use the Internet and download data and graphics five times faster than a 28.8 kilobit per second modem. It will provide two independent channels and will cost C$55 a month per line.</p>
+<p>Under the initiative, a three-month market test will involve about 150 users and connect corporate local-area networks an the Internet at 1.5 megabits per second. The company expects to offer the service on a wider basis in mid-1997.</p>
+<p>-- Reuters Vancouver Bureau (604) 664-7314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

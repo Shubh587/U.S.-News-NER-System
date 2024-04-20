@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="520000" id="root" date="1997-04-18" xml:lang="en">
+<title>UK: Hello, who's that? It's the prime minister.</title>
+<headline>Hello, who's that? It's the prime minister.</headline>
+<dateline>BOLTON, England 1997-04-18</dateline>
+<text>
+<p>Julie Brown called her fiance for a chat on Friday, and got through to British Prime Minister John Major.</p>
+<p>Brown, 27, called Ashley Reece on his mobile telephone to discuss a weekend party.</p>
+<p>But Reece, a contract manager working on Bolton Wanderers Football Club's new stadium, was at that very moment being presented to Major, who was visiting the site during a campaign tour in north-west England ahead of the May 1 election.</p>
+<p>Reece, 25, told his bride-to-be that he could not talk as he was with the prime minister, but she refused to believe him.</p>
+<p>So Reece passed his phone to Major, who convinced her of his identity and told her to watch that evening's news if she still harboured doubts.</p>
+<p>Reece said later: &quot;I'm not quite sure whether she voted Conservative last time. I'm sure she will after this.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOLTON, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

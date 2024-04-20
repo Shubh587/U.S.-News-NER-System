@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86114" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: U.S. small grains--All wheat in major states - USDA.</title>
+<headline>U.S. small grains--All wheat in major states - USDA.</headline>
+<dateline>WASHINGTON 1996-09-30</dateline>
+<text>
+<p>USDA 1996 and revised 1995 all wheat production and acreage estimates in major states.</p>
+<p>    -    PRODUCTION, 1,000 bu:     YIELD, bu/acre:</p>
+<p>    -    1996--Prev.96    1995     1996--Prev.  1995</p>
+<p> Colo  75,500   76,060  105,260    33.3  32.1  38.4</p>
+<p> Ida  119,200  117,000  103,320    76.4  75.5  77.7</p>
+<p> Kans 255,200  255,200  286,000    29.0  29.0  26.0</p>
+<p> Mont 176,710  190,125  195,750    27.8  29.8  36.0</p>
+<p> N.D. 395,130  393,395  300,300    31.6  31.6  27.0</p>
+<p> Okla  93,100   93,100  109,200    19.0  19.0  21.0</p>
+<p> Wash 182,670  182,670  153,770    66.5  66.5  59.3</p>
+<p> -     HARVEST ACRES, 1,000s:</p>
+<p>    -    1996--Prev.96   1995</p>
+<p> Colo   2,268   2,368   2,738</p>
+<p> Ida    1,560   1,550   1,330</p>
+<p> Kans   8,800   8,800  11,000</p>
+<p> Mont   6,350   6,375   5,435</p>
+<p> N.D.  12,515  12,455  11,118</p>
+<p> Okla   4,900   4,900   5,200</p>
+<p> Wash   2,745   2,745   2,595</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

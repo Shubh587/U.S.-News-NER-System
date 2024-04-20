@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461437" id="root" date="1997-03-22" xml:lang="en">
+<title>USA: BOXING-ROY JONES DISQUALIFIED, GRIFFIN GETS TITLE.</title>
+<headline>BOXING-ROY JONES DISQUALIFIED, GRIFFIN GETS TITLE.</headline>
+<dateline>ATLANTIC CITY, New Jersey 1997-03-21</dateline>
+<text>
+<p>Montell Griffin won the World Boxing Council light heavyweight title from fellow American Roy Jones, Jr. Friday when Jones was disqualified at 2:27 of the ninth round for hitting Griffin when the challenger was down.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTIC CITY, New Jersey"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

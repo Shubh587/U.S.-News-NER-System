@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="706651" id="root" date="1997-07-03" xml:lang="en">
+<title>JAPAN: Bank of Japan drains 200 bln yen from market.</title>
+<headline>Bank of Japan drains 200 bln yen from market.</headline>
+<dateline>TOKYO 1997-07-03</dateline>
+<text>
+<p>The Bank of Japan (BOJ) drained a net 200 billion yen from the money market on Thursday, money traders said.</p>
+<p>The drainage left the market with a surplus of some 300 billion yen, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

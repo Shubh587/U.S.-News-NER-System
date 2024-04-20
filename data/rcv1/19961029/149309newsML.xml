@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149309" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Sun Microsystems unveils network computer.</title>
+<headline>Sun Microsystems unveils network computer.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Sun Microsystems Inc. Tuesday introduced its first network computer, the JavaStation, in a direct challenge to Microsoft and Intel, the dominant players in the industry.</p>
+<p>Saying the company was ushering in a new era of computing, Sun Chief Executive Officer Scott McNealy unveiled a sleek, charcoal-grey device, about nine inches by 12 inches, with no disk drives or slots or floppy disks, to allow access to networks of computers and the Internet, at a cost of $742.</p>
+<p>Sun, Oracle Corp., and International Business Machines Corp. are challenging the computer industry's dominant &quot;Wintel&quot; architecture from Microsoft Corp. and Intel Corp. with the new low-cost, low-maintenance network computers, or &quot;NCs.&quot;</p>
+<p>&quot;Today you'll see why the network is the computer and has been since 1984,&quot; McNealy said, reiterating Sun's mantra.</p>
+<p>The JavaStation is targeted at businesses. Sun said the machines might eventually be offered into the consumer market by cable TV and telecommunications firms as Internet access devices, but it declined to say when that might happen.</p>
+<p>With Java, software applications can be written in one language and distributed across networks and diverse computers and computing environments, from mainframes to minicomputers to personal computers and now to the new NCs.</p>
+<p>&quot;Java computing is going to be as powerful as the mainframe in the '60s, the minicomputer in the '70s and the PC environment of the '80s,&quot; said Ed Zander, president of Sun Micro's Computer Co.</p>
+<p>Sun introduced three versions of the JavaStation. The lowest cost, $742 version does not include a monitor or a keyboard. The systems are aimed at corporate users of Sun workstations and host computers, but can also access Microsoft PC applications from a host computer running Windows NT.</p>
+<p>At a news conference in New York, Sun executives said they did not expect the new machines to take the place of personal computers, but they also professed amazement at the news conference Microsoft held Monday.</p>
+<p>Microsoft, with several major players in the PC industry, unveiled its own &quot;NetPC&quot; strategy aimed at driving down the cost of PC ownership, with new features in Windows for network management, calling it &quot;Zero Administration.&quot;</p>
+<p>&quot;I have never seen such totally reactive vapour,&quot; Zander told reporters. &quot;We must really have touched a nerve.&quot;</p>
+<p>McNealy said it was simply a move by the &quot;old-line legacy Wintel&quot; trying to hold onto its position in the world. Wintel refers to the combination of Microsoft operating systems and Intel chips.</p>
+<p>&quot;People call it a PC on a diet, I call it a PC in a corset, with the strings pulled too tight and a bright red face,&quot; McNealy said, referring to the Microsoft initiative.</p>
+<p>But even with all the hype surrounding the industry's latest infatuation, Sun executives and analysts were not expecting big sales of the NC, nor will the JavaStation become a big percentage of Sun's hardware sales.</p>
+<p>&quot;This thing is a small percentage of the total product environment, it will help sell more servers,&quot; Zander told Reuters.</p>
+<p>&quot;Maybe a couple of years from now it will begin competing with low-end PCs,&quot; said Evan Quinn at International Data Corp., noting Sun's network computing strategy is tied to future expansion of its Java technology.</p>
+<p>Sun said the entry level model, containing eight megabytes of memory, will ship beginning in December. A fully configured system, which includes memory, keyboard, a mouse and 14-inch monitor, will cost $995.</p>
+<p>The company also said it will offer a JavaStation with 16 megabytes of memory, a mouse, keyboard and a 17-inch monitor for $1,565. The JavaStation also has a small operating system, the Java OS, taking up less than three megabytes of memory.</p>
+<p>While the devices are lower cost than the typical PC, which can range in cost from $1,500 to $3,000, Sun executives said their customers will save money as the costs of PC ownership for businesses escalate and are now estimated at anywhere from $6,000 to $12,000 a year, per PC.</p>
+<p>Sun said a JavaStation costs about $2,500 a year to maintain, or about $7,500 for three years, potentially saving corporations millions of dollars.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

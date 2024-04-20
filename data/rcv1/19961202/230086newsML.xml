@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230086" id="root" date="1996-12-02" xml:lang="en">
+<title>EGYPT: Suspected militants kill policeman in Egypt.</title>
+<headline>Suspected militants kill policeman in Egypt.</headline>
+<dateline>ASSIUT, Egypt 1996-12-02</dateline>
+<text>
+<p>Suspected Moslem militants killed one Egyptian policeman and wounded five others when they opened fire on a police convoy on Monday, security sources said.</p>
+<p>&quot;The armed men fled away after they opened fire at the last vehicle of a column of police vehicles,&quot; one source said.</p>
+<p>Policeman Nageh Obeid Hanna was killed near the city of Minya, some 240 km (150 miles) from Cairo.</p>
+<p>The sources said the men are suspected to be members of the Gama'a al-Islamiya (Islamic Group), the largest militant group fighting the Egyptian government in its bid to establish a purist Islamic state.</p>
+<p>More than 1,000 people have been killed and hundreds more wounded since the Gama'a launched an armed campaign in 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASSIUT, Egypt"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70956" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Credit Lyonnais ups Venezuela in stock portfolio.</title>
+<headline>Credit Lyonnais ups Venezuela in stock portfolio.</headline>
+<dateline>NEW YORK 1996-09-23</dateline>
+<text>
+<p>Credit Lyonnais raised Venezuela's weighting to five from three percent in a model portfolio of Latin American stocks.</p>
+<p>In a report issued late on Friday, analyst Francois Gour cited dropping inflation, upcoming privatizations, the pending invasion of foreign brokers and market trades at a discount to the region among reasons for the upgrade.</p>
+<p>Venezuelan stocks have more of an upside than Brady bonds, she said.</p>
+<p>-- Ian Simpson, Wall Street desk (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

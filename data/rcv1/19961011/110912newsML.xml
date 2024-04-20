@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110912" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Clinton signs major securities bill.</title>
+<headline>Clinton signs major securities bill.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>U.S. President Bill Clinton on Friday signed into law a major securities bill that reforms the regulation of mutual funds and gives the Securities and Exchange Commission more money to supervise investment advisers.</p>
+<p>&quot;This bill achieves the difficult task of improving the efficiency of the financial markets without compromising investor protections,&quot; Clinton said in a written statement.</p>
+<p>The legislation represents the first major overhaul of U.S. securities regulation in 50 years.</p>
+<p>It exempts from state regulation securities offered by mutual funds and stocks listed on the New York Stock Exchange, American Stock Exchange, NASDAQ and other exchanges identified by the SEC as providing comparable listing standards.</p>
+<p>Clinton said it would save &quot;hundreds of millions of dollars&quot; for U.S. businesses through a reduction of SEC fees, national regulation of mutual funds and the reform of broker-dealer regulations.</p>
+<p>&quot;These changes will also enhance our national capital markets, helping to create and nurture new businesses and new jobs, and enchancing the returns of both businesses and investors,&quot; he said.</p>
+<p>The bill establishes an electronic database that would let investors check up on the disciplinary records of investment advisory funds and advisers. It gives the SEC $20 million in additional money to supervise investment bankers.</p>
+<p>&quot;The SEC's funding will be more stable and predictable than it has been in recent years,&quot; Clinton said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

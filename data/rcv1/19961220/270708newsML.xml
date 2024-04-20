@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270708" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Aware to supply data modules to PairGain.</title>
+<headline>Aware to supply data modules to PairGain.</headline>
+<dateline>BEDFORD, Mass. 1996-12-20</dateline>
+<text>
+<p>Aware Inc Friday said it has agreed to supply PairGain Technologies Inc with Asynchronous Digital Subscriber Line, or ASDL, modules for use in PairGain's products.</p>
+<p>Terms of the development and purchase agreement between the firms were not disclosed.</p>
+<p>Aware shares rose 2-1/8 to 10-3/4 this morning, while PairGain shares slumped 1-1/8 to 34-1/2.</p>
+<p>ASDL is a technology capable of delivering multi-megabit per second data transmission over conventional copper telephone wires. It is seen as an alternative to upgrading to cable modems running over coaxial cable.</p>
+<p>The Aware modules are printed circuit boards containing the Analog Devices Inc AD20msp910 chipset. Aware said its modules combine the Analog Devices ADSL chipset with Aware's transceiver and modem knowledge, enabling equipment suppliers to integrate ADSL technology into their products.</p>
+<p>Module prototypes will be available in the first half of 1997, with prices starting at about $500. Production quantities are seen following shortly thereafter, they said.</p>
+<p>((-- New York Newsdesk +1 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

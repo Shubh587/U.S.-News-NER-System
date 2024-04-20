@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351034" id="root" date="1997-02-03" xml:lang="en">
+<title>BRAZIL: Brazil's Petrobras net profit up in 1996.</title>
+<headline>Brazil's Petrobras net profit up in 1996.</headline>
+<dateline>SAO PAULO 1997-02-03</dateline>
+<text>
+<p>Brazilian state oil monopoly Petrobras, known formally as Petroleo Brasileiro S.A., has released the following 1996 earnings figures.</p>
+<p>			  1996		   1995</p>
+<p>    Net		 664 million	  570 million</p>
+<p>    Shr		 6.12		   N/A</p>
+<p>    Gross Rev	 23.822 bln	   18.768 bln</p>
+<p>    Net Revs	  16.872 bln	   13.945 bln</p>
+<p>Note: The figures are all in Brazilian reais and are not inflation-adjusted. Share net is per lot of 1,000 shares.</p>
+<p>((-- James Craig, Sao Paulo newsroom 5511 248 5413))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

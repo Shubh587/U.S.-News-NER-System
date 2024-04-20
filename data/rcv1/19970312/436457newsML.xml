@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="436457" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Dow ends weaker after falling 50 points.</title>
+<headline>Dow ends weaker after falling 50 points.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Blue-chip stocks fell sharply Wednesday as the market paused after setting record highs the previous two sessions.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average closed down 45.79 points at 7,039.37, after falling more than 50 points earlier. The index ended Tuesday at 7,085.16, beating Monday's record finish of 7,079.39.</p>
+<p>In the broader market, advancing issues led declines by 15 to nine on active volume of 486 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

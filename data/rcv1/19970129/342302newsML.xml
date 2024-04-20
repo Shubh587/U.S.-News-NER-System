@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="342302" id="root" date="1997-01-29" xml:lang="en">
+<title>UK: Turkey sets 500 million mark seven-year Eurobond.</title>
+<headline>Turkey sets 500 million mark seven-year Eurobond.</headline>
+<dateline>LONDON 1997-01-29</dateline>
+<text>
+<p>The following bond was announced by joint lead managers Commerzbank and Deutsche Morgan Grenfell.</p>
+<p> BORROWER   TURKEY</p>
+<p> AMT    500 MLN DEM   COUPON     7.75	MATURITY    17.FEB.04</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.90     PAY DATE    17.FEB.97</p>
+<p> FULL FEES  2.75	REOFFER    98.40     SPREAD	+275 BP</p>
+<p> MOODY	BB3	 LISTING    FRANKFURT PAY FREQ    ANNUAL</p>
+<p> S&amp;P	  B	   DENOMS (K) 1	   SALE LIMITS =</p>
+<p> MGT/UND    0.75	SELL CONC  1.50	LISTING FEE 0.50</p>
+<p>UNDERLYING GOVT BOND NOV 2003 TREUHAND</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

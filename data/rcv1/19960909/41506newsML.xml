@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41506" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: U.S. inspection destinations for wheat/corn/barley.</title>
+<headline>U.S. inspection destinations for wheat/corn/barley.</headline>
+<dateline>WASHINGTON 1996-09-09</dateline>
+<text>
+<p>USDA said the 33.588 million bushels wheat, 12.106 million bushels of corn and 1.419 million bushels of barley inspected in the week to Sept 5 included the following destinations (1,000 bu):</p>
+<p>WHEAT: Lakes to Togo 608; Tunisia 727.</p>
+<p>Gulf to Brazil 2,264; Chile 882; Colombia 791; Dominican Republic 121; Egypt 5,024; El Salvador 81; Guatemala 1,004; Israel 1,827; Jamaica 508; Mexico 529; Nigeria 882; Panama 411; Trinidad 341; Turkey 274; Venezuela 202.</p>
+<p>Pacific to Taiwan 1,312; Egypt 3,840; Japan 1,514; South Korea 2,734; Pakistan 4,745; Sri Lanka 1,822.</p>
+<p>WHEAT: Interior to Mexico 154.</p>
+<p>CORN: Gulf to Colombia 519; Dominican Republic 1,203; El Salvador 181; Israel 298; Jamaica 648; Japan 5,443; Malta 394; Mexico 1,972; Panama 354; Spain 259; Trinidad 255; Venezuela 256.</p>
+<p>Pacific to Japan 290.</p>
+<p>Interior to Mexico 34.</p>
+<p>BARLEY: Pacific to Japan 1,419.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

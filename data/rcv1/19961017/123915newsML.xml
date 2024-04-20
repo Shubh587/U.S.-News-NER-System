@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123915" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: NY/NJ Port Authority approves $1.2 bln bond issue.</title>
+<headline>NY/NJ Port Authority approves $1.2 bln bond issue.</headline>
+<dateline>NEW YORK 1996-10-17</dateline>
+<text>
+<p>The Port Authority of New York and New Jersey Board of Commissioners on Thursday voted to approve a $1.2 billion special projects bond issue for construction of a building at John F Kennedy International Airport in New York City.</p>
+<p>The Port Authority said it expects to begin construction on the new international arrivals building for JFK to begin this year.</p>
+<p>Details of when the bonds would be sold were not immediately available.</p>
+<p>&quot;It's time to stop appologizing for JFK and get about the business of rebuilding it,&quot; said George Marlin, executive director of the Port Authority.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

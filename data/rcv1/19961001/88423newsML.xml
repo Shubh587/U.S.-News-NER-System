@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88423" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Dow ends above 5,900 to set record.</title>
+<headline>Dow ends above 5,900 to set record.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Investors, encouraged by a series of reports showing the economic expansion slowing gradually, boosted blue chip stocks to a record close Tuesday as the Dow index ended above the 5,900 level for the first time.</p>
+<p>According to early, unofficial results, the Dow Jones industrial average gained 22.73 points to end at 5,904.90, topping the previous record of 5,894.70 set on Sept. 23. In the broader market, gains narrowly led declines by a 13-10 margin on the New York Stock Exchange, with volume strong at 421 million shares. The Nasdaq index fell 5.43 to 1,221.49.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

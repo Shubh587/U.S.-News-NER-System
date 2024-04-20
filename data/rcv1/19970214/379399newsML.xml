@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379399" id="root" date="1997-02-14" xml:lang="en">
+<title>UK: Ship loses 20-30 containers off British coast.</title>
+<headline>Ship loses 20-30 containers off British coast.</headline>
+<dateline>LONDON 1997-02-14</dateline>
+<text>
+<p>Rescue services said on Friday they were trying to recover between 20 and 30 containers lost overboard from a cargo ship off Britain's southwest coast.</p>
+<p>Coastguards said spotter aircraft would fly over the area to help a tug boat retrieve the containers, which were drifting east of the Singapore-registered Tokio Express.</p>
+<p>Steve Olley at the Falmouth Coastguard station said no casualties had been reported among the ship's crew.</p>
+<p>He said the ship was heading for the English port of Southampton where it would await the recovery of the containers -- believed to contain general cargo.</p>
+<p>The Tokio Express left the Dutch port of Rotterdam on Thursday en route for Halifax in Nova Scotia, Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

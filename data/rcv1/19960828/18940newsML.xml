@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18940" id="root" date="1996-08-28" xml:lang="en">
+<title>CANADA: Canadian West Coast Vessel Loadings - CWB.</title>
+<headline>Canadian West Coast Vessel Loadings - CWB.</headline>
+<dateline>WINNIPEG 1996-08-28</dateline>
+<text>
+<p>The Canadian Wheat Board reported four vessels loading, one waiting and eight due at the Canadian West Coast, as of Tuesday.</p>
+<p>The one vessel waiting to load in Vancouver waited two days. One vessel loaded in Churchill. Two ships loaded in Thunder Bay, three were due. One vessel waited to load for two days in Sorel, Quebec, one more ship was due on the East Coast.</p>
+<p>    Port	 Loading	Waiting</p>
+<p>    Vancouver	4		 1</p>
+<p>    Prince Rupert  0		 0</p>
+<p>(Gilbert Le Gras 204-947-3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

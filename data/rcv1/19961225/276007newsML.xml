@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276007" id="root" date="1996-12-25" xml:lang="en">
+<title>JAPAN: Japan November oil product imports data -- MITI.</title>
+<headline>Japan November oil product imports data -- MITI.</headline>
+<dateline>TOKYO 1996-12-25</dateline>
+<text>
+<p>Japan's Trade Ministry issued the following data on oil product imports during November (barrel equivalents are also shown):</p>
+<p>	 (In 1,000 kl)(1,000 bbl) mth/mth%  yr/yr %</p>
+<p> Gasoline	86	  541    -28.9	+48.3</p>
+<p> Naphtha    2,176     13,687    -12.1	 -8.2</p>
+<p> Kerosene     212	1,333     +1.4	-15.9</p>
+<p> Gas oil	 73	  459    -52.0     +108.6</p>
+<p> Fuel oil A   101	  635    +20.2	+34.7</p>
+<p> Fuel oil C    88	  554    -47.0	-62.1</p>
+<p>(Note: LSWR imports are included in the Fuel oil C statistics)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

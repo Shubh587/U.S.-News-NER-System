@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="388780" id="root" date="1997-02-19" xml:lang="en">
+<title>UK: OPTIONS - Straddles traded in GEC, Reuters.</title>
+<headline>OPTIONS - Straddles traded in GEC, Reuters.</headline>
+<dateline>LONDON 1997-02-19</dateline>
+<text>
+<p>One of the larger equity traded options deals on Wednesday was in electricals group GEC where a long straddle was established from buying 1,000 May 390 puts and calls at 23p and 12p each, dealers said.</p>
+<p>The deal will make a profit by expiry if the underlying shares move sufficiently up or down. The underlying shares need to either go below 355p -- when profits will come from the long puts -- or above 425p -- when the calls will make money.</p>
+<p>By 1325 GMT, GEC shares were up a penny to 375-1/2p.</p>
+<p>In contrast a short straddle was established in news and information group Reuters Holdings.</p>
+<p>The deal involved the sale of 500 April 650 puts and calls at 23p and 36p each.</p>
+<p>Maximum profit of 59p at expiry depends on Reuters shares being exactly 650p with breakeven at 591p on the downside and 709p on the upside. Reuters shares added 4p to 659-1/2p on Wednesday.</p>
+<p>Elsewhere, in BG, the newly demerged company from the former British Gas, the main trade was a long strangle involving the purchase of 750 June 160 puts at 8p as well as 750 June 200 calls at 6p.</p>
+<p>The strategy is similar to a long straddle in that the underlying share price must move sufficiently.</p>
+<p>But the possibility of incurring the maximum loss from a strangle is over a wider share price range.</p>
+<p>If held to expiry, profits will accrue if BG shares either go below 146p or above 214p. Maximum loss of 14p will be made if the shares are anywhere between 160p and 200p.</p>
+<p>BG shares gained a penny to 177p.</p>
+<p>Dealers said a systems fault which had prevented traded options prices from being displayed earlier in the session had stifled activity but normal trading resumed soon after the fault had been rectified.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

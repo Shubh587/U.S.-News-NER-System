@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242704" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Genzyme Transgenics starts Phase II trial.</title>
+<headline>Genzyme Transgenics starts Phase II trial.</headline>
+<dateline>FRAMINGHAM, Mass. 1996-12-09</dateline>
+<text>
+<p>Genzyme Transgenics Corp said on Monday it started a Phase II clinical trial with its lead product, the transgenic form of human antithrombin III (ATIII), a plasma protein that helps prevent blood clotting in many medical conditions.</p>
+<p>It is the first clinical trial in which patients will be treated with a product made in the milk of a transgenic animal, the company said.</p>
+<p>Transgenic proteins are produced by inserting human DNA into animals' cells so that the targeted protein, or drug, is secreted in the milk of female offspring.  </p>
+<p>Genzyme Transgenics produces ATIII in the milk of transgenic goats at its 168-acre commercial production facility in central Massachusetts.</p>
+<p>The product is being developed jointly with Genzyme Corp's General Division, which owns about 42 percent of Genzyme Transgenics's outstanding stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRAMINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

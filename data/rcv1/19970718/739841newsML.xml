@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739841" id="root" date="1997-07-18" xml:lang="en">
+<title>UK: Baltic Freight Index fell four points to 1,368.</title>
+<headline>Baltic Freight Index fell four points to 1,368.</headline>
+<dateline>LONDON 1997-07-18</dateline>
+<text>
+<p>The Baltic Freight Index for spot dry cargo shipping rates fell to 1,368 today from 1,372 on July 17, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route Index     Rate    Prev Index  Rate</p>
+<p>   1    1465    13.300	  1459    13.244</p>
+<p>   1a   1362 10313.000	  1363 10325.000</p>
+<p>   2    1704    24.344	  1715    24.500</p>
+<p>   2a   1626 13338.000	  1637 13425.000</p>
+<p>   3    1541    14.219	  1538    14.188</p>
+<p>   3a   1269 10019.000	  1280 10100.000</p>
+<p>   6    1285    13.250	  1285    13.250</p>
+<p>   7    1180     5.744	  1181     5.750</p>
+<p>   8     846     9.300	   845     9.293</p>
+<p>   9     785  6869.000	   795  6950.000</p>
+<p>  10    1148     5.800	  1148     5.800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

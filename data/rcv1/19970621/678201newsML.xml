@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678201" id="root" date="1997-06-21" xml:lang="en">
+<title>SPAIN: SOCCER-SPANISH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-SPANISH FIRST DIVISION SUMMARIES.</headline>
+<dateline>SEVILLE, Spain 1997-06-21</dateline>
+<text>
+<p>Spanish first division</p>
+<p>summaries on Saturday:</p>
+<p> Espanyol   3 - Nicolas Ouedec 52, Pralija 56, Luis Cobos 58.</p>
+<p> Valencia   2 - Goran Vlaovic pen 27, Ivan Campo 77.</p>
+<p>Attendance: 28,000  HT: 0-1</p>
+<p> Real Betis   2 - Wojciech Kowalczyk 11, Finidi George 71</p>
+<p> Vallaolid    0</p>
+<p>Att: 35,000  HT: 1-0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEVILLE, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

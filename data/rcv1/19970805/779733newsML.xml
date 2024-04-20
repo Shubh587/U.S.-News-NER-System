@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779733" id="root" date="1997-08-05" xml:lang="en">
+<title>UK: UK delivered grain trades - Aug 5.</title>
+<headline>UK delivered grain trades - Aug 5.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1415 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 per cent protein to London Aug 122.00 Apr/Jun 115.50</p>
+<p>Feed wheat to East Anglia this week 84.00 asa 81.00 Oct/Dec 87.50 Apr/Jun 93.50/93.25</p>
+<p>Norfolk/Suffolk Oct/Dec 88.00 Apr/Jun 93.50</p>
+<p>Yorkshire this week 85.00</p>
+<p>Liverpool this week 88.00</p>
+<p>Shropshire/Cheshire this week 87.00</p>
+<p>Avon range Oct/Dec 87.00 Jan/Mar 90.00</p>
+<p>Feed barley to East Anglia asa 73.50/74.00</p>
+<p>Yorkshire asa 75.50</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

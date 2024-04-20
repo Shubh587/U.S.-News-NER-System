@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730565" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: US June retail sales up more strongly than expected.</title>
+<headline>US June retail sales up more strongly than expected.</headline>
+<dateline>WASHINGTON 1997-07-15</dateline>
+<text>
+<p>Sales at U.S. retail stores picked up more strongly than expected in June following three straight monthly declines, the Commerce Department said on Tuesday, suggesting a potential revival in consumer activity.</p>
+<p>Total retail sales increased last month by 0.5 percent to a seasonally adjusted $210.3 billion after a revised 0.3 percent drop in May. A surprising rise in sales by auto dealers boosted June sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268160" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: U.S. cotton consumption -- Census.</title>
+<headline>U.S. cotton consumption -- Census.</headline>
+<dateline>WASHINGTON 1996-12-19</dateline>
+<text>
+<p>U.S. Census Bureau reports factory consumption of domestic and foreign cotton (bales):</p>
+<p>    Nov 96-B   Oct 96-A    Nov 95   Cum 1996   Cum 1995</p>
+<p>     816,704    829,329   761,391  8,643,706  9,610,057</p>
+<p>DAILY AVERAGE CONSUMPTION OF ALL COTTON (bales):</p>
+<p>    Nov 96-Y   Oct 96-X   Nov 95</p>
+<p>	40,836     41,467   38,453</p>
+<p>DAILY AVERAGE SPINDLE HOURS OPERATED:</p>
+<p>    Nov 96-X  Oct 96-Y   Nov 95</p>
+<p>	   146	 149	158</p>
+<p>A-4 weeks. B-4 weeks. X-Based on 20 days. Y-20 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

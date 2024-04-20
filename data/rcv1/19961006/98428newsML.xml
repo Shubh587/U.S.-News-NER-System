@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98428" id="root" date="1996-10-06" xml:lang="en">
+<title>USA: Weather shuts Louisiana offshore crude oil port.</title>
+<headline>Weather shuts Louisiana offshore crude oil port.</headline>
+<dateline>HOUSTON 1996-10-06</dateline>
+<text>
+<p>Heavy seas and strong winds shut the Louisiana Offshore Oil Port to crude oil deliveries over the weekend, leaving three tankers idled on Sunday, a vessel traffic controller at the facility said.</p>
+<p>Known as the LOOP, the facility in the Gulf of Mexico off the Louisiana coast was expected to remain shut through Monday until the rough seas subsided, the controller said.</p>
+<p>&quot;We're not pumping any ships due to the seas and strong winds,&quot; he said.</p>
+<p>The seas were being whipped up not by a tropical depression in the Gulf of Mexico but by a ridge of high pressure along the coast that was generating strong winds offshore, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

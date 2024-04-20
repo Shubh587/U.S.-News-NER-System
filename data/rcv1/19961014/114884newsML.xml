@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114884" id="root" date="1996-10-14" xml:lang="en">
+<title>UK: Baltic Freight Index rose to 1,069.</title>
+<headline>Baltic Freight Index rose to 1,069.</headline>
+<text>
+<p>Spot dry cargo shipping rates rose to 1,069 today from 1,063 on Oct 11, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route			   Index    Rate    Prev Index  Rate</p>
+<p>   1   US GULF/ARA	  1137    10.321    1117    10.143</p>
+<p>   1a  TRANSATLANTIC RV   0946  7164.000    0938  7107.000</p>
+<p>   2   US GULF/JAPAN	1452    20.750    1445    20.643</p>
+<p>   2a  SKAW P/USG/F EAST  1153  9457.000    1152  9450.000</p>
+<p>   3   NOPAC/JAPAN	  1248    11.514    1230    11.350</p>
+<p>   3a  JAPAN-SK/NOPAC/RV  1003  7914.000    0996  7857.000</p>
+<p>   6   HR OR HR-RB/JAPAN  1106    11.406    1106    11.413</p>
+<p>   7   HR/ROTTERDAM	 1008     4.906    1008     4.906</p>
+<p>   8   QLAND/ROTTERDAM    0696     7.650    0694     7.631</p>
+<p>   9   FE/NOPAC/SKAW-P    0479  4193.000    0475  4150.000</p>
+<p>  10   TUBARAO/ROTTERDAM  0977     4.938    0981     4.956</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157984" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: IBM introduces voice recognition software.</title>
+<headline>IBM introduces voice recognition software.</headline>
+<dateline>SOMERS, N.Y. 1996-10-30</dateline>
+<text>
+<p>International Business Machines Inc said on Wednesday it introduced a new speech recognition software which enabled people to dictate to a computer rather than type e-mail messages and letters.</p>
+<p>The software, VoiceType Simply Speaking for Windows 95 was a consumer version of IBM's VoiceType family of products, the company said. With it, people could dictate to a computer at speeds of 70 to 100 words per minute without using their hands, IBM said. They could also correct their dictation.</p>
+<p>Users could also save and edit a vocal file, IBM said.</p>
+<p>It was not immediately known when the software would be available and at what price.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOMERS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

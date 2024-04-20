@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147395" id="root" date="1996-10-28" xml:lang="en">
+<title>MEXICO: Mexico's Lamosa 9-mo net rises.</title>
+<headline>Mexico's Lamosa 9-mo net rises.</headline>
+<dateline>MEXICO CITY 1996-10-28</dateline>
+<text>
+<p>1996			  1995</p>
+<p>Shr			  n/a			   n/a</p>
+<p>Oper Income	  61.41 million	     105.16 million</p>
+<p>Net		    62.60 million		31.63 million</p>
+<p>Revs		  537.76 million	     569.59 million</p>
+<p>Int fin cost	  1.36 million   cost     65.85 million</p>
+<p>NOTE: All figures in Mexican pesos.</p>
+<p>Full company name is Grupo Lamosa SA.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

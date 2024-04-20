@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180821" id="root" date="1996-11-11" xml:lang="en">
+<title>SWITZERLAND: Banque Cantonale Vaudoise sets 150 mln Sfr bond.</title>
+<headline>Banque Cantonale Vaudoise sets 150 mln Sfr bond.</headline>
+<dateline>ZURICH 1996-11-11</dateline>
+<text>
+<p>The following offering was announced by the borrower and lead manager to yield 4.22 pct at issue.</p>
+<p>BORROWER - BANQUE CANTONALE VAUDOISE</p>
+<p>LEAD MGR - SAME</p>
+<p>AMT  = 150 MLN CHF</p>
+<p> COUPON - 4.25 PCT	MATURITY - 12.DEC.06</p>
+<p> ISS PRICE - 100.25     PAY DATE - 12.DEC.96</p>
+<p>LISTING - SWITZERLAND  TYPE - STR  VAL NR - 547  915	ISIN  - CH0005479156</p>
+<p>NOTE - ISSUE LAUNCHED AS PERMANENT GLOBAL CERTIFICATE.</p>
+<p>-- ZURICH EDITORIAL, 41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

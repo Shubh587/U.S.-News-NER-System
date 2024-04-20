@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249025" id="root" date="1996-12-11" xml:lang="en">
+<title>VENEZUELA: Cholera kills six in Venezuela.</title>
+<headline>Cholera kills six in Venezuela.</headline>
+<dateline>CARACAS 1996-12-11</dateline>
+<text>
+<p>Cholera has killed six people among 162 cases reported in Venezuela in the past 10 days, mainly in an area bordering Colombia, a Health Ministry official said on Wednesday.</p>
+<p>All the deaths and 155 of the confirmed cases were in western Zulia state bordering Colombia, Oswaldo Godoy, director of the ministry's Epidemic Watch unit, told Reuters.</p>
+<p>Godoy said four suspected new cases had been detected in the capital Caracas.</p>
+<p>Cholera, primarily spread by poor hygiene or drinking water contaminated by sewage, causes severe diarrhoea, vomiting and dehydration.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

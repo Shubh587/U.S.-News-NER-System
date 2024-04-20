@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99510" id="root" date="1996-10-07" xml:lang="en">
+<title>POLAND: Most Polish min t-bill prices flat, 8-wk bill up.</title>
+<headline>Most Polish min t-bill prices flat, 8-wk bill up.</headline>
+<dateline>WARSAW 1996-10-07</dateline>
+<text>
+<p>Minimum prices of most Polish T-bills held flat at today's primary auction on total demand of 1.17 billion zlotys against a one billion zloty offer, the finance ministry said.</p>
+<p>The treasury sold 740 million zlotys worth of bills.</p>
+<p>   T-bill	    8-week  13-week  26-week  39-week  52-week</p>
+<p>   new min price   97.26    95.50    91.18     ---     83.57</p>
+<p>   (pvs auction) *(92.21)  (95.50)  (91.18)    ---    (83.57)</p>
+<p>   new max price   97.30    95.58    91.27     ---     83.65</p>
+<p>   (pvs auction)  (97.30)  (95.65)  (91.30)    ---    (83.72)</p>
+<p>   offer	     150.0    200.0    150.0     ---     550.0</p>
+<p>   bids recorded   289.9    151.1    102.9     ---     627.8</p>
+<p>   bids accepted   159.4    106.1     61.9     ---     413.1</p>
+<p>   next auction    250.0    200.0    150.0     ---     600.0</p>
+<p>NOTE: Offer, bids in million zlotys.</p>
+<p>* Last offered on September 23.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

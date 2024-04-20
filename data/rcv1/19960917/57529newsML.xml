@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57529" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: NYSE seeks statement from Southern Union.</title>
+<headline>NYSE seeks statement from Southern Union.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>The New York Stock Exchange said Tuesday it asked Southern Union Co to issue a public statement concerning unusual activity with the company's stock, but the company declined to comment.</p>
+<p>The exchange said it sought the statement to indicate whether there were any corporate developments that could explain the activity.</p>
+<p>Southern Union did not immediately return a telephone call from Reuters seeking comment.  </p>
+<p>In trading Tuesday afternoon, the stock price was up 2-3/4 to 24.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

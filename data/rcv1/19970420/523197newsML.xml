@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523197" id="root" date="1997-04-20" xml:lang="en">
+<title>SOUTH KOREA: N.Korean defector arrives in South Korea.</title>
+<headline>N.Korean defector arrives in South Korea.</headline>
+<dateline>SEOUL 1997-04-20</dateline>
+<text>
+<p>A plane carrying top North Korean defector Hwang Jang-yop arrived in South Korea on Sunday on a flight from the Philippines, state television reported.  </p>
+<p>Korea Broadcasting System broadcast live pictures of an Air Philippines plane landing at a military airport south of Seoul. It said the Boeing 737 aircraft was carrying Hwang.</p>
+<p>Hwang defected in Beijing on February 12 and has been in the Philippines since March 18, but his whereabouts have been kept a tight secret.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

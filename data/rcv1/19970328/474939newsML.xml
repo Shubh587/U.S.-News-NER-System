@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="474939" id="root" date="1997-03-28" xml:lang="en">
+<title>INDONESIA: Indonesian forex market closed for holiday.</title>
+<headline>Indonesian forex market closed for holiday.</headline>
+<dateline>JAKARTA 1997-03-28</dateline>
+<text>
+<p>The Indonesian foreign exchange market was closed on Friday for the Easter holiday.</p>
+<p>The market will also be closed on Monday, the last day of the 1996-97 fiscal year, and will reopen April 1.</p>
+<p>On Thursday, the rupiah last traded at 2,400/2,403 against the dollar against an opening of 2,401.50/02.50.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257069" id="root" date="1996-12-14" xml:lang="en">
+<title>USA: Ship hits New Orleans Riverwalk, injures dozens.</title>
+<headline>Ship hits New Orleans Riverwalk, injures dozens.</headline>
+<dateline>NEW ORLEANS 1996-12-14</dateline>
+<text>
+<p>A freighter slammed into the New Orleans Riverwalk, an elevated strip of expensive stores overlooking the Mississippi River, on Saturday afternoon, injuring dozens of shoppers, authorities said.</p>
+<p>The Coast Guard confirmed that the Liberian-registered freighter the MV Brightfield apparently lost power as it moved under a bridge near downtown New Orleans and hit the Riverwalk, adjacent to the downtown Hilton Hotel about 2:15 p.m. CST (2015 GMT).</p>
+<p>&quot;Details are still sketchy, but initial reports indicate at least part of the Riverwalk collapsed,&quot; a Coast Guard spokesman told Reuters. &quot;There are casualties, several dozen. We don't know about deaths.&quot;</p>
+<p>New Orleans police could not immediately be reached for details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

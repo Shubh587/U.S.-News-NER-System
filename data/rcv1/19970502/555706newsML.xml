@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555706" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: Southwest Securities completes acquisition.</title>
+<headline>Southwest Securities completes acquisition.</headline>
+<dateline>DALLAS 1997-05-02</dateline>
+<text>
+<p>Southwest Securities Group Inc said Friday that it has completed the acquisition of privately-held Equity Securities Trading Company Inc, an NASD broker/dealer engaged in the securities clearing business.</p>
+<p>The transaction, which the company said was accomplished through an exchange of stock, closed on May 1. Details were not disclosed.</p>
+<p>Southwest Securities is a Dallas-based holding company that provides fully disclosed securities clearing and related services, as well as securities brokerage, investment banking and asset management services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

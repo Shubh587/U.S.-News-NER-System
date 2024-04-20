@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112777" id="root" date="1996-10-12" xml:lang="en">
+<title>SRI LANKA: Sri Lanka's Bank of Ceylon to open branch in Nepal.</title>
+<headline>Sri Lanka's Bank of Ceylon to open branch in Nepal.</headline>
+<dateline>COLOMBO 1996-10-11</dateline>
+<text>
+<p>Sri Lanka's state-owned Bank of Ceylon will open its sixth overseas branch in Nepal next week, a bank spokesman said on Friday.</p>
+<p>&quot;On Monday we will open the first branch in Nepal, where a second branch is planned by early 1997,&quot; he told Reuters.</p>
+<p>The branch in Siddarthanagar, near Lumbini, Buddha's birthplace in Nepal, is expected to benefit from the country's agriculture and tourism industries, he said.</p>
+<p>Bank of Ceylon, Sri Lanka's largest commercial bank, has two branches in London and one each in Male, the Maldives; Karachi, Pakistan and Madras, India. It plans to open a branch in Moscow in the first quarter of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NEPAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

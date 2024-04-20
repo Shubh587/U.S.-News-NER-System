@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306434" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: EMC unveils next-generation storage system.</title>
+<headline>EMC unveils next-generation storage system.</headline>
+<dateline>NEW YORK 1997-01-14</dateline>
+<text>
+<p>EMC Corp said Wednesday it will offer new versions of its Symmetrix Integrated Cached Disk Array systems used for data storage and retrieval at large enterprises using mainframes or PC-based servers.</p>
+<p>The company said it would offer six new Symmetrix models with up to 200 percent faster performance than competitors' products and up to a record three terabytes (trillions of bytes) of data capacity in a single storage system.</p>
+<p>It said U.S. list prices for fully configured systems range from $260,000 for an entry level Symmetrix 3330 to $3.4 million for a fully loaded Symmetrix 5700.</p>
+<p>The Symetrix 3330 comes with nine gigabyte hard disks and up to 289 gigabytes of capacity.  At the high end, the 5700 uses 23 gigabyte disk drives and offers up 2.95 terrabytes of capacity.</p>
+<p>The new Symmetrix systems are available for order immediately and, depending on model, are shipping either immediately or within 30 days.</p>
+<p>EMC is based in Hopkinton, Mass. Its main rivals in the data storage business are International Business Machines Corp and Storage Technology Corp.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

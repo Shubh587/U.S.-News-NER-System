@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="401802" id="root" date="1997-02-25" xml:lang="en">
+<title>MOROCCO: Arafat arrives in Morocco.</title>
+<headline>Arafat arrives in Morocco.</headline>
+<dateline>RABAT 1997-02-25</dateline>
+<text>
+<p>Palestinian President Yasser Arafat arrived in Morocco on Tuesday and was expected to have talks with King Hassan on the latest developments in the Middle East peace process.</p>
+<p>Arafat flew in from Brussels where he had signed a trade deal with the European Union and called on the 15-nation bloc to strengthen political relations.</p>
+<p>Moroccan Prime Minister Abdellatif Filali welcomed the Palestinian leader, who inspected an honour guard before leaving the airport for the capital.</p>
+<p>Neither he nor Filali made any statement, but one official said earlier: &quot;Arafat is expected to meet King Hassan for talks on the Middle East.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137500" id="root" date="1996-10-23" xml:lang="en">
+<title>FRANCE: France's Snecma set to buy out SEP.</title>
+<headline>France's Snecma set to buy out SEP.</headline>
+<dateline>PARIS</dateline>
+<text>
+<p>The French government, belatedly attempting to consolidate a fragmented aerospace industry, Wednesday gave the green light for engine maker Snecma to buy up rocket engine manufacturer SEP.</p>
+<p>State-owned Snecma already owns 51 percent of Societe Europeene de Propulsion (SEP) and wants to buy out minority shareholders to make it a wholly-owned subsidiary. The enlarged group would have annual sales of around 15 billion francs ($2.9 billion).</p>
+<p>The deal has a strong industrial logic and would ensure Snecma's future in space programmes and its position as France's centre for engine manufacture, the Finance Ministry said in a statement.</p>
+<p>SEP makes engines and boosters for Ariane rockets, used by the European Arianespace consortium.</p>
+<p>Snecma makes civilian and military airplane engines including those for passenger jets of the Airbus Industrie consortium and Dassault Aviation combat planes.</p>
+<p>Financial details were unavailable.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

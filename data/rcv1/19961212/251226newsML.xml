@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251226" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: U.S. Mint buys 2,224,000 kg of zinc.</title>
+<headline>U.S. Mint buys 2,224,000 kg of zinc.</headline>
+<dateline>WASHINGTON 1996-12-12</dateline>
+<text>
+<p>The U.S. Mint said Thursday it purchased 2,224,000 kg of special high grade zinc from five companies at an average price of $1.1574 per kg, for a total cost of $2,567,060.40.  </p>
+<p>The Mint bought 744,000 kg from Future Resources Inc at an average price of $1.1513 per kg, for a total cost of $856,581.20.</p>
+<p>It bought 462,000 kg from Trademet Inc. at an average price of $1.1635 per kg for a total cost of $537,556.80.</p>
+<p>It purchased 272,000 kg from Hochschild Partners at $1.1644 per kg and a total cost of $316,716.80; 286,000 kg from Astumet Inc at an average price $1.1614 and a total cost of $332,173.60, and bought 460,000 kg from Phoenixx at a cost fo $1.1465 and a total cost of $524,032.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

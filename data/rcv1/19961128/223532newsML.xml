@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223532" id="root" date="1996-11-28" xml:lang="en">
+<title>NETHERLANDS: Dutch bourse suspends Fokker trade.</title>
+<headline>Dutch bourse suspends Fokker trade.</headline>
+<dateline>AMSTERDAM 1996-11-28</dateline>
+<text>
+<p>The Amsterdam Stock Exchange said on Thursday it was suspending trade in Fokker shares and convertible bonds until further notice.</p>
+<p>&quot;Trade...is suspended in connection with an expected statement,&quot; it said.</p>
+<p>Fokker has been negotiating with South Korea's Samsung Aerospace to take over the bankrupt Dutch aircraft-maker.</p>
+<p>Earlier this week Dutch television said the South Korean governemt was expected to decide on Thursday whether to give its blessing for the takeover.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

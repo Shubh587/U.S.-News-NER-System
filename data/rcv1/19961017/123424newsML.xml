@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123424" id="root" date="1996-10-17" xml:lang="en">
+<title>MEXICO: Mexico, Britain trade seen 20 pct up this year.</title>
+<headline>Mexico, Britain trade seen 20 pct up this year.</headline>
+<dateline>MONTERREY, Mexico 1996-10-16</dateline>
+<text>
+<p>Trade between Mexico and Britain will grow about 20 percent this year to some $1.2 billion, British ambassador Adrian Beamish said on Wednesday.</p>
+<p>&quot;It's difficult right now to predict what the figure will be at the end of the year, but I believe we're talking about a figure of $1.2 billion. Something like that,&quot; Beamish told journalists during a visit with Nuevo Leon governor Benjamin Clariond.</p>
+<p>Trade between the two countries totalled $1.0 billion in 1995, but Beamish said, &quot;This figure will grow in favour of Mexico.&quot;</p>
+<p>He said Mexico likely would export more oil, beef, textiles and auto parts to Britain in 1996.</p>
+<p>&quot;Mexican exports to England have increased notably, while our exports here have not grown at the same pace,&quot; Beamish said.</p>
+<p>-- Debora Montesinos, Monterrey bureau, (528) 345-7677</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTERREY, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

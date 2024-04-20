@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699097" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Clinton to meet Georgian, Azerbaijani leaders.</title>
+<headline>Clinton to meet Georgian, Azerbaijani leaders.</headline>
+<dateline>WASHINGTON 1997-07-01</dateline>
+<text>
+<p>U.S. President Bill Clinton will meet Georgian President Eduard Shevardnadze at the White House on July 18, the White House announced on Tuesday.</p>
+<p>&quot;The two leaders will exchange views on U.S.-Georgian bilateral relations and issues of regional concern,&quot; White House spokesman Mike McCurry said.</p>
+<p>He also announced that Clinton would meet President Haydar Aliyev of Azerbaijan at the White House on Aug. 1 for talks on development of Caspian energy resources.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AZERB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

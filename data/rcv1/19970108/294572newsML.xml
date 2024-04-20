@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294572" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: IBM Vermont plant closed after bomb threat.</title>
+<headline>IBM Vermont plant closed after bomb threat.</headline>
+<dateline>ESSEX JUNCTION, Vt. 1997-01-08</dateline>
+<text>
+<p>Police evacuated an IBM semiconductor plant and were searching for a bomb Wednesday after an unidentified male telephoned a threat to local police.</p>
+<p>&quot;We've evacuated the plant and nobody's in there,&quot; said Essex Junction police dispatcher Wendy Fuller. &quot;But all the surrounding schools and the homes are still occupied.&quot;</p>
+<p>Fuller said a decision on whether to evacuate surrounding buildings will be made later.</p>
+<p>The plant employs as many as 7,000 workers and operates 24 hours, Fuller said. Officials with IBM were not immediately available to comment.</p>
+<p>Burlington Free Press reported Wednesday the plant manufactures microprocessors which run personal computers, logic computer chips used in everything from cars to home appliances, and other semiconductor products.</p>
+<p>An IBM spokesman told the newspaper that shutting the plant will cost the company $1 million a day.</p>
+<p>Essex Junction police received the phone call early on Tuesday and decided to evacuate the plant around 1700 EST, Fuller said.</p>
+<p>Bomb-sniffing dogs from Connecticut and Vermont were called in and were searching for a bomb on Wednesday, she said.</p>
+<p>((-- Boston bureau (617) 367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESSEX JUNCTION, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

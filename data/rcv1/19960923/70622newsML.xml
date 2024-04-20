@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70622" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: U.S. wheat, corn and barley export inspections.</title>
+<headline>U.S. wheat, corn and barley export inspections.</headline>
+<dateline>WASHINGTON 1996-09-23</dateline>
+<text>
+<p>U.S. Agriculture Department said the 25.403 million bushels of wheat, 23.081 million of corn and 2,822 of barley inspected for export in the week ended Sept 19 were for the following shipment from port areas or inland inspection points (1,000 bu).</p>
+<p>	     Wheat     Corn	Barley</p>
+<p> Lakes     5,975	Nil	  525</p>
+<p> Atlantic    Nil	Nil	  Nil</p>
+<p> Gulf     10,817   22,086	  Nil</p>
+<p> Pacific   7,985	Nil	2,297</p>
+<p> Interior    626	995	  Nil</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

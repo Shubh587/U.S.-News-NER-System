@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="769715" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Aeroflex unit gets $10 mln of contracts.</title>
+<headline>Aeroflex unit gets $10 mln of contracts.</headline>
+<dateline>PLAINVIEW, N.Y. 1997-07-31</dateline>
+<text>
+<p>Aeroflex Inc said Thursday its subsidiary Aeroflex Laboratories Inc won more than $10 million in contracts for micro-electronic multi-chip modules used in satellite telecommunications and data communication processing.</p>
+<p>The manufacturer of electronic systems and micro-electronic components said it closed the contracts in June and deliveries will take place over the next 12 to 18 months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLAINVIEW, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

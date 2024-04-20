@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42093" id="root" date="1996-09-09" xml:lang="en">
+<title>GERMANY: ABB German H1 profit 55 mln DM. [corrected 09:30 gmt]</title>
+<headline>ABB German H1 profit 55 mln DM. [corrected 09:30 gmt]</headline>
+<dateline>MANNHEIM, Germany 1996-09-09</dateline>
+<text>
+<p>Half year to June 30 (in millions of marks unless stated)</p>
+<p>    Group pretax profit	 55	vs n/a</p>
+<p>    Group sales		   3,400   unch</p>
+<p>    Group incoming orders     4,500   down five pct (Corrects from up five pct)</p>
+<p>NOTE - Asea Brown Boveri AG, the German unit of the Swiss-Swedish engineering group, said developments in the first half of the year were in line with expectations.</p>
+<p>-- Bonn newsroom, 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

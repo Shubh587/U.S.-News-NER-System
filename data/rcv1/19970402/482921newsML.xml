@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482921" id="root" date="1997-04-02" xml:lang="en">
+<title>USA: EIA - U.S. weekly petroleum stocks.</title>
+<headline>EIA - U.S. weekly petroleum stocks.</headline>
+<text>
+<p>(Million Barrels)	 3/28/97   3/21/97--Change 3/28/96</p>
+<p>Gasoline..............    196.9    198.8    -1.9    204.5</p>
+<p>RFG...................     34.7     34.5     0.2     40.8</p>
+<p>Distillate Fuel.......     97.9    100.2    -2.3     90.6</p>
+<p>Residual Fuel.........     38.9     39.2    -0.3     31.7</p>
+<p>Jet Fuel..............     38.8     39.2    -0.4     34.2</p>
+<p>Unfinished Oils.......    100.9     98.6     2.3     93.8</p>
+<p>Other Oils............    147.3    148.3    -1.0    140.2</p>
+<p>Crude Oil (Exc SPR)...    310.5    304.1     6.4    299.9</p>
+<p>Total Stock (Exc SPR).    931.2    928.4     2.8    894.8</p>
+<p>Strategic Pet.Reserve.    563.5    563.5    unch    589.4</p>
+<p>All Stocks (Inc SPR)..  1,494.7  1,491.9     2.8  1,484.3</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

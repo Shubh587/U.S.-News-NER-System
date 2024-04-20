@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204145" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Toledo grain/soybean receipts/shipments - Nov 19.</title>
+<headline>Toledo grain/soybean receipts/shipments - Nov 19.</headline>
+<text>
+<p>Toledo receipts and shipments, in bushels. Source: CBOT</p>
+<p>		     Wheat     Corn	Oats  Soybeans</p>
+<p> Total Rcpts	9,979 1,550,361	 0   316,403</p>
+<p> Total Shpts     48,887     9,032	 0   825,316</p>
+<p> Rail  Rcpts	    0   100,176	 0    23,147</p>
+<p> Rail  Shpts     43,398     8,678	 0	   0</p>
+<p> Truck Rcpts	9,979 1,450,185	 0   293,256</p>
+<p> Truck Shpts	5,489	 354	 0	   0</p>
+<p> Lake  Shpts	    0	   0	 0   825,316</p>
+<p>Note: Lake shipments are for Nov 18.</p>
+<p>--Chicago newsdesk 312-983-7278--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

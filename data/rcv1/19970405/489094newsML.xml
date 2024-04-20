@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489094" id="root" date="1997-04-05" xml:lang="en">
+<title>CHILE: CHILE LEADS ARGENTINA 2-1 IN DAVIS CUP TIE.</title>
+<headline>CHILE LEADS ARGENTINA 2-1 IN DAVIS CUP TIE.</headline>
+<dateline>SANTIAGO 1997-04-05</dateline>
+<text>
+<p>Chile led Argentina 2-1 after the doubles match on the second day of their Davis Cup American zone group one second round tie on Saturday:</p>
+<p>Marcelo Rios and Gabriel Silberstein (Chile) beat Javier Frana and Luis Lobo (Argentina) 3-6 7-6 (10-8) 4-6 6-3 6-2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

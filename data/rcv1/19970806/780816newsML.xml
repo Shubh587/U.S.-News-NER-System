@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780816" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: TABLE - Pamet Q2 net loss vs profit.</title>
+<headline>TABLE - Pamet Q2 net loss vs profit.</headline>
+<dateline>ACTON, Mass. 1997-08-06</dateline>
+<text>
+<p>Three months	    Six months</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> Net Sales	  432,105     759,321   1,039,611     997,525</p>
+<p>Net Income</p>
+<p>	   (loss) (191,174)     193,073   (178,946)	91,793</p>
+<p>Net Income</p>
+<p>(loss)</p>
+<p>   Per share  $    (0.08)  $    0.08 $     (0.08)  $    0.04</p>
+<p>NOTE:  Full name of company is Pamet Systems Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ACTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

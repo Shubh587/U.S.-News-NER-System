@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65597" id="root" date="1996-09-19" xml:lang="en">
+<title>UK: British police raid Kurdish TV station.</title>
+<headline>British police raid Kurdish TV station.</headline>
+<dateline>LONDON 1996-09-19</dateline>
+<text>
+<p>British police said on Thursday they had raided a Kurdish television station in central London as part of a money laundering investigation.</p>
+<p>A police spokesman said documents were removed from the Med-TV station on Wednesday after a search warrant was issued in connection with money laundering activities.</p>
+<p>Med-TV director Hikmet Tabak said the raids halted programmes and accused police of harassment.</p>
+<p>Britain's Press Association news agency said Med-TV had been a constant critic of Turkey's treatment of Kurds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

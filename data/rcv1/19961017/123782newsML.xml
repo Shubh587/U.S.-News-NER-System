@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123782" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: U.S. 3-Area Base Cost Hogs Carcass Lean Value-USDA.</title>
+<headline>U.S. 3-Area Base Cost Hogs Carcass Lean Value-USDA.</headline>
+<dateline>DES MOINES, Iowa 1996-10-17</dateline>
+<text>
+<p>Base Cost Lean Value Hog Carcass values for Wednesday, Oct 16 .</p>
+<p> DAILY    Volume	  Avg	 Bcost	 Bcost    Bcost</p>
+<p> 3-AREA		     Carcass  47-48%	 49-50%   51-52%</p>
+<p>				 Wt    *1.10-1.19 *1.00-1.09 *.80-.99</p>
+<p>10/16/96  130,255	 184.0     75.08	 76.47     77.84</p>
+<p>10/15/96  135,445	 184.0     76.91	 78.31     79.70</p>
+<p>10/14/96  131,464	 183.5     78.33	 79.74     81.14</p>
+<p>10/11/96  136,151	 184.1     78.81	 80.21     81.60</p>
+<p>10/10/96  134,106	 184.3     78.64	 80.04     81.43</p>
+<p>10/09/96  135,024	 183.7     78.06	 79.46     80.84</p>
+<p>WEEKLY 3-AREA</p>
+<p>Week Ended:</p>
+<p>10/12/96  679,012	 183.7     78.64	 80.03     81.43</p>
+<p>09/21/96  664,650	 182.9     73.69	 75.06     76.43</p>
+<p>Note: *Indicates backfat. Includes volume, weighted average base cost and average carcass weight for Mid-South, Eastern Cornbelt, and Western Cornbelt based on actual, not estimated, data. 51-52 pct values are used to calculate CME Lean Hog Value Index. Weekly total includes Saturday and/or Sunday data.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

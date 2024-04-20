@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773248" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: Cancer genome Web site to aid research.</title>
+<headline>Cancer genome Web site to aid research.</headline>
+<dateline>WASHINGTON 1997-08-01</dateline>
+<text>
+<p>A new Internet site aimed at helping  researchers learn more about genetic links to cancer was unveiled  on Friday by Vice President Al Gore and others.</p>
+<p>The site, developed by the National Cancer Institute and the National  Library of Medicine, will allow researchers to ask specific questions  about genes involved in the development of cancer.</p>
+<p>Gore, at a ceremony in the Old Executive Office Building, across from  the White House, likened various forms of cancer listed at the site  -- ranging from lymph, lung and breast to ovarian and bone marrow  -- to a &quot;most wanted&quot; poster and said the new site would help scientists  learn more about genetic aspects of these diseases.</p>
+<p>The Web site can be accessed at www.ncbi.nlm.nih.gov/ncicgap.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

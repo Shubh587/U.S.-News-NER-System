@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166669" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: API says U.S. crude stocks rose in week.</title>
+<headline>API says U.S. crude stocks rose in week.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>U.S. crude oil stocks held in primary storage rose 9.30 million barrels in the week ended Nov 1 to 312.42 million barrels from a revised 303.13 million barrels that was previously reported as 302.35 million the prior week, the American Petroleum Institute (API) said Tuesday. API said that crude stocks excluding PADD 5 (Petroleum Administration for Defense District) rose 5.62 million barrels in the week to 244.42 million barrels. Distillate stocks fell 429,000 barrels to 117.46 million from 117.89 million the previous week. PADD 1 distillate stocks rose 875,000 barrels to 44.13 million barrels. API said gasoline stocks rose 4.74 million barrels in the week to 190.76 million barrels from 186.02 million barrels. Percent of capacity fell to 93.9 percent from 94.0 percent. API said reformulated gasoline stocks (RFG) fell 190,000 barrels to 37.59 million barrels from 37.78 million barrels in the previous week.</p>
+<p>API said crude runs to processing units rose to 14.32 million barrels from 14.28 million barrels. Residual fuel stocks in the latest week rose to 37.64 million barrels from 37.00 million in the previous week, and crude oil imports fell to 7.04 million barrels per day from 8.59 million, API said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

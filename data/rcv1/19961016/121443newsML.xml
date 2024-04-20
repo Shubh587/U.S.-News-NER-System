@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121443" id="root" date="1996-10-16" xml:lang="en">
+<title>ISRAEL: Bank of Israel renews daily monetary tender.</title>
+<headline>Bank of Israel renews daily monetary tender.</headline>
+<dateline>TEL AVIV 1996-10-16</dateline>
+<text>
+<p>The Bank of Israel said on Wednesday that it was renewing its daily monetary tender after a two-week lapse during which the economy had experienced excess liquidity.</p>
+<p>In the last two months, the central bank has periodically suspended the tender, which provides liquidity to the banking system. The last tender was October 1.</p>
+<p>Much of the excess liquidity is due to heavy dollar buying by the Bank of Israel to prevent the shekel from appreciating too strongly against the official currency basket to which it is pegged. The central bank has also blamed loose fiscal policy for the excess liquidity.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

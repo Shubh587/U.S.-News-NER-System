@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102592" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: MBIA Insurance Corp to open San Francisco office.</title>
+<headline>MBIA Insurance Corp to open San Francisco office.</headline>
+<dateline>ARMONK, N.Y. 1996-10-07</dateline>
+<text>
+<p>MBIA Insurance Corp, a unit of MBIA Inc, said on Monday it would open a San Francisco office headed by Thomas McLoughlin.</p>
+<p>McLoughlin, vice president of the western region of MBIA's public finance group, will be joined by at least two other professionals.</p>
+<p>The office, which is expected to open early next year, will be used for marketing and deal analysis of municipal issues in MBIA's western region.</p>
+<p>MBIA Insurance Corp is a leading insurer of municipal bonds and structured finance transactions.</p>
+<p>--Adam Entous, 415-677-2511</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARMONK, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

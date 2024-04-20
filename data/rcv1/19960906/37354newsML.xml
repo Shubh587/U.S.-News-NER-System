@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37354" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Daiwa expands U.S. Treasuries' trade into cyberspace.</title>
+<headline>Daiwa expands U.S. Treasuries' trade into cyberspace.</headline>
+<byline>Jose Paulo Vicente</byline>
+<dateline>NEW YORK 1996-09-06</dateline>
+<text>
+<p>Daiwa Securities America has expanded its trading room into cyberspace by allowing dealers to negotiate purchases and sales of U.S. government securities through the Internet, the worldwide computer network.</p>
+<p>The move will let clients log on to the bank's network using any Internet Service Provider (ISP) and effectively close a deal online.</p>
+<p>The first-ever government securities trade over the Internet was carried out last Friday between Daiwa and First Union Capital Markets Corp., involving $1 million in two-year Treasury notes, a Daiwa official said. Since then, several other deals have already been closed, he said.</p>
+<p>&quot;Today we've already had 10 transactions,&quot; Gib Clark, senior vice-president at Daiwa Securities America Inc., said in an interview on Thursday.</p>
+<p>Daiwa's move is the first attempt by a bank to offer trading of U.S. government securities online. Other companies, however, have already tapped the Web with online trading products for stocks and options.</p>
+<p>Charles Schawb, the discount brokerage house, has an online service on the World Wide Web called E.Schawb whereby clients can trade stocks and options via the Internet. Clients are then charged for commissions and fees for the transaction.</p>
+<p>Schawb's Web site is at http://www.eschawb.com.</p>
+<p>Another online service providing equity trading is E-trade, which can be tracked on the Web at http://www.etrade.com.</p>
+<p>Clients can access Daiwa's network through the bank's new Web site -- located at http://www.oddlot.com -- and from there place their buy or sell orders.</p>
+<p>But what about security?</p>
+<p>Although touted as the medium of the future, security and Internet are still like water and oil.</p>
+<p>Almost everything currently done online can be observed by third parties, unless additional instruments are incorporated into the system to ensure the user's privacy.</p>
+<p>To skirt the security holes, Daiwa is using several mechanisms, ranging from Internet firewalls to Secure ID cards, in an effort to prevent hackers from placing rogue or phony deals into the system.</p>
+<p>&quot;Anybody can hook up to our Web site, but they can only get as far as our firewall. Then they have to have a Secure ID card and an account open with Daiwa,&quot; Clark said.</p>
+<p>The so-called &quot;secure IDs&quot; are in fact small electronic cards that allow the user to have its entrance code to a computer network checked and changed every 60 seconds.</p>
+<p>&quot;The cards have an individual log-in code and a password,' Clark said.</p>
+<p>&quot;But part of that password is changed every 60 seconds ... So even if somebody intercepts a password over the Internet, he will not be able to use it because it will be already passed,&quot; Clark added.</p>
+<p>Clark said the system is now available only for financial institutions and brokerage houses interested in dealing with Daiwa. No individuals are allowed to open personal accounts and trade using the system at this point.</p>
+<p>&quot;Every new client has to pass our credit department just like any government dealer, like any institution on or off the Internet,&quot; Clark said.</p>
+<p>The software being used was based on an automated trading system developed by Daiwa in 1980 called The Odd-Lot Machine, he said.</p>
+<p>The system runs on Daiwa's own network, which consists of 70 institutions, most of them large primary dealers, regional dealers and big dealers banks.</p>
+<p>Daiwa's Web site currently runs on Netscape software and Sun Microsystem's server computers, Clark said.</p>
+<p>Daiwa's network allows clients accessing the system via the Internet to trade any maturity from one-day securities to 30-year bonds.</p>
+<p>The minimum transaction demonination is $1,000 to a maximum of $10 million on bills, which have maturities up to one year, $5 million for 10-year notes and $3 million for 30-year bonds.</p>
+<p>Robert Barlow of Inet Services, provider of Internet-based services to financial markets, said other instruments and markets were expected to be traded over the Internet in the coming months.</p>
+<p>Barlow said the next introduction was likely to be foreign currency trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

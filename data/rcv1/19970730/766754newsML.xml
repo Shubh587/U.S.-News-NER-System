@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766754" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: Alcatel unit gets supplier contract.</title>
+<headline>Alcatel unit gets supplier contract.</headline>
+<dateline>RICHARDSON, Texas 1997-07-30</dateline>
+<text>
+<p>A U.S. unit of Alcatel Alsthom said on Wednesday that American MetroComm Corp has selected Alcatel as its sole source supplier of digital cross connects and advanced optical network transport equipment for its telecommunications network.</p>
+<p>The total value of this relationship for Alcatel is expected to exceed $30 million, Alcatel said in a statement.</p>
+<p>American MetroComm, a local exchange carrier, now has an operational network serving primarily the New Orleans central business district and networks under construction in three other cities, Alcatel said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHARDSON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

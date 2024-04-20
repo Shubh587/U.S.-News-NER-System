@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809013" id="root" date="1997-08-19" xml:lang="en">
+<title>NETHERLANDS: Dutch bonds end up bolstered by U.S, German data.</title>
+<headline>Dutch bonds end up bolstered by U.S, German data.</headline>
+<text>
+<p>---------------------(Snapshot at 1540 GMT)---------------------</p>
+<p>* DUTCH STATE LOANS	 PRICES			  BID YIELDS</p>
+<p>  June 1999 7.50 pct	105.99/09 (+0.03)	   4.00 (-0.02)</p>
+<p>  Feb  2002		   114.00/10 (+0.24)	   4.70 (-0.06)</p>
+<p>  Feb  2007 5.75 pct	101.62/70 (+0.40)	   5.52 (-0.06)</p>
+<p>  Jan  2023		   115.74/94 (+0.71)	   6.24 (-0.06)</p>
+<p>* BUND FUTURE (Sept)	102.87 (+0.41)</p>
+<p>  TREASURIES  (Sept)	114.25 (+0.16 vs pvs Dutch close)</p>
+<p>* DM/NLG			1.1260 (prev 1.1260)</p>
+<p>--------------------------(SPREADS)----------------------------</p>
+<p>*DSLs versus Bunds  (pvs close)    *DSL curve     (pvs close)</p>
+<p> 5 yr	 +0.04	+0.05	  10-2 yr  152     (156)</p>
+<p> 10 yr	-0.06	-0.05	  10-5 yr   82	(82)</p>
+<p> Long	 -0.04	-0.05</p>
+<p>-------------------------(AUGUST 19)----------------------------</p>
+<p>* Dutch bonds end firm bolstered by German M3 and U.S. housing starts data.</p>
+<p>* Curve flattens as institutions more interested in buying long. One larger purchase at 10 yrs, but generally poor demand.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

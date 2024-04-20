@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82055" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 27-SEP.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 27-SEP.</headline>
+<text>
+<p>Typhoon Zane, centered about 360 miles southeast of Taiwan, is moving northwest at 8 mph. Top winds are near 115 mph. A general northwest movement will continue during the next several hours. The storm is then expected to turn more to the north with time. Zane may strengthen slightly during this period. The main threat from Zane is to shipping. Interests from Taiwan through the Ryukyu Islands to Iwo Jima should monitor the progress of this typhoon.  </p>
+<p>Typhoon Yates, centered about 325 miles northwest of Guam, is moving north northwest at 10 mph. Top winds are near 115 mph. A slow weakening trend will begin this period as the storm turns to the north then northeast into the open western Pacific. The storm threatens shipping only.  </p>
+<p>Hurricane Isidore, centered about 1000 miles west of the Cape Verde Islands, is moving west northwest at 18 mph. A gradual turn to the northwest is expected, keeping the storm over open waters. There is no threat to land at this time. Isidore is a threat to shipping.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CVI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106236" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Detroit Diesel gets Calif. engine order.</title>
+<headline>Detroit Diesel gets Calif. engine order.</headline>
+<dateline>DETROIT 1996-10-09</dateline>
+<text>
+<p>Detroit Diesel Corp said Wednesday it received an order for 70 of its Detroit Diesel 6V-92 turbocharged and aftercooled engines from the Los Angeles Metropolitan Transit Authority.</p>
+<p>It also received an order for an additional 30 6V-92TA long blocks.</p>
+<p>The ethanol-powered engines provide low oxides of nitrogen emissions.  The value of the order was not disclosed.</p>
+<p>The company said it received emission certification of ethanol-fueled transit bus engines from the California Air Resources Board.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="708074" id="root" date="1997-07-04" xml:lang="en">
+<title>BELGIUM: Foreign currency rates against the Ecu.</title>
+<headline>Foreign currency rates against the Ecu.</headline>
+<dateline>BRUSSELS 1997-07-04</dateline>
+<text>
+<p>The European Commission on Friday gave the following official foreign currency rates for one European Currency Unit (Ecu):</p>
+<p> Belgian Franc	40.7571  US Dollar	    1.12744</p>
+<p> Danish Krone	 7.52173  Canadian Dollar    1.54944</p>
+<p> Deutsche Mark	1.97528  Japanese Yen	 127.908</p>
+<p> Greek Drachma	310.904  Swiss Franc	  1.65306</p>
+<p> Spanish Peseta     166.704  Norwegian Krone    8.22413</p>
+<p> French Franc	 6.65687  Icelandic Krona    79.3832</p>
+<p> Irish Punt	  0.743205  Australian Dollar  1.50506</p>
+<p> Italian Lira	 1924.49  New Zealand Dollar 1.66388</p>
+<p> Dutch Guilder	2.22343  Maltese Lira	0.434953</p>
+<p> Austrian Schilling 13.8991  Turkish Lira	  168034</p>
+<p> Portuguese Escudo  199.163  Cyprus Pound	0.582447</p>
+<p> Finnish Markka     5.87623  South African Rand 5.10393</p>
+<p> Swedish Krona	8.67736  Hungarian Forint   212.016</p>
+<p> Sterling	    0.669105  Slovenian Tolar    179.257</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

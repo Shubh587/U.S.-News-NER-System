@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="295431" id="root" date="1997-01-09" xml:lang="en">
+<title>AUSTRALIA: TENNIS-COLONIAL CLASSIC RESULTS.</title>
+<headline>TENNIS-COLONIAL CLASSIC RESULTS.</headline>
+<dateline>MELBOURNE 1997-01-09</dateline>
+<text>
+<p>Results at the Colonial Classic exhibition tennis event at Kooyong on Thursday.</p>
+<p>Semifinal</p>
+<p>Michael Chang (U.S.) beat Boris Becker (Germany) 2-6 6-4 7-6</p>
+<p>(7-5)</p>
+<p>Losers' playoffs</p>
+<p>Michael Stich (Germany) beat Jim Courier (U.S.) 6-4 6-3</p>
+<p>Andrei Medvedev (Ukraine) beat Scott Draper (Australia) 6-4 6-3</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

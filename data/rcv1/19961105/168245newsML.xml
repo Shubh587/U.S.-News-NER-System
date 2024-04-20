@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168245" id="root" date="1996-11-05" xml:lang="en">
+<title>SOUTH KOREA: S.Korean colonel killed by suspected N.Koreans.</title>
+<headline>S.Korean colonel killed by suspected N.Koreans.</headline>
+<dateline>SEOUL 1996-11-05</dateline>
+<text>
+<p>A South Korean colonel was killed and seven other soldiers were wounded during exchanges of fire with two suspected North Korean infiltrators on Tuesday, state radio said.</p>
+<p>The suspected infiltrators were later shot dead by South Korean troops, it said.  </p>
+<p>A defence ministry spokesman said several South Korean soldiers were wounded in the exchange of fire with the suspected North Korean infiltrators, but he could not confirm the reported death of the colonel or give the exact number of those wounded.</p>
+<p>The suspected North Koreans were armed with automatic rifles and hand grenades, the spokesman said.</p>
+<p>South Korean troops have been hunting for three missing North Koreans after a North Korean submarine landed 26 agents in September. Twenty two were earlier shot dead and one was captured alive.</p>
+<p>The Shark-class submarine ran aground off the eastern city of Kangnung on September 17 as it tried to pick up three spies it offloaded two days earlier, according to the North Korean captured alive from the vessel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

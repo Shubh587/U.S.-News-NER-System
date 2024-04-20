@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74884" id="root" date="1996-09-25" xml:lang="en">
+<title>CENTRAL AFRICAN REPUBLIC: Mystery fever kills 34 in Central African Republic.</title>
+<headline>Mystery fever kills 34 in Central African Republic.</headline>
+<dateline>BANGUI 1996-09-25</dateline>
+<text>
+<p>A mystery fever has killed 34 people in the north of the Central African Republic near the border with Sudan, state radio reported on Wednesday.</p>
+<p>The health ministry planned to send a team of experts to the Vakaga region where a further 114 people had fallen ill with the disease, it said.</p>
+<p>It was not immediately clear when the outbreak began.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGUI"/>
+<dc element="dc.creator.location.country.name" value="CENTRAL AFRICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

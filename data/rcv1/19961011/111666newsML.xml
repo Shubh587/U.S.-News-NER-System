@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111666" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Blind man kills would-be attacker in Philadelphia.</title>
+<headline>Blind man kills would-be attacker in Philadelphia.</headline>
+<dateline>PHILADELPHIA 1996-10-10</dateline>
+<text>
+<p>- A would-be robber who thought Courtney Beswick, blind since birth, looked like easy pickings paid for his mistake with his life when Beswick used martial arts training to throw his attacker to the ground.</p>
+<p>When police reached the corner of Wayne Avenue and 51st street in the Germantown section on Wednesday night, Beswick, 28, was standing over a prostrate man. The man was taken to the Medical College of Pennsylvania hospital where he was pronounced dead.</p>
+<p>Cpl. Jim Pauley said Beswick told police &quot;he was grabbed from behind and pushed up against a wall. Then he flipped him and they struggled on the ground. Beswick used a neck hold to subdue his assailant.&quot;</p>
+<p>Police have not released the dead man's identity, pending notification of relatives. Beswick was released after questioning, according to Pauley, and will not be charged if no other evidence is uncovered. But Pauley said the investigation was still open.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

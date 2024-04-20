@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160818" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Gene identified for deadly form of anemia.</title>
+<headline>Gene identified for deadly form of anemia.</headline>
+<byline>Joanne Kenen</byline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>Two teams of scientists announced on Thursday they had identified a gene that causes a rare and deadly form of anemia and produces an unusual protein that may shed light on how cancer develops.</p>
+<p>The gene causes Fanconi anemia, often fatal by age 16. It causes bone marrow failure and birth defects and places children at high risk for cancer, particularly leukemia.</p>
+<p>&quot;It's a rare disease. But we know that these rare pediatric cancers tell us about cancer susceptibility,&quot; said Dr. Alan D'Andrea of Harvard Medical School, who wrote a commentary on the findings by two international consortiums published in November's Nature Genetics journal.</p>
+<p>&quot;The Fanconi anemia gene is novel; it does not look like any known tumor suppressor gene that has been characterized in the past,&quot; D'Andrea said in a telephone interview. &quot;This hope is that we'll learn something fundamental about cancer.&quot;</p>
+<p>Scientists believe at least five separate genes, one of which was identified in 1992, cause strains of Fanconi anemia. The new gene, known as FAA and located on chromosome 16, is believed to be responsible for about 65 percent of the cases.</p>
+<p>Cloning the gene is the first step toward developing good diagnostic tests and may eventually lead to new treatments. And a prenatal screening test can probably be developed quickly.</p>
+<p>To get the disease, a person must inherit flawed copies of the gene from both parents. Identifying the gene should help scientists learn whether people with one flawed copy also face health risks.</p>
+<p>&quot;With the new identification of the FAA gene, we can develop more precise screening tools to identify carriers and study their health over many years. Such data might provide information about cancers, birth defects and some blood disorders even more common than FA,&quot; said Rockefeller University geneticist Arleen Auerbach, one of the scientists who helped identify the gene.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

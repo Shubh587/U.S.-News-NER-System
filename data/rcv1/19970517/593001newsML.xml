@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593001" id="root" date="1997-05-17" xml:lang="en">
+<title>YEMEN: Yemen's President Saleh swears in new government.</title>
+<headline>Yemen's President Saleh swears in new government.</headline>
+<dateline>SANAA 1997-05-17</dateline>
+<text>
+<p>Yemen's new government headed by Prime Minister Faraj Said Bin Ghanem was sworn in on Saturday by President Ali Abdullah Saleh, a government official said.</p>
+<p>The 28-member cabinet took the oath of office one day before the new parliament holds its first session after last month's general election, in which Saleh's General People's Congress (GPC) won a landslide victory.</p>
+<p>The official told Reuters parliamentarians were expected to re-elect Sheikh Abdullah bin Hussein al-Ahmar as speaker. Al-Ahmar heads the minority Islah party, the GPC's Islamist junior coalition partner in the outgoing government.</p>
+<p>&quot;Members of the General People's Congress will vote in favour of re-electing al-Ahmar as speaker,&quot; the official said.</p>
+<p>Saleh said last week his ruling GPC would run the country alone after it captured 187 seats in the 301-member parliament. Islah, which won 53 seats, said it would join the opposition.</p>
+<p>Independents won 54 seats and two opposition parties took a total of five seats. Results for two seats have yet to be announced.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

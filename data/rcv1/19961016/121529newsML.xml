@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121529" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Kansas milk shipment dumped as carcinogen detected.</title>
+<headline>Kansas milk shipment dumped as carcinogen detected.</headline>
+<byline>Greg Frost</byline>
+<dateline>KANSAS CITY, Mo. 1996-10-15</dateline>
+<text>
+<p>A milk shipment from at least one Kansas dairy was destroyed after it was found to contain levels of a carcinogen that exceeded federal limits, a Kansas agricultural official said Tuesday.</p>
+<p>The carcinogen, aflatoxin, is a naturally occurring fungus sometimes found in grain. Because it is a known hazard to animal and human health, the U.S. Food and Drug Administration (FDA) places strict limits on allowable amounts that can be detected in milk or in grain for animal feed.</p>
+<p>John Falk, administrator for the Agricultural Commodities Assurance Program for the Kansas Department of Agriculture in Topeka, Kansas, declined to identify the dairy but said authorities were testing for the source of the contamination at the facility.</p>
+<p>&quot;The dairyman was feeding some new crop corn, but he was also feeding some other things that could be a source. He was feeding cottonseed and... a distiller's by-product,&quot; Falk told Reuters.</p>
+<p>Falk said tests showed the affected milk contained 0.55 aflatoxin parts per billion (ppb), which exceeded the FDA's maximum level of 0.50 ppb.</p>
+<p>Falk said &quot;every single truckload of milk&quot; in Kansas is always tested for aflatoxin.</p>
+<p>&quot;All the responsible folks in the human food chain are checking constantly, and in the animal feed chain, the responsible commercial people are all checking,&quot; Falk said when asked if humans might be at risk because of aflatoxin contamination in milk.</p>
+<p>The Kansas Department of Agriculture issued a news release last week alerting producers to the presence of the fungus, which it said had been found in isolated samples of new crop Kansas corn.</p>
+<p>&quot;I've been tracking this thing since 1989 -- probably our worst year (for aflatoxin contamination) that I can remember,&quot; Falk said. &quot;What's different about this year is... it's showing up in a different geographic area.&quot;</p>
+<p>Doug Jardine, extension plant pathologist at Kansas State University in Manahattan, Kansas, said aflatoxin levels were running above normal in new crop Kansas corn but were not nearly as serious as previous outbreaks.</p>
+<p>Jardine said a state report issued last week showed that approximately 12 Kansas corn samples out of &quot;several hundred&quot; had exceeded 20 ppb -- the maximum level of aflatoxin that the FDA allows in corn destined for human consumption.</p>
+<p>Jardine said aflatoxin levels in the affected samples ranged from 30 to 95 ppb.</p>
+<p>-- Kansas City bureau, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319028" id="root" date="1997-01-20" xml:lang="en">
+<title>INDIA: India RBI weekly statistics on banks.</title>
+<headline>India RBI weekly statistics on banks.</headline>
+<text>
+<p>(Amounts in billion rupees)</p>
+<p>					     1996	     1997</p>
+<p>				     Dec  5    Dec 20    Jan  3</p>
+<p>Item				 Amount    Amount    Amount</p>
+<p>Liabilities to others</p>
+<p>Aggregate deposits	    4,069.86  4,707.86  4,750.65</p>
+<p>Demand				677.57    761.09    777.59</p>
+<p>Time				3,392.30  3,946.77  3,973.06</p>
+<p>Borrowings			    3.07	7.64	8.44</p>
+<p>Other demand and time liab    259.93    324.72    312.20</p>
+<p>Investments		     1,604.84  1,827.30  1,849.85</p>
+<p>Government securities	 1,286.77  1,510.48  1,533.08</p>
+<p>Other approved securities     318.07    316.81    316.78</p>
+<p>Bank Credit		     2,389.12  2,594.10  2,632.40</p>
+<p>Loans cash-credit &amp; O.D     2,113.40  2,503.92  2,546.69</p>
+<p>Inland bills - purchased	 39.83     40.08     41.05</p>
+<p>		  discounted	 81.06     80.57     84.32</p>
+<p>Foreign bills - purchased	89.45     73.87     75.53</p>
+<p>		    discounted     65.39     58.95     59.95</p>
+<p>Note-Data sourced from the Reserve Bank of India's weekly statistical supplement dated January 18,1997.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525574" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: RPC Inc Q1 net income rises.</title>
+<headline>RPC Inc Q1 net income rises.</headline>
+<dateline>ATLANTA 1997-04-21</dateline>
+<text>
+<p>First quarter ended March 31		 1997	 1996</p>
+<p> Revenue					     $58,203   $49,717</p>
+<p> Cost of goods sold				 22,414    20,830</p>
+<p> Operating expenses				 26,946    22,068</p>
+<p> Deprec. and amort.				  2,778     2,032</p>
+<p> Interest income				     (508)     (438)</p>
+<p> Income before income taxes			6,573     5,225</p>
+<p> Income tax provision				2,266     1,775</p>
+<p> Net income					    4,307     3,450</p>
+<p> Earnings per share				   0.29	0.24</p>
+<p>			 (In thousands except per share data)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I84000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

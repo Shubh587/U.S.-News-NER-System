@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321962" id="root" date="1997-01-21" xml:lang="en">
+<title>GERMANY: Details of German govt annual economic forecast.</title>
+<headline>Details of German govt annual economic forecast.</headline>
+<dateline>BONN 1997-01-21</dateline>
+<text>
+<p>Following are key forecasts from the German government's annual economic report, details of which were obtained by Reuters on Tuesday. (Figures are real percentage changes unless stated)</p>
+<p>					 1997	 1996	  1995</p>
+<p> Pan-German GDP		    +2.5	 +1.4	  +1.9</p>
+<p> West German GDP		   +2.5	 +1.3	  +1.6</p>
+<p> East German GDP		   +2.5	 +2.0	  +5.3</p>
+<p> Pan-German unemployment (pct) 11.0	 10.3	   9.4</p>
+<p> West German unemployment	 9.5	  9.0	   8.3</p>
+<p> East German unemployment	16.0	 15.7	  14.1</p>
+<p> Private consumption	     +1.5	 +1.4	  +1.8</p>
+<p> State consumption		 +0.5	 +2.8	  +2.0</p>
+<p> Industry investment	     +1.5	 -0.7	  +1.5</p>
+<p> Exports			     +6.5	 +4.6	  +5.9</p>
+<p> Imports			     +4.5	 +2.0	  +6.4</p>
+<p> Consumer prices		   +1.5	 +1.8	  +1.9</p>
+<p>NOTE - Forecast figures are rounded to the nearest half percentage point. Figures are from a draft annual report to be published by the Economics Ministry on January 28.</p>
+<p>--Bonn newsroom +49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

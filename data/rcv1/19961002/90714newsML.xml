@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90714" id="root" date="1996-10-02" xml:lang="en">
+<title>ALBANIA: Albanian chrome output down in second quarter.</title>
+<headline>Albanian chrome output down in second quarter.</headline>
+<dateline>TIRANA 1996-10-02</dateline>
+<text>
+<p>Albania's Institute of Statistics reported the following economic indicators on Wednesday -</p>
+<p> ALBANIAN CHROME OUTPUT		1996 Q2   1995 Q2    Change</p>
+<p> Total chrome ore (tonnes)	   37,242    58,900    -21,658</p>
+<p> High grade chrome ore (tonnes)    28,164    40,000    -11,836</p>
+<p> Chrome concentrate (tonnes)	  9,523    12,000     -2,477</p>
+<p> Ferrochromium (tonnes)		 9,758    13,100     -3,342</p>
+<p>-- Tirana Newsroom +355 42 62228</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

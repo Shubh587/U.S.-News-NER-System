@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196574" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: ARI Network Services sells new PC package.</title>
+<headline>ARI Network Services sells new PC package.</headline>
+<dateline>MILWAUKEE 1996-11-18</dateline>
+<text>
+<p>ARI Network Services Inc on Monday said it will start selling a personal computer software package, called Meppel, that lets firms use electronic data interchange (EDI) faster, cheaper and without learning EDI technology to track product ordering, distribution and invoicing.</p>
+<p>The company said in a release that Meppel lets businesses send, receive and manage electronic documents using the ARI Network, a private intranet, or via the Internet.</p>
+<p>It said the first customers are agricultural chemical distributors that use the new software to send product movement reports to, and receive invoices from, manufacturers.</p>
+<p>Meppel, which will replace ARI's current AgEDI Plus DOS software, will cost from less than $3,000 to more than $5,000 per user. Current AgEDI Plus users can upgrade to Meppel at a discount, the firm said.</p>
+<p>ARI Network provides standards-based, Internet-enabled electronic commerce services for certain companies and distribution channels.</p>
+<p>ARI shares were trading at 2-1/2, up 1/8.</p>
+<p>--Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512307" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: First Palm Beach Bancorp Q2 falls.</title>
+<headline>First Palm Beach Bancorp Q2 falls.</headline>
+<dateline>WEST PALM BEACH, Fla. 1997-04-16</dateline>
+<text>
+<p>FIRST PALM BEACH BANCORP, INC.  (UNAUDITED)</p>
+<p>					 Quarter	    Six Months</p>
+<p>				     Ended Mar. 31    Ended Mar. 31</p>
+<p>				1997	  1996	1997	 1996</p>
+<p>						(in thousands)</p>
+<p> Interest income     $27,508     $26,505   $54,496    $49,666</p>
+<p> Interest expense     16,562	15,673    33,129     29,453</p>
+<p> Net interest income  10,946	10,832    21,367     20,213</p>
+<p>Less provision for loan</p>
+<p>  losses		     567	   957     1,369	1,584</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

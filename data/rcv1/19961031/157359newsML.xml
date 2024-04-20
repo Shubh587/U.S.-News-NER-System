@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157359" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Stocks jump; buoyed by falling oil prices, economic data.</title>
+<headline>Stocks jump; buoyed by falling oil prices, economic data.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Stocks closed on a strong note Thursday as a sharp drop in crude oil prices and more positive news about the economy sent long-term interest rates to their lowest levels in nearly 7 months.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended up 36.15 points at 6,029.38. In the broader market, advancing issues led declines 14-9 on heavy volume of 485 million shares on the New York Stock Exchange.</p>
+<p>The yield on the 30-year Treasury bond fell to 6.65 percent -- its lowest level since April 3 -- from 6.71 percent on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

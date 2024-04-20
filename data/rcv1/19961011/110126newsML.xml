@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110126" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Pharmaceutical Formulations files NDA.</title>
+<headline>Pharmaceutical Formulations files NDA.</headline>
+<dateline>EDISON, N.J. 1996-10-11</dateline>
+<text>
+<p>Pharmaceutical Formulations Inc said on Friday that it filed abbreviated New Drug Applications with the U.S. Food and Drug Administration for three new drugs.</p>
+<p>The company said it filed applications for its acid reducer Cimetidine, analgesic Naproxen Sodium and Sucralfate, a generic version of a drug used to treat duodenal ulcers.  </p>
+<p>Cimetidine was a generic version of SmithKline Beecham Plc's Tagamet, used to treat heartburn and acid indigestion. Naproxen was a generic version of Roche Holding Ltd's Alleve and Sucralfate was a generic version of Hoechst Marion Roussel Inc's Carafate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDISON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

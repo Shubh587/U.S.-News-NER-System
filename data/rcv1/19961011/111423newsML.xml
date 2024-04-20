@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111423" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Watson gets FDA approval letter for drug.</title>
+<headline>Watson gets FDA approval letter for drug.</headline>
+<dateline>CORONA, Calif 1996-10-11</dateline>
+<text>
+<p>Watson Pharmaceuticals Inc said Friday its wholly-owned subsidiary Watson Laboratories Inc had received an approvable letter from the U.S. Food and Drug Administration to market its Microzide drug.  </p>
+<p>The company said Microzide would only be available in low-dose, 12.5 mg strength of the most commonly used thiazide diuretic, hydrochlorothiazide.</p>
+<p>The drug is used for treating hypertension, it added.</p>
+<p>Watson Pharmaceuticals, headquartered in Corona, Calif, is engaged in the manufacture and sale of off-patent medications and the development of proprietary pharmaceutical products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CORONA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

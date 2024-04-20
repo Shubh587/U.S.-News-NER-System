@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209893" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: USDA year-to-date cattle, hogs slaughter - USDA.</title>
+<headline>USDA year-to-date cattle, hogs slaughter - USDA.</headline>
+<text>
+<p>Est weekly and year to date livestock slaughter - USDA</p>
+<p>					  CATTLE     CALVES     HOGS</p>
+<p>Friday     11/22/96  (est)	131,000	7,000     365,000</p>
+<p>Saturday   11/23/96  (est)	 27,000	    0	73,000</p>
+<p>Week ago (est)			 35,000	    0	53,000</p>
+<p>Year ago (act)			 71,000	1,000     275,000</p>
+<p>Week to date (est)		  671,000     34,000   1,882,000</p>
+<p>Same Period Last Week (est)     672,000     33,000   1,767,000</p>
+<p>Same Period Last Year* (act)    609,000     24,000   1,724,000</p>
+<p>1996 Year to date		32,263,000  1,533,000  81,518,000</p>
+<p>1995 Year to date*	     31,627,000  1,243,000  84,891,000</p>
+<p>Percent change			    2.0%	23.3%	 -4.0%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

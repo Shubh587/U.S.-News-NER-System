@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786906" id="root" date="1997-08-08" xml:lang="en">
+<title>CANADA: Petro-Canada refinery back in operation.</title>
+<headline>Petro-Canada refinery back in operation.</headline>
+<dateline>CALGARY 1997-08-08</dateline>
+<text>
+<p>Petro-Canada said on Friday it completed repairs to its 116,000 barrel a day Edmonton refinery and the plant was back in full operation on August 5.</p>
+<p>The refinery was operating at reduced levels after a mechanical problem on July 13.</p>
+<p>Petro-Canada said it expected after-tax costs for interim supply arrangements and repairs would be about C$12 million, which was to be reflected in third-quarter earnings from operations.</p>
+<p>The company said it experienced no problems providing customers with product during for the time after the incident. ((Jeffrey Jones, Reuters Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

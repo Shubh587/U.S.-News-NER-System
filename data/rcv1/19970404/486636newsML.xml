@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="486636" id="root" date="1997-04-04" xml:lang="en">
+<title>AUSTRALIA: TENNIS-AUSTRALIA TAKE 2-0 LEAD IN DAVIS CUP TIE.</title>
+<headline>TENNIS-AUSTRALIA TAKE 2-0 LEAD IN DAVIS CUP TIE.</headline>
+<dateline>ADELAIDE 1997-04-04</dateline>
+<text>
+<p>Australia led the Czech Republic 2-0 in their Davis Cup quarter-final tie after the opening round of singles on Friday.</p>
+<p>Results:</p>
+<p>Pat Rafter beat Martin Damm 6-1 7-6 (9-7) 4-6 6-4</p>
+<p>Mark Philippoussis beat David Rikl 6-1 6-4 2-6 6-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

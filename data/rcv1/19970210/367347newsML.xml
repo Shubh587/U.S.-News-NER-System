@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367347" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Stocks dogged by sell-off in technology shares.</title>
+<headline>Stocks dogged by sell-off in technology shares.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Stocks skidded Monday as bad earnings news unleashed heavy selling in technology shares.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average closed down 49.25 points at 6,806.55, while the Nasdaq Composite index lost 22.31 points at 1,335.40. In the broader market, declining issues led advances 13-11 on active volume of 471 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

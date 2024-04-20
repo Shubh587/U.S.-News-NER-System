@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257271" id="root" date="1996-12-15" xml:lang="en">
+<title>AUSTRALIA: CRICKET-WORLD SERIES TOURNAMENT STANDINGS.</title>
+<headline>CRICKET-WORLD SERIES TOURNAMENT STANDINGS.</headline>
+<dateline>ADELAIDE, Australia 1996-12-15</dateline>
+<text>
+<p>Standings in the</p>
+<p>World Series triangular limited-overs cricket tournament on</p>
+<p>Sunday (tabulate under played, won, lost, points).</p>
+<p>    Australia     3    2     1	 4</p>
+<p>    Pakistan	1    1     0	 2</p>
+<p>    West Indies   2    0     2	 0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="WEIND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

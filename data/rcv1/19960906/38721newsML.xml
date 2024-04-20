@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38721" id="root" date="1996-09-06" xml:lang="en">
+<title>JAPAN: S.Korea's Daewoo gets securities licence in Tokyo.</title>
+<headline>S.Korea's Daewoo gets securities licence in Tokyo.</headline>
+<dateline>TOKYO 1996-09-06</dateline>
+<text>
+<p>South Korea's Daewoo Securities Co Ltd has been granted a securities licence by Japan's Finance Ministry, the ministry said on Friday.</p>
+<p>Daewoo is the fifth South Korean securities house to have received a securities licence in Japan, which will allow it to deal, broker, underwrite and sell securities.</p>
+<p>Daewoo's Tokyo branch has a staff of 13.</p>
+<p>Including Daewoo, there are 55 foreign securities houses in Japan and 72 branches.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

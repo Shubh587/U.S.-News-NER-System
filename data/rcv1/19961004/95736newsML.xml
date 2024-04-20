@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95736" id="root" date="1996-10-04" xml:lang="en">
+<title>CANADA: Canada defense minister reported resigning.</title>
+<headline>Canada defense minister reported resigning.</headline>
+<dateline>OTTAWA 1996-10-04</dateline>
+<text>
+<p>Canadian Defence Minister David Collenette will resign on Friday as part of a cabinet reshuffle, the Canadian Broadcasting Corporation and the Canadian Press news agency reported.</p>
+<p>The move follows lengthy investigation of an alleged high-level cover-up of a 1992-93 Somalia peacekeeping mission during which Canadian soldiers tortured and killed several Somalis. Collenette will be replaced by Human Resources Minister Doug Young, CBC and CP said, quoted sources they did not name.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

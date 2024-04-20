@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180759" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Supertyphoon threatens ships off Japan to E.China.</title>
+<headline>Supertyphoon threatens ships off Japan to E.China.</headline>
+<dateline>LEXINGTON, MASS. 1996-11-11</dateline>
+<text>
+<p>Sypertyphoon Dale is a major threat to shipping over open water in the western Pacific Ocean near 20n/131e, moving north-northwest at 13 mph, Weather Services Corp said.</p>
+<p>Dale has top winds of 150 mph and will very gradually weaken but is expected to pass about 150-200 miles east of Okinawa, Japan, late Tuesday or early Wednesday.</p>
+<p>It will also stir up very rough surf and high waves which will batter southeastern Japan, the southern Japanese islands, and as far west as eastern Taiwan and the eastern coast of mainland China. Dale will become a powerful extratropical system in the northwest Pacific in some 48-72 hours time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

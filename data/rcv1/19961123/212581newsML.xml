@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212581" id="root" date="1996-11-23" xml:lang="en">
+<title>INDIA: Bombay bourse carry forward trades - Nov 23.</title>
+<headline>Bombay bourse carry forward trades - Nov 23.</headline>
+<dateline>BOMBAY 1996-11-23</dateline>
+<text>
+<p>The following is the latest trade data for the top stocks at the Bombay Stock Exchange (BSE) for the carry-forward or &quot;badla&quot; account on Saturday at 11.30 a.m. .</p>
+<p>SCRIP	 BUY	SELL     AV     LAST	 VOL	VAL</p>
+<p>		RATE     RATE    BADLA   RATE	 QTY     (million)</p>
+<p>		QTY	QTY     (Rs)    QTY	 ('000)</p>
+<p>---------------------------------------------------------------</p>
+<p>RELIANCE   -0.68    -0.50   -0.43   -0.50     147.00    25.40</p>
+<p>		50	 3000		2000</p>
+<p>SBI	   0.18     0.19    0.22    0.18     146.20    31.40</p>
+<p>		1800     1000		1800</p>
+<p>ITC	  -5.60    -5.51   -5.50   -5.50	56.50    15.50</p>
+<p>		200	100		 200</p>
+<p>L&amp;T	  -0.89    -0.77   -0.80   -0.56	48.65    10.40</p>
+<p>		200	1850		600</p>
+<p>--------------------------------------------------------------</p>
+<p>Note: The &quot;badla&quot; is interest rate for carry-forward trades. These are arrived through unique transactions which takes into account oversold and overbought positions and money supply.</p>
+<p>--Bombay newsroom +91-22-265-9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

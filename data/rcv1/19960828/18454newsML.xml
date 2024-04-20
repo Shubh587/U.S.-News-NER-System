@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18454" id="root" date="1996-08-28" xml:lang="en">
+<title>ISRAEL: SOCCER-ISRAELI FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-ISRAELI FIRST DIVISION RESULTS.</headline>
+<dateline>JERUSALEM 1996-08-28</dateline>
+<text>
+<p>Results of first division</p>
+<p>soccer matches played over the weekend and Tuesday:</p>
+<p> Hapoel Kfar Sava	     0   Hapoel Zafririm Holon    1</p>
+<p> Hapoel Tel Aviv		1   Maccabi Haifa		3</p>
+<p> Hapoel Jerusalem	     0   Hapoel Petah Tikva	 3</p>
+<p> Hapoel Ironi Rishon Lezion 3   Hapoel Taibe		 1</p>
+<p> Hapoel Beit She'an	   0   Hapoel Beit She'an	 1</p>
+<p> Maccabi Petah Tikva	  0   Betar Jerusalem	    3</p>
+<p> Hapoel Haifa		   3   Maccabi Tel Aviv	   1</p>
+<p> Hapoel Beersheva	     2   Maccabi Herzliya	   0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

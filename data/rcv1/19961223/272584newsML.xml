@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272584" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Daimler-Benz unit given exemption by FTC.</title>
+<headline>Daimler-Benz unit given exemption by FTC.</headline>
+<dateline>WASHINGTON 1996-12-23</dateline>
+<text>
+<p>The Federal Trade Commission on Monday said it had granted an exception of its franchise rule to Freightliner Corp, a wholly owned subsidiary of the Daimler-Benz group and a sister corporation to Mercedes-Benz of North America.</p>
+<p>The rule requires the seller of a franchise to provide each prospective franchisee with detailed information about the nature of its business and terms of the proposed relationship.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

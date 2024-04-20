@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366246" id="root" date="1997-02-10" xml:lang="en">
+<title>BRAZIL: TENNIS-U.S. BEAT BRAZIL 4-1 IN DAVIS CUP TIE.</title>
+<headline>TENNIS-U.S. BEAT BRAZIL 4-1 IN DAVIS CUP TIE.</headline>
+<dateline>RIBEIRAO PRETO, Brazil 1997-02-09</dateline>
+<text>
+<p>The United States</p>
+<p>beat Brazil 4-1 in their Davis Cup world group first round tie</p>
+<p>on Sunday when they won both reverse singles.</p>
+<p>Result (U.S. name first):</p>
+<p>Jim Courier beat Gustavo Kuerten 6-3 6-2 5-7 7-6 (13-11)</p>
+<p>Alex O'Brien beat Fernando Meligeni 7-5 7-6 (7-4)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIBEIRAO PRETO, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

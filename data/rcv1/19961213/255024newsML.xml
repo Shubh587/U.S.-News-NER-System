@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255024" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 13-DEC.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 13-DEC.</headline>
+<text>
+<p>Tropical cyclone Elvina is becoming less of a risk to shipping in the south Indian Ocean. Top winds are only 50 mph at this time and further weakening is likely. The system should have top winds of only 35 mph in 48 hours.</p>
+<p>Tropical cyclone 10s will become an increasing risk to shipping north of West Australia during this weekend. Top winds are now 35 mph but they may reach 75 mph in 48 hours. The system should still be well north of the West Australia coast on Sunday but it does bear watching.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

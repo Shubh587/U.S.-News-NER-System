@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47387" id="root" date="1996-09-11" xml:lang="en">
+<title>CYPRUS: Average yield 6.12 percent on Cyprus t-bills.</title>
+<headline>Average yield 6.12 percent on Cyprus t-bills.</headline>
+<dateline>NICOSIA 1996-09-11</dateline>
+<text>
+<p>The Cyprus central bank said the average yield at a reverse repo auction of 14-day treasury bills was 6.12 percent, down 0.05 points from the average yield of 6.17 percent two weeks ago.</p>
+<p>The central bank accepted tenders worth 10 million pounds with yields ranging from 6.15 to 6.10 percent, it said in a statement.</p>
+<p>It received offers totalling 11.5 million pounds.</p>
+<p>-- Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

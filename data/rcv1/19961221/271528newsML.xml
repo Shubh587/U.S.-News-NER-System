@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271528" id="root" date="1996-12-21" xml:lang="en">
+<title>UK: SOCCER-SCOTTISH LEAGUE RESULTS.</title>
+<headline>SOCCER-SCOTTISH LEAGUE RESULTS.</headline>
+<dateline>GLASGOW 1996-12-21</dateline>
+<text>
+<p>Results of Scottish league soccer</p>
+<p>matches on Saturday:</p>
+<p>Premier division</p>
+<p> Celtic		    1  Dundee United	   0</p>
+<p> Hearts		    1  Rangers		   4</p>
+<p> Kilmarnock		3  Aberdeen		  0</p>
+<p> Motherwell		2  Dunfermline	     3</p>
+<p> Raith		     0  Hibernian		 3</p>
+<p>Division one</p>
+<p> Clydebank		 2  East Fife		 0</p>
+<p> Stirling		  1  Airdrieonians	   2</p>
+<p>Division two</p>
+<p> Clyde		     0  Berwick		   0</p>
+<p> Livingston		2  Queen of the South    1</p>
+<p> Stenhousemuir	   3  Brechin		   1</p>
+<p>Division three</p>
+<p> Albion		    0  Ross County	     2</p>
+<p> Inverness		 2  Cowdenbeath	     1</p>
+<p> Montrose		  2  Alloa		     3</p>
+<p> Queen's Park	    3  East Stirling	   0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

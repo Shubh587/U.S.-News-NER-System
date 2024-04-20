@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237013" id="root" date="1996-12-05" xml:lang="en">
+<title>JAPAN: Japan buys 180,000 tonnes wheat, 40,000 barley.</title>
+<headline>Japan buys 180,000 tonnes wheat, 40,000 barley.</headline>
+<dateline>TOKYO 1996-12-05</dateline>
+<text>
+<p>The Japanese Food Agency said on Thursday it had bought 100,000 tonnes of U.S. wheat, 40,000 of Canadian wheat, 40,000 of Australian wheat, 20,000 of Canadian barley and 20,000 of Australian barley at its weekly tender.</p>
+<p>The tender results details are as follows, in tonnes:</p>
+<p>WHEAT (February shipment)</p>
+<p> Country    Quantity</p>
+<p> U.S.	 100,000	  Western white	    20,000</p>
+<p>				   Dark northern spring   36,000</p>
+<p>				   Hard red winter</p>
+<p>				    (13 percent protein)  40,000</p>
+<p>				    (11.5 percent protein) 4,000</p>
+<p> Canada     40,000	   1 Canadian western red spring</p>
+<p>								  40,000</p>
+<p> Australia  40,000	   Standard white	   40,000</p>
+<p>BARLEY</p>
+<p> Country    Quantity</p>
+<p>(January shipment)</p>
+<p> Canada     20,000	   Feed			 20,000</p>
+<p>(February shipment)</p>
+<p> Australia  20,000	   Feed			 10,000</p>
+<p>				   Food			 10,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

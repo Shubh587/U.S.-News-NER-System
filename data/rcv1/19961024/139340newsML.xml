@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139340" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: U.S. says American Radio Systems can buy stations.</title>
+<headline>U.S. says American Radio Systems can buy stations.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>The U.S. Justice Department said on Thursday that it allowed American Radio Systems Corp to buy two radio stations in Rochester, N.Y., for a total of four in the city, as long as it sells three other stations.</p>
+<p>The Justice Department said it also required that the company end a joint sales agreement with another Rochester radio station.</p>
+<p>The Justice Department said it opposed American Radio's initial plan to acquire four Rochester radio stations owned by The Lincoln Group L.P on the grounds it could decrease competition.</p>
+<p>The Justice Department said it filed an antitrust suit opposing the original deal, along with a proposed settlement allowing the restructured deal to go forward. The state of New York joined in the case.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

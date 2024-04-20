@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255823" id="root" date="1996-12-13" xml:lang="en">
+<title>UK: UK non-refining raw cane sugar exports for Sep.</title>
+<headline>UK non-refining raw cane sugar exports for Sep.</headline>
+<dateline>LONDON 1996-12-13</dateline>
+<text>
+<p>UK raw cane sugar exports in tonnes issued by UK Customs -</p>
+<p>Raw cane sugar not for refining (solid).</p>
+<p>				SEP     JAN/SEP 1996</p>
+<p>  TOTAL		     724	 3,891</p>
+<p>  France		     59	   458</p>
+<p>  Belgium-Luxembourg     31	   118</p>
+<p>  Netherlands	     403	   700</p>
+<p>  Germany		    30	   293</p>
+<p>  Italy			64	 1,110</p>
+<p>  Ireland		    64	   536</p>
+<p>  Denmark		     4	   111</p>
+<p>  Greece		    nil	     9</p>
+<p>  Portugal		  nil	    29</p>
+<p>  Spain			63	   510</p>
+<p>  Sweden			2	    12</p>
+<p>  Finland		   nil	   nil</p>
+<p>  Austria		   nil	   nil</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

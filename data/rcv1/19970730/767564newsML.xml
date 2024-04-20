@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="767564" id="root" date="1997-07-30" xml:lang="en">
+<title>SINGAPORE: Singapore launches Internet security company.</title>
+<headline>Singapore launches Internet security company.</headline>
+<dateline>SINGAPORE 1997-07-30</dateline>
+<text>
+<p>Singapore said on Wednesday it had set up Southeast Asia's first company to provide secure transactions in cyberspace.</p>
+<p>The government's National Computer Board (NCB) said in a statement it had set up a joint venture company with Network for Electronic Transfers Pte Ltd (NETS) to provide security for Internet transactions.</p>
+<p>It said the new company, Netrust, would provide &quot;digital certificates&quot; to provide security in electronic transactions and communications.  </p>
+<p>The certificates are the digital equivalent of a thumbprint or signature. They verify sender and receiver identities, keep information exchanged private and intact and provide proof of the the transaction, the statement said.</p>
+<p>The certificates, issued on smart cards and hard disks, have lifespans of about three years to maximise security and will be automatically renewed by Netrust on expiry, it said.</p>
+<p>The Singapore government-owned POSBank said in a statement it would join Netrust in issuing certificates to Internet banking customers.</p>
+<p>-- Singapore newsroom (870-3080).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

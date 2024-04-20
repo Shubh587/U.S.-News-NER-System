@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182595" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Minnesota corn harvest approaches completion.</title>
+<headline>Minnesota corn harvest approaches completion.</headline>
+<dateline>ST PAUL, Minn. 1996-11-12</dateline>
+<text>
+<p>Minnesota's corn harvest was nearing completion as of Sunday as freezing conditions allowed farmers good access to remaining stands of corn over the frozen ground, according to the state's Agricultural Statistics Service in its latest crop report.</p>
+<p>Corn was 88 percent harvested, up from 78 percent a week earlier and above the five-year average of 79 percent.</p>
+<p>Progress ranged from 97 percent complete in the northwest district to 62 percent in the southeast.</p>
+<p>Moisture content of corn harvested averaged 20 percent, versus 17 percent last year and an average of 21 percent.</p>
+<p>Topsoil moisture was rated 24 percent surplus, 72 percent adequate and four percent short.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

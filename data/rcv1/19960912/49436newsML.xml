@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49436" id="root" date="1996-09-12" xml:lang="en">
+<title>CYPRUS: Cyprus hospital deaths were murder - police.</title>
+<headline>Cyprus hospital deaths were murder - police.</headline>
+<dateline>NICOSIA 1996-09-12</dateline>
+<text>
+<p>Cypriot police said on Thursday a psychiatric hospital patient was suspected of murdering two fellow patients and attempting to kill a third.</p>
+<p>&quot;We have received a confession concerning two murders and one attempted murder,&quot; police spokesman Glafcos Xenos told Reuters.</p>
+<p>In one week in August, two male patients were found strangled with bedsheets at the psychiatric hospital in the Athalassa suburb of the capital Nicosia.</p>
+<p>Both deaths were considered suicides until staff found another patient strung with a bedsheet from a ceiling fixture but still alive, who claimed a fellow patient had tried to kill him.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

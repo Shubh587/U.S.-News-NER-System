@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162897" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Just For Feet Q3 same-store sales up.</title>
+<headline>Just For Feet Q3 same-store sales up.</headline>
+<dateline>BIRMINGHAM, Ala. 1996-11-04</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Q3	    $69,320    $34,770	 +99.4     +18.5</p>
+<p>Year-to-date$176,849   $81,341	+117.4    +28.6</p>
+<p>NOTE: Figures in 000s except percentage.</p>
+<p>Full company name is  Just For Feet Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

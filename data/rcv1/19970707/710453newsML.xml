@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710453" id="root" date="1997-07-07" xml:lang="en">
+<title>JAPAN: Fujitsu unveils new IC cards, IC reader/writer.</title>
+<headline>Fujitsu unveils new IC cards, IC reader/writer.</headline>
+<dateline>TOKYO 1997-07-07</dateline>
+<text>
+<p>Japan's leading chip maker Fujitsu Ltd on Monday unveiled three new integrated circuit (IC) cards and their reader/writers as part of an initial line of products for the IC card system solution business.</p>
+<p>The new IC card consists of an eight-bit Central Processing Unit (CPU), large memory capacity, and enhanced security functions, it said. The new IC card reader/writer is a terminal device designed to access the new IC card and read or write data in its memory, the Japanese chip maker said in a statement.</p>
+<p>Fujitsu said it plans to sell three million IC cards and 10,000 IC card reader/writers within the next two years.</p>
+<p>The new products can be used in electronic money systems, public systems, retail stores and for other applications.</p>
+<p>As for electronic money, Fujitsu is planning to support both the Visa cash and Mondex cash card system standards, it said, adding that it will release more new IC card related hardware and software in the near future.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181756" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: SOCCER-CONCACAF GROUP ONE STANDINGS.</title>
+<headline>SOCCER-CONCACAF GROUP ONE STANDINGS.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>Standings in World Cup soccer</p>
+<p>CONCACAF group one semifinals after weekend matches (tabulate</p>
+<p>under games played, won, drawn, lost, goals for, goals</p>
+<p>against, points)</p>
+<p> U.S.	  2   2  0  0   4  0   6</p>
+<p> Costa Rica  1   1  0  0   1  0   3</p>
+<p> Trinidad    3   0  1  2   1  4   1</p>
+<p> Guatemala   1   0  1  1   1  3   1</p>
+<p>(Top two from each group advance to six-country CONCACAF</p>
+<p>qualifying finals, from which three progress to 1998 World Cup</p>
+<p>finals in France.)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="TRTO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

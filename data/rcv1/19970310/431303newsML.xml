@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431303" id="root" date="1997-03-10" xml:lang="en">
+<title>NETHERLANDS: Rotterdam vegetable oil stocks - Mar 10.</title>
+<headline>Rotterdam vegetable oil stocks - Mar 10.</headline>
+<text>
+<p>Trade estimate, in tonnes, previous week in brackets.</p>
+<p> Cottonseed oil	  566  (    591)</p>
+<p> Groundnut oil	  5298  (   4291)</p>
+<p> Maize/Corn oil	  nil  (    nil)</p>
+<p> Rape oil		49391  (  52157)</p>
+<p> Safflowerseed oil    9095  (   9120)</p>
+<p> Soybean oil	   18588  (  18414)</p>
+<p> Sunflower oil	 20291  (  21420)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

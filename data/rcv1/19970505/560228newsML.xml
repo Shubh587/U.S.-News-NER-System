@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560228" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: U.S., foreign banks face year 2000 challenge.</title>
+<headline>U.S., foreign banks face year 2000 challenge.</headline>
+<byline>Isabelle Clary</byline>
+<dateline>BOCA RATON, Fla. 1997-05-05</dateline>
+<text>
+<p>U.S. and foreign banks are racing to upgrade financial transactions systems by the year 2000 and failure to meet that deadline may result in turn-of-the millennium doom, experts said on Monday.</p>
+<p>&quot;The main problem in the financial services industry is that there is not a transaction that does not have a date associated with it,&quot; said Jeffrey Barnes, a director at IMI Systems, a consulting firm specialized in the 2000 issue.</p>
+<p>Barnes spoke to Reuters at a conference of the Bankers' Association for Foreign Trade.</p>
+<p>&quot;The date associated with financial transactions is a critical element in the risk associated with that transaction,&quot; Barnes noted.</p>
+<p>Many programs used by financial institutions -- mainly those five or more years old -- read only the last two digits in any given year, an important feature that determines, for instance, when interest rates are paid or due.</p>
+<p>Experts have acknowledged the double-zero reading for the year 2000 will confuse scores of computer programs unable to figure out whether the transaction is to be conducted in January 1900 or in January 2000.</p>
+<p>The Federal Reserve, one of the banks' supervisor, has issued compliance instructions for the banking industry to correct the problem by 1998.</p>
+<p>&quot;There are an estimated three billion lines of codes or computer instructions in the U.S. banking industry that are transaction-oriented, meaning they have a date attached to them,&quot; said Barnes who estimated that only about one billion instructions are ready for the new millennium.</p>
+<p>Adding to the problem is the fact that many old computer programs are written in COBOL, a computer language so outdated that many young programmers are not used to working with it anymore.</p>
+<p>&quot;The banking industry is bringing programmers out of retirement or importing them from foreign countries to work on these programs,&quot; Barnes added.</p>
+<p>The &quot;millennium bug&quot; has proven a windfall for programmers from less high-tech oriented nations -- such as the former Soviet republics, said Barnes who predicted &quot;these programmers who have seen their salaries jump from $350 to $700 a day will command $1000 a day as the deadline nears.&quot;</p>
+<p>Failure to meet the 2000 deadline may have very serious consequences for financial services participants who could find themselves cut out from the industry.</p>
+<p>Financial services providers who will update their systems in time are likely not to deal with other institutions -- in the United States or abroad -- that have not updated their systems because of the risk of data pollution.</p>
+<p>&quot;It's the same problem for every bank. It's not a political deadline like the single European currency, it's a time event, a test of who will be ready,&quot; said Consider Ross, senior vice president at The Northern Trust Co.</p>
+<p>&quot;It's a very important consideration for our clients,&quot; added Ross, referring to the need to avoid systemic risk through transmission of faulty instructions.</p>
+<p>Juergen Thode, senior manager at Dresdner Bank in Frankfurt, said the turn of the millennium combined with the single European currency will bring a dual challenge to the industry and force some players out of the global field.</p>
+<p>&quot;This will be a consolidation process. Acquisitions (in the banking industry) will be going forward,&quot; said Thode who also expected banks to choose the most technology-savy counterparts as correspondent banks across continents and market segments.</p>
+<p>Thode also predicted banks that would meet the challenges of the 1999 European Monetary Union and the millennium will become providers of services for their less sophisticated competitors.</p>
+<p>&quot;This will provide opportunities to offer new services to those who need to outsource products to meet their clientele's needs,&quot; Thode added.</p>
+<p>(( 212-859-1666 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOCA RATON, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

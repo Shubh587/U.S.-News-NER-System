@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432145" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: CBOT muni-bond options vol/open int - March 10.</title>
+<headline>CBOT muni-bond options vol/open int - March 10.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: MUNI-BOND INDEX     CALL</p>
+<p>			 EVE   PJA   DAY   GIVE		  OPTS   OPEN INTEREST</p>
+<p>YR MTH		TRDS  TRDS  TRDS   UPS  TRFRS ADJST  EXER   CLOSE   CHANGE</p>
+<p>-- ---	     ----- ----- ------ ----- ----- ----- ------ ------- -------</p>
+<p>97 MAR TOTAL								    3775</p>
+<p>97 APR TOTAL			    5					  5	5+</p>
+<p>COMMODITY: MUNI-BOND INDEX     PUT</p>
+<p>97 MAR TOTAL								   13460</p>
+<p>97 JUN TOTAL								    8310</p>
+<p>CMMDTY TOTAL			    5				    25550	5+</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

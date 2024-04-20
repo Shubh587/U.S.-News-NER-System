@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34233" id="root" date="1996-09-05" xml:lang="en">
+<title>BOSNIA: Earthquake shakes Croatian coast -- radio.</title>
+<headline>Earthquake shakes Croatian coast -- radio.</headline>
+<dateline>SARAJEVO 1996-09-05</dateline>
+<text>
+<p>An earthquake measuring 6.0 on the Richter scale shook the Croatian coast on Thursday night, Bosnian state radio reported.</p>
+<p>A seismologist in the Croatian capital of Zagreb said the tremor occurred at 10.45 p.m. (0845) near the Adriatic resort of Dubrovnik, the radio said.</p>
+<p>There were no immediate reports of casualties or damage.</p>
+<p>A receptionist at the Hotel Lapad in Dubrovnik said guests were frightened by the size of the tremor.</p>
+<p>&quot;People were panicking and running out of the building but everyone is begining to calm down now,&quot; he told Reuters by telephone.</p>
+<p>The tremor could be felt 400 km (250 miles) to the north in Zagreb and in the Bosnian capital Sarajevo.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123900" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: MGI PHARMA Inc Q3 loss, R&amp;D spending up.</title>
+<headline>MGI PHARMA Inc Q3 loss, R&amp;D spending up.</headline>
+<dateline>MINNEAPOLIS 1996-10-17</dateline>
+<text>
+<p>Third Quarter	    Nine Months</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Revenues:</p>
+<p>   Sales	 $1,535,916  $1,142,800 $ 4,430,680 $ 3,141,234</p>
+<p>   Licensing	469,509     328,426   1,490,777   2,304,929</p>
+<p>Interest</p>
+<p>    and other     223,779     236,286     683,179     726,108</p>
+<p>		    2,229,204   1,707,512   6,604,636   6,172,271</p>
+<p>Costs and Expenses:</p>
+<p>Research and development</p>
+<p>		    2,282,037   1,646,704   4,775,385   4,886,300</p>
+<p>   Cost of sales  168,455     348,272     477,275     632,558</p>
+<p>Selling/general/administrative</p>
+<p>		    1,761,364   1,485,861   5,393,000   5,211,275</p>
+<p>Amortization of</p>
+<p>    intangibles	 ---	17,917	   ---	53,750</p>
+<p>		    4,211,856   3,498,754  10,645,660  10,783,883</p>
+<p> Net loss     (1,982,652) (1,791,242) (4,041,024) (4,611,612)</p>
+<p>Net loss per share</p>
+<p>			 (0.15)	(0.14)	(0.31)	(0.37)</p>
+<p>Average shares outstanding</p>
+<p>		   13,096,384  12,730,612  12,893,031  12,430,110</p>
+<p>	 -- Chicago newsdesk, 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

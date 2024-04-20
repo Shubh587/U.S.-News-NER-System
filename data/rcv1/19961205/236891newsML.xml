@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236891" id="root" date="1996-12-05" xml:lang="en">
+<title>AUSTRALIA: RTRS-LAST TRADES - Australian Stocks Overseas.</title>
+<headline>RTRS-LAST TRADES - Australian Stocks Overseas.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Last Trades of Australian stocks listed on overseas markets. Previous close in brackets.</p>
+<p>FTSE-100 Index    4051.2  (  4045.2)</p>
+<p>Dow Jones Average 6437.10 ( 6422.94)</p>
+<p>NASDAQ Composite  1300.10 ( 1297.02)</p>
+<p>		     NEW YORK ADRS (US$)</p>
+<p>ANZ			  32.5 (  32.375)</p>
+<p>BHP			28.375 (	28)</p>
+<p>Coles		    29.375 (  29.125)</p>
+<p>FAI			  UNTR (   3.000)</p>
+<p>NAB			 60.25 (  59.625)</p>
+<p>News		     20.625 (  20.250)</p>
+<p>Orbital		   5.875 (   5.625)</p>
+<p>Westpac		  29.250 (  29.625)</p>
+<p>WMC			24.375 (  24.500)</p>
+<p>		     NASDAQ (US$)</p>
+<p>Boral		  22.125 (  21.750)</p>
+<p>Cen Pac	     14.1250 ( 13.6875)</p>
+<p>Cortecs		  UNTR (  13.125)</p>
+<p>GCM		    8.8125 (  8.7500)</p>
+<p>Memtec		     33 ( 33.0000)</p>
+<p>S.Pac		  5.8750 (   5.625)</p>
+<p>Santos		 15.625 (  15.875)</p>
+<p>		     LONDON (A$ Mid-price)</p>
+<p>ANZ			  7.92 (    8.16)</p>
+<p>BHP			 17.96 (   17.62)</p>
+<p>Coles			4.54 (    4.53)</p>
+<p>CSR			   4.2 (    4.15)</p>
+<p>NAB			 14.97 (   14.87)</p>
+<p>News			    0 (     UNQ)</p>
+<p>PacDun		     2.84 (    2.77)</p>
+<p>TNT			     0 (     UNQ)</p>
+<p>--Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

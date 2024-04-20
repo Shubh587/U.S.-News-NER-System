@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350628" id="root" date="1997-02-03" xml:lang="en">
+<title>UK: Morgan Stanley adds 30 mln marks to Apr 2014 bond. [CORRECTED 17:40 GMT]</title>
+<headline>Morgan Stanley adds 30 mln marks to Apr 2014 bond. [CORRECTED 17:40 GMT]</headline>
+<dateline>LONDON 1997-02-03</dateline>
+<text>
+<p>(Corrects headline and text to make clear bond was increased by 30 million marks to 130 million marks and not by 130 million marks. Also changes maturity date from 2012 to 2014.)</p>
+<p>The following bond has been increased by 30 million marks to 130 million marks, lead manager Morgan Stanley said on Monday.</p>
+<p> BORROWER   BRAZIL REPACKAGED BONDS LTD</p>
+<p> AMT     130 MLN DEM  COUPON    *13.0	MATURITY   *15.APR.14</p>
+<p> TYPE	 STEP-DOWN ISS PRICE  103.0     PAY DATE    17.MAR.97</p>
+<p> FULL FEES  3.0	 REOFFER    100.50    SPREAD	=</p>
+<p> LISTING    FFT	 DENOMS (K) ONE	 GOV LAW     ENGLISH</p>
+<p> SALES LIM  US/UK     NEG PLG    NO	  CRS DEFLT   NO  FORCE MAJ  YES</p>
+<p> MGT/UND    0.50	SELL CONC  2.00	LIST FEE    0.50</p>
+<p>NOTES *CALL AT PAR ON SEMI-ANNUAL COUPON DATES FROM 15.OCT.99 	 AFTER WHICH COUPON STEPS DOWN TO 9.375 PCT.</p>
+<p>	 REDEMPTION IN EQUAL ANNUAL INSTALMENTS FROM 15.OCT.04</p>
+<p>	 SHORT FIRST AND LAST COUPONS.</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

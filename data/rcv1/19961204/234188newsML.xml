@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234188" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: U.S. spot natural gas prices -- December 4.</title>
+<headline>U.S. spot natural gas prices -- December 4.</headline>
+<text>
+<p>Pipeline (DECEMBER)	     12/4		12/3</p>
+<p>U.S. GULF OFFSHORE	    3.52/3.57	 3.25/3.30</p>
+<p>TEXAS COAST		     3.49/3.54	 3.23/3.28</p>
+<p>WESTERN TEXAS		   3.55/3.60	 3.45/3.50</p>
+<p>LOUISIANA COAST		 3.65/3.70	 3.37/3.42</p>
+<p>NORTHERN LOUISIANA	    3.67/3.72	 3.39/3.44</p>
+<p>OKLAHOMA			  3.56/3.61	 3.35/3.40</p>
+<p>APPALACHIA			4.00/4.05	 3.76/3.81</p>
+<p>CALIFORNIA BORDER (SPOT)    3.79/3.84	 3.68/3.73</p>
+<p>HENRY HUB (AVERAGE)	   3.67/3.70	 3.40/3.43</p>
+<p>WAHA HUB			  3.48/3.53	 3.37/3.42</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

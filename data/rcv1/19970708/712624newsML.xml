@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712624" id="root" date="1997-07-08" xml:lang="en">
+<title>CANADA: Alberta Agriculture details crop growth to July 7.</title>
+<headline>Alberta Agriculture details crop growth to July 7.</headline>
+<dateline>WINNIPEG 1997-07-08</dateline>
+<text>
+<p>Alberta Agriculture on Tuesday detailed the level of crop growth to July 7.</p>
+<p>CROP     TILLERED/ROSETTE SHOTBLADE/FLOWERED HEADED/PODDED</p>
+<p>Spring Wheat  33 pct		 50 pct	    17 pct</p>
+<p>Oats	    46 pct		 44 pct	     5 pct</p>
+<p>Barley	  40 pct		 46 pct	    12 pct</p>
+<p>Winter Wheat  --			4 pct	    96 pct</p>
+<p>Fall Rye	 7 pct		  6 pct	    94 pct</p>
+<p>Peas	    67 pct		 20 pct	    13 pct</p>
+<p>Canola	  39 pct		 58 pct	     2 pct</p>
+<p>Flax	    77 pct		 23 pct	     0 pct</p>
+<p>((Winnipeg Reuters bureau 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

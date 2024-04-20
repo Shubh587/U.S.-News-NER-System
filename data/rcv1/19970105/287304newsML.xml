@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287304" id="root" date="1997-01-05" xml:lang="en">
+<title>AUSTRALIA: CRICKET-WEST INDIES BEAT AUSTRALIA BY SEVEN WICKETS.</title>
+<headline>CRICKET-WEST INDIES BEAT AUSTRALIA BY SEVEN WICKETS.</headline>
+<dateline>BRISBANE, Australia 1997-01-05</dateline>
+<text>
+<p>West Indies beat Australia by seven wickets in their limited overs World Series match at the Gabba on Sunday.</p>
+<p>Scores: Australia 281-4 in 50 overs (Mark Waugh 102, Stuart Law 93); West Indies 284-3 in 48.5 overs (Carl Hooper 110 not out, Brian Lara 102).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

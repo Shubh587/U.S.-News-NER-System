@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179521" id="root" date="1996-11-11" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD SCORES.</title>
+<headline>CRICKET-SHEFFIELD SHIELD SCORES.</headline>
+<dateline>SYDNEY 1996-11-09</dateline>
+<text>
+<p>Sheffield Shield scores on</p>
+<p>Saturday:</p>
+<p>In Brisbane: Queensland 244 and 101 for one; Tasmania 168</p>
+<p>and 176. Queensland won by nine wickets.</p>
+<p>In Sydney (second day) - New South Wales 264 and 174 for</p>
+<p>four (Michael Slater 69, Michael Bevan 58 not out); Victoria 161</p>
+<p>(Anthony Stuart five for 63).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="486856" id="root" date="1997-04-04" xml:lang="en">
+<title>CANADA: Toronto bourse says computer problem fixed.</title>
+<headline>Toronto bourse says computer problem fixed.</headline>
+<dateline>TORONTO 1997-04-04</dateline>
+<text>
+<p>The Toronto Stock Exchange said on Friday it had fixed the problem which has plagued its computer trading since voluminous trade in Bre-X Minerals Ltd began wreaking havoc with the system last week.</p>
+<p>TSE President Rowland Fleming said the exchange rewrote a section of computer code to rectify the memory problem which has forced the TSE to stop trading Bre-X shares several days in a row and crashed the exchange's entire CATS (Computer Assisted Trading System) on three occasions since last Thursday.</p>
+<p>&quot;(It was) easily rectified,&quot; said Fleming. &quot;I'm confident we will not (have any more problems).&quot;  </p>
+<p>&quot;But I can never guarantee it,&quot; he added.</p>
+<p>The TSE's system engineers had been working to identify and repair the glitch, which resided within three million lines of computer code, since last Thursday, when the system crashed twice within minutes and forced the exchange to close early.</p>
+<p>The exchange had tinkered with trading rules earlier in the week in an attempt to reduce the number of Bre-X orders backlogged in the CATS electronic orderbook, but the system continued to freeze under the crushing weight of Bre-X volume.</p>
+<p>On Friday the TSE worked smoothly for the first time since Monday, when Bre-X was halted anyway at the company's request.  </p>
+<p>Fleming said the flaw would never have been discovered &quot;had it not been for the extraordinary combination of volume, number of orders and trading activity that we've experienced with this particular stock.&quot;</p>
+<p>The frequently halted Bre-X has drawn phenomenal trading interest since the troubled Calgary exploration company admitted last week it may have overstated the size of its Indonesian gold find.</p>
+<p>Fleming dismissed the suggestion that the TSE's reputation as a market player had been tarnished by the computer problems.  </p>
+<p>&quot;Every exchange from time to time with this kind of sophisticated technology has difficulties,&quot; said Fleming.</p>
+<p>Toronto's 20-year-old CATS system is due to be replaced by new TOREX trading engines supplied by the Paris Bourse by the end of 1997.</p>
+<p>The week of glitches delayed the migration of 236 stocks from Toronto's trading floor to CATS. Floor trading at the exchange is slated to close at the end of April.</p>
+<p>&quot;We made a management decision not to further burden our people by asking them to focus on floor closure while at the same time they were attempting to isolate the problem around the trading of Bre-X,&quot; said Fleming.</p>
+<p>He said the migration would restart next week and conclude on schedule.</p>
+<p>Over 1,400 stocks have already graduated to CATS. ((Andrea Hopkins at Reuters Toronto Bureau (416) 941-8102 or e-mail andrea.hopkins@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

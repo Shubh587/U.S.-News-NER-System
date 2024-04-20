@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178520" id="root" date="1996-11-10" xml:lang="en">
+<title>SOUTH KOREA: S.Korea says no damage after minor quake.</title>
+<headline>S.Korea says no damage after minor quake.</headline>
+<dateline>SEOUL 1996-11-10</dateline>
+<text>
+<p>An earthquake measuring 2.0 on the Richter scale hit most of the Korean peninsula late on Saturday but no damage was reported, the Yonhap news agency quoted Korea Meteorological Service officials as saying on Sunday.</p>
+<p>The southern resort island of Cheju Hit was hardest by the earthquake, which struck at 10:56 p.m. (1356 GMT), Yonhap said. Windows and buildings trembled for about 10 seconds.</p>
+<p>The epicentre was Hangzhou Province of China, the officials were quoted as saying.</p>
+<p>China's State Seismological Bureau said an offshore earthquake meauring 6.1 on the Richter scale shook the Yellow Sea near Shanghai at that time.</p>
+<p>The bureau said the earthquake had its epicentre more than 100 km off the China coast in the Yellow Sea between China and the Korean peninsula.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

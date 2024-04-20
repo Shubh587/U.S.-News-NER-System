@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229677" id="root" date="1996-12-02" xml:lang="en">
+<title>UK: UK M0 grows provisional s/a 7.5 pct in year to Nov.</title>
+<headline>UK M0 grows provisional s/a 7.5 pct in year to Nov.</headline>
+<dateline>LONDON 1996-12-02</dateline>
+<text>
+<p>The Bank of England released the following provisional data on M0 money supply -</p>
+<p>    MONEY SUPPLY (in pct)	   Nov		  Oct</p>
+<p>    M0 in month (adjusted)	 +0.9		  +0.7</p>
+<p>    M0 annual (adjusted)	   +7.5		  +7.5</p>
+<p>    M0 in month (unadjusted) +0.8	    0.0</p>
+<p>    M0 annual (unadjusted)	 +7.3		  +7.5</p>
+<p>NOTE - consensus forecast +7.5 pct yr/yr s/adj growth.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

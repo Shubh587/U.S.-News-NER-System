@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63211" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Positron signs $2 mln China deal.</title>
+<headline>Positron signs $2 mln China deal.</headline>
+<dateline>HOUSTON 1996-09-19</dateline>
+<text>
+<p>Positron Corp said on Thursday it had signed an agreement worth more than $2 million for the sale and installation of two POSICAM positron emission tomography systems in the Republic of China.</p>
+<p>The company said in a statement the agreement was its first for a sale to an Asian/Pacific nation.</p>
+<p>The first system is scheduled to be delivered and installed by year-end in a hospital in Shanghai, China. The second system will be delivered early in 1997.</p>
+<p>The agreement also calls for Positron to provide technical and maintenance support.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

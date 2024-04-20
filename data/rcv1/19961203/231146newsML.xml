@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231146" id="root" date="1996-12-03" xml:lang="en">
+<title>EGYPT: Mubarak in Cairo after Tunisia, Libya visit.</title>
+<headline>Mubarak in Cairo after Tunisia, Libya visit.</headline>
+<dateline>CAIRO 1996-12-03</dateline>
+<text>
+<p>Egyptian President Hosni Mubarak returned home to Cairo on Tuesday after visits to Libya and Tunisia, airport officials said.</p>
+<p>Mubarak held brief talks with Tunisian President Zine el-Abidine Ben Ali during an unscheduled visit to Tunis, at which the two leaders condemned European plans to set up a military force serving the southern Mediterranean basin.</p>
+<p>The Egyptian president left Cairo for Libya on Monday where he held talks with Libyan leader Muammar Gaddafi.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

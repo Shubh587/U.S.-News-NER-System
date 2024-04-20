@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263000" id="root" date="1996-12-17" xml:lang="en">
+<title>GERMANY: German November vehicle output rises five percent.</title>
+<headline>German November vehicle output rises five percent.</headline>
+<dateline>FRANKFURT 1996-12-17</dateline>
+<text>
+<p>German car and van production and export figures for November issued by the German Automobile Industry Association VDA showed increases in output and exports.</p>
+<p>Production</p>
+<p>				  Nov 96		 Change vs Nov 95</p>
+<p>    Passenger vehicles    438,000		up    5 pct</p>
+<p>    Vans			 30,400		0</p>
+<p>    Trucks up to 6 tonnes  20,100		up   15 pct</p>
+<p>    Heavy trucks	     10,300		down 20 pct</p>
+<p>    All vehicles	    469,200		up    5 pct</p>
+<p>Exports</p>
+<p>				  Nov 96		 Change vs Nov 95</p>
+<p>    Passenger vehicles    271,100		up   16 pct</p>
+<p>    Vans			 17,900		up   11 pct</p>
+<p>    Trucks up to 6 tonnes  12,200		up   37 pct</p>
+<p>    Heavy trucks		5,700		down 21 pct</p>
+<p>    All vehicles	    289,000		up   16 pct</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

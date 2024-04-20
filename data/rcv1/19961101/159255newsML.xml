@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159255" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: OMI-run ship leaks fuel in San Francisco.</title>
+<headline>OMI-run ship leaks fuel in San Francisco.</headline>
+<dateline>NEW YORK 1996-11-01</dateline>
+<text>
+<p>OMI Corp said Friday that a U.S. government cargo vessel operated by OMI Ship Management Inc has leaked about 8,400 gallons of fuel oil into San Francisco Bay.</p>
+<p>OMI said vessel Cape Mohican was discovered to be leaking fuel oil on October 28, while the vessel was in drydock and under the control of a local shipyard in San Francisco.</p>
+<p>The company said that the U.S. Coast Guard and the shipyard assumed control of the clean-up, and OMI provided assistance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

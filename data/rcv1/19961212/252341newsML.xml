@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252341" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: National Beef LP plant to close Christmas week.</title>
+<headline>National Beef LP plant to close Christmas week.</headline>
+<dateline>CHICAGO 1996-12-12</dateline>
+<text>
+<p>National Beef LP will close its cattle slaughter and beef processing plant at Liberal, Kan., the week of Christmas to perform maintenance on its slaughter facilities, said Dick Moore, National's assistant sales manager.</p>
+<p>The last slaughter day prior to the shutdown will be December 20 and the last processing day December 23. Operations are scheduled to resume the week after Christmas.</p>
+<p>National's beef plant at Dodge City, Kan., will operate that week except for the holiday.</p>
+<p>National Beef is a subsidiary of Farmland Foods Inc, a farmer-owned cooperative.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

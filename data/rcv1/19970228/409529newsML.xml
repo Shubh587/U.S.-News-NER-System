@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="409529" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: GS Technologies Q4 net profit vs loss.</title>
+<headline>GS Technologies Q4 net profit vs loss.</headline>
+<dateline>CHARLOTTE, N.C. 1997-02-28</dateline>
+<text>
+<p>(Dollars in thousands)  Unaudited Summary Operating Data</p>
+<p>			 Three Months Ended	   Year Ended</p>
+<p>			    December 31,	     December 31,</p>
+<p>		  1995		1996	   1995	     1996</p>
+<p> Net Sales	 $221,907     $233,449    $563,505   $940,261</p>
+<p>Net Income (Loss)</p>
+<p>			(3,678)	  3,092	 6,129	6,435</p>
+<p>Capital Expenditures</p>
+<p>			  2,907	  5,695	47,873     43,314</p>
+<p> Long-term Debt   369,994	368,554     369,994    368,554</p>
+<p>NOTE: Prior year results have been restated to reflect the change from the LIFO to the FIFO method of accounting for inventories.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

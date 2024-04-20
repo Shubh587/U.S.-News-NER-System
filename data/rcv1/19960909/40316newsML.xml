@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40316" id="root" date="1996-09-09" xml:lang="en">
+<title>ITALY: Actor Liam Neeson released from hospital in Italy.</title>
+<headline>Actor Liam Neeson released from hospital in Italy.</headline>
+<dateline>PADUA, Italy 1996-09-09</dateline>
+<text>
+<p>Actor Liam Neeson was released from hospital in northern Italy on Monday after a week-long stay for treatment of an intestinal problem, doctors said.</p>
+<p>Neeson was admitted to hospital in Padua on September 1 after he fell ill while attending the Venice Film Festival, which on Saturday awarded him its best actor prize for his role in Neil Jordan's IRA drama &quot;Michael Collins&quot;.</p>
+<p>It also drew the festival's Golden Lion prize for best film.</p>
+<p>The movie, which also stars actress Julia Roberts, recounts the life of Collins, the IRA's former director of intelligence who helped fight for Ireland's independence from 1919 to 1921.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PADUA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

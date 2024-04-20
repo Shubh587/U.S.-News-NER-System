@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114849" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 14-OCT.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 14-OCT.</headline>
+<text>
+<p>Tropical Storm Abel is weakening and will probably be downgraded to a depression just south of Guangdong China this period. Moisture from the storm will track through Guangdong producing heavy rain and possible flooding.</p>
+<p>Tropical Depression 31W will intensify to a tropical storm while moving through the Mariana Islands producing gusty winds and locally heavy rain squalls.</p>
+<p>Tropical Depression 32W is expected to move westward across Luzon, Philippines within 48 hours as a strong tropical storm. Flooding may result. Wind damage is also possible.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

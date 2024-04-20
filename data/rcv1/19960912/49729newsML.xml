@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49729" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: U.S. August PPI energy goods prices.</title>
+<headline>U.S. August PPI energy goods prices.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>The U.S. Labor Department reported energy components of the producer price index as follows, with comparisons (1982=100 unless stated otherwise).</p>
+<p>    Percent Changes:   Seasonally Adj.  Unadjusted</p>
+<p> -				 Aug   July   Aug 96/95</p>
+<p> Finished Energy Goods     0.7   -0.9     6.4</p>
+<p> -Gasoline		     0.9   -2.8    13.5</p>
+<p> -Heating Oil		  4.1    4.4    21.7</p>
+<p> -Residential Gas-Y	  0.7    1.4     7.9</p>
+<p>Y-Dec 1990=100.  </p>
+<p>    Percent Changes:   Seasonally Adj.  Unadjusted</p>
+<p> -				 Aug   July   Aug 96/95</p>
+<p> Intermed.Energy Goods     0.9   -0.6     6.4</p>
+<p> -Liq.Petroleum Gas-Z	5.0   Unch    26.6</p>
+<p> -Jet Fuel		     3.0    0.2    21.2</p>
+<p> -Diesel Fuel		 Unch    5.1    24.3</p>
+<p> -Residual Fuel-Z	   -0.3    2.2    12.8</p>
+<p>Z-Current data not seasonally adjusted.  </p>
+<p>    Percent Changes:   Seasonally Adj.  Unadjusted</p>
+<p> -				 Aug   July   Aug 96/95</p>
+<p> Crude Energy Materials-Y  0.7    3.9-R  23.5</p>
+<p> -Coal-Z			 0.1   -0.7    -1.8</p>
+<p> -Nat.Gas to Pipelines    -1.2    6.6-R  39.4</p>
+<p> -Petroleum-Z		  3.2    3.5    25.5</p>
+<p>Y-Includes crude petroleum. Z-Current data not seasonally adjusted.  </p>
+<p>Because of technical adjustments to the natural gas component of the crude PPI, the department revised the overall crude index and several of its components for July, including crude energy materials prices.</p>
+<p>Previously, the department said July crude energy materials prices rose 1.4 percent, and prices of natural gas to pipelines increased 0.6 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

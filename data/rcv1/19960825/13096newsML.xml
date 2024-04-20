@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13096" id="root" date="1996-08-25" xml:lang="en">
+<title>MAURITANIA: Cholera kills up to 46 in Mauritania.</title>
+<headline>Cholera kills up to 46 in Mauritania.</headline>
+<dateline>NOUAKCHOTT 1996-08-25</dateline>
+<text>
+<p>Cholera has killed 46 people living in populous suburbs on the outskirts of Mauritania's capital Nouakchott, medical sources said on Sunday.</p>
+<p>Diplomats said at least 20 people had been killed in the outbreak, which followed the heaviest rain in the capital for three years. Medical sources said most of the dead were children or elderly people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOUAKCHOTT"/>
+<dc element="dc.creator.location.country.name" value="MAURITANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

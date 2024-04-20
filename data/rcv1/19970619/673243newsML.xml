@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="673243" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Pa. approves bill limiting property tax refunds.</title>
+<headline>Pa. approves bill limiting property tax refunds.</headline>
+<dateline>HARRISBURG, Pa. 1997-06-19</dateline>
+<text>
+<p>Pennsylvania's General Assembly approved legislation to limit refunds of personal property taxes, hoping to diffuse the threat from a pending lawsuit against the tax.</p>
+<p>The lawsuit challenges the constitutionality of the tax, which is applied to stock holdings of out-of-state companies. Pennsylvania counties, many of which stopped collecting the tax in recent years, might have to provide rebates from prior years if the suit is successful.</p>
+<p>If the governor signs the bill, however, 18 counties would have to come up with refunds totaling just $60 million, instead of 32 counties now at risk for $231 million in rebates.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARRISBURG, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

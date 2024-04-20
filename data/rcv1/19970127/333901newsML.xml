@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333901" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Borders to open three stores this year.</title>
+<headline>Borders to open three stores this year.</headline>
+<dateline>ANN ARBOR, Mich. 1997-01-27</dateline>
+<text>
+<p>Borders Group Inc said Monday it will open stores in Geneva, Illinois, Fort Wayne, Indiana and Mishawaka, Indiana, by the end of the year.</p>
+<p>The new units will give Borders 11 stores in Illinois and four stores in Indiana, the company said. Borders said the units will range in size from 24,640 to 26,038 square feet.</p>
+<p>Borders operates more than 155 book and music stores nationwide.</p>
+<p>Its shares were trading down 3/4 Monday at 36-5/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

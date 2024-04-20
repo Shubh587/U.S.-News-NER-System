@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="703596" id="root" date="1997-07-02" xml:lang="en">
+<title>JAPAN: Fujitsu says begins sample shipments of 3D chip.</title>
+<headline>Fujitsu says begins sample shipments of 3D chip.</headline>
+<dateline>TOKYO 1997-07-02</dateline>
+<text>
+<p>Fujitsu Ltd said on Wednesday that it had begun sample shipments of the world's first three-dimensional geometry processor chip for personal computers.</p>
+<p>The chip, called the Pinolite, can improve a computer's 3D graphics performance, a Fujitsu spokeswoman said.</p>
+<p>The chip is priced at 3,000 yen each, she said, adding that Fujitsu hopes to sell 300,000 of the chips a month once it starts mass production in November 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

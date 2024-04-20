@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656573" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: U.S. FHA cuts mortgage insurance premium.</title>
+<headline>U.S. FHA cuts mortgage insurance premium.</headline>
+<dateline>WASHINGTON 1997-06-12</dateline>
+<text>
+<p>The Federal Housing Administration has cut its up-front mortgage insurance premium for first-time home buyers by 12.5 percent, the Department of Housing and Urban Development said on Thursday.</p>
+<p>The reduction, the third since 1993, will save home buyers $200 in closing costs on an average mortgage of $85,000, it said. Taken together, the three reductions offer an average home buyer savings of $1,200.</p>
+<p>The decision reduces the FHA premium for first-time home buyers to 1.75 percent of the value an FHA-insured loan from two percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

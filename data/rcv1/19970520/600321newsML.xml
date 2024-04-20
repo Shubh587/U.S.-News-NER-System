@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="600321" id="root" date="1997-05-20" xml:lang="en">
+<title>FRANCE: Bank of France drains 1.4 bln Ffr at tender.</title>
+<headline>Bank of France drains 1.4 bln Ffr at tender.</headline>
+<dateline>PARIS 1997-05-20</dateline>
+<text>
+<p>The Bank of France drained 1.4 billion francs at a securities repurchase tender held on Tuesday to allocate funds for injection into the money market.</p>
+<p>It accepted bids for 31.6 billion francs in new liquidity, 1.4 billion less than the 33.0 billion leaving the market on Tuesday when a previous pact expires. The new pact expires on May 27.</p>
+<p>The Bank of France said it allocated 9.5 billion francs to bidders offering Treasury bills as collateral, satisfying 3.5 percent of such demand.</p>
+<p>It allotted a further 22.1 billion to bidders putting up private paper, satisfying 9.2 percent of this demand.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

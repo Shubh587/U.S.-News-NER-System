@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81575" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: FOB Gulf Grain - Soybean values thin, wheat steady.</title>
+<headline>FOB Gulf Grain - Soybean values thin, wheat steady.</headline>
+<dateline>CHICAGO 1996-09-27</dateline>
+<text>
+<p>FOB Gulf soybean basis values were not quoted for nearby shipment because rain-delayed harvest in the U.S. Midwest has made it difficult to supply soybeans to shippers, dealers said.</p>
+<p>Corn basis values were steady for nearby October positions but were down in deferred slots amid light buyer interest.</p>
+<p>Taiwanese buyers are expected to hold four tenders for a total of 104,000 tonnes of U.S. soybeans and 88,000 tonnes of corn next week.</p>
+<p>A slowdown in export demand for wheat has kept basis values steady. Wheat supplies in export channels were light but were sufficient to handle the light export demand, they said.  </p>
+<p>CORN (No. 3 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Oct 5-20    unq	    unc	+55    +  Z     unc</p>
+<p>Oct 12-31   unq	    unc	+47    +  Z     dn 1</p>
+<p>Nov 1-20    unq	    unc	+39    +  Z     dn 1</p>
+<p>Nov 11-30   unq	    unc	+38    +  Z     dn 1</p>
+<p>Dec 1-20    unq	    unc	+38    +  Z     dn 1</p>
+<p>Dec	   unq	    unc	+38    +  Z     dn 1</p>
+<p>Jan	   unq	    unc	+35-1/2+  H     dn1/2</p>
+<p>Note: Z=CBOT December, H=CBOT March, nc=no comparison.  </p>
+<p>SOYBEANS (No. 2 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu)</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Oct25-Nov15 unq	    unc	+35    +  X     up 1</p>
+<p>Nov 1-20    unq	    unc	+32    +  X     dn 1</p>
+<p>Nov 11-30   unq	    unc	+35    +  X     unc</p>
+<p>Dec 1-20    unq	    unc	+32    +  F     unc</p>
+<p>Dec 12-31   unq	    unc	+36    +  F     unc</p>
+<p>Jan 1-20    unq	    unc	+38    +  H     nc</p>
+<p>-- Note: X=CBOT November, F=CBOT January, H=March. nc=no comparison.  </p>
+<p>SRW WHEAT (FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Sep	   unq	    unc	+36    +  Z     unc</p>
+<p>Oct	   unq	    unc	+38    +  Z     unc</p>
+<p>Nov	   unq	    unc	+40    +  Z     unc</p>
+<p>Dec	   unq	    unc	+40    +  Z     unc</p>
+<p>HRW WHEAT (FOB, U.S. Gulf, basis KCBT, cts/bu) - Sep	   unq	    unc	+52    +  Z     unc</p>
+<p>Oct	   unq	    unc	+52    +  Z     unc</p>
+<p>Nov	   unq	    unc	+52    +  Z     unc</p>
+<p>Dec	   unq	    unc	+52    +  Z     unc</p>
+<p>Note: Z=December futures. nc=no comparison.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

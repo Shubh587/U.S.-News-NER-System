@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34105" id="root" date="1996-09-05" xml:lang="en">
+<title>SOUTH KOREA: Baseball-Results of S. Korean pro-baseball games.</title>
+<headline>Baseball-Results of S. Korean pro-baseball games.</headline>
+<dateline>SEOUL 1996-09-05</dateline>
+<text>
+<p>Results of South Korean pro-baseball games played on Wednesday.</p>
+<p>    OB			 5	Hanwha	     1</p>
+<p>    Lotte		    3	Samusng	    2</p>
+<p>    LG			 3	Hyundai	    2</p>
+<p>    Ssangbangwool	 10	Haitai	     3</p>
+<p>Standings after games played on Wednesday (tabulate under won, drawn, lost, winning percentage, games behind first place)</p>
+<p>			  W   D    L     PCT	   GB</p>
+<p>    Haitai	   66   2   45    .593	    -</p>
+<p>    Ssangbangwool  63   2   51    .552	4 1/2</p>
+<p>    Hanwha	   61   1   50    .549	    5</p>
+<p>    Hyundai	  60   5   52    .534	6 1/2</p>
+<p>    Samsung	  51   5   59    .465     14 1/2</p>
+<p>    Lotte	    47   6   57    .455     15 1/2</p>
+<p>    LG		 47   5   62    .434	   18</p>
+<p>    OB		 45   6   64    .417	   20</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

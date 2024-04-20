@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="393962" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: NYSE short interest sets record 2.94 bln shrs. [CORRECTED 08:30 GMT 22/2]</title>
+<headline>NYSE short interest sets record 2.94 bln shrs. [CORRECTED 08:30 GMT 22/2]</headline>
+<dateline>NEW YORK 1997-02-21</dateline>
+<text>
+<p>The New York Stock Exchange said on Friday that short interest in February increased to a record high of 2.94 billion shares.</p>
+<p>February's short interest increased by 134.5 million shares from January's 2.80 billion (corrects from 2.80 million), the exchange said.</p>
+<p>The previous short interest record of 2.88 billion shares was set December 1996, the exchange said.</p>
+<p>The exchange reports short interest, an indication of the number of investors that expect stock prices to fall, on a monthly basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

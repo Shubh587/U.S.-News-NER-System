@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326625" id="root" date="1997-01-22" xml:lang="en">
+<title>JAPAN: Sanwa Elec sets terms on warrant at 1.13%.</title>
+<headline>Sanwa Elec sets terms on warrant at 1.13%.</headline>
+<text>
+<p>TOKYO, Jan 22 (Reuter)</p>
+<p>BORROWER - Sanwa Elec Co Ltd</p>
+<p>LEAD MGR - Nomura Bank (Switzerland) Ltd</p>
+<p>GUARANTOR - Tokyo-Mitsubishi Bank Ltd</p>
+<p> TYPE warrant	   ISSUE NO		AMT   40 million Sfr</p>
+<p> COUPON 1.13%	   ISS PRICE	     MATURITY 30.Jan.01</p>
+<p> EXER PRICE 618 yen   CURR RATE 84.51/Sfr</p>
+<p> EXER FROM 10.Feb.97  EXER TO 19.Jan.01</p>
+<p> LAST MOODY'S	   PAY DATE 30.Jan.97  INT PAY 30.Jan</p>
+<p> LAST S&amp;P		 SIGN DATE 22.Jan.97 SUB DATE</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

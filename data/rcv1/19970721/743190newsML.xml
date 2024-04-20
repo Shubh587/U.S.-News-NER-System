@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="743190" id="root" date="1997-07-21" xml:lang="en">
+<title>ITALY: 186 Kurds seek asylum in Italy.</title>
+<headline>186 Kurds seek asylum in Italy.</headline>
+<dateline>SYRACUSE, Sicily 1997-07-21</dateline>
+<text>
+<p>Nearly 200 Kurds who were seized off the Sicilian coast last week as they tried to row ashore have requested political asylum in Italy, police said on Monday.</p>
+<p>They said the 186 Kurds would be interviewed on Tuesday before their request was considered.</p>
+<p>The Kurds were among 350 immigrants from countries across Asia who boarded rubber dinghies from a Turkish ship off the island's southeast coast last Thursday.</p>
+<p>Coast guards blocked the dinghies before surrounding the ship and escorting it into port where police arrested five Turkish crew members on charges of trafficking illegal immigrants.</p>
+<p>The immigrants were being held at a local sports centre.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYRACUSE, Sicily"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

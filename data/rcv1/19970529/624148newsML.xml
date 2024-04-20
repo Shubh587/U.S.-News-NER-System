@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624148" id="root" date="1997-05-29" xml:lang="en">
+<title>UK: London silver fixes quietly just easier.</title>
+<headline>London silver fixes quietly just easier.</headline>
+<text>
+<p>SILVER - Fixed at 472.25 cents vs 476.00 cents previously. Attracting little interest.</p>
+<p>GOLD - Steady around $345.00/$345.50, just firmer and nearing top of recent range. Helped by PGMs</p>
+<p>PLATINUM - Up $13.50 at $410.00/$414.00 despite end to Rustenburg strike. Very tight, market nervous.</p>
+<p>PALLADIUM - Down about $8.00 at $188.00/$192.00. Also tight.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

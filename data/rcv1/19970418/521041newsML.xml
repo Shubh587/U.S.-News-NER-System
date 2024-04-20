@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521041" id="root" date="1997-04-18" xml:lang="en">
+<title>BANGLADESH: Twelve killed, 25 hurt in Bangladesh bus accident.</title>
+<headline>Twelve killed, 25 hurt in Bangladesh bus accident.</headline>
+<dateline>DHAKA 1997-04-18</dateline>
+<text>
+<p>Twelve people were killed and at least 25 injured when an crowded bus hit a tree near Feni, 180 km (110 miles) southeast of Dhaka, police said on Friday.</p>
+<p>The driver of the bus, which was coming to Dhaka from the port city of Chittagong, was among the dead in Thursday's accident, the police said. No other details were available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

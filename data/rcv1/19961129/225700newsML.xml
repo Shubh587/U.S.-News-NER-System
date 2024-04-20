@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225700" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: Moderate quake hits Arkansas, no damage reported.</title>
+<headline>Moderate quake hits Arkansas, no damage reported.</headline>
+<dateline>WASHINGTON 1996-11-29</dateline>
+<text>
+<p>A moderate earthquake jolted Arkansas early on Friday morning and was felt in four other states, but officials said there were no reports of injuries or damage.</p>
+<p>The quake, which measured 4.3 on the open-ended Richter scale, struck at 0041 EST (0541 GMT) on the Arkansas-Missouri border, according to the U.S. Geological Survey's earthquake information centre in Golden, Colorado.</p>
+<p>Officials said the quake's epicentre was near Blytheville in north-eastern Arkansas on the New Madrid fault line.</p>
+<p>&quot;This earthquake was felt in many parts of northeast Arkansas, western Kentucky, Tennessee, southwestern Missouri and southern Illinois,&quot; said a Geological Survey official. &quot;There were no reports of damage.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

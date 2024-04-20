@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350576" id="root" date="1997-02-03" xml:lang="en">
+<title>UK: Six contaminated at UK nuclear plant - BBC.</title>
+<headline>Six contaminated at UK nuclear plant - BBC.</headline>
+<dateline>LONDON 1997-02-03</dateline>
+<text>
+<p>Six workers at Britain's Sellafield nuclear plant were contaminated with radioactive dust in an accident on Sunday night, the British Broadcasting Corporation (BBC) said on Monday.</p>
+<p>All six were allowed to return home after being cleared by medical staff at the plant in Cumbria, northwest England, the BBC reported. The incident was said not to be serious and no radioactivity escaped from the plant, but safety would be reviewed.</p>
+<p>No comment was immediately available from British Nuclear Fuels, which operates the Sellafield plant.</p>
+<p>The accident happpened in part of the Magnox nuclear plant, which is being refurbished, the BBC reported, saying that only part of the building where the accident occurred was contaminated.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

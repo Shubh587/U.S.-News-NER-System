@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54148" id="root" date="1996-09-14" xml:lang="en">
+<title>USA: Clinton declares Pennsylvania major disaster area.</title>
+<headline>Clinton declares Pennsylvania major disaster area.</headline>
+<dateline>WASHINGTON 1996-09-13</dateline>
+<text>
+<p>President Bill Clinton on Friday declared parts of Pennsylvania major disaster areas after extensive flooding last week, making people in the five worst-hit counties eligible for federal disaster aid.</p>
+<p>Serious flooding that came in the aftermath of Hurricane Fran devastated central and southeastern Pennsylvania Sept. 6-8, causing damage to at least 1,400 homes, according to the Federal Emergency Management Agency.</p>
+<p>The president's disaster declaration means residents in Huntingdon, Juniata, Mifflin, Montgomery and Perry counties may receive grants to temporary housing, minor home repairs and other disaster-related expenses.</p>
+<p>This was the fifth disaster declaration issued for Pennsylvania by Clinton this year, and follows federal aid for blizzards and major flooding in January, and for severe storms and flooding that struck state in June and July.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

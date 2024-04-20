@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50310" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: U.S. jobless claims rose in latest week.</title>
+<headline>U.S. jobless claims rose in latest week.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>U.S. Labor Department report</p>
+<p>of initial state jobless benefit claims, seasonally adjusted.</p>
+<p>Week Ended  Initial Claims  4-Week Avg.  Continued Claims</p>
+<p>     09/07/96	338,000	 327,750	Unavailable</p>
+<p>     08/31/96	317,000-R     323,500	2,636,000</p>
+<p>     08/24/96	330,000-R     322,750-R    2,508,000-R</p>
+<p>     08/17/96	326,000	 313,750	2,516,000-R</p>
+<p>R-Revised, Aug 31 Initial Claims from 316,000, Aug 24 from 331,000, Aug 24 4-Week Average from 323,000, Aug 24 Continued Claims from 2,525,000, and Aug 17 from 2,517,000.  </p>
+<p>The department said claims in the week ending September 7 were the highest since 367,000 in the week ended July 13.</p>
+<p>Wall Street economists had forecast initial claims of 329,000 in the September 7 week.</p>
+<p>Labor said three states reported decreases in initial claims exceeding 1,000 on an unadjusted basis in the week ended August 31, the latest period for which the data are available.</p>
+<p>They were North Carolina, with a drop of 1,969; New York, with a 1,567 decrease; and New Jersey, with a 1,202 drop.  </p>
+<p>North Carolina had fewer layoffs in the textile industry, New Jersey saw fewer layoffs in trade, services and manufacturing, while New York had no comment. No states had claims increases exceeding 1,000 in the August 31 week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

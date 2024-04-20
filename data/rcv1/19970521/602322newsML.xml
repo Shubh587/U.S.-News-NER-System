@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602322" id="root" date="1997-05-21" xml:lang="en">
+<title>FRANCE: Peugeot drags French company fcasts down mid-May.</title>
+<headline>Peugeot drags French company fcasts down mid-May.</headline>
+<dateline>PARIS 1997-05-21</dateline>
+<text>
+<p>French corporate research survey group Associes en Finance said it had registered in mid-May a 0.2 percent downward revision among equity research houses for 1997 earnings per share among a sample of 150 French companies.</p>
+<p>But the revision had been heavily influenced by drastic changes in Peugeot forecasts and if this factor was stripped out the trend was reversed, Associes en Finance said.</p>
+<p>On average, the downward revision was to the tune of 1.9 percent for companies in the CAC-40 leading share index, it said.</p>
+<p>But with Peugeot excluded, this turned into an upward revision of 0.3 percent for CAC-40 firms and to the tune of 0.4 percent for the total corporate sample, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

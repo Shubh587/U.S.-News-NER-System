@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768521" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: SOCCER-LOS ANGELES GALAXY BEAT SANTOS LAGUNA OF MEXICO.</title>
+<headline>SOCCER-LOS ANGELES GALAXY BEAT SANTOS LAGUNA OF MEXICO.</headline>
+<dateline>PASADENA, California 1997-07-30</dateline>
+<text>
+<p>The MLS' Los</p>
+<p>Angeles Galaxy beat Santos Laguna AC of Mexico 4-1 (halftime</p>
+<p>0-0) at the Rose Bowl Wednesday in a match for a berth in the</p>
+<p>CONCACAF Champions' Cup tournament.</p>
+<p>Scorers:</p>
+<p>Los Angeles Galaxy - Mauricio Cienfuegos (64th minute),</p>
+<p>Eduardo Hurtado (65), Martin Machon (80), Welton (84)</p>
+<p>Santos Laguna - Nicolas Ramirez (70)</p>
+<p>Attendance: 10,271</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198842" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Sun Micro to buy Thinking Machines assets.</title>
+<headline>Sun Micro to buy Thinking Machines assets.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-11-19</dateline>
+<text>
+<p>Sun Microsystems Inc on Tuesday said it reached an agreement to purchase the GlobalWorks-related assets of Thinking Machines Corp., a pioneer in high-performance parallel computing, for an undisclosed amount.</p>
+<p>In a statement, Sun said the purchase of Thinking Machines' GlobalWorks software will strengthen Sun's technology platform to meet the requirements of high-performance computing in markets including financial analysis, research and development, mechanical engineering analysis, electronic design and geoscience.</p>
+<p>As part of the agreement, Sun will offer employment to all employees associated with the GlobalWorks business unit of Thinking Machines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

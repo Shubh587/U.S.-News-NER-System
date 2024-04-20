@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="471592" id="root" date="1997-03-27" xml:lang="en">
+<title>SOUTH AFRICA: S.African Feb consumer price index up 9.8 pct y/y.</title>
+<headline>S.African Feb consumer price index up 9.8 pct y/y.</headline>
+<dateline>PRETORIA 1997-03-27</dateline>
+<text>
+<p>South Africa's all-items consumer price index rose 0.5 percent in February from January after rising 1.3 percent in January, the Central Statistical Service said.</p>
+<p>The year-on-year rise was 9.8 percent versus January's 9.4 percent.</p>
+<p>A Reuters consensus poll of economists forecast a 0.45 percent month-on-month increase and a 9.75 percent year-on-year rise.  </p>
+<p>Pct changes:</p>
+<p>			    Year/year			   Month/month</p>
+<p>			    Feb '97  Jan '97  Feb '96  -  latest  prev</p>
+<p>All items		 9.8	9.4	6.5	   0.5     1.3</p>
+<p>Very low expend gp    --	 --	 --	    0.3     --</p>
+<p>Low expend gp	   --	 --	 --	    0.5     --</p>
+<p>Middle expend gp	--	 --	 --	    0.5     --</p>
+<p>Higher expend gp	--	 --	 --	    0.5     --</p>
+<p>Very high expend gp   --	 --	 --	    0.4     --</p>
+<p>Core inflation	  9.4	--	 --	    0.5     --</p>
+<p>Food only		10.0	8.9	3.1	   0.6     0.9</p>
+<p>The Central Statistical Service's survey of consumer prices is now broken down into five expenditure groups. The old system of breaking the survey down into three income groups has fallen away and as a result, those indices are no longer applicable. Month-on-month percentage changes in the expenditure groups are thus only be available from February 1997, while year-on-year percentage changes will only be calculated from January 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRETORIA"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

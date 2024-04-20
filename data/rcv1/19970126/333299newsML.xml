@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333299" id="root" date="1997-01-26" xml:lang="en">
+<title>GUINEA: SOCCER-GUINEA BEAT TUNISIA 1-0 IN NATIONS CUP QUALIFIER.</title>
+<headline>SOCCER-GUINEA BEAT TUNISIA 1-0 IN NATIONS CUP QUALIFIER.</headline>
+<dateline>CONAKRY 1997-01-26</dateline>
+<text>
+<p>Guinea beat Tunisia 1-0 (halftime</p>
+<p>0-0) in an African Nations Cup group four qualifying match on</p>
+<p>Sunday.</p>
+<p>Scorer: Abdoul Salam Sow 49</p>
+<p>Attendance: 50,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONAKRY"/>
+<dc element="dc.creator.location.country.name" value="GUINEA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

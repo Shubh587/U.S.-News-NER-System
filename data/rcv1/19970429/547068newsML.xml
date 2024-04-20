@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547068" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: General DataComm, Lucent in ATM pact.</title>
+<headline>General DataComm, Lucent in ATM pact.</headline>
+<dateline>MIDDLEBURY, Conn. 1997-04-29</dateline>
+<text>
+<p>General DataComm Inc on Tuesday unveiled Asynchronous Transfer Mode software that it developed with Lucent Technologies Inc, for the managament of transferring data over networks.</p>
+<p>Financial details of the deal were not detailed.</p>
+<p>GDC said its APEX software family and Lucent's GlobeView-2000 Broadband System software will makes management of voice, video and data traffic more efficient and cost-effective for network operators.</p>
+<p>ATM is an emerging technology on which a new generation of higher speed mutimedia networks are being built that are better able to handle voice, video and data simultaneously.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDDLEBURY, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

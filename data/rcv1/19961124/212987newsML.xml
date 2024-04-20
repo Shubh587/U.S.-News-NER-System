@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212987" id="root" date="1996-11-24" xml:lang="en">
+<title>TAIWAN: Taiwan appoints new representative in Singapore.</title>
+<headline>Taiwan appoints new representative in Singapore.</headline>
+<dateline>TAIPEI 1996-11-24</dateline>
+<text>
+<p>Taiwan has appointed a senior career diplomat to head its unofficial representative office in Singapore, local newspapers reported on Sunday.</p>
+<p>Ouyang Jui-hsiung, 56, director-general of Taiwan's representative office in Los Angeles, will replace Cheyne Chiu as Taiwan's representative in the city state, the reports said.</p>
+<p>Singapore has diplomatic ties with Taiwan's rival, China, but maintains close unofficial relations with the island.</p>
+<p>China, which regards Taiwan as a renegade province, has tried to push the island into international isolation since a civil war separated them in 1949.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696178" id="root" date="1997-06-30" xml:lang="en">
+<title>PHILIPPINES: TABLE-Philippine mutual funds net asset values.</title>
+<headline>TABLE-Philippine mutual funds net asset values.</headline>
+<dateline>MANILA 1997-06-30</dateline>
+<text>
+<p>The following are the net asset values of Philippine mutual funds for June 30, Monday:</p>
+<p>  FUNDS		NAV PER	  DAILY	  YEAR TO DATE</p>
+<p>			 SHARE	    CHANGE	 YIELD</p>
+<p>			 (PESOS)	  (PCT)	  (PCT)</p>
+<p>Citisec Growth     1.4763	   -0.18	   +5.85</p>
+<p>First Galleon	0.8415	   -0.43	  -15.38</p>
+<p>Philam Fund	  3.7138	   -0.23	   -2.66</p>
+<p>Philequity Fund    2.3737	   -0.37	  +11.90</p>
+<p>United Fund	  1.1383	   +0.20	   -3.51</p>
+<p>Kabuhayan Fund     0.9771	   -0.71	   -5.68</p>
+<p>Filipino Fund Inc  1.0401	   -0.36	  -14.13</p>
+<p>Information provided by the Investment Company Association of the Philippines, an association of the country's mutual funds.</p>
+<p>-- MANILA NEWSROOM (63 2) 841 8938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

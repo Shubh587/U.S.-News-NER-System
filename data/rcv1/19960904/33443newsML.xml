@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33443" id="root" date="1996-09-04" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR soars as peso rates rise.</title>
+<headline>Manila's PHIBOR soars as peso rates rise.</headline>
+<dateline>MANILA 1996-09-04</dateline>
+<text>
+<p>The Philippine interbank offered rates (PHIBOR) rose across the board on Wednesday in line with an increase in overnight rates, dealers said.</p>
+<p>Manila's interbank call loan money jumped to 12.78125 percent from the previous 11.5625 following the rise in overnight rates of the Central Bank, one trader said.</p>
+<p>The Central Bank raised its overnight rates for the second straight day to stem speculation in the foreign exchange market triggered by a steep drop in treasury bill rates.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

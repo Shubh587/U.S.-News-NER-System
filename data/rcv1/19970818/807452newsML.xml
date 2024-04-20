@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807452" id="root" date="1997-08-18" xml:lang="en">
+<title>CHINA: China launches large shipping group in Shanghai.</title>
+<headline>China launches large shipping group in Shanghai.</headline>
+<dateline>SHANGHAI 1997-08-18</dateline>
+<text>
+<p>China has launched a major shipping company, the China Shipping Group Co, in Shanghai, the Shanghai Securities News said on Monday.</p>
+<p>The company combines China's three biggest regional shipping companies in Shanghai, Guangzhou and Dalian and two other minor shipping firms, the newspaper said.</p>
+<p>The establishment of the group is aimed at making China's shipping business more efficient by creating big enterprises, it said.</p>
+<p>The move to put the group's headquarters in Shanghai will also help the eastern city to become an international shipping and navigational centre, the newspaper said.</p>
+<p>The new company has controlling stakes in Shanghai Haixing Shipping Co, a Chinese company which lists H shares in Hong Kong, and Hainan Haisheng Shipping Co, a Shanghai-listed domestic A share company, the newspaper said.</p>
+<p>Shanghai Haixing was formerly owned by the Shanghai Shipping Co and Hainan Haisheng by the Guangzhou Shipping Co, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

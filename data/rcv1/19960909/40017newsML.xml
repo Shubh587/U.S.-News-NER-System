@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40017" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: DII Group stock falls on sales warning.</title>
+<headline>DII Group stock falls on sales warning.</headline>
+<dateline>NIWOT, Colo.</dateline>
+<text>
+<p>The stock of DII Group Inc. lost more than 18 percent of its value Monday after the maker of printed circuit boards warned that a slowdown in sales will hurt its profits during the second half of the year.</p>
+<p>DII fell $4 to $19 in early trading on the Nasdaq market.</p>
+<p>The Niwot, Colo.-based firm said Sunday that a slowdown in orders at its DOVatron International unit will cut its revenues in the third and fourth quarter by about $40 million and lower its earnings per share by 35 cents a share.</p>
+<p>Analysts had expected DII to earn 58 cents in the third quarter and 74 cents in the fourth quarter, and $2.41 for the year.</p>
+<p>DII said that new customers at electronics manufacturing firms around the world were late in placing orders, but the order rate is now expected to improve in the first quarter of next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIWOT, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

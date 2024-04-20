@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129906" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: WavePhore to broadcast data via PBS signal.</title>
+<headline>WavePhore to broadcast data via PBS signal.</headline>
+<dateline>PHOENIX 1996-10-21</dateline>
+<text>
+<p>WavePhore Inc said Monday it had agreed to deal with PBS National Datacast Inc to establish a nationwide data broadcasting system using spare capacity available in the Public Broadcasting System's TV signal.</p>
+<p>WavePhore said the service would allow both consumers and businesses to receive a variety of news and information, delivered to their personal computers via what is known as the vertical blanking interval (VBI) of the PBS TV signal.</p>
+<p>WavePhore offers wireless data broadcasting of real-time news and information to personal computers. PBS National Datacast is a unit of the Public Broadcasting System.  </p>
+<p>Vertical-blanking technology allows WavePhore to broadcast information to millions of people simultaneously using its point-to-multipoint delivery method.</p>
+<p>Delivering information in this way, WavePhore said it will be able to relieve much congestion constraining conventional information delivery via the telephone.  The rising volume of information traveling over phone lines has led to periodic bottlenecks at heavily visited Internet Web sites.</p>
+<p>WavePhore said it will distribute digital data and information over PBS National Datacast's data broadcasting network of more than 250 PBS TV stations.  </p>
+<p>The network reaches about 99 percent of TV households in the United States, it noted.</p>
+<p>The data transmitted by WavePhore via the TV signal will be available to PCs equipped with VBI decoders like Intel Corp's Intercast, or to PCs with add-on circuit boards containing WavePhore decoding technology, it said.</p>
+<p>&quot;This is an important step in WavePhore's strategy to offer datacasting to the consumer market,&quot; said David Deeds, WavePhore's chairman and chief executive, in a statement.</p>
+<p>&quot;With this new network in place we now have the ability to reach virtually every home and business in the United States,&quot; he said.</p>
+<p>Deeds added that WavePhore is now in talks with providers of information content and software applications for its network.</p>
+<p>WavePhore said the new consumer network will supplement WavePhore's other delivery networks which include business-to-business data transmission over the VBI through the Canadian Broadcasting Corp, and technologies like small dish satellite, FM radio, and other TV-based delivery systems.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

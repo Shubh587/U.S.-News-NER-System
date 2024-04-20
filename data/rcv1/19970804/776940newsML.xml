@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776940" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Qwest completes Sacramento to Denver leg.</title>
+<headline>Qwest completes Sacramento to Denver leg.</headline>
+<dateline>DENVER 1997-08-04</dateline>
+<text>
+<p>Qwest Communications International Inc said it had activated a 1,277-mile section of its ultra-high-capacity fiber optic telecommunications network, between Sacramento, Calif., and Denver.</p>
+<p>The completion of this segment extends the Qwest network from Los Angeles through the Silicon Valley to Denver, it said. Qwest's customers in Colorado and California are now connected at the highest transmission speeds currently in use.</p>
+<p>Service was turned on Monday, linking Qwest's phone carrier, business and residence customers in the two states.</p>
+<p>Construction on this section of the 13,000-mile fiber optic network Qwest is building was completed last month. To date, Qwest now has more than 2,100 route miles in service.</p>
+<p>The system connecting Denver to California utilizes a cable that contains Qwest's 48 optical fibers.  Each pair of fibers can carry telephone calls, video signals, computer data or Internet traffic at 80 billion bits (gigabits) per second.</p>
+<p>When Qwest's network reaches its fullest capacity -- trillions of bits per second -- it could transmit the entire contents of the Library of Congress coast to coast in 20 seconds, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

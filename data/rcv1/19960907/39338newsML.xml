@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39338" id="root" date="1996-09-07" xml:lang="en">
+<title>ITALY: Italian police seize cocaine, arrest three.</title>
+<headline>Italian police seize cocaine, arrest three.</headline>
+<dateline>FLORENCE, Italy 1996-09-07</dateline>
+<text>
+<p>Italian police said on Saturday they had seized 60 kg (132 lbs) of cocaine and arrested three people, including an Argentine man, charged with international drug trafficking.</p>
+<p>Some $240,000 worth of Italian currency was also seized, police added.</p>
+<p>They said the cocaine, with an estimated street value of around $26 million dollars, was believed to have arrived in Europe via the German port of Hamburg.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

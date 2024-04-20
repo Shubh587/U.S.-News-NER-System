@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88750" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Amtrak, Burlington Northern sign new deal.</title>
+<headline>Amtrak, Burlington Northern sign new deal.</headline>
+<dateline>WASHINGTON 1996-10-01</dateline>
+<text>
+<p>Amtrak and Burlington Northern Santa Fe Corp said on Tuesday they signed an agreement to allow the nation's passenger railroad to operate on Burlington tracks over the next 15 years.</p>
+<p>The new contract replaced previous agreements between the two companies that spanned 25 years from 1971, they said in a statement.</p>
+<p>While the terms of the contract were not disclosed, Burlington Northern said it covered Amtrak's right to services. It also established emergency procedures, performance standards, and rules about platform usage.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

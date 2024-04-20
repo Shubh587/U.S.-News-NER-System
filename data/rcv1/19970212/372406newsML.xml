@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="372406" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: EIA weekly report - Latest U.S. Oil Demand.</title>
+<headline>EIA weekly report - Latest U.S. Oil Demand.</headline>
+<text>
+<p>Averages (1,000 bbls/day) for four-week period ending:</p>
+<p>				  2/07/97   2/07/96   Pct Chg</p>
+<p> Gasoline..................7,203.....7,318.....-1.6</p>
+<p> Distillate Fuel...........3,691.....3,690......0.0</p>
+<p> Residual Fuel...............991.....1,022.....-3.0</p>
+<p> Jet Fuel..................1,677.....1,624......3.3</p>
+<p> Other Oils................4,739.....4,620......2.6</p>
+<p> All Products Supplied....18,302....18,273......0.2</p>
+<p> Domestic Crude Output.....6,494.....6,507.....-0.2</p>
+<p> Crude Imports (Exc SPR)...7,748.....7,109......9.0</p>
+<p> Refinery Crude Runs......13,532....13,670.....-1.0</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

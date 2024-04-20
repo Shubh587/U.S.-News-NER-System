@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="600512" id="root" date="1997-05-21" xml:lang="en">
+<title>SPAIN: Spanish cash deficit conversion into nat/account.</title>
+<headline>Spanish cash deficit conversion into nat/account.</headline>
+<dateline>MADRID 1997-05-21</dateline>
+<text>
+<p>The Spanish government released the following table to explain the differences between the budget deficit on a cash basis and the budget deficit on a national account basis.</p>
+<p>Data refer to the first four months in the year, accumulated until April (in billions of pesetas).</p>
+<p>    1. Deficit on cash basis			     - 453.8</p>
+<p>    2. Adjustments					   - 101.0</p>
+<p>	  - variations in accrued revenues</p>
+<p>	     and expenditures				  438.5</p>
+<p>	  - Adj for state debt interest payments	  77.9</p>
+<p>	  - Privatisations				   - 505.0</p>
+<p>	  - Others					     - 112.4</p>
+<p>    PSBR (1 + 2)					     - 554.7</p>
+<p>    GDP estimation for 1997			     78,860.0</p>
+<p>    As a percentage of GDP				     0.7%</p>
+<p>NOTE - Spanish deficit on a national account basis up to March was standing at 836 billion pesetas, or 1.1 percent of the same GDP estimation.</p>
+<p>-- Madrid Newsroom, + 341 585 8340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

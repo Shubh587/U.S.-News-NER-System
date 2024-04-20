@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87181" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Cablevision to carry News Corp's Fox.</title>
+<headline>Cablevision to carry News Corp's Fox.</headline>
+<dateline>WOODBURY, N.Y. 1996-10-01</dateline>
+<text>
+<p>News Corp and Cablevision Systems Corp said on Tuesday they have entered into an agreement under which Cablevision will offer customers the 24-hour Fox News Channel.</p>
+<p>The channel will be offered to customers in Long Island, Connecticut, New Jersey, Boston and greater Cleveland, the companies said.</p>
+<p>With this latest agreement, the Fox News Channel will reach more than 14 million cable viewers when it premieres October 7.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOODBURY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

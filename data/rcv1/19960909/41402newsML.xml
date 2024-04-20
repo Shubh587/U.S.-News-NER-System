@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41402" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Country music's Bill Monroe dead.</title>
+<headline>Country music's Bill Monroe dead.</headline>
+<dateline>NASHVILLE, Tenn. 1996-09-09</dateline>
+<text>
+<p>Bill Monroe, the mandolin-playing father of bluegrass music, died at a nursing home on Monday, the Grand Ole Opry said. He was 84.</p>
+<p>Monroe had suffered a stroke in March but the cause of death was not immediately known.  </p>
+<p>Monroe was born in Rosine, Kentucky, a town of 400, Sept. 13, 1911.</p>
+<p>With his group the &quot;Blue Grass Boys&quot; he gave definition to a style of music that eventually took its name from the group.</p>
+<p>His distinct high clear tenor and hard-driving, fast-paced acoustic picking set the pace for the style of music that won enduring popularity.</p>
+<p>He and his brothers learned music from their fiddle-playing mother.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

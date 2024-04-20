@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="410256" id="root" date="1997-02-28" xml:lang="en">
+<title>COLOMBIA: Colombia sets internal coffee price at new high.</title>
+<headline>Colombia sets internal coffee price at new high.</headline>
+<dateline>BOGOTA 1997-02-28</dateline>
+<text>
+<p>Colombia raised its internal coffee price by 5.48 percent Friday to a new record-high of 327,250 pesos per 125-kg load.</p>
+<p>The increase, announced in a statement from the National Coffee Growers' Federation, was the fourth since Jan. 31 when the internal price was set at 248,125 pesos per 125-kg load.</p>
+<p>The new price, which should hold at least through next Friday, works out to 2,618 pesos per kilo.</p>
+<p>((-- Juan Guillermo Londono, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

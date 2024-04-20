@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444175" id="root" date="1997-03-14" xml:lang="en">
+<title>MALAYSIA: Malaysian Cocoa Board cocoa bean prices - Mac 14.</title>
+<headline>Malaysian Cocoa Board cocoa bean prices - Mac 14.</headline>
+<text>
+<p>MYR/TONNE TAWAU PREV  LAHAD DATU  PREV  SABAK BERNAM PREV</p>
+<p>SMC 1A</p>
+<p> HIGH	3300  3250    3275	3175	 -	 -</p>
+<p> LOW	 3300  3250    3275	3175	 -	 -</p>
+<p> AVERAGE   3300  3250    3275	3175	 -	 -</p>
+<p>SMC 1B</p>
+<p> HIGH	3250  3200    3200	3100	3025    3000</p>
+<p> LOW	 3210  3150    3150	3050	2900    2900</p>
+<p> AVERAGE   3237  3183    3175	3075	2963    2950</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

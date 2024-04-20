@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="616449" id="root" date="1997-05-27" xml:lang="en">
+<title>MEXICO: Mexican soldier dies in clash with armed group.</title>
+<headline>Mexican soldier dies in clash with armed group.</headline>
+<dateline>ACAPULCO, Mexico 1997-05-27</dateline>
+<text>
+<p>A Mexican soldier died on Tuesday in a clash between the military and a group of unidentified civilians in the southwestern state of Guerrero, the military said.</p>
+<p>The incident took place near the small community of &quot;El Quemado,&quot; when the armed group attacked a military patrol, the military said in a statement.</p>
+<p>&quot;Part of a permanent reconnaissance mission against narco-traffickers was attacked with firearms by a group of about 25 armed men,&quot; the statement said. &quot;The result was the death of infantryman Abad Noyola Calderon, who belonged to the 49th Infantry Battalion.&quot;</p>
+<p>Residents in El Qemado told Reuters the military was involved in an intensive helicopter search for the armed civilians involved in the attack.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ACAPULCO, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123837" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Iomega to list stock on the NYSE.</title>
+<headline>Iomega to list stock on the NYSE.</headline>
+<dateline>ROY, Utah 1996-10-17</dateline>
+<text>
+<p>Iomega Corp, which becomes the latest high-profile technology to leave the NASDAQ, said it will file an application to list its common stock, preferred stock and its convertible notes on the New York Stock Exchange.</p>
+<p>&quot;We feel that listing on the New York Stock Exchange is in the long term best interests of our shareholders,&quot; said Kim Edwards, president and CEO, in a statement. &quot;This is a natural step as the story of the new Iomega continues to unfold.&quot;</p>
+<p>Iomega, founded in 1980 and publicly traded since 1983, has 127 million shares outstanding. Iomega said it expects its symbol to begin trading as IOM in the near future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROY, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

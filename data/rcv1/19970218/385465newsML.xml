@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="385465" id="root" date="1997-02-18" xml:lang="en">
+<title>UK: SBC unit sets 100 million mark exchangeable bond.</title>
+<headline>SBC unit sets 100 million mark exchangeable bond.</headline>
+<dateline>LONDON 1997-02-18</dateline>
+<text>
+<p>The following bond was announced by lead manager Schweizerische Bankverein (Deutschland) AG.</p>
+<p> BORROWER   SWISS BANK CORP JERSEY BRANCH</p>
+<p> AMT    100 MLN DEM   COUPON     1.00	MATURITY  **15.MAR.01</p>
+<p> TYPE  *EXCHANGEABLE  ISS PRICE  94.82     PAY DATE  L-28.FEB.97</p>
+<p> YIELD	2.36	LISTING    LONDON    PAY FREQ    ANNUAL</p>
+<p> GOV LAW    ENGLISH   DENOMS (K) FIVE	SALE LIMITS US/UK/DE</p>
+<p> CONVERSION PRICE     2589.19 (19 PCT OVER FT-SE EUROTRACK 100)</p>
+<p> CONVERSION RATIO     1.831 PER 5000 DEM</p>
+<p> CONVERSION PERIOD    28.FEB.99-08.MAR.01</p>
+<p> NOTES     *NOTE EXCHANGEABLE INTO FT-SE EUROTRACK 100INDEX</p>
+<p>		L-LONG FIRST COUPON</p>
+<p>	    **CALLABLE FROM 15.MAR.99 TO MATURITY AT ACCRETED</p>
+<p>		VALUE PLUS ACCRUED INTEREST ONLY IF CONVERSION</p>
+<p>		PARITY OF THE INDEX CLOSES AT OR ABOVE 110 PCT OF</p>
+<p>		THE INITIAL CONVERSION PRICE.</p>
+<p>		SENIOR UNSECURED DEBT.</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

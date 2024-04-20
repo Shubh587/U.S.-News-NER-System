@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766794" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: America Online tries to rein in Trojan Horse.</title>
+<headline>America Online tries to rein in Trojan Horse.</headline>
+<dateline>NEW YORK 1997-07-30</dateline>
+<text>
+<p>America Online Inc on Wednesday said it bolstered its defenses in an ongoing hacker war with the introduction of &quot;Download Sentry,&quot; an automatic warning about the potential danger of some e-mail file attachments.</p>
+<p>The system is designed to counter &quot;Trojan Horse&quot; programs, which seek to capture passwords and then e-mail them to hackers, giving the hackers access to AOL accounts or stored files.  Trojan Horse programs can also cause harm to members' computer hard drives and might contain graphic files, AOL said in a statement.</p>
+<p>&quot;The Download Sentry will pop up when a member attempts to download an e-mail with one of the types of file attachments associated with Trojan Horse programs,&quot; the online service provider said.</p>
+<p>Users can also protect themselves by not downloading attachments to e-mail from unknown sources or sources suspected of trying to impersonate known addresses, AOL said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

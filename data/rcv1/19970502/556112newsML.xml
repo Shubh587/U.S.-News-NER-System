@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="556112" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: FAA orders rudder modifications of Boeing 737s.</title>
+<headline>FAA orders rudder modifications of Boeing 737s.</headline>
+<dateline>WASHINGTON 1997-05-02</dateline>
+<text>
+<p>Federal aviation authorities Friday ordered airlines flying the Boeing Co. 737 to make a series of modifications to correct unsafe conditions in the popular plane's rudder controls.</p>
+<p>The Federal Aviation Administration airworthiness directive (AD) stemmed from recommendations by a design review team formed after two incidents in which 737s went into uncontrolled rolls and crashed, killing a total of 157 people.</p>
+<p>One comment received on the proposed directive suggested the agency remove a sentence saying the review called for corrections of &quot;certain design deficiencies,&quot; but the FAA rejected this.</p>
+<p>It noted that while the team did not find any design issue that could lead to a cause of the crashes, &quot;the FAA has concluded that they (the recommendations) address unsafe conditions that must be corrected through the issuance of ADs.&quot;</p>
+<p>&quot;Therefore,&quot; the agency said, &quot;the FAA does not concur that the design changes merely enhanced the (model 737's) already acceptable level of safety.&quot;</p>
+<p>The changes call for the modification of the plane's rudder power control units to try to prevent contamination by hydraulic fluid that could reduce rudder movement.</p>
+<p>The FAA estimated the modifications to cost up to $16,880 per plane and said the design change affected about 2,675 model 737s in the worldwide fleet, about 1,100 of which are flown by U.S. carriers.</p>
+<p>The crashes that prompted the design review were in Pittsburgh, in 1994, that killed all 132 people on board, and in Colorado Springs, Colorado, in 1991, that killed 25 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

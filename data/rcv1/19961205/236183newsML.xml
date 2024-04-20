@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236183" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: USAir November load factor slips a little.</title>
+<headline>USAir November load factor slips a little.</headline>
+<dateline>ARLINGTON, Va. 1996-12-05</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Load factor - percent		  66.2		66.4</p>
+<p> Revenue passenger miles	     3,173	     2,982</p>
+<p> Available seat miles		  4,787	     4,481</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  68.5		64.8</p>
+<p> Revenue passenger miles	    35,833	    35,155</p>
+<p> Available seat miles		 52,243	    54,089</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+<p>NOTES: Full company name is USAir Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

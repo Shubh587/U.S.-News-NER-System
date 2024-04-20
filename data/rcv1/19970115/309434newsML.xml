@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309434" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: Southwestern Energy unit files for rate hike.</title>
+<headline>Southwestern Energy unit files for rate hike.</headline>
+<dateline>FAYETTEVILLE, ARK. 1997-01-15</dateline>
+<text>
+<p>Southwestern Energy Co.'s Associated Natural Gas Co unit said it filed an application with the Missouri Public Service Commission to implement a $3.8 million -- or 10.23 percent -- total annual rate increase in three of its Missouri operating districts.</p>
+<p>The increase is subject to review and approval by the MPSC, the company said, and will likely not become effective until late 1997, if approved.</p>
+<p>The unit, a division of Southwestern's Arkansas Western Gas Co, serves about 47,000 Missouri customers.</p>
+<p>The unit's last rate increase became effcetive in November, 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAYETTEVILLE, ARK."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272664" id="root" date="1996-12-23" xml:lang="en">
+<title>FRANCE: SOCCER-SAMMER WINS GOLDEN BALL AWARD.</title>
+<headline>SOCCER-SAMMER WINS GOLDEN BALL AWARD.</headline>
+<dateline>PARIS 1996-12-23</dateline>
+<text>
+<p>Borussia Dortmund libero Matthias Sammer won the prestigious Golden Ball award on Monday as the 1996 European footballer of the year.</p>
+<p>Sammer won 144 points in the annual vote by European soccer writers, beating Barcelona's Ronaldo into second place by just three votes with Newcastle United striker Alan Shearer third on 109.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

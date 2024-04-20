@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263221" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Nike Inc Q2 shr $0.60 vs $0.34.</title>
+<headline>Nike Inc Q2 shr $0.60 vs $0.34.</headline>
+<dateline>BEAVERTON, Ore. 1996-12-18</dateline>
+<text>
+<p>QUARTER ENDING	     Y-T-D ENDING</p>
+<p> QTR FINL STMT	11/30/96   11/30/95   11/30/96   11/30/95</p>
+<p> REVENUES	   $2,107,034 $1,356,758 $4,388,960 $3,056,778</p>
+<p>COSTS &amp; EXPENSES</p>
+<p>  COST OF SALES    1,277,628    828,129  2,639,747  1,841,508</p>
+<p>  SG&amp;A		   530,453    353,715  1,059,990    722,758</p>
+<p>  INTEREST EXP	  10,228	8,527     22,894     19,778</p>
+<p>  OTHER		    (147)	7,375	8,494     17,624</p>
+<p>   TOTAL COSTS     1,818,162  1,197,746  3,731,125  2,601,668</p>
+<p> PRE TAX		 288,872    159,012    657,835    455,110</p>
+<p> TAXES		   112,000     61,200    254,900    175,200</p>
+<p> NET INCOME	    176,872     97,812    402,935    279,910</p>
+<p> INCOME PER SHARE	 0.60	 0.34	 1.36	 0.96</p>
+<p> DIVIDEND		   0.10	 0.08	 0.18	 0.14</p>
+<p> NUMBER OF SHARES    297,022    293,988    296,693    292,840</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEAVERTON, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

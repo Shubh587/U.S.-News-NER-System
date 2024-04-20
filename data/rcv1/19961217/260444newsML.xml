@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260444" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: SEC asked to speed work to avert computer chaos.</title>
+<headline>SEC asked to speed work to avert computer chaos.</headline>
+<dateline>WASHINGTON 1996-12-17</dateline>
+<text>
+<p>Rep. John Dingell, a Michigan Democrat, called on securities regulators Tuesday to speed up work to address a computer problem that could affect the securities industry and stock markets by 2000.</p>
+<p>Dingell was referring to the so-called &quot;millennium bug,&quot; in which some computer programs fail to recognize dates after 2000, or confuse 2000 with 1900. The problem stems from computer programmers who used only two digits to identify the year, instead of four.</p>
+<p>Unless corrected, the problem will cause chaos in all kinds of computer systems, computer experts have said.  </p>
+<p>The problem is already well-known and, at a House of Representatives hearing in September, a White House official said senior managers of federal agencies were being made aware of the situation and are takaing steps to correct it.</p>
+<p>Dingell, in a letter to Securities and Exchange Commission Chairman Arthur Levitt, said he wanted to know what the agency, which oversees the nation's equities markets and the mutual fund industry, is doing about the matter.  </p>
+<p>The lawmaker cited possible scenarios that could develop if the problem was not solved in time -- brokerages' clearing and settling of stock trades would be jeopardized, trades may not be credited with the right investors, and liquidity could come into question if trades were not posted on time.</p>
+<p>Dingell said he was aware of efforts by the SEC, the securities industry and exchanges to solve the problem, but he stressed that &quot;more needs to be done immediately.&quot;</p>
+<p>&quot;Not addressing this problem promptly is not an option,&quot; he said.</p>
+<p>Dingell asked the SEC to begin submitting annual  progress reports on what it is doing to find solutions. He asked that the first of such reports be submitted on June 1.</p>
+<p>An SEC spokesman said the agency is well aware of the problem and is working with other agencies to solve it.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

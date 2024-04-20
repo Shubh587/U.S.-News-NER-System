@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287786" id="root" date="1997-01-06" xml:lang="en">
+<title>CANADA: GM Canada sales rise 20.7 pct in December.</title>
+<headline>GM Canada sales rise 20.7 pct in December.</headline>
+<dateline>OSHAWA, Ontario 1997-01-06</dateline>
+<text>
+<p>General Motors of Canada Ltd, a wholly owned unit of General Motors Corp, said on Monday its sales for December were as follows:</p>
+<p>		     PCT CHANGE	    1996	     1995</p>
+<p>   Total	   +20.7		   29,432	   24,380</p>
+<p>   Cars	    +12.6		   14,296	   12,695</p>
+<p>   Trucks	  +29.5		   15,136	   11,685</p>
+<p>   YEAR-TO-DATE  PCT CHANGE	    1996	     1995</p>
+<p>   Total	   -1.1		   380,223	  384,270</p>
+<p>   Cars	    -5.1		   216,366	  227,944</p>
+<p>   Trucks	  +4.8		   163,857	  156,326</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSHAWA, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

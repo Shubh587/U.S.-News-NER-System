@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138818" id="root" date="1996-10-23" xml:lang="en">
+<title>SWITZERLAND: Swiss cantonal banks set 500 mln sfr domestic bond.</title>
+<headline>Swiss cantonal banks set 500 mln sfr domestic bond.</headline>
+<dateline>ZURICH 1996-10-23</dateline>
+<text>
+<p>The following new issue terms were fixed by the lead manager:</p>
+<p>BORROWER - Pfandbriefzentrale of the Swiss Cantonal Banks</p>
+<p>LEAD MGR - Zurich Cantonal Bank</p>
+<p> AMT   500 million CHF    COUPON    4-1/8	MATURITY   25.Nov.06</p>
+<p> TYPE   str	     ISS PRICE 100-7/8    PAY DATE   25.Nov.96</p>
+<p> LISTING 31.Oct.96    PAY FREQ --	    ACCRUAL    25.Nov.96</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

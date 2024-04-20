@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194599" id="root" date="1996-11-16" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION SUMMARIES.</headline>
+<dateline>BONN 1996-11-16</dateline>
+<text>
+<p>Summaries of soccer matches played in the German first division on Saturday:</p>
+<p>Borussia Dortmund 1 (Reinhardt 45th) Karlsruhe 1 (Dundee 25th). Halftime 1-1. Attendance 55,000</p>
+<p>Hamburg 0 Bayer Leverkusen 2 (Kirsten 52nd, 82nd). 0-0. 26,383</p>
+<p>VfB Stuttgart 3 (Elber 15th, Hagner 24th, Poschner 30th) Bochum 1 (Koezle 20th). 3-1. 40,000</p>
+<p>Freiburg 0 Bayern Munich 0. 22,500</p>
+<p>1860 Munich 1 (Heldt 26th) Arminia Bielefeld 3 (Molata 40th, Kuntz 55th, Reina 90th). 1-1. 25,500</p>
+<p>Fortuna Duesseldorf 1 (Werner 32nd-penalty). Schalke 3 (Wilmots 5th, Dooley 43rd, Max 81st). 1-2. 23,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

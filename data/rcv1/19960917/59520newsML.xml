@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59520" id="root" date="1996-09-17" xml:lang="en">
+<title>SPAIN: Spain's June jobless rate fell to 22.04 pct.</title>
+<headline>Spain's June jobless rate fell to 22.04 pct.</headline>
+<dateline>MADRID 1996-09-17</dateline>
+<text>
+<p>The National Statistics Institute (INE) gave the following figures:</p>
+<p> UNEMPLOYMENT			JUNE '96   MAY '96  JUN '95</p>
+<p> Total unemployed (mln)	    3.5	 N.A.	N.A.</p>
+<p> Pct of workforce (pct)	   22.04     22.27     22.56</p>
+<p>NOTE - Data based on INE survey of households (EPA). The labour ministry publishes separate unemployment figures based on registered unemployed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

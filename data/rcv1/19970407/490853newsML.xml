@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="490853" id="root" date="1997-04-07" xml:lang="en">
+<title>BRAZIL: Fire damages Reuter's office in Sao Paulo.</title>
+<headline>Fire damages Reuter's office in Sao Paulo.</headline>
+<dateline>SAO PAULO 1997-04-07</dateline>
+<text>
+<p>A fire destroyed the editorial and financial departments of the Reuters office in Sao Paulo on Monday, temporarily disrupting operations.</p>
+<p>Police said the fire, which was first discovered at 6 a.m. local time (0900 GMT), was probably caused by a short circuit in the building air conditioning system, and quickly spread through the office.</p>
+<p>Firefighters arrived shortly afterward and had the blaze under control within an hour. No one was in the office when the fire began and there were no injuries, officials said.</p>
+<p>The Reuters technical department and dataroom, where communications systems are housed, was largely undamaged, a Reuters spokesman said.</p>
+<p>Technical staff said 90 percent of systems were back and functioning by Monday afternoon and all departments and services, including editorial, would be functioning normally by Tuesday morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

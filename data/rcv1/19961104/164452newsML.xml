@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164452" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Sequent to launch new NUMA computer - WSJ.</title>
+<headline>Sequent to launch new NUMA computer - WSJ.</headline>
+<dateline>NEW YORK 1996-11-04</dateline>
+<text>
+<p>Sequent Computer Systems Inc is to introduce on Monday a new computer based on NUMA, an approach that allows computers to work faster, the Wall Street Journal reported on Monday.</p>
+<p>The newspaper cited Sequent Chief Executive Casey Powell as saying in an interview that the NUMA machines would be six times faster than the company's current generation and far cheaper.</p>
+<p>It said the machines would sell for $250,000, compared to the millions of dollars that mainframes cost at companies that need them to manage huge computer operations.</p>
+<p>NUMA, which stands for non-uniform memory access, enables hundreds of microprocessors to be hooked up in a single machine.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

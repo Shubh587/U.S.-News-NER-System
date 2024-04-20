@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457340" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: U.S. sorghum weekly export sales highlights--USDA.</title>
+<headline>U.S. sorghum weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1997-03-20</dateline>
+<text>
+<p>USDA sorghum export sales highlights in latest report week:</p>
+<p>Net sales of 82,800 MT were down 31 percent from the prior week and the 4-week average.  The major buyers were Mexico (50,200 MT) and Japan (35,800 MT). Decreases were reported for unknown destinations (12,000 MT) and Chile (3,500 MT).</p>
+<p>Exports of 128,600 MT were two and one-tenth times the previous week and 38 percent over the 4-week average.  The primary destinations were Japan (74,800 MT) and Mexico (36,500 MT</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

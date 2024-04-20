@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101513" id="root" date="1996-10-08" xml:lang="en">
+<title>CANADA: Ariel wins Costa Rica environment approval.</title>
+<headline>Ariel wins Costa Rica environment approval.</headline>
+<dateline>VANCOUVER 1996-10-08</dateline>
+<text>
+<p>Ariel Resources Ltd said on Tuesday that its environmental impact study for an open pit gold mine in Costa Rica has been approved.</p>
+<p>The Costa Rican Ministry of Energy and the Environment notified the company of the approval today, Ariel said in a statement.</p>
+<p>Approval for the Fortuna pit at Ariel's San Martin mine is subject to the company making the required deposit guarantee within 30 days, the company said.</p>
+<p>Ariel agreed earlier this month to merge its operations with Dakota Mining Corp.</p>
+<p>-- Reuters Toronto Bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

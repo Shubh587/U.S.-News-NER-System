@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="153596" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Fire causes power dip for New York City.</title>
+<headline>Fire causes power dip for New York City.</headline>
+<dateline>NEW YORK 1996-10-30</dateline>
+<text>
+<p>A fire at a power substation in Yonkers on Wednesday morning caused a system-wide dip in electrical voltage for New York City and Westchester County, utility officials said.</p>
+<p>&quot;All of our customers felt the dip,&quot; said Mike Spall, spokesman for Consolidated Edison Co. of New York. &quot;The system stabilised. It acted as it's designed to do.&quot;</p>
+<p>He said that when the four-alarm fire broke out at about 9 a.m., power was diverted from the other approximately one dozen substations that supply the system.</p>
+<p>No actual outages occurred and no further power dips were expected, Spall said. No injuries were reported in fire that was &quot;largely controlled&quot; by 11 a.m., he said. An oil fire remained, he said.</p>
+<p>In a momentary power dip, &quot;lights will flicker, computers might flicker, computers might go down,&quot; another Con Ed spokesman said.</p>
+<p>In the late morning rush hour, Long Island Railroad reported 15 minute delays because of electrical problems in its signals and third rails.</p>
+<p>The New York and American Stock Exchanges opened on time at 9:30 a.m.</p>
+<p>&quot;We took a power hit at 9 a.m., but otherwise everything is fine,&quot; said a spokeswoman for Merrill Lynch &amp; Co Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

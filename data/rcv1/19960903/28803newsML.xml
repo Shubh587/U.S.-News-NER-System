@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28803" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Maine Yankee set to go on line Tuesday.</title>
+<headline>Maine Yankee set to go on line Tuesday.</headline>
+<dateline>WISCASSET, Maine 1996-09-03</dateline>
+<text>
+<p>The Maine Yankee nuclear power plant was prepared to go back on line after a six-week shutdown to investigate safety concerns, a plant official said Tuesday.</p>
+<p>The facility was expected to be generating electricity by the end of Tuesday while investigation continues into how 15 feet of wire was removed from an electrical circuit in a key cooling system, spokesman Leanne Deihl said.  </p>
+<p>Maine Yankee is 38 percent owned by Central Maine Power Co, 20 percent each by New England Electric System and Northeast Utilities, and 22 percent by other New England utilities.</p>
+<p>The 24-year-old plant on the Maine coast was taken out of operation July 19, when engineers discovered a potential design defects in the containment core coolingand instrumentation systems.</p>
+<p>An attempt to restart the 910-megawatt plant in late August was aborted when plant officials discovered that a wire had been removed from the circuit that would automatically start pumps in the emergency core cooling system.</p>
+<p>Maine Yankee has been limited to 90 percent capacity while the Nuclear Regulatory Commission investigates allegations engineers improperly manipulated computer testing of the emergency core cooling system in the 1980s.</p>
+<p>Plant officials have denied wrongdoing, but submitted new tests to the NRC using a difference computer model.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WISCASSET, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

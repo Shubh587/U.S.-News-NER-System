@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197499" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: IBM licenses Microware OS-9 system.</title>
+<headline>IBM licenses Microware OS-9 system.</headline>
+<dateline>DES MOINES, Iowa 1996-11-18</dateline>
+<text>
+<p>Microware Systems Corp said Monday that International Business Machines Corp has licensed the OS-9 real-time operating system from Microware.</p>
+<p>The company said IBM plans to use the technology in products aimed at manufacturers of a variety of wireless and wired Internet- and Intranet-access devices.</p>
+<p>Terms were not disclosed.</p>
+<p>&quot;Being chosen as one of the potential operating systems in IBM's OEM network computer technology demonstrates that Microware has a proven and reliable operating system in OS-9,&quot; said Ken Kaplan, president and CEO of Microware.</p>
+<p>OEM is industry jargon that refers to computer makers that build products based on IBM's design for its new line of &quot;network computers,&quot; a scaled-down, diskless type of computer used to connect to corporate networks and the Internet.</p>
+<p>OS-9 is a real-time operating system that fits in a wide range of computers from small handheld devices to large networked systems.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297007" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Sciclone CF drug cleared for tests by FDA.</title>
+<headline>Sciclone CF drug cleared for tests by FDA.</headline>
+<dateline>SAN MATEO, Calif. 1997-01-09</dateline>
+<text>
+<p>Clone Pharmaceuticals said Thursday it has been cleared by the United States Food and Drug Administration to begin clinical studies of its cystic fibrosis drug CPX in the United States.</p>
+<p>Under an Investigational New Drug Application filed with the FDA in December 1996, SciClone will now proceed to conduct Phase I/II clinical studies of CPX directly in cystic fibrosis patients rather than healthy volunteers.  </p>
+<p>Under the trial protocol, developed in conjunction with the Cystic Fibrosis Foundation, CF patients will be enrolled at four cystic fibrosis centers in the United States. In this Phase I/II study of CPX, physicians are seeking to establish the safety and pharmacokinetic parameters of CPX for determining optimal dose and schedule for administration of the drug.</p>
+<p>In addition the physicians also are seeking to measure the effect of CPX's ability to normalize chloride secretion by defective CF cells via repairing the basic molecular defect at the root cause of CF.  </p>
+<p>CF is an inherited disorder that affects about 30,000 people in the U.S. and 55,000 worldwide. It is the most common fatal genetic defect in the United States today. CF is caused by a faulty gene that produces a defective protein, the function of which is to transport sodium and chloride (salt) within epithelial cells (which line organs such as the lungs and pancreas) to the cells' outer surfaces. CF causes the body to produce an abnormally thick, sticky mucus. This abnormal mucus clogs the lungs and leads to fatal infections. The thick CF mucus also obstructs the pancreas, preventing enzymes from reaching the intestines to digest food. Currently, there are no known cures for CF, and the median life expectancy of a CF patient is 30 years of age.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

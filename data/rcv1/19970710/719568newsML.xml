@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="719568" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Boston Scientific forms strategic alliance.</title>
+<headline>Boston Scientific forms strategic alliance.</headline>
+<dateline>NATICK, Mass. 1997-07-10</dateline>
+<text>
+<p>Boston Scientific Corp says it has formed a strategic alliance with Angiotech Pharmaceuticals and Cook Inc to license Angiotech's paclitaxel technology for reducing restenosis.</p>
+<p>In a statement from Boston Scientific, said it will share a co-exclusive, worldwide license with Cook for Angiotech's pharmacological compound currently used as a coating for such surgical products as stents and angioplasty balloons.</p>
+<p>Boston Scientific said as part of the agreement, it and privately held Cook, based in Bloomington, Ind. will make equal equity investments in Angiotech and pay milestone based license fees and royalties on the sale of products incorporating Angiotech technology.</p>
+<p>Restenosis is a condition whereby arterial or gastrointestinal walls narrow following surgical procedures to clear away blockages.</p>
+<p>Angiotech Pharmaceuticals, Inc of Vancouver, British Colombia is a privately held Canadian pharmaceutical company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NATICK, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

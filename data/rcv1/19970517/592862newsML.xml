@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592862" id="root" date="1997-05-17" xml:lang="en">
+<title>ZAIRE: Kinshasa radio promises Zaire rebel message.</title>
+<headline>Kinshasa radio promises Zaire rebel message.</headline>
+<dateline>KINSHASA 1997-05-17</dateline>
+<text>
+<p>The radio station in Zaire's capital Kinshasa on Saturday said it would soon carry a message from Laurent Kabila's rebel Alliance of Democratic Forces for the Liberation of Congo-Zaire (AFDL).</p>
+<p>The station is several hundred metres (yards) from the main downtown district of the city of five million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

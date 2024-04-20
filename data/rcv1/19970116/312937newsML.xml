@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312937" id="root" date="1997-01-16" xml:lang="en">
+<title>UK: OPTIONS - NatWest strangle tops options trade.</title>
+<headline>OPTIONS - NatWest strangle tops options trade.</headline>
+<dateline>LONDON 1997-01-16</dateline>
+<text>
+<p>A strangle or combination trade in National Westminster Bank Plc was the main feature in a moderately active morning session on the UK traded options market.</p>
+<p>But trading activity had slowed by midday as dealers awaited opening moves on Wall Street, dealers said.</p>
+<p>&quot;It's pretty quiet now but we've seen a few chunky deals this morning,&quot; one trader said.</p>
+<p>&quot;Hopefully things will pick up again once the U.S. opens.&quot;</p>
+<p>The FTSE 100 index was up 34.3 points at 4,193.2 by 1300 GMT, while the March FTSE futures contract rose 47.0 to 4,200.  </p>
+<p>The strangle was established when one dealer bought 1,500 April 750 puts at 29p and at the same time bought 1,500 April 800 calls at 21p.</p>
+<p>With NatWest shares at 778p, up 3p, both options are out of the money and will expire worthless if the underlying stock is trading anywhere between 750p and 800p at expiration.</p>
+<p>But if NatWest shares rise above 800p or fall below 750p by expiration, the strangle will have some value.</p>
+<p>The potential profits are quite large if the the undelrying stock should move a great deal in either direction before expiration.  </p>
+<p>The loss is limited to the 50p cost of the strangle plus commissions.</p>
+<p>A reverse calendar spread was also established in NatWest when one dealer bought 1,000 April 750 Calls at 48p and at the same time sold 1,000 July 750 calls at 63p for a credit of 15p, less commissions.</p>
+<p>The strategist in this case would like to see the spread shrink in value.</p>
+<p>For this spread to shrink in value, the stock must move far away from the striking price before the near-term call expires in April.  </p>
+<p>The spread cannot shrink to less than zero so the reverse spread had a limited profit potential equal to the net credit.</p>
+<p>But like the strangle, the reverse spread will make money if NatWest shares move sharply in either direction.</p>
+<p>Elsewhere, one dealer sold 1,000 Tarmac September 100 calls at 12p.</p>
+<p>A maximum profit of 12p, less commissions will be realised if Tarmac shares are less than 100p at expiration. Tarmac shares were down 2-1/2p at 100p.</p>
+<p>-- Dale Faulken, London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640734" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Bristol-Myers Maxipime gets FDA clearance.</title>
+<headline>Bristol-Myers Maxipime gets FDA clearance.</headline>
+<dateline>PRINCETON, N.J. 1997-06-05</dateline>
+<text>
+<p>Bristol-Myers Squibb Co said Thursday its antibiotic Maxipime has received clearance from the U.S. Food and Drug Administration for the empiric treatment of febrile neutropenic patients.</p>
+<p>Maxipime is an injectable, broad-spectrum antibiotic, the company said. It was cleared in January 1996 for the treatment of moderate-to-severe pneumonia, urinary tract infections, and uncomplicated skin and skin-structure infections.</p>
+<p>Febrile neutropenia affects about 1.5 million U.S. patients, the company said. It is a condition in which fever occurs in patients with very low numbers of white blood cells, called neutrophils.</p>
+<p>Persons suffering from the condition include patients who have received intensive chemotherapy or radiation, or those who suffer hematologic disorders that compromise their immune systems, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

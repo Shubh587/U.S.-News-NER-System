@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121306" id="root" date="1996-10-16" xml:lang="en">
+<title>UK: London gold touch firmer, silver eyes upside.</title>
+<headline>London gold touch firmer, silver eyes upside.</headline>
+<text>
+<p>GOLD - Fixes firmer at $381.50 vs $380.80 AM and $381.00 on Tuesday PM. Looking to silver for direction.</p>
+<p>SILVER - Up three cents at $5.05/$5.07, may probe a bit higher. Resistance seen around $5.09-$5.10.</p>
+<p>PLATINUM - Down 25 cents at $384.75/$385.75, but off lows.</p>
+<p>PALLADIUM - Unchanged at $116.00/$117.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292908" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: CCAIR Dec load factor up 11.7 pct.</title>
+<headline>CCAIR Dec load factor up 11.7 pct.</headline>
+<dateline>CHARLOTTE, N.C. 1997-01-08</dateline>
+<text>
+<p>CCAIR, Inc.</p>
+<p>			DECEMBER		  CALENDAR YEAR-TO DATE</p>
+<p>		1996     1995   % Chg    1996	1995    % Chg</p>
+<p>Revenue passenger</p>
+<p> miles     11,788    11,474   2.7   150,017   138,103   8.6</p>
+<p>Available seat</p>
+<p>miles	23,270    25,266  (7.9)  313,931   313,388   0.2</p>
+<p>Load</p>
+<p> factor     50.7%     45.4%  11.7     47.8%     44.1%   8.4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

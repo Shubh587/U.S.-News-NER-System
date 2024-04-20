@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="639798" id="root" date="1997-06-05" xml:lang="en">
+<title>COLOMBIA: Bomb blasts Colombian Red Cross offices.</title>
+<headline>Bomb blasts Colombian Red Cross offices.</headline>
+<dateline>BOGOTA 1997-06-05</dateline>
+<text>
+<p>A small bomb exploded outside Red Cross offices in the northwest Colombian city of Medellin, injuring two passers-by and causing damage, police said Thursday.</p>
+<p>The attack, which took place Wednesday evening, was thought to be the first in Colombia against the Red Cross, a spokesman for the organisation said.</p>
+<p>Police said the device consisted of one-and-a-half pounds of dynamite and blew out windows and damaged part of the rear of the building.</p>
+<p>The two injured people were thought to be beggars, a police spokesman said. He said no group had claimed responsibility for the blast.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

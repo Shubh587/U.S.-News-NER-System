@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244015" id="root" date="1996-12-09" xml:lang="en">
+<title>CANADA: Canada new housing price index falls in Oct.</title>
+<headline>Canada new housing price index falls in Oct.</headline>
+<dateline>OTTAWA 1996-12-09</dateline>
+<text>
+<p>Canada's new housing price index fell 1.6 percent in October to 131.4 (base 1986) from October 1995, Statistics Canada said on Monday.</p>
+<p>    Index			  Oct     yr pct  month pct</p>
+<p> Total			    131.3     -1.6	-0.1</p>
+<p> House only		     121.1     -1.8	 n/a</p>
+<p> Land only			165.1     -0.9	-0.1</p>
+<p>The index measures changes of contractors' selling prices of new residential houses.</p>
+<p>A Reuter survey of economists had forecast a 0.1 percent rise in the annual index.</p>
+<p>((Reuters Ottawa Bureau 613-235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

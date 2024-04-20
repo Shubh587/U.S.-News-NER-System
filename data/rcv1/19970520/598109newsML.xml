@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598109" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Cancer researchers work on gene-based therapies.</title>
+<headline>Cancer researchers work on gene-based therapies.</headline>
+<dateline>DENVER 1997-05-20</dateline>
+<text>
+<p>Recent findings about the role genes play in the spread of cancer offer hope for new treatments that will be safer than chemotherapy, researchers said on Tuesday.</p>
+<p>While the drugs used in chemotherapy are credited with saving up to 100,000 lives a year in the United States, they interfere with the immune system and other body functions, since they do not distinguish cancerous cells from healthy ones.</p>
+<p>At a conference in Denver of the American Society of Clinical Oncology, researchers said they were looking at ways to manipulate the genes that regulate cancer cell growth. Their goal is to develop treatments that work only on those cells and are nontoxic to the rest of the body.</p>
+<p>Although the goal is a long way off, in the shorter run such new treatments might be used with chemotherapy in a two-pronged attack, the researchers said.</p>
+<p>&quot;I think within 20 years it is very likely that chemotherapy will be replaced,&quot; Dr. Daniel Von Hoff of the University of Texas Health Science Centre in San Antonio told Reuters.</p>
+<p>&quot;I don't think it is very likely it will be replaced within the next 10 years,&quot; Von Hoff added. &quot;It's hard to let go of a treatment that saves so many lives.&quot;</p>
+<p>Von Hoff is testing injections of a gene that regulates cancer cell growth. At the conference, he presented preliminary data showing that the injections slowed tumour growth in some patients and seemed to make tumours more responsive to chemotherapy.</p>
+<p>Research into this treatment is focusing on ovarian cancer, which shows a particularly strong response, he said. One ovarian cancer patient went into remission after receiving the gene injection, he added.</p>
+<p>In similar research, Dr. Robert Soiffer of the Dana-Farber Cancer Institute said a &quot;vaccine&quot; based on genetically manipulated tumour cells slowed tumour growth in some late-stage melanoma patients who had not responded to other treatments.</p>
+<p>The vaccine was produced by removing tumour deposits from the patient, injecting them with a gene that regulates cell growth and then injecting the modified cells back into the site of the tumour.</p>
+<p>Although this research has not been extensive enough to compare its success rate with that of chemotherapy, Soiffer said he hoped it could yield an effective treatment. Unlike chemotherapy, he said, its only apparent side effect is some inflammation at the site of the injection.</p>
+<p>Scientists are testing similar vaccines on other forms of skin cancer and on prostate cancer.</p>
+<p>Other researchers at the conference reported success in removing genes that had mutated and stimulated cancer cell growth. When the normal form of the gene was put back into the tumours, their rate of growth slowed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

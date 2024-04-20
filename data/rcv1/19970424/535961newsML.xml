@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535961" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Fed acts to ease Midwest financial woes due floods.</title>
+<headline>Fed acts to ease Midwest financial woes due floods.</headline>
+<dateline>WASHINGTON 1997-04-24</dateline>
+<text>
+<p>The Federal Reserve said on Thursday it has asked banks in flood-ravaged Minnesota, North Dakota and South Dakota to be lenient toward borrowers who experience financial problems.</p>
+<p>The U.S. central bank said &quot;banks may find it appropriate to ease credit terms to help new borrowers restore their financial strength...and to restructure debt or extend repayment terms to existing borrowers.&quot;</p>
+<p>The Fed said it also was considering waiving its requirement for appraisals for real-estate transactions since it is hard to do appraisals under flood conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

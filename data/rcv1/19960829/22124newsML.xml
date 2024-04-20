@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22124" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Wisconsin Energy merger gets nod.</title>
+<headline>Wisconsin Energy merger gets nod.</headline>
+<dateline>MILWAUKEE, Wis. 1996-08-29</dateline>
+<text>
+<p>Wisconsin Energy Corp said Thursday a Federal Energy Regulatory Commission law judge conditionally approved the company's merger with Northern States Power Co to form Primergy Corp.</p>
+<p>In his initial decision, Administrative Law Judge Michel Levant found that establishment of an independent system operator will serve to migitage any anti-competitive effects of the merger.</p>
+<p>Levant's decision, while not binding on the Federal Energy Regulatory Commission, is significant since it will be considered by them in deliberations on the merger.</p>
+<p>The two utilities announced their intent to merge on May 1, 1995.</p>
+<p>The Michigan public service commissions approved the merger in April and the North Dakota commission did so in June. A final decision by the FERC Commissioners is expected by yearend.</p>
+<p>	  -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

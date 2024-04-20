@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115854" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Nasdaq closing most actives - Oct 15.</title>
+<headline>Nasdaq closing most actives - Oct 15.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Tuesday.</p>
+<p>  Intel Corp	  20,014,500	111 1/8	up  3 1/2</p>
+<p>  U.S. Robotics     10,033,500	    7/8	up  8 7/8</p>
+<p>  Chips &amp; Tech	 7,881,600	 19 3/4	up  4 7/8</p>
+<p>  Sun Microsystems   7,797,200	 70	    up  1 5/8</p>
+<p>  VLSI		   7,072,400	 18 3/8	up  2 5/8</p>
+<p>  CISCO		  6,873,400	 65 7/8	up    5/8</p>
+<p>  Imega		  5,155,900	 24 5/16     up   5/16</p>
+<p>  Atmel		  4,937,900	 30 3/8     off  1 1/2</p>
+<p>  Dell		   4,728,300	 88 3/8	up  3 1/2</p>
+<p>  Medaphis	     4,498,900	 17 1/2	up   3/16</p>
+<p>Volume: 571,219,400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

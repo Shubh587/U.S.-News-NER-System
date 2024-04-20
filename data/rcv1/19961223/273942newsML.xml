@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273942" id="root" date="1996-12-23" xml:lang="en">
+<title>FRANCE: French stocks slip slightly after U.S. data.</title>
+<headline>French stocks slip slightly after U.S. data.</headline>
+<dateline>PARIS 1996-12-23</dateline>
+<text>
+<p>French shares slipped slightly after the publication of U.S. November personal income data, giving up very slight gains made in early afternoon. Operators expected a lower opening of Wall Street.</p>
+<p>The blue-chip CAC-40 index was unchanged at 2,278.63 at 1333 GMT while the CAC-40 futures contract was up at 2,286 from 2,280 on Friday's close.</p>
+<p>Volume was 3.6 billion francs.</p>
+<p>Shares had been trading down most of the day due to profit taking on the last day of the December account.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

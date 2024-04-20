@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="382808" id="root" date="1997-02-17" xml:lang="en">
+<title>BELGIUM: Belgian Belfox plans more efficient trading system.</title>
+<headline>Belgian Belfox plans more efficient trading system.</headline>
+<dateline>BRUSSELS 1997-02-17</dateline>
+<text>
+<p>Belgian futures and options exchange Belfox said on Monday it planned to have a new trading system working by the end of the year, which would allow it to offer new products more easily and quickly to its members.</p>
+<p>The system would also improve on performance.</p>
+<p>&quot;The aim is to process the large number of orders that Belfox receives every day and the associated market information, and transport it to and from its members as quickly as possible,&quot; the exchange said in a statement.</p>
+<p>Set up five years ago, Belfox saw volume climb 22 percent in the course of 1996 to 2.6 million lots, though the exchange remains relatively small on a European scale.</p>
+<p>Belfox management committee president Jos Schmitt declined to detail how much had been invested in the new system, but he said that for its first three years it would cost 20 million Belgian francs more a year than the old one had done.</p>
+<p>The exchange said its new system had order management and order matching functions, and also supplied real time market information to traders and market makers.</p>
+<p>Members could enter, amend or cancel buying and selling orders in real time. These orders were matched after every order entry or quote entry, which made it possible to issue buy and sell orders simultaneously for the same instrument.</p>
+<p>&quot;Unlike (with) previous systems, market makers who are responsible for an instrument can transmit all orders for a specific instrument at the same time instead of one by one. The new system makes it much easier for them to update buying and selling prices,&quot; Belfox added.</p>
+<p>It involves three areas of new infrastructure - a client trading system located on the trader's or market maker's computer, a central trading system which matches orders and quotes, and a &quot;gateway&quot; which joins them.</p>
+<p>The system is being developed by Belgian company  Cimad Consultants, which has set up a partnership with Belfox to market it to other countries in the future.</p>
+<p>-- Lorrayne Smith, Brussels Newsroom +32 2 287 6812, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

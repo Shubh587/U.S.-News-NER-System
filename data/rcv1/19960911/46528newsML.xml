@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46528" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Illinois extends Clinton nuke shutdown.</title>
+<headline>Illinois extends Clinton nuke shutdown.</headline>
+<dateline>NEW YORK 1996-09-11</dateline>
+<text>
+<p>Illinois Power Co extended the shutdown of its 930 megawatt Clinton nuclear power plant in Clinton, Ill. to at least this weekend, a spokesman said.</p>
+<p>&quot;We may be in startup mode by Saturday,&quot; company spokesman John Dewey said Wednesday.</p>
+<p>The company had expected the plant to resume operations near September 11, but pushed the restart back to complete and submit an evaluation report of recent repairs to the Nuclear Regulatory Commission, Dewey said.</p>
+<p>The plant was shut down Sept 6 for repairs to a recirculation pump seal.</p>
+<p>Illinois Power is a unit of Illinova Corp.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67452" id="root" date="1996-09-20" xml:lang="en">
+<title>CANADA: Canada Aug department store sales rise on month.</title>
+<headline>Canada Aug department store sales rise on month.</headline>
+<dateline>OTTAWA 1996-09-20</dateline>
+<text>
+<p>Canadian department stores sales rose a seasonally adjusted 1.2 percent in August from July to C$1.21 billion, Statistics Canada said on Friday.</p>
+<p>In unadjusted data, year-over-year sales in August rose 5.5 percent.</p>
+<p>Sales at major stores rose 1.5 percent to C$526.6 million in August from the same month a year earlier.</p>
+<p>Consumer spending in the discount stores rose 8.9 percent to C$674.3 million from the same month a year earlier.</p>
+<p>(For more information from Statistics Canada, contact Mary Beth Garneau, Retail Trade Section, Industry Division, 613-951-9824.)</p>
+<p>-- Ottawa Bureau 613 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

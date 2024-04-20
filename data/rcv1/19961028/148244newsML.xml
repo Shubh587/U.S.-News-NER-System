@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148244" id="root" date="1996-10-28" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-10-28</dateline>
+<text>
+<p>COAL - Pacific Challenger -</p>
+<p>120,000 tonnes coal Newcastle/Kaohsiung 10-20/12 $6.00 fio 35,000 shex/28,000 shex China Steel.</p>
+<p>TBN 140,000 tonnes coal Richards Bay/Sines Dec $5.65 fio scale load/30,000 shinc Portline.</p>
+<p>ORE - CSK Tribute - 150,000 tonnes Tubarao/Gijon end Nov low $5.00s fio six days shinc Ensidesa.</p>
+<p>Fixtures reported from New York on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

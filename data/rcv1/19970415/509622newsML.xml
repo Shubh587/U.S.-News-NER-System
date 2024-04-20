@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="509622" id="root" date="1997-04-15" xml:lang="en">
+<title>SINGAPORE: Singapore Telecom and Burma in data link.</title>
+<headline>Singapore Telecom and Burma in data link.</headline>
+<dateline>SINGAPORE 1997-04-15</dateline>
+<text>
+<p>Singapore Telecom (SingTel) said on Tuesday Burma has set up its first data communications link with the world and has chosen Singapore as its gateway.</p>
+<p>Last month, SingTel and Myanmar PTT established a 64 kpbs link between the two countries.</p>
+<p>The link using Telepac, SingTel's packet switched services, enables Burma to reach out to 110 destinations in more than 90 countries, said the SingTel statement.</p>
+<p>The statement also said SingTel was in the process of negotiating with the relevant authorities in Cambodia and Loas to establish similar data links.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

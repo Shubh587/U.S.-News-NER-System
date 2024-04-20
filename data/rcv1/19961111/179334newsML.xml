@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179334" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: LSI Logic says develops 1.25 gigabit network chip.</title>
+<headline>LSI Logic says develops 1.25 gigabit network chip.</headline>
+<dateline>MILPITAS, Calif. 1996-11-11</dateline>
+<text>
+<p>LSI Logic Corp on Monday said it developed a computer networking chip that enables data to be transferred at 1.25 gigabits, or billions of bits, per second.</p>
+<p>Gigabit ethernet is a promising new technology capable of meeting the data-intensive requirements of transmitting voice and video over computer networks. It competes with an alternative technology known as Asynchronous Transfer Mode (ATM).  </p>
+<p>LSI said its GigaBlaze single-chip system is capable of meeting the emerging standard for gigabit ethernet networks and is designed to keep pace with the fastest microprocessors currently available.</p>
+<p>These include chips from Intel Corp, Motorola Inc, Sun Microsystems Inc and Digital Equipment Corp.  </p>
+<p>&quot;The introduction of the GigaBlaze G10 core, demonstrates LSI Logic's continued leadership in high speed CMOS serial technology,&quot; said Andy Bechtolsheim, vice president of engineering at Cisco Systems Inc's Gigabit Switching Group. &quot;Cisco is using this key technology for next-generation gigabit network switches.&quot;</p>
+<p>Bechtolsheim, founder of Granite Systems Inc, which was recently acquired by Cisco, is a leading proponent of gigabit ethernet as an alternative to high-speed computer networks based on rival ATM technology.</p>
+<p>LSI Logic said it believes GigaBlaze products are the industry's most cost-effective solution for gigabit-scale networking.</p>
+<p>The company said its advantage derives from LSI's advanced Complimentary Metal Oxide Semiconductor (CMOS) process technologies rather than older, multi-chip bipolar or gallium arsenide technologies that have previously been used for high-speed networking.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

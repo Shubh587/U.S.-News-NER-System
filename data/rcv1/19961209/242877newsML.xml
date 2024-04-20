@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242877" id="root" date="1996-12-09" xml:lang="en">
+<title>INDIA: HOCKEY-NETHERLANDS BEAT GERMANY 2-1 IN CHAMPIONS TROPHY.</title>
+<headline>HOCKEY-NETHERLANDS BEAT GERMANY 2-1 IN CHAMPIONS TROPHY.</headline>
+<dateline>MADRAS, India 1996-12-09</dateline>
+<text>
+<p>Result of a round-robin league match in the Champions Trophy hockey tournament on Monday:</p>
+<p>Netherlands beat Germany 2-1 (halftime 1-0)</p>
+<p>Scorers:</p>
+<p>Netherlands - Jacques Brinkman 11, Remco Van Wijk 68</p>
+<p>Germany - Michael Bjorn 60.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRAS, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

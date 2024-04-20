@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44603" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Hurricane Hortense threat to shipping in Caribbean.</title>
+<headline>Hurricane Hortense threat to shipping in Caribbean.</headline>
+<dateline>LEXINGTON, MASS. 1996-09-10</dateline>
+<text>
+<p>Hurricane Hortense, about 40 miles south-southeast of Ponce Puerto Rico in the eastern Caribbean and packing 80 mph winds, is a threat to shipping in the region for at least the next 24-36 hours, Weather Services Corp said.</p>
+<p>Hortense is expected to track northwest and move into Hispanola within 24 hours. Flooding rains and strong winds would cause damage through the island during this time, especially along the south coast.</p>
+<p>Hortense will also be fairly close to Puerto Rico for another 12 hours and the island can expect heavy or very heavy rains, causing flooding and possible mudslides. A strong coastal storm surge along the southern coast could cause coastal flooding and beach erosion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CARIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

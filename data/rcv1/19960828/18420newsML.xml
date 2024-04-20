@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18420" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: CYCLING-KELLY WINS WORLD TIME TRIAL TITLE.</title>
+<headline>CYCLING-KELLY WINS WORLD TIME TRIAL TITLE.</headline>
+<dateline>MANCHESTER, England 1996-08-28</dateline>
+<text>
+<p>Shane Kelly of Australia retained the world one-kilometre time trial title at the world track championships on Wednesday, with a track record time of one minute 2.777 seconds.</p>
+<p>Kelly averaged 57.345 kph to beat Soren Lausgberg of Germany by eighteen hundredths of a second. The bronze medal went to another German, Jan Van Eijden, in 1:04.541.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256216" id="root" date="1996-12-13" xml:lang="en">
+<title>LEBANON: Lebanon seeks $5 billion at donor conference.</title>
+<headline>Lebanon seeks $5 billion at donor conference.</headline>
+<dateline>BEIRUT, Lebanon</dateline>
+<text>
+<p>Prime Minister Rafik al-Hariri left Beirut Friday for a &quot;Friends of Lebanon&quot; donors conference in Washington, seeking $5 billion over the next five years to help him carry on rebuilding the country.</p>
+<p>About 30 countries are expected at the meeting, which the United States agreed to sponsor last April after a 17-day Israeli blitz on Lebanon that hurt its economy and set back its reconstruction drive.</p>
+<p>Hariri will propose at the Dec. 16 conference 31 infrastructure projects that his cash-strapped government considers high priority but cannot afford to undertake.</p>
+<p>They range from road-building and water projects to education and the environment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

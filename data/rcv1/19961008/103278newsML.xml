@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103278" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Computer Sciences wins $35 million contract.</title>
+<headline>Computer Sciences wins $35 million contract.</headline>
+<dateline>FALLS CHURCH, Va 1996-10-08</dateline>
+<text>
+<p>Computer Sciences Corp said it had won a $35 million contract to operate the Central Satellite Data Processing Center of the National Oceanic and Atmospheric Administration in Suitland, Md.</p>
+<p>The computer said the eight-year contract has a base year valued at $4.3 million and seven one-year options, with a total value of $35 million if all options are exercised.</p>
+<p>The contract also includes the capacity to acquire an additional $35 million in incidental hardware, software, software licenses, and software development over its eight-year duration, it said.</p>
+<p>The Satellite Data Processing Center receives and processes real-time environmental satellite data from the adminstration's polar and geostationary satellites, the Department of Defense's Defense Meteorologic Satellites, the European METEOSAT and ERS-2 spacecraft and the Japanese GMS and ADEOS satellites.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FALLS CHURCH, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

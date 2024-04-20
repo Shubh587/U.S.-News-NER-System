@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271211" id="root" date="1996-12-20" xml:lang="en">
+<title>JAPAN: Japan Energy closes 110,000 bpd Mizushima topper.</title>
+<headline>Japan Energy closes 110,000 bpd Mizushima topper.</headline>
+<dateline>TOKYO 1996-12-20</dateline>
+<text>
+<p>Japan Energy Corp said on Friday that it closed its 110,000 barrel-per-day (bpd) crude distillation unit at its Mizushima refinery on Wednesday after hydrogen gas leaked from part of the facility.  </p>
+<p>Japan Energy shut the CDU early Wednesday morning after it detected the gas leak from a desulphurisation unit, a company spokeswoman said.</p>
+<p>The cause of the accident is still under investigation, and it is unclear when the refiner will put the CDU back on line, she said.</p>
+<p>Operations of the other CDU at the plant have not been affected by the incident, she added.</p>
+<p>The topper has a processing capacity of 90,200 bpd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

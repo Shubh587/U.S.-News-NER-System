@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87518" id="root" date="1996-10-01" xml:lang="en">
+<title>KENYA: CRICKET-SOUTH AFRICA BATTING AGAINST SRI LANKA.</title>
+<headline>CRICKET-SOUTH AFRICA BATTING AGAINST SRI LANKA.</headline>
+<dateline>NAIROBI 1996-10-01</dateline>
+<text>
+<p>South Africa won the toss and chose to bat in their one-day international against Sri Lanka in the latest match in the four-nations tournament on Tuesday.</p>
+<p>Teams:</p>
+<p>South Africa: Andrew Hudson, Gary Kirsten, Daryll Cullinan, Hansie Cronje, Jonty Rhodes, Derek Crookes, Brian McMillan, Dave Richardson, Pat Symcox, Fanie de Villiers, Allan Donald.</p>
+<p>Sri Lanka: Sanath Jayasuriya, Romesh Kaluwitharana, Asanka Gurusinha, Aravinda de Silva, Arjuna Ranatunga, Hashan Tillekeratne, Roshan Mahanama, Kumar Dharmasena, Chaminda Vaas, Muttiah Muralitheran, Sanjeeva de Silva.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

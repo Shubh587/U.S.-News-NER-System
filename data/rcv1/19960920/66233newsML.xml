@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66233" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Tanker grounded in Mississippi River is refloated.</title>
+<headline>Tanker grounded in Mississippi River is refloated.</headline>
+<dateline>BATON ROUGE, La. 1996-09-20</dateline>
+<text>
+<p>A Greek-flagged tanker that ran aground in the Mississippi River over two natural gas pipelines near here Thursday night was refloated Friday afternoon, the Coast Guard reported.</p>
+<p>The river, which had been restricted to traffic bound upriver, reopened to traffic about 1700 EDT/2100 GMT, authorities said.</p>
+<p>Initial Coast Guard reports said the M/V Pindar, loaded with 375,00 barrels of fuel oil, ran aground about 0200/0600 Friday, but later reports said the ship was grounded about 2200 Thursday.</p>
+<p>The Coast Guard Marine Safety Office in New Orleans reported no damage to the vessel or the Texaco pipelines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BATON ROUGE, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

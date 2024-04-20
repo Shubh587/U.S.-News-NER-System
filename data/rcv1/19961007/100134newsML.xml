@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100134" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Leslie-ADM corn production survey by states.</title>
+<headline>Leslie-ADM corn production survey by states.</headline>
+<dateline>CHICAGO 1996-10-07</dateline>
+<text>
+<p>The following tables contain state-by-state corn production estimates published in the Leslie-ADM Investor Services Crop survey.</p>
+<p>U.S. CORN PRODUCTION (IN 000'S BUSHELS)</p>
+<p>	 LESLIE 10/1/96  USDA 9/1/96  USDA 1995</p>
+<p> NEW YORK     81,200	77,700	64,050</p>
+<p> PENN	  133,350     129,150	94,080</p>
+<p> OHIO	  297,000     297,000     375,100</p>
+<p> IND	   675,800     643,100     598,900</p>
+<p> ILL	 1,414,800   1,393,200   1,130,000</p>
+<p> MICH	  220,900     220,900     249,550</p>
+<p> WISC	  345,600     348,800     347,700</p>
+<p> MINN	  798,000     805,000     731,850</p>
+<p> IOWA	1,624,400   1,624,400   1,402,200</p>
+<p> MISSOURI    322,400     317,200     149,940</p>
+<p> N DAK	  56,000	56,000	40,290</p>
+<p> S DAK	 317,550     306,600     193,550</p>
+<p> NEB	 1,146,750   1,146,750     854,700</p>
+<p> KANSAS	343,100     340,750     244,280</p>
+<p> MARYLAND     55,800	55,800	42,000</p>
+<p> VIRGINIA     36,000	36,000	30,525</p>
+<p> N.CAROLNA    79,050	89,280	74,900</p>
+<p> S.CAROLNA    28,500	28,500	24,115</p>
+<p> GEORGIA	48,060	48,600	31,500</p>
+<p> KENTUCKY    150,000     146,400     123,120</p>
+<p> TENN	   76,160	74,800	63,720</p>
+<p> ALABAMA	20,790	21,600	16,500</p>
+<p> MISS	   56,730	56,730	26,125</p>
+<p> ARKANSAS     18,050	18,050	 9,775</p>
+<p> LOUISIANA    58,850	58,850	23,205</p>
+<p> TEXAS	 207,000     171,000     216,600</p>
+<p> COLORADO    133,480     131,600	92,130</p>
+<p> OTHERS	161,164     160,168     123,471</p>
+<p> TOTAL     8,906,484   8,803,928   7,373,876</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

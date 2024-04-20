@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43389" id="root" date="1996-09-10" xml:lang="en">
+<title>CANADA: CWB details elevator space, railcar unload at port.</title>
+<headline>CWB details elevator space, railcar unload at port.</headline>
+<dateline>WINNIPEG 1996-09-10</dateline>
+<text>
+<p>The Canadian Wheat Board on Tuesday detailed the amount of space available in primary elevators across the Prairies and the number of rail hopper cars unloaded at export positions.</p>
+<p>Primary elevator space tightened as the harvest progressed with 37 percent of space available, the CWB said.</p>
+<p>Alberta elevators had the most space available at 46 percent, Saskatchewan followed at 35 percent and Manitoba had 31 percent of space empty.</p>
+<p>Rail hopper car unloads at the West Coast totalled 2,247, below the 2,400 target.</p>
+<p>Unloads at Thunder Bay were 1,527, below the 1,990 target.</p>
+<p>Unloads at Churchill were 247, below the 300 target.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

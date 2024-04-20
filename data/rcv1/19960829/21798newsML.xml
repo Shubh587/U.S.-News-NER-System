@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21798" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Kansas school children treated in gas leak.</title>
+<headline>Kansas school children treated in gas leak.</headline>
+<dateline>LINWOOD, Kan. 1996-08-29</dateline>
+<text>
+<p>Emergency workers rushed dozens of children to hospitals Thursday after they were overcome by fumes caused by an apparent natural gas leak at their school, authorities said.</p>
+<p>Ron Cranor of the Leavenworth County Sheriff's Department said the Basehor-Linwood Middle School in northeast Kansas was evacuated after the leak. He said ambulances, helicopters and emergency workers from several counties helped take children to hospitals. Their condition was not immediately known.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LINWOOD, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

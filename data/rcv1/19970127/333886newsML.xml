@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333886" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Wells Financial Corp Q4 net rises.</title>
+<headline>Wells Financial Corp Q4 net rises.</headline>
+<dateline>WELLS, Minn. 1997-01-27</dateline>
+<text>
+<p>Three Months    Year Ended</p>
+<p>					    1996   1995    1996    1995</p>
+<p>  Total interest income	     3,793  3,569  14,669  13,489</p>
+<p>  Total interest expense	    2,085  2,072   8,146   8,165</p>
+<p>  Net interest income after</p>
+<p>  provision for loan losses	 1,663  1,452   6,343   5,158</p>
+<p>  Total non-interest income	   272    228   1,062     809</p>
+<p>  Total non-interest expense	1,067  1,064   5,293   3,855</p>
+<p>  Income before income taxes	  868    616   2,112   2,112</p>
+<p>  Income tax expense		    387    246     912     842</p>
+<p>  Net Income				481    370   1,200   1,270</p>
+<p>  EPS					0.24   0.18    0.60    0.50</p>
+<p>		    (Dollars in Thousands excpet per share data)</p>
+<p>NOTE: Net income for year ended December 31, 1996 includes a SAIF charge of $1.085 million pretax or $640,000 after tax.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277122" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: FCC approves digital TV standard.</title>
+<headline>FCC approves digital TV standard.</headline>
+<byline>Roger Fillion</byline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>Regulators this week gave final approval to a technology standard for a new generation of high-definition digital television, setting off a race between computer makers and TV manufacturers to woo viewers.</p>
+<p>The Federal Communications Commission on Tuesday approved the compromise standard hammered out last month between TV manufacturers, broadcasters and the computer industry.</p>
+<p>Digital TV offers crystal-clear pictures and CD-quality sound. It is also expected to promote a &quot;computer friendly&quot; TV system that allows viewers to watch programmes while surfing the Internet over the same &quot;smart box.&quot;</p>
+<p>The new standard &quot;hastens convergence, transporting us into a competitive world of computer-friendly television sets and broadcast-friendly computers,&quot; commissioner Susan Ness said. &quot;Our decision also provides a springboard for global leadership in high-definition digital equipment and programming.&quot;</p>
+<p>The standard, among other things, covers how voice and video material will be attached to digital signals, how the signals will be &quot;compressed&quot; for transmission, and how they will be &quot;reopened&quot; at the TV receiver.</p>
+<p>But not every detail is spelled out. Under the industry compromise, the standard does not specify the video format by which images will be put onto the screen, or &quot;scanned.&quot;</p>
+<p>Broadcasters and TV manufacturers had wanted to require a format known as &quot;interlace&quot; scanning. Computer companies argued that would stifle the convergence of TV and computer technologies. They wanted to mandate &quot;progressive&quot; scanning, which is better suited to computers, or no format at all.</p>
+<p>Progressive scanning, used by most computers, updates every line of the TV picture at each pass. Interlaced scanning, used in exisiting television sets, updates every other line.</p>
+<p>Because no scanning format was specified, the computer industry will be free to manufacture computers that use just progressive scanning. And TV manufacturers are ready to make sets that offer both interlace and progressive technology.</p>
+<p>That sets up a competition between the two industries over how consumers will want to watch TV -- over a TV set or over a computer.</p>
+<p>&quot;Ultimately, the personal computer will be the preferred communications device in the household,&quot; said Paul Misener, manager of telecommunications and computer technology policy at Intel Corp., a major computer chip maker.</p>
+<p>Not so fast, argue TV manufacturers.</p>
+<p>&quot;The computer people need to evaluate how the average consumer wants to get delivery to the home,&quot; said Lisa Fasold, a spokeswoman for the Consumer Electronics Manufacturers Association, an industry group.</p>
+<p>&quot;TV sets typically last a lot longer than computers. And they're much more simple to operate.&quot;</p>
+<p>In any event, industry officials agree that digital TV is likely to hasten the long-promised convergence of TV and computer technologies.</p>
+<p>For example, sports fans will be able to watch a baseball game and split the screen of their machine to receive up-to-the-minute scores of other games over the Internet, according to industry officials.</p>
+<p>TV manufacuters expect to begin bringing digital receivers to market in 1998. The new sets are expected to cost from $1,500 to $3,000. Prices are forecast to drop as broadcasters offer more digitally transmitted programmes, presumably boosting demand for digital TV.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

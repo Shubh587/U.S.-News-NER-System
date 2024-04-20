@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89091" id="root" date="1996-10-01" xml:lang="en">
+<title>BELGIUM: Belgium forecasts falling deficit/GDP.</title>
+<headline>Belgium forecasts falling deficit/GDP.</headline>
+<dateline>BRUSSELS 1996-10-01</dateline>
+<text>
+<p>The Belgian government said in a statement on the 1997 budget on Tuesday that, based on the budget, it forecast a ratio of the budget deficit to gross domestic product of 2.5 percent in 1998.</p>
+<p>Based on the budget a simulation applying the budget data to the medium-term forecasts by the planning bureau allowed for the following forecasts for the deficit/GDP ratio to be made as well - two percent in 1999 and 1.6 percent in the year 2000.</p>
+<p>Taking into account the measures in the 1997 budget, the ratio would be at 2.9 percent in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564745" id="root" date="1997-05-06" xml:lang="en">
+<title>SINGAPORE: IPC launches Pentium-II-based products.</title>
+<headline>IPC launches Pentium-II-based products.</headline>
+<dateline>SINGAPORE 1997-05-06</dateline>
+<text>
+<p>Singapore computer maker IPC Corp said on Tuesday it was launching a new line of desktop systems for the corporate market that incorporates Intel's new Pentium II processor.</p>
+<p>The Helios systems with the Pentium II chip was for applications that run on advanced 32-bit multi-tasking environment, it said in a statement.</p>
+<p>The system will be able to support applications previously found only in high-end workstations such as mechanical engineering, electronic authoring, software engineering and Web authoring.  </p>
+<p>Equipped with a 64-bit graphics accelerator PCI video card, the Pentium II based Helios is used for design, animation and high-end visualisation application.</p>
+<p>News reports from the United States late Monday said Intel's Pentium II and top-of-the-line Pentium Pro chips may have a floating point glitch that could cause computational errors.</p>
+<p>An Intel spokesman said the problem appears to crop up when a computer performs an obscure calculation. Intel said engineers were running tests on the chips to determine the extent of the problem but had no plans at this time to recall them.</p>
+<p>--Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

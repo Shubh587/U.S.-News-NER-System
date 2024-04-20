@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35200" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Marshall &amp; Ilsley unit completes purchase.</title>
+<headline>Marshall &amp; Ilsley unit completes purchase.</headline>
+<dateline>MILWAUKEE, Wis. 1996-09-05</dateline>
+<text>
+<p>M&amp;I Data Services, a subsidiary of Marshall &amp; Ilsley Corp, said Thursday it completed the acquisition of EastPoint Technology Inc, a software development company specializing in client/server technology. Terms were not disclosed.</p>
+<p>EastPoint, based in Bedford, N.H., has projected 1996 revenues of $5.3 million.</p>
+<p>The market EastPoint serves has an estimated potential of more than $300 million in annual revenues.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473165" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Focusing trouble hits new Hubble camera.</title>
+<headline>Focusing trouble hits new Hubble camera.</headline>
+<byline>Steven Young</byline>
+<dateline>CAPE CANAVERAL, Fla 1997-03-26</dateline>
+<text>
+<p>A senior NASA astronomer said on Wednesday he was hopeful a focusing problem with a new camera on the Hubble Space Telescope would resolve itself in time.</p>
+<p>&quot;Hubble is not in trouble,&quot; the project's chief astronomer, Ed Weiler, told Reuters in an interview. &quot;We have got four instruments up there. We are having an anomaly with one-third of one of those.&quot;</p>
+<p>The $105 million Near-Infrared Camera and Multi-Object Spectrometer, or NICMOS, installed in the telescope last month by space-walking astronauts, was suffering focusing problems and may have a shorter lifetime than expected, he said.</p>
+<p>&quot;It's an anomaly we think we are beginning to understand,&quot; Weiler said, which astronomers will either work around or that might resolve itself on its own.</p>
+<p>&quot;We think it will go away some. In the meantime we will do all or most of our science we had planned for '97 and '98.&quot;</p>
+<p>A block of super-cold frozen nitrogen, used to cool the instrument to -355 degrees Fahrenheit (-215 Celsius), was thawing faster than expected, distorting its thermos-like insulated container and ruining the focus of one of three infrared cameras.</p>
+<p>Some distortion was anticipated but it was much greater than engineers had suspected. The infrared camera was designed to accommodate the problem but it was still 7mm out of focus.</p>
+<p>&quot;Once we got into orbit, things didn't behave the way they behaved on the ground,&quot; Weiler said. &quot;We've never flown a chunk of nitrogen in space before.&quot;</p>
+<p>The nitrogen was supposed to chill the infrared cameras for at least 4-1/2 years, but if it continues to thaw at the present rate, the supply could be exhausted in half that time.</p>
+<p>Weiler said he was confident the thawing would ease over the coming months as the nitrogen boiled off. That should relieve pressure on the container, bringing the blurred camera back in focus.</p>
+<p>The affected camera takes wide-angle views of the sky and even if it could not be focused properly, much of its work could still be accomplished by montaging images from another camera.</p>
+<p>The NICMOS chief scientist, Rodger Thompson, of the University of Arizona, said the two working infrared cameras were returning excellent images.</p>
+<p>NICMOS was one of two new scientific instruments installed by the crew of the space shuttle Discovery during a $350 million orbital tune-up in February.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

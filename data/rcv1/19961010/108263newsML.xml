@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108263" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: SEC clears NASD rule on data release to public.</title>
+<headline>SEC clears NASD rule on data release to public.</headline>
+<dateline>WASHINGTON 1996-10-10</dateline>
+<text>
+<p>SEC said it approved a National Association of Securities Dealers plan to provide copies of NASD disciplinary complaints and decisions involving its member dealers to the public.</p>
+<p>The public can request the information, including pending disciplinary actions against dealers, by letter or telephone, using a toll-free number, according to NASD's plan approved by the Securities and Exchange Commission.</p>
+<p>NASD may release information about a dealer's past and present employment history; final disciplinary actions taken by federal, state or foreign securities agencies; pending disciplinary actions; and criminal indictments and convictions, the approved NASD plan says.</p>
+<p>NASD also will release information about civil judgments and arbitration decisions in securities and commodities disputes involving public customers.</p>
+<p>--Vicky Stamas, 202-898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

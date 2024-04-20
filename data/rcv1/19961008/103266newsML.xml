@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103266" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Wal-Mart September same-store sales rose.</title>
+<headline>Wal-Mart September same-store sales rose.</headline>
+<dateline>BENTONVILLE, Ark. 1996-10-08</dateline>
+<text>
+<p>Percent change</p>
+<p>		 1996	 1995	 Total     Same-Store</p>
+<p>Month	 $9,593     $8,474	 +13.2     +5.6</p>
+<p>Year-to-date$59,011    $65,953	+11.8     +4.1</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>The company reported Sam's Club sales for the five week period were $1.8 billion, a 4.9 percent increase from 1.7 billion in the year-ago period.</p>
+<p>Month is five weeks ended September 30.</p>
+<p>Full company name is Wal-Mart Stores Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BENTONVILLE, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

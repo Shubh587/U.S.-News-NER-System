@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810479" id="root" date="1997-08-19" xml:lang="en">
+<title>LEBANON: Death toll from Lebanon shelling climbs to seven.</title>
+<headline>Death toll from Lebanon shelling climbs to seven.</headline>
+<dateline>SIDON, Lebanon 1997-08-19</dateline>
+<text>
+<p>The death toll from a shelling attack on Lebanon's southern port city of Sidon climbed to seven, hospital sources said on Tuesday.</p>
+<p>Riad Firhal, a two-month-old boy hit by shrapnel from one of the 16 shells that landed in Sidon and its suburbs, died overnight, the sources said.</p>
+<p>The sources said the boy's mother was also killed by the shelling on Monday.</p>
+<p>Forces under the command of pro-Israeli militia leader Antoine Lahd fired the shells at Sidon on Monday. The assault wounded 36 civilians.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIDON, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

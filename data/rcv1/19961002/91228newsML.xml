@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91228" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Chicago exchanges' holiday hours.</title>
+<headline>Chicago exchanges' holiday hours.</headline>
+<dateline>CHICAGO 1996-10-02</dateline>
+<text>
+<p>Chicago exchanges said they would observe the following schedules for the Columbus Day holiday on Monday, October 14.</p>
+<p>At the Chicago Mercantile Exchange (CME), all contracts close at noon on Monday except Goldman Sachs Commodity Index and equity index products, which will trade their normal hours. GLOBEX trading will open at 1730 CDT/2230 GMT.</p>
+<p>All CME contracts will trade normal hours on Friday.</p>
+<p>At the Chicago Board of Trade (CBOT) on Monday, trading in financial and insurance products will be closed, but agricultural and metals contracts will trade normal hours.  </p>
+<p>The afternoon Project A session will be closed, but overnight Project A and the evening pit trading will be open.</p>
+<p>On Friday, CBOT financial and insurance contracts will close early at 1210 CDT/1710 GMT, while agricultural and metals contracts will trade normal hours.</p>
+<p>On Sunday, CBOT evening pit trading will be closed. Overnight Project A session will be open for agricultural products but closed for financial products.</p>
+<p>At the Chicago Board Options Exchange (CBOE), trading will observe normal hours on Monday except for interest-rate options, which will be closed.  </p>
+<p>On Friday, CBOE contracts will trade normal hours except interest-rate options, which will finish early at 1200 CDT/1700 GMT.</p>
+<p>-- Chicago Derivatives Desk (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

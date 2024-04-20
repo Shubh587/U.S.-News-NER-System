@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="428786" id="root" date="1997-03-08" xml:lang="en">
+<title>ITALY: Italian boat, Panama ship collide north of Tunisia.</title>
+<headline>Italian boat, Panama ship collide north of Tunisia.</headline>
+<dateline>ROME 1997-03-08</dateline>
+<text>
+<p>An Italian fishing boat collided with a Panamanian tanker in international waters north of Tunisia on Saturday, Italian coastguards said.</p>
+<p>They named the Italian boat as &quot;Beppe Cardella&quot; and the Panamanian ship as &quot;Sea Wind&quot;.</p>
+<p>The Italian craft was reported to have suffered structural damage in the collision, which happened late on Friday, but coastguards said there were no injuries.</p>
+<p>Lloyds Casualty Reporting Service said the Sea Wind did not stop after the collision and proceeded in a north-westerly direction. Italian coastguards said an investigation was being carried out into the incident.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

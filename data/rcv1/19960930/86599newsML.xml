@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86599" id="root" date="1996-09-30" xml:lang="en">
+<title>JAPAN: Nippon Steel says to shut down hot-rolling line.</title>
+<headline>Nippon Steel says to shut down hot-rolling line.</headline>
+<dateline>TOKYO 1996-09-30</dateline>
+<text>
+<p>Nippon Steel Corp said on Monday that the hot-rolling line at its Oita plant, in western Japan, will likely be shut down for the next two months as a result of a fire there early last week.</p>
+<p>The company said it would be able to continue to supply hot-rolled steel sheets and coils to its customers from other plants.</p>
+<p>However, the company said it had also asked other steel mills to help supply five tonnes of steel products to meet the immediate needs of its customers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

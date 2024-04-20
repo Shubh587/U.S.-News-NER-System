@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82232" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Marriott International Inc Q3 summary.</title>
+<headline>Marriott International Inc Q3 summary.</headline>
+<dateline>WASHINGTON 1996-09-26</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr diluted		$0.43		    $0.35</p>
+<p> Net			 58,000		   46,000</p>
+<p> Revs		   2,210,000		1,926,000</p>
+<p> Avg shrs diluted     140,200		  132,300</p>
+<p>	   36 weeks</p>
+<p> Shr diluted		$1.44		    $1.19</p>
+<p> Net			196,000		  157,000</p>
+<p> Revs		   6,725,000		6,051,000</p>
+<p> Avg shrs diluted     138,600		  132,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Period ended Sept. 6 vs Sept. 8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

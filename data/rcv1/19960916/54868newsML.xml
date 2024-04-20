@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54868" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Pfizer designs molecule against depression.</title>
+<headline>Pfizer designs molecule against depression.</headline>
+<dateline>GROTON, Conn 1996-09-16</dateline>
+<text>
+<p>Pfizer Inc said on Monday its scientists had designed a molecule that could eventually be used to treat people suffering from depression or anxiety.</p>
+<p>The company said scientists at its Pfizer Central Research operation had designed a molecule that blocks the cascade of events in the brain that occur in response to stress.</p>
+<p>It said the molecule could eventually be administered orally to patients suffering from anxiety or other forms of stress.</p>
+<p>&quot;This is a pathfinding scientific discovery. It will be some years before it is determined whether it will yield a new drug that is available to patients,&quot; it said.</p>
+<p>The company said the compound arrests the action of a neurotransmitter called corticotropin releasing factor (CRF), which is believed to be an important chemical messenger for transmitting the stress response in the brain.</p>
+<p>Excessive levels of that chemical signal can produce a host of central nervous system disorders, such as depression, anxiety, anorexia and post-traumatic stress disorder, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GROTON, Conn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

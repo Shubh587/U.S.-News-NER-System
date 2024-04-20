@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="467267" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: N.J. Governor Whitman signs final welfare reforms.</title>
+<headline>N.J. Governor Whitman signs final welfare reforms.</headline>
+<dateline>TRENTON, N.J. 1997-03-24</dateline>
+<text>
+<p>- New Jersey Governor Christine Todd Whitman signed the final pieces of her welfare reform package into law Monday.</p>
+<p>&quot;The era of responsibility has begun,&quot; Whitman said.</p>
+<p>The legislation imposes a five-year lifetime limit on receiving welfare benefits and a work requirement within two years for most parents of young children.</p>
+<p>The plan, called Work First New Jersey, also provides for child care and continued Medicaid eligibility for a two-year transition into a paid job.</p>
+<p>The New Jersey reforms were written to conform with federal welfare laws -- with one major exception: Legal immigrants will be eligible for state-funded programs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRENTON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

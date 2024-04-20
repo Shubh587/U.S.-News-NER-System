@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710731" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Bell Atlantic, MCI in data pact.</title>
+<headline>Bell Atlantic, MCI in data pact.</headline>
+<dateline>ARLINGTON, Va. 1997-07-07</dateline>
+<text>
+<p>Bell Atlantic Corp. said Monday it has an agreement with MCI Communications Corp. enabling the Baby Bell to provide long-distance data transmission services throughout its six-state service area.</p>
+<p>MCI is the largest long-distance carrier to date that Bell Atlantic has forged such an agreement with.</p>
+<p>Financial terms were not disclosed.</p>
+<p>Bell Atlantic said the data transmission agreement will allow it to market the non-voice service to its larger business customers.</p>
+<p>The agreement links the two companies' frame relay networks, the company said. Such networks facilitate the exchange of packets of data over telephone lines.</p>
+<p>At present, Bell Atlantic may offer such services only within each of its 19 local phone service areas. For instance, while it now may provide the service within the Philadephia and Washington areas, it could not provide the service between the two cities.</p>
+<p>Bell Atlantic's stock rose 56 cents to $76.125 on the New York Stock Exchange at midafternoon. MCI gained 75 cents to $43.125 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

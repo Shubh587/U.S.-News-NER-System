@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165245" id="root" date="1996-11-04" xml:lang="en">
+<title>AUSTRIA: Vienna bourse suspends all share trading.</title>
+<headline>Vienna bourse suspends all share trading.</headline>
+<dateline>VIENNA 1996-11-04</dateline>
+<text>
+<p>The Vienna bourse said on Monday it had suspended all share trading until further notice because of technical problems with its electronic EQOS trading system.  </p>
+<p>Vienna share prices displayed on Reuters terminals were incorrect, the bourse said.</p>
+<p>The exchange introduced its new electronic quote and order driven system (EQOS) in July, aimed at replacing floor trading by next year, but the system has been dogged by problems from the start.</p>
+<p>-- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

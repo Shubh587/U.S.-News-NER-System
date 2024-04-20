@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550304" id="root" date="1997-04-30" xml:lang="en">
+<title>MEXICO: Mexico's Pemex reports Q1 expenditures.</title>
+<headline>Mexico's Pemex reports Q1 expenditures.</headline>
+<dateline>MEXICO CITY 1997-04-30</dateline>
+<text>
+<p>Mexico's oil and gas monopoly Petroleos Mexicanos (Pemex) reported its capital and exploratory expenditures exercised in the first quarter. Figures in millions of dollars.</p>
+<p>    Item	   Q1 1996 Expenses    Q1 1997 Expenses</p>
+<p>Total			     473		     561</p>
+<p>Exploration &amp; Production    296		     394</p>
+<p>Refining &amp; Marketing	  156		     107</p>
+<p>Natural Gas, NGL		 11			43</p>
+<p>Chemicals			   5			13</p>
+<p>Other				 5			 3</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728 7903)).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

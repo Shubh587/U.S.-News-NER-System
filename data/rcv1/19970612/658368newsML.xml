@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="658368" id="root" date="1997-06-12" xml:lang="en">
+<title>SINGAPORE: Non delivery forwards market gathers pace in Asia.</title>
+<headline>Non delivery forwards market gathers pace in Asia.</headline>
+<byline>Phil Smith</byline>
+<dateline>SINGAPORE 1997-06-10</dateline>
+<text>
+<p>Asian banks in major financial centres like Singapore have begun to offer Non Delivery Forwards (NDFs) to allow customers who are restricted by highly regulated forward markets to meet their hedging requirements more easily.</p>
+<p>The market in NDFs has been developing for more than a year, but analysts say it has recently started to grow more quickly with the most liquid currencies being the Taiwan dollar, Philippine peso and South Korean won.  </p>
+<p>But analysts said this week the yuan and the Indian rupee were both developing fast and the Chinese currency in particular was attracting much attention.</p>
+<p>&quot;It's still very much an informal market but it is taking shape quite quickly and new standards and market practices are being formed each day,&quot; said Ronny Tan, Senior Manager and Regional Treasury Business Manager at ABN-Amro in Singapore.</p>
+<p>Analysts said customers use NDFs because even if forward hedging is available it may also be highly regulated and/or available only to residents. Potential problems with unreliable broker payments systems may also prompt customers to use NDFs.  </p>
+<p>Money-center banks are the market-makers with prices quoted through the broker system. Main trading centres in Asia are Hong Kong and Singapore but NDFs are also traded in London for European and U.S. clients, analysts said.</p>
+<p>So how does a non delivery forward work and how can it be used to hedge against currency volatility?</p>
+<p>NDFs are a transaction where a forward price is agreed between a customer and a bank but settlement on the value date is undertaken entirely in U.S. dollars.  </p>
+<p>For example, a Hong Kong company with a subsidiary in China is expecting 50 million yuan in three months time and wants to protect against a yuan depreciation.</p>
+<p>However, there is no forward market, not even a highly regulated one.</p>
+<p>So the company decides to use NDFs to protect itself and agrees with a bank in Hong Kong to buy US$ (selling 50 million yuan) three months forward.</p>
+<p>If we assume for the sake of this example that the forward price is 8.5 yuan per U.S. dollar, the company would hold a three month NDF with a notional value of US$5,882,353.  </p>
+<p>After three months two things are possible --</p>
+<p>1) The spot US$/yuan rate rises above the forward price to 8.6, in which case the parent company in Hong Kong will receive U.S. dollars from the bank.</p>
+<p>This would be the equivalent of buying the notional US$ amount of US$5,882,353 from the bank at 8.5 and selling it back to the bank at the prevailing spot price of 8.6 or US$5,813,953.</p>
+<p>Convert the yuan back into US$ and you have a profit of US$68,400 which is payable by the bank.</p>
+<p>Or...US$5,882,353*8.6 = 50,588,236 yuan.</p>
+<p>A profit on the original 50 million yuan of 588,236.  </p>
+<p>Converted to US$ at 8.6 = US$68,400.</p>
+<p>2) The spot US$/yuan rate falls below the contract price to 8.3 in which case the company pays the bank, the opposite of the above example.</p>
+<p>US$5,882,353*8.3 = 48,823,530 yuan.</p>
+<p>A loss on the original 50 million yuan of 1,176,470.</p>
+<p>Converted to US$ at 8.3 = US$141,743.</p>
+<p>But in both cases the net position of the company is nil as whatever U.S. dollar gain or loss made in Hong Kong will be offset by a compensating exchange loss or gain by the subsidiary in China on the 50 million yuan which is received.  </p>
+<p>-- Singapore Newsroom (65-870-3080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

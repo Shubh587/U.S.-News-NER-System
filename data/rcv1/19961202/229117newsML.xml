@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229117" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Cascade targets Cisco with switch.</title>
+<headline>Cascade targets Cisco with switch.</headline>
+<dateline>WESTFORD, Mass. 1996-12-02</dateline>
+<text>
+<p>Taking aim at Cisco Systems Inc's core router business, Cascade Communications Corp unveiled Monday a new Internet Protocol-based switching system to handle carrier-class telecommunications traffic.  </p>
+<p>Cascade also said it was embracing the standards of competing network equipment suppliers such as Cisco, Ipsilon Networks Inc and others to allow customers to use its IP Navigator equipment seamlessly with products from its rivals.</p>
+<p>Cisco, for example, announced two months ago its own Tag Distribution Protocol (TDP) protocol for equipment capable of handling Internet traffic over Wide Area Networks (WANs).</p>
+<p>&quot;This is a real in-your-face strategy against Cisco,&quot; Forrester Research Internet analyst Paul Callahan said of how the Cascade strategy embraces Cisco router equipment, while at the same time potentially reducing demand for such routers.  </p>
+<p>&quot;If Cascade pulls this off, you are going to see fewer Cisco routers required,&quot; Callahan said, referring to the demand for router equipment in wide area networks among Internet Service Providers and large telco carriers.</p>
+<p>Lori Drehers, the senior product marketing manager for IP products, one of Cascade five product groups, said the new product eliminates dependence on so-called &quot;route servers,&quot; an existing choke point on data networks that has been blamed as a key cause of congestion on the Internet.  </p>
+<p>Drehers said by distributing IP capabilities throughout its switches, Cascade has eliminated a weakness of existing network equipment, allowing ISPs to continue to &quot;scale,&quot; or build out, networks to handle greater traffic loads.</p>
+<p>By embracing the standards of rival equipment makers, she said the new products assure its traditional base of telephone carriers and Internet Service Providers that they will not be locked into using equipment from a single provider.</p>
+<p>&quot;Service providers don't have to address just one small portion of the market&quot; served by equipment from one or another provider,&quot; Drehers said.  </p>
+<p>&quot;You can put a Cisco router in the network if you want, but you don't need to put multiple large route servers in the network if you don't choose to,&quot; she said. Cisco currently dominates the market for route servers.</p>
+<p>In a statement, Cascade said its IP Navigator is a software-only upgrade that extends across the entire Cascade product line.</p>
+<p>The product is designed to recognize the products from a variety of leading vendors, allowing Cascade customers -- network service providers -- to in turn offer their own customers end-to-end Quality of Service guarantees.  </p>
+<p>As a result, network service providers can meet specific service requirements and can offer different levels of service to their customers.  The IP Navigator product is capable of directing traffic over up to 250,000 routes, compared with the 42,000 routes over which Internet communications now travel.</p>
+<p>Cascade said its IP Navigator product builds on its core frame relay and Asynchronous Transfer Mode (ATM) technologies to meet the rigorous capacity and reliability requirements of carrier-class Internet networks.</p>
+<p>Cascade said IP Navigator will be available for testing this month and it expects the first customer shipment to occur in the first half of 1997. A software-only upgrade is priced at $15,000 per switch.</p>
+<p>&quot;Cascade has taken a big move by combining switching and routing in one seamless product offering,&quot; Callahan said.</p>
+<p>&quot;Everyone is trying to get in each other's shorts,&quot; he said of the willingness of rival equipment makers to adopt each other's product standards even as they continue to compete.</p>
+<p>By mid-morning, Cascade shares had gained 2-1/2 points to 71-5/8.  Cisco was up 1/4 to 68-1/8.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

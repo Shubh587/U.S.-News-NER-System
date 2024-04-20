@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50303" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Rochester Ginna, N.Y. nuke hits full output.</title>
+<headline>Rochester Ginna, N.Y. nuke hits full output.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>Rochester Gas and Electric Corp's 470 megawatt Ginna nuclear power plant was producing at 100 percent as of early Thursday, returning from an outage which began late last week, according to the Nuclear Regulatory Commission (NRC).</p>
+<p>The plant, in Ontario, N.Y., was taken off line last Friday for repairs.</p>
+<p>It was producing at 55 percent of capacity and increasing power as of early Wednesday.</p>
+<p>Ginna typically produces about half of the utility's power output.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

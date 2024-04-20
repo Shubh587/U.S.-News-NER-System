@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125690" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: BASEBALL-LEAGUE CHAMPIONSHIP SERIES RESULT.</title>
+<headline>BASEBALL-LEAGUE CHAMPIONSHIP SERIES RESULT.</headline>
+<dateline>ATLANTA 1996-10-17</dateline>
+<text>
+<p>Result of Major League Baseball</p>
+<p>playoff game on Thursday (home team in CAPS):</p>
+<p>National League Championship Series</p>
+<p> ATLANTA	  15    St Louis	 0</p>
+<p>(Atlanta wins best-of-seven-games series 4-3)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

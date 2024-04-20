@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185517" id="root" date="1996-11-13" xml:lang="en">
+<title>GREECE: BASKETBALL-EUROLEAGUE RESULTS.</title>
+<headline>BASKETBALL-EUROLEAGUE RESULTS.</headline>
+<dateline>ATHENS 1996-11-13</dateline>
+<text>
+<p>Results of men's EuroLeague</p>
+<p>basketball matches on Wednesday:</p>
+<p>Group C</p>
+<p>In Athens: Panathinaikos (Greece) 79 Barcelona (Spain) 75</p>
+<p>(halftime 38-40)</p>
+<p>Leading scorers:</p>
+<p>Panathinaikos - Nikos Economou 22, Michael Koch 17, Byron</p>
+<p>Dinkins 16</p>
+<p>Barcelona - Arturas Karnisovas 17, Javier Fernandez 11,</p>
+<p>Roger Estejer 11</p>
+<p>Group D</p>
+<p>In Seville: Sevilla (Spain) 61 Pau Orthez (France) 69</p>
+<p>(halftime 37-35)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

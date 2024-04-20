@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45420" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Drexler receives 50,000-card order.</title>
+<headline>Drexler receives 50,000-card order.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-09-11</dateline>
+<text>
+<p>Drexler Technology Corp said Wednesday a Philippine government agency has order 50,000 of its LaserCard opticalmemory cards.</p>
+<p>Financial terms were undisclosed, but the cards are scheduled to ship over the next 60 days.</p>
+<p>The laser recordable, data-storage cards will be issued to Filipino citizens for use as duty-free shopping cards.</p>
+<p>The Drexler card has been issued to about 130,000 Filipinos over the past nine months for use at a special economic zone, replacing paper records for admission to the zone's duty-free superstores and for tracking purchase limits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

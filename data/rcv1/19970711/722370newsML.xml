@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="722370" id="root" date="1997-07-11" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Following were the most active issues in Nasdaq trading Friday.</p>
+<p>  Mci Comms Cp	34,108,600	 35	   off    7 3/8</p>
+<p>  At Home Cp A	12,634,000	 17	   up     6 1/2</p>
+<p>  Atmel Corp	  11,624,700	 32 5/8     up     4 1/8</p>
+<p>  Intel Corp	  11,076,700     153 13/16    up    3 11/16</p>
+<p>  Dell Computer     10,232,100	 138	  up     9 3/8</p>
+<p>  Amer Intl Pet     9,313,600	 2	    up     1 1/16</p>
+<p>  Three Com Cp	7,583,200	 54	   up     7/16</p>
+<p>  Apple Comp Inc    6,560,000	 15 3/16    up     1 15/16</p>
+<p>  Worldcom Inc	6,263,600	 32 7/8     off    5/16</p>
+<p>  Cisco Systems     4,999,900	 75 1/2     off    13/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

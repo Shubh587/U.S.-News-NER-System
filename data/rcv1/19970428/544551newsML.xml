@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544551" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: VLSI Technology unveils chipmaking roadmap.</title>
+<headline>VLSI Technology unveils chipmaking roadmap.</headline>
+<dateline>SAN JOSE, Calif. 1997-04-28</dateline>
+<text>
+<p>VLSI Technology Inc. on Monday unveiled its semiconductor product plans for the next few years based on advanced chipmaking technologies.</p>
+<p>VLSI -- a maker of custom chips for consumer electronics, telecommunication equipment and computers -- said it will use microscopic transistors just 0.25 and 0.20 micron wide.</p>
+<p>With transistors that small, VLSI can pack more computing horsepower on a single chip, which speeds up calculations and reduces power consumption, said Jeff Hendy, VLSI vice president of global market services.</p>
+<p>Currently, most of the industry makes transistors at 0.5 or 0.35 microns.</p>
+<p>The new chips from VLSI, based in San Jose, Calif., will appear in devices such as cellular phones, video game consoles, computer networking gear and consumer electronics, Hendy said.</p>
+<p>Production of the new chips will begin in the fourth quarter, the company said.</p>
+<p>((-- Kourosh Karimkhany, in San Francisco, 415 269 6931))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

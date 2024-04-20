@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163211" id="root" date="1996-11-04" xml:lang="en">
+<title>CANADA: Canadian grain body estimates barley quality.</title>
+<headline>Canadian grain body estimates barley quality.</headline>
+<dateline>WINNIPEG 1996-11-04</dateline>
+<text>
+<p>The Canadian Grain Commission on Monday released preliminary estimates of barley quality.</p>
+<p>PROVINCE  Number of  Protein Content (PCT)</p>
+<p>	    Samples    Mean Avg  Min. Max.</p>
+<p>		 Extra 1 Canada Western</p>
+<p>Man.	   85	11.8     10.0  13.6</p>
+<p>Sask.	 196	11.3	8.6  14.5</p>
+<p>Alta.	 167	11.9	8.3  16.1</p>
+<p>Prairies    448	11.6	8.3  16.1</p>
+<p>		 No1 CW</p>
+<p>Man.	   25	11.9	9.8  14.4</p>
+<p>Sask.	  30	11.7	9.6  14.5</p>
+<p>Alta.	  36	11.8	9.5  16.0</p>
+<p>Prairies     91	11.8	9.5  16.0</p>
+<p>		 No2 CW</p>
+<p>Man.	    3	12.0     10.7  14.1</p>
+<p>Sask.	   8	11.7     10.8  12.8</p>
+<p>Alta.	  11	12.6     11.1  15.2</p>
+<p>Prairies     22	12.2     10.7  15.2</p>
+<p>		 ALL GRADES</p>
+<p>Man.	  113	11.8	9.8  14.4</p>
+<p>Sask.	 234	11.3	8.6  14.5</p>
+<p>Alta.	 214	11.9	8.3  16.1</p>
+<p>Prairies    561	11.7	8.3  16.1</p>
+<p>N.B.: final quality estimates may be issued at the end of November or in early December, CGC spokesman Paul Graham said.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127564" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. rice weekly export sales highlights--USDA.</title>
+<headline>U.S. rice weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1996-10-18</dateline>
+<text>
+<p>U.S. rice major sales activity in the week ended Oct 10 reported by exporters for the following purchasing countries, in tonnes:</p>
+<p>Net Sales:	1996/97		 1997/98</p>
+<p> Mexico	   10,600-A		 Nil</p>
+<p> Netherlands     3,800</p>
+<p> El Salvador     3,800-B</p>
+<p> South Africa    3,300</p>
+<p> Germany	   2,400</p>
+<p>A-includes 9,800 rough rice.</p>
+<p>B- all rough, switched from Trinidad.</p>
+<p>Exports of 32,700 tonnes were 50 percent below the previous week and 38 percent under the four-week average.</p>
+<p>Primary export destinations: Mexico (16,600), Netherlands (5,900, Saudi Arabia (3,300) and Trinidad (2,500)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

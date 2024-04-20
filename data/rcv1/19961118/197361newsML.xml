@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197361" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Mobil accepts bill payments over Internet.</title>
+<headline>Mobil accepts bill payments over Internet.</headline>
+<dateline>LOUISVILLE, Ky. 1996-11-18</dateline>
+<text>
+<p>Mobil Corp. credit card holders will soon be able to pay their bills over the Internet as well as by mail, the oil company and National Processing Inc. announced Monday.</p>
+<p>&quot;It is simple and safe and there is no charge for using it,&quot; said Mobil credit card executive Thomas Randolph.</p>
+<p>National Processing, which handles mailed bills for Mobil, is using its new Virtual PAY process for Internet-based payments, the Louisville-based company said in a joint statement with Mobil.</p>
+<p>Mobil customers who want to pay via the Net will use Mobil's Web site (http://www.mobil.com). Payment information is sent in code in such a way that it cannot be read, received or intercepted by anyone other than National Processing, the companies said.</p>
+<p>Security is a major concern in the growing world of Internet commerce.</p>
+<p>Mobil credit card holders will learn when they can begin making payments over the Net from their monthly bill.</p>
+<p>Mobil already accepts credit card applications via its Web site.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

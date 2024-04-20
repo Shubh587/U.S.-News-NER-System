@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272960" id="root" date="1996-12-23" xml:lang="en">
+<title>COLOMBIA: Colombian stocks end firmer.</title>
+<headline>Colombian stocks end firmer.</headline>
+<dateline>BOGOTA 1996-12-23</dateline>
+<text>
+<p>Colombian share price indexes rose, led by banks, cement and brewing, in heavy trade ahead of the two-day Christmas break.</p>
+<p>Bogota's IBB index edged up 0.08 percent to 842.05 amid a 2 billion peso volume while Medellin's IBOMED general price index gained 0.39 percent closing the session at 13,319.51 amid a higher-than-average 22 billion peso volume.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

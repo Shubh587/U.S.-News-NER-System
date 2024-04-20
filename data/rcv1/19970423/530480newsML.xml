@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530480" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Merck says working on new anti-AIDS therapy.</title>
+<headline>Merck says working on new anti-AIDS therapy.</headline>
+<dateline>BRANCHBURG, N.J. 1997-04-23</dateline>
+<text>
+<p>Merck and Co Inc said on Wednesday researchers were working on a new combination therapy to fight HIV, the virus that causes AIDS.</p>
+<p>The new treatment combines Merck's Crixivan, a protease inhibitor, and a compond known as DMP-266, being developed by a DuPont Co -Merck joint venture, Merck researchers told shareholders at the company's annual meeting.</p>
+<p>DMP-266 is non-nucleoside reverse transcriptase inhibitor.</p>
+<p>Edward Scolnick, president of Merck Research Laboratories, said the new combination is &quot;what we believe is a new regimen for treating HIV.&quot;  </p>
+<p>In preliminary studies, the new dual therapy had shown to be more effective than triple therapies using a protease inhibitor in combination with two older-line anti-HIV drugs, he said.</p>
+<p>The triple therapies have been shown effective in sharply reducing the level of HIV in the bloodstream.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRANCHBURG, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

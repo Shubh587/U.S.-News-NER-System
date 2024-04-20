@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231950" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Enron closes financing for Sardinia plant.</title>
+<headline>Enron closes financing for Sardinia plant.</headline>
+<dateline>HOUSTON 1996-12-03</dateline>
+<text>
+<p>Enron Corp said Tuesday it has achieved financial close on a $1.35 billion power project in Italy which is expected to be completed in late 1999.</p>
+<p>Enron owns a 45 percent interest in the project and 55 percent is owned by Saras SpA Raffinerie Sarde, which is 15 percent owned by Agip SpA.</p>
+<p>The 551 megawatt, combined-cycle power project will employ proven oil gasification technology and will be located within the Saras refinery on the island of Sardinia. Saras will provide fuel for the plant in the form of process residues, which will be converted into synthesis gas.</p>
+<p>The gas will fuel three GE/Nuovo Pignone 9E gas turbines in combined cycle configuration.</p>
+<p>Electricity from the plant will be sold to Ente Nazionale per l'Energia Elettrica SpA, the Italian state owned utility, through a 20-year power purchase agreement.</p>
+<p>The power project is being underwritten by a group of international banks.  These banks are underwriting some $651 million (990.0 billion Lire) of funding to the project and about $493 million (750 billion Lire) of guarantees on behalf of the European Investment Bank, which also is providing funding to the project. -- Jim Brumm 212-859-1710.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

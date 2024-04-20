@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142584" id="root" date="1996-10-25" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION SUMMARIES.</headline>
+<dateline>BONN 1996-10-25</dateline>
+<text>
+<p>German first division summaries on Friday:</p>
+<p>Hansa Rostock 3 (Beinlich 32, Lange 35, Baumgart 38) St Pauli 1</p>
+<p>(Pisarev 59). Halftime 3-0. Attendance 20,500</p>
+<p>Werder Bremen 1 (Herzog 32 - penalty) Bayer Leverkusen 1</p>
+<p>(Feldhoff 70). 1-0. 31,115.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

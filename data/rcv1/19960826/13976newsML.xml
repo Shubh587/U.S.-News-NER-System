@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13976" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: EnergyNorth unit in Vermont propane venture.</title>
+<headline>EnergyNorth unit in Vermont propane venture.</headline>
+<dateline>MANCHESTER, N.H. 1996-08-26</dateline>
+<text>
+<p>EnergyNorth Propane Inc, a subsidiary of EnergyNorth Inc and Northern New England Gas Corp, said Monday it agreed to start a retail propane gas company in Vermont.</p>
+<p>The new venture will serve customers in northwest Vermont under the name VGS Propane LLC.</p>
+<p>EnergyNorth Propane, a public utility holding company, serves about 12,000 customers in southern and central New Hampshire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

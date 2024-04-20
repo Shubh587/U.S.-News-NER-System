@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246319" id="root" date="1996-12-10" xml:lang="en">
+<title>HONG KONG: HK Stock Exchange may suspend basket warrants trade. [CORRECTED 03:00 GMT]</title>
+<headline>HK Stock Exchange may suspend basket warrants trade. [CORRECTED 03:00 GMT]</headline>
+<dateline>HONG KONG 1996-12-10</dateline>
+<text>
+<p>The Hong Kong Stock Exchange will suspend trading in a covered warrant issued on a basket of shares, if and when one of the underlying shares is suspended from trading (Corrects to clarify that warrant trade suspension is conditional on suspension of underlying share.)</p>
+<p>The suspension had to be made because the underlying securities represented more than 30 percent of the total value of all securities comprised in the basket, it said in a statement.</p>
+<p>Unlike normal warrants which covers one stock, basket warrants comprise more than one stock. Basket warrants is a type of warrant issued by merchant banks to cover a few stocks which have either the same nature of business or concepts, such as H-shares concept or red-chips concept.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

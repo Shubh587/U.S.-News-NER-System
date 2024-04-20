@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632484" id="root" date="1997-06-02" xml:lang="en">
+<title>ALGERIA: Another blast rocks Algerian capital.</title>
+<headline>Another blast rocks Algerian capital.</headline>
+<dateline>ALGIERS 1997-06-02</dateline>
+<text>
+<p>A huge blast rocked the Algerian capital early on Monday, just hours after two bombs killed up to 11 people and wounded 77.</p>
+<p>The blast at about 8.30 a.m. (730 GMT) was heard by foreign journalists staying at the Aurassi Hotel on the heights of the capital. Thursday's parliamentary election is meant to end five years of violence. There was no immediate indication what caused the blast.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALGIERS"/>
+<dc element="dc.creator.location.country.name" value="ALGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

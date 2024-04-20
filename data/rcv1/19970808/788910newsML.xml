@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788910" id="root" date="1997-08-08" xml:lang="en">
+<title>BELGIUM: Belgian airshow crash claims tenth victim.</title>
+<headline>Belgian airshow crash claims tenth victim.</headline>
+<dateline>BRUSSELS 1997-08-08</dateline>
+<text>
+<p>A tenth person has died from injuries sustained when a plane performing aerobatics crashed into the crowd at an airshow in Ostend last month, BRTN radio reported on Friday.</p>
+<p>The middle-aged man from Bruges was being treated for his injuries at Ghent University Hospital.</p>
+<p>Eight people were killed instantly when the plane piloted by Captain Amr Hani Bilal of Jordan's Royal Air Force crashed on July 26. A ninth victim died in hospital a day later.</p>
+<p>Investigators are still trying to establish the cause of the crash.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

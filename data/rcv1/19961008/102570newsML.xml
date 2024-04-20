@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102570" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: U.S. Weekly Gulf Coast Ocean Grain Vessels - USDA.</title>
+<headline>U.S. Weekly Gulf Coast Ocean Grain Vessels - USDA.</headline>
+<text>
+<p>GULF COAST OCEAN GRAIN VESSELS</p>
+<p>    1996				     1995</p>
+<p>		  LOADED   DUE NEXT		  LOADED   DUE NEXT</p>
+<p>    IN PORT   7 DAYS    10 DAYS    IN PORT   7 DAYS    10 DAYS</p>
+<p>Sept 5   34	 38	42	     21	  47	  61</p>
+<p>Sept12   28	 36	49	     29	  55	  76</p>
+<p>Sept19   39	 32	55	     38	  50	  77</p>
+<p>Sept26   40	 43	50	     39	  57	  79</p>
+<p>Oct  3   35	 39	52	     33	  48	  61</p>
+<p>* Revised</p>
+<p>Source: USDA, AMS Transportation and Marketing Division</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

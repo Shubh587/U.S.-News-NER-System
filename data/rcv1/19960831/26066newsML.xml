@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26066" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: Commission mulls airline anti-bomb plan.</title>
+<headline>Commission mulls airline anti-bomb plan.</headline>
+<dateline>WASHINGTON 1996-08-31</dateline>
+<text>
+<p>A presidential commission on aviation security is considering plans that would require U.S. airlines to scrutinise all passengers at U.S. airports using massive computer files, the Washington Post reported on Saturday.</p>
+<p>If the plan is enacted, the federal government would require creation of a computer profiling system that would examine passengers' bill-paying records, flying habits and other data to identify potential terrorists and other suspicious individuals, the paper said.</p>
+<p>The Post quoted senior officials involved in the deliberations as saying a plan combining computerized profiling and sophisticated explosives detection equipment was the chief option being presented by federal agencies and the White House staff.</p>
+<p>However numerous legal issues still need to be resolved, including the issue of whether airlines would be given access to information from government computer systems like those containing criminal records.</p>
+<p>The commission was created by President Bill Clinton after the suspicious July 17 explosion of Trans World Airlines flight 800, which killed 230 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

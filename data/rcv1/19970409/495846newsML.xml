@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="495846" id="root" date="1997-04-09" xml:lang="en">
+<title>USA: US Treasury clarifies settlement on indexed notes.</title>
+<headline>US Treasury clarifies settlement on indexed notes.</headline>
+<dateline>WASHINGTON 1997-04-09</dateline>
+<text>
+<p>The Treasury Department on Wednesday issued a calculation for the settlement amounts that investors need to pay for the 9-3/4-year inflation-indexed notes that were auctioned on Tuesday.</p>
+<p>The $8 billion of notes are to be issued on April 15 and mature on Jan 15, 2007.</p>
+<p>The calculation published by Treasury is based on the announced adjusted price per 100 of 98.307 and the adjusted accrued interest per thousand of 8.43846.</p>
+<p>Thus, an investor buying a $1,000 face value note would pay the adjusted price of $983.07 plus accrued interest of $8.43846 for a total of $991.51 that must be presented at settlement on April 15 in order to receive the note.</p>
+<p>The inflation-indexed notes auctioned on Tuesday were a reopening of the 10-year notes sold late in January. Since they carry the same Jan 15 issue date as the first issue a buyer must pay some accrued interest on the second issue.</p>
+<p>The notes auctioned on Tuesday carry a coupon rate of 3-3/8 percent. Their principal value is adjusted daily based on changes in the Consumer Price Index in order to protect buyers against having the principal eaten away by inflation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

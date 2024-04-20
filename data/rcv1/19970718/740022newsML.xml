@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740022" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: Atlantic Tropical Depression 5 update -- NWS.</title>
+<headline>Atlantic Tropical Depression 5 update -- NWS.</headline>
+<dateline>NEW YORK 1997-07-18</dateline>
+<text>
+<p>The following update on Tropical Depression 5 (to be called Erika if upgraded to a tropical storm) issued by the National Weather Service (NWS) in Miami, Florida, using observations at 0500 EDT/0900 GMT:</p>
+<p>Position:  Lat.  13.7 degrees North</p>
+<p>	     Long. 56.9 degrees West</p>
+<p>	     (270 miles east of Windward Islands of the Lesser</p>
+<p>	     Antilles)</p>
+<p>Track:  West-Northwest</p>
+<p>Speed:  14 mph</p>
+<p>Strength:  35 mph maximum sustained wind</p>
+<p>Comments: The center of the storm is poorly organized, with little change in its strength or path expected over the next 24 hours.</p>
+<p>A tropical depression is upgraded to a tropical storm when its maximum sustained winds reach at least 39 mph.</p>
+<p>((--New York Power Desk + 212 859 1621))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

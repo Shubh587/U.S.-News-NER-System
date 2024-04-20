@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554577" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Train carrying caustic acid derails near Baltimore.</title>
+<headline>Train carrying caustic acid derails near Baltimore.</headline>
+<dateline>BALTIMORE 1997-05-01</dateline>
+<text>
+<p>A train carrying caustic hydrochloric acid derailed and split open Thursday, disrupting rail and auto traffic along an interstate highway during rush hour.</p>
+<p>Southbound lanes of Baltimore's Harbor Tunnel along Interstate I-895 were closed. Freight and Amtrak passenger trains were halted after a CSX Corp tanker car carrying 23,000 gallons of hydrochloric acid derailed and broke open a little after 5 a.m. EDT (1000 GMT).</p>
+<p>Freight and passenger trains began moving through the area again by mid-morning, but at a restricted speed. Amtrak officials said they hoped trains would be running on their regular schedules by mid-afternoon.</p>
+<p>The accident occurred in an industrial area near I-895 and the Pulaski Highway. No injuries reported or evacuations made.</p>
+<p>Southbound lanes of I-895 near the accident site were closed and traffic detoured.</p>
+<p>Hydrochloric acid is mainly used as a treatment for swimming pools. In high concentrations it can burn skin, irritate eyes and cause lung damage.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

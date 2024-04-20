@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354720" id="root" date="1997-02-04" xml:lang="en">
+<title>SRI LANKA: Sri Lanka stock market closed for holiday.</title>
+<headline>Sri Lanka stock market closed for holiday.</headline>
+<dateline>COLOMBO 1997-02-04</dateline>
+<text>
+<p>Sri Lanka's stock market was closed on Tuesday for Independence Day, a national holiday.</p>
+<p>The market will reopen on Wednesday.</p>
+<p>On Monday, the market closed a fraction higher for the first time in four days, with the Colombo Stock Exchange all share price index ending 0.31 points up at 621.93. Turnover was 9.7 million rupees.</p>
+<p>The index has been easing since hitting 633.5 points on January 27.</p>
+<p>--Colombo newsroom (941) 434319</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

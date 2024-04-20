@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="215803" id="root" date="1996-11-25" xml:lang="en">
+<title>SOUTH KOREA: Yukong 1997 turnaround schedule.</title>
+<headline>Yukong 1997 turnaround schedule.</headline>
+<dateline>SEOUL 1996-11-25</dateline>
+<text>
+<p>Yukong Ltd, South Korea's largest oil refiner, said on Monday that its schedule for routine maintenance closure of its crude distillation units (CDUs) in 1997 is as follows (capacity in barrels per day):</p>
+<p>	CDU		    CAPACITY	 CLOSURE SCHEDULE</p>
+<p>    Ulsan 1		   60,000		 none</p>
+<p>    Ulsan 2		  115,000		 none</p>
+<p>    Ulsan 3		  170,000	    Aug 7-Sept 7</p>
+<p>    Ulsan 4		  265,000		 none</p>
+<p>    Ulsan 5		  200,000	    June 2-July 9</p>
+<p>-- Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

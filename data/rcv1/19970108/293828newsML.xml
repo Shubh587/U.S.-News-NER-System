@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293828" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: EMI unit sues Mosel Vitelic in patent dispute.</title>
+<headline>EMI unit sues Mosel Vitelic in patent dispute.</headline>
+<dateline>WILMINGTON, Del. 1997-01-08</dateline>
+<text>
+<p>EMI Group Plc's U.S. unit is suing Mosel Vitelic Inc and its California subsidiary for alleged patent infringement.</p>
+<p>In papers filed in the U.S. District Court in Delaware, EMI unit EMI Group North America Inc claims that integrated circuits made by Mosel infringe four EMI patents.</p>
+<p>Those patents are for a CMOS susbstrate bias generator, a redundancy system for high speed wide-word semiconductor memories, an asynchronously equillibrated and pre-charged static RAM, and a multistage decoding technique.</p>
+<p>EMI has asked for triple damages for alleged willful infringement.</p>
+<p>Mosel Vitelic is a Taiwanese chipmaker.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

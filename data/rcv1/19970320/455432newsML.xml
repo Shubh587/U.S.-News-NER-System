@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="455432" id="root" date="1997-03-20" xml:lang="en">
+<title>ITALY: SOCCER-FIORENTINA 0 BENFICA 1 - RESULT.</title>
+<headline>SOCCER-FIORENTINA 0 BENFICA 1 - RESULT.</headline>
+<dateline>FLORENCE, Italy 1997-03-20</dateline>
+<text>
+<p>Benfica of Portugal beat Fiorentina of Italy 1-0 (halftime 1-0) in their European Cup Winners' Cup quarter-final second leg match on Thursday.</p>
+<p>Scorer: Edgar Pacheco 22</p>
+<p>Fiorentina won 2-1 on aggregate</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

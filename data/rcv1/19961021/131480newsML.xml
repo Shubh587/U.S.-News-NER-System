@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131480" id="root" date="1996-10-21" xml:lang="en">
+<title>TURKEY: 39 dead in Turkish clashes with Kurd rebels.</title>
+<headline>39 dead in Turkish clashes with Kurd rebels.</headline>
+<dateline>DIYARBAKIR, Turkey 1996-10-21</dateline>
+<text>
+<p>Security forces have killed 33 Kurd guerrillas for the loss of six soldiers in recent clashes in southeast Turkey, the emergency rule governor's office said in a statement on Monday.</p>
+<p>The statement said the clashes took place in the southeastern provinces of Sirnak, Mardin, Hakkari, Bingol, Batman, Diyarbakir and Van over the last five days.</p>
+<p>It gave few more details.</p>
+<p>More than 20,000 people have been killed during the 12-year-old armed conflict between troops and Kurdistan Workers Party (PKK) guerrillas, fighting for autonomy or independence from Ankara.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIYARBAKIR, Turkey"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

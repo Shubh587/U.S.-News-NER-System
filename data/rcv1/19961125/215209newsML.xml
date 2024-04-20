@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="215209" id="root" date="1996-11-25" xml:lang="en">
+<title>FRANCE: France holds two suspected Algerian guerrillas.</title>
+<headline>France holds two suspected Algerian guerrillas.</headline>
+<dateline>PARIS 1996-11-25</dateline>
+<text>
+<p>A French investigating magistrate on Monday remanded two Algerian-born men in custody on suspicion of involvement in terrorist activities, justice sources said.</p>
+<p>They said police found pistols, ammunition and explosives at the home of Aziz Hamkiden and Lunes Tidadini during a criminal probe in the eastern town of Besancon.</p>
+<p>They also found propaganda for the Islamic Salvation Front (FIS) Moslem fundamentalist movement which is fighting the Algerian government.</p>
+<p>Anti-terrorist judge Laurence Le Vert placed the two men under investigation on suspicion of belonging to an illegal group involved in terrorist activities.</p>
+<p>France was shaken last year by a wave of bombings blamed on the Algerian Islamic Armed Group (GIA) that killed eight people and injured about 180.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89800" id="root" date="1996-10-01" xml:lang="en">
+<title>JAPAN: Reuters average September Tapis assessed at $22.73.</title>
+<headline>Reuters average September Tapis assessed at $22.73.</headline>
+<dateline>TOKYO 1996-10-01</dateline>
+<text>
+<p>The average Reuters price for Malaysian Tapis for September was $22.73.</p>
+<p>Malaysia's Petronas uses Reuters morning quotes in its monthly term crude formula. Reuters prices:</p>
+<p>   September  2  $21.55    3  $21.65    4  $21.85</p>
+<p>		  5  $21.75    6  $22.05    9  $22.15</p>
+<p>		 10  $22.20   11  $22.20   12  $22.35</p>
+<p>		 13  $22.60   16  $23.35   17  $22.95</p>
+<p>		 18  $22.65   19  $22.85   20  $23.18</p>
+<p>		 23  $23.05   24  $23.20   25  $23.43</p>
+<p>		 26  $24.15   27  $24.20   30  $23.95</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

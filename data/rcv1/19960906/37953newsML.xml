@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37953" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Flag Financial unit sees Q3 net loss.</title>
+<headline>Flag Financial unit sees Q3 net loss.</headline>
+<dateline>LAGRANGE, Ga. 1996-09-06</dateline>
+<text>
+<p>FLAG Financial Corp said on Friday its wholly owned subsidiary, First Federal Savings Bank of LaGrange, expects a third-quarter net loss.</p>
+<p>The company said the loss is a result of a $2.3 million charge against earnings in the third quarter related to a portfolio of equipment leases sold to the Bank through the Bennett Funding Group Inc and loans serviced by a Bennett affiliate.</p>
+<p>Bennett Funding Group recently filed for Chapter 11 bankruptcy protection, leading Flag to make a reserve of $3 million. The company said that future collections with regard to these equipment leases, totaling $4.5 million, are doubtful, and that the loans serviced by the Bennett affiliate totaling $5 million should be classified as substandard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGRANGE, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

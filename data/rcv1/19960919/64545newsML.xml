@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64545" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: CIA pulls plug on Internet site after hackers hit.</title>
+<headline>CIA pulls plug on Internet site after hackers hit.</headline>
+<byline>Jim Wolf</byline>
+<dateline>WASHINGTON 1996-09-19</dateline>
+<text>
+<p>The CIA pulled the plug on its Internet site on Thursday after a hacker broke in and posted a message declaring it the &quot;Central Stupidity Agency.&quot;</p>
+<p>CIA officials said their World Wide Web home page was not linked to mainframe computers containing spy secrets or other classified national security information.</p>
+<p>&quot;There is no way to access internal CIA information from this home page,&quot; said Rick Oborn, an agency spokesman.</p>
+<p>He said the site was tampered with on Wednesday night and had been shut down by the agency on Thursday morning while a task force tried to prevent another break-in.</p>
+<p>The unidentified hacker turned the home page of the Central Intelligence Agency, a bastion of spy technology and computer wizardry, into a crude parody.</p>
+<p>&quot;Welcome to the Central Stupidity Agency,&quot; it read. A picture of an unknown man replaced that of CIA Director John Deutch and fictional links offered &quot;News from Space&quot; and &quot;Nude Girls.&quot; The text also read &quot;Stop Lying.&quot;</p>
+<p>No stranger to covert action, the CIA played down the possibility that it was the victim of a cyber-era foe of the trenchcoat-and-dagger type that it had battled in Cold War back alleys.</p>
+<p>&quot;If there is any major enemy who wanted to do us damage, this is not anything that causes us great concern,&quot; the spokesman said, adding that he had no idea of the culprit's identity.</p>
+<p>He termed the attack &quot;malicious&quot; and said he was not shrugging it off. The site, visited about 120,000 times a week, would be restored when the agency's technicians were confident they had &quot;cleaned it up,&quot; officials said.</p>
+<p>The spy agency has formed a task force to look into how the page was penetrated and how to prevent a recurrence, they said.</p>
+<p>The web site (http://www.odci.gov/cia) showcases spy agency press releases, speeches and other publicly available data including the CIA's World Fact Book, a standard reference.</p>
+<p>The attack resembled one that forced the Justice Department to close its Web site for a few days last month after hackers turned it into the &quot;Department of Injustice,&quot; inserting a swastika and picture of Adolf Hitler.</p>
+<p>The incident highlighted the vulnerability of Internet sites and drove home the need for multiple layers of security to prevent manipulation of data.</p>
+<p>&quot;You want people to visit, you want them to interact, but you don't want them to leave anything behind,&quot; said Jon Englund of the Information Technology Association of America, a trade group of leading software and telecommunications firms.</p>
+<p>Ben Brandenberg, the Justice Department's chief spokesman, said his department had reopened its home page (http://www.usdoj.gov) after taking unspecified &quot;reasonable measures&quot; to secure it from hackers.</p>
+<p>But there were no guarantees that the fixes would prevent repeat attacks, he said, adding: &quot;This is a hazard of the information age.&quot;</p>
+<p>&quot;If you make it bullet-proof, you make it useless to the public. We are determined to keep it open,&quot; Brandenberg added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

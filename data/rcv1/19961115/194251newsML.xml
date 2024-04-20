@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194251" id="root" date="1996-11-15" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD SCORES.</title>
+<headline>CRICKET-SHEFFIELD SHIELD SCORES.</headline>
+<dateline>SYDNEY 1996-11-15</dateline>
+<text>
+<p>Close of play scores on the first</p>
+<p>day of Sheffield Shield matches on Friday:</p>
+<p>In Melbourne: Victoria 270-5 (Dean Jones 121 not out, Ian</p>
+<p>Harvey 70) v South Australia</p>
+<p>In Sydney: New South Wales 274-7 (Steve Waugh 106, Mark</p>
+<p>Taylor 53) v Queensland</p>
+<p>In Perth: Tasmania 122-1 (Jamie Cox 62, Dene Hills 48 not</p>
+<p>out) v Western Australia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

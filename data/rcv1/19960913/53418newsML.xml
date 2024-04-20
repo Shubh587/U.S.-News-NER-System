@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53418" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: American Trans Air August load factor off.</title>
+<headline>American Trans Air August load factor off.</headline>
+<dateline>INDIANAPOLIS 1996-09-13</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Load factor - percent		  75.2		79.6</p>
+<p> Revenue passenger miles	     1,042		 991</p>
+<p> Available seat miles		  1,387	     1,246</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  70.5		72.9</p>
+<p> Revenue passenger miles	     6,832	     6,351</p>
+<p> Available seat miles		  9,695	     8,715</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+<p>NOTE: American Trans Air is the principal operating subsidiary of Amtran Inc.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

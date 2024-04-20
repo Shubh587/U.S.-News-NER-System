@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102403" id="root" date="1996-10-08" xml:lang="en">
+<title>NEW ZEALAND: New Zealand city weather forecasts for October 10.</title>
+<headline>New Zealand city weather forecasts for October 10.</headline>
+<dateline>WELLINGTON 1996-10-09</dateline>
+<text>
+<p>Forecasts for tomorrow.</p>
+<p>		speed	dir  tonight	    tomorrow	 temp</p>
+<p>Auckland	moderate    W   fine		mostly fine     16</p>
+<p>Hamilton	moderate    W   fine		mostly fine     17</p>
+<p>Napier/Hastin SW dying out    risk of showers becoming fine   15</p>
+<p>New Plymouth  freshening  NW  mostly fine     some cloud	15</p>
+<p>Wellington    freshening  NW  mostly fine     some cloud	15</p>
+<p>Greymouth/Hok fresh	 W   some cloud	risk of showers 15</p>
+<p>Christchurch  moderate    NE  mostly fine     some cloud	16</p>
+<p>Dunedin	 SW change	 mostly fine     risk of showers 13</p>
+<p>Queenstown    SW change	 risk of showers few showers     13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="232501" id="root" date="1996-12-03" xml:lang="en">
+<title>NORWAY: Statoil makes small North Sea gas find.</title>
+<headline>Statoil makes small North Sea gas find.</headline>
+<dateline>OSLO 1996-12-03</dateline>
+<text>
+<p>Den norske stats oljeselskap AS (Statoil) has made a small gas discovery in North Sea block 35/10 between the Gullfaks and Troll developments, the Norwegian Oil Directorate said on Tuesday.</p>
+<p>Exploration well 35/10-2 was drilled to a depth of 4,652 metres below sea level. No production test was made.</p>
+<p>The directorate said it was too early to determine the size of the find, but it was likely that it was relatively small.</p>
+<p>Partners in exploration licence 173 covering the block are Statoil as operator with 50 percent, Mobil with 20 percent and Norsk Hydro and Elf Aquitaine with 15 percent each.</p>
+<p>-- Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

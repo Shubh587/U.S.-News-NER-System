@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209714" id="root" date="1996-11-22" xml:lang="en">
+<title>BRAZIL: Brazil mudslide kills at least six people.</title>
+<headline>Brazil mudslide kills at least six people.</headline>
+<dateline>RIO DE JANEIRO 1996-11-22</dateline>
+<text>
+<p>At least six people were killed when a mudslide destroyed six houses on Friday in Vitoria, northeast of Rio de Janeiro, a disaster relief spokesman said.</p>
+<p>He said the houses, built on an old garbage dump, collapsed after several days of rain dislodged the decomposed trash.</p>
+<p>Six people were confirmed dead and another was feared killed, the spokesman said. Several were injured, and firemen were still searching the rubble, he added.</p>
+<p>The mudslide left 60 to 70 people without shelter.</p>
+<p>It was the second fatal mudslide in Brazil this week. Six people were killed in their sleep by a mudslide on Monday in Petropolis, north of Rio de Janeiro.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

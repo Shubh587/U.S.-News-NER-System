@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24358" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: Drug firms have wide liability - California court.</title>
+<headline>Drug firms have wide liability - California court.</headline>
+<dateline>SAN FRANCISCO 1996-08-30</dateline>
+<text>
+<p>California's State Supreme Court ruled Friday that prescription drug makers can be sued for failing to warn of certain known dangers even if the U.S. Food and Drug Administration directed them not to.</p>
+<p>The ruling results from a lawsuit against the Upjohn unit of Pharmacia &amp; Upjohn Inc., which makes the drug Halcion.</p>
+<p>A woman who had been prescribed Halcion for insomnia sued Upjohn for failing to warn of nervousness and injuries she said resulted from the drug. The case was settled last week with a $2,500 payment, but Upjohn had asked the state's high court to clarify the standards of liability applied to drug makers.</p>
+<p>Upjohn, according to court papers, had maintained it was liable only under a negligence standard. The court upheld the tougher standard of strict liability.</p>
+<p>Under a negligence standard, companies can be sued only for failure to warn of risks they were instructed by the FDA to mention. But under strict liability, the manufacturer could potentially be sued for a danger that the FDA had instructed it not to mention.</p>
+<p>The distinction is important for drug makers, the court said, since there is an industrywide practice of not providing warnings of all potential hazards. In some cases, the FDA prohibits listing warnings if the hazard results from a nonapproved use of a drug.</p>
+<p>A drug may have FDA approval to be applied to the skin, for instance, but not to be swallowed. In such a case, warning of the dangers of swallowing the drug might not be considered appropriate.</p>
+<p>But under the California ruling, people who nevertheless swallowed the drug and claimed injury would be permitted to sue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

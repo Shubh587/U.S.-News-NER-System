@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="216841" id="root" date="1996-11-26" xml:lang="en">
+<title>SOUTH AFRICA: South African stock exchange opens after false start.</title>
+<headline>South African stock exchange opens after false start.</headline>
+<dateline>JOHANNESBURG 1996-11-26</dateline>
+<text>
+<p>The Johannesburg Stock Exchange (JSE) said on Tuesday that trade had started at 0830 GMT after an hour-long delay due to tests.</p>
+<p>&quot;We are up and running. We opened at 0830 GMT,&quot; JSE president Roy Andersen told Reuters.</p>
+<p>The exchange was delayed due to a series of tests on the electronic Johannesburg Equities Trading system.</p>
+<p>The trading system failed twice on Monday, first for three hours in the morning and again in the afternoon forcing the bourse to close 50 minutes before the official 1400 GMT closing time.</p>
+<p>Andersen said trades which took place during the test phase which lasted about ten seconds were null and void.</p>
+<p>-- Johannesburg newsroom, +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

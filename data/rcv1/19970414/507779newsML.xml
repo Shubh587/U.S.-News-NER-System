@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="507779" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: FAA revokes certificate of Great American Airways.</title>
+<headline>FAA revokes certificate of Great American Airways.</headline>
+<dateline>WASHINGTON 1997-04-13</dateline>
+<text>
+<p>The U.S. Federal Aviation Administration Sunday announced it had grounded regional airline Great American Airways, operated by Target Airways Ltd of Reno, Nevada.</p>
+<p>The FAA said an emergency order revoking Target Airways' air carrier certificate was based on numerous findings, including that the airline falsified flight and duty time records, training records, and load manifest documents.</p>
+<p>The findings followed a detailed FAA investigation triggered by a whistleblower's complaints about the firm's operations. An FAA spokesman was unable to elaborate on a brief statement issued late Sunday.</p>
+<p>The FAA said its investigation found that while senior Great American pilots' flight and duty time records showed they complied with regulations on required flight time and rest periods, other records showed the pilots flew too many hours and did not receive adequate rest periods.</p>
+<p>Great American Airways operated charter flights with nine DC-9 aircraft from its Reno base.</p>
+<p>The airline may appeal the order to the National Transportation Safety Board, but the revocation order will remain in effect pending NTSB proceedings, the FAA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

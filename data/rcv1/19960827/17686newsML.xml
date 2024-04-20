@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17686" id="root" date="1996-08-27" xml:lang="en">
+<title>UK: Several people leave hijacked plane - witnesses.</title>
+<headline>Several people leave hijacked plane - witnesses.</headline>
+<dateline>STANSTED, England 1996-08-27</dateline>
+<text>
+<p>Several people were seen by eyewitnesses on Tuesday to leave a hijacked Sudan Airways plane carrying 199 passengers and crew that earlier landed at London's Stansted airport.  </p>
+<p>Reporters saw about 10 people come down the steps from  the Airbus 310 just before 6.30 a.m, two hours after the aircraft landed from Cyprus.</p>
+<p>The plane was hijacked on Monday evening soon after it left Khartoum for the Jordanian capital Amman.</p>
+<p>The unidentified hijackers had told police in Cyprus they would release the passengers once they landed in London. They said they wanted to claim political asylum in Britain.</p>
+<p>British police said the hijackers had issued just one demand -- that they be allowed to speak to an unidentified fellow countryman who is in London.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STANSTED, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

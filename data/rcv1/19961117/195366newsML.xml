@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195366" id="root" date="1996-11-17" xml:lang="en">
+<title>JAPAN: French President Chirac arrives in Japan.</title>
+<headline>French President Chirac arrives in Japan.</headline>
+<dateline>TOKYO 1996-11-17</dateline>
+<text>
+<p>French President Jacques Chirac arrived in Tokyo on Sunday at the start of a six-day visit to boost economic ties and restore relations damaged by last year's French nuclear tests in the South Pacific.  </p>
+<p>In a Japanese newspaper interview on the eve of his arrival, Chirac said France also wanted Tokyo to play a more active role in international affairs.</p>
+<p>&quot;In a period of world crisis France looks to Japan as an important player to consult with,&quot; Chirac told the Asahi Shimbun newspaper.</p>
+<p>The Franco-Japanese summit is intended to &quot;restore&quot; bilateral relations, according to Japanese officials, after Japanese public outrage exploded at France's South Pacific nuclear tests which began in September last year.</p>
+<p>Economic talks are expected to focus on French demands that Japan open its insurance, construction, aircraft and car manufacturing industries to French companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

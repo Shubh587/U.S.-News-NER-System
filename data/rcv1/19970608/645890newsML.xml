@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645890" id="root" date="1997-06-08" xml:lang="en">
+<title>USA: Compaq seen unveiling speedy NT workstations.</title>
+<headline>Compaq seen unveiling speedy NT workstations.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-06-08</dateline>
+<text>
+<p>Compaq Computer Corp. will unveil powerful new Intel-based computer workstations Monday just seven months after its aggressive entry into the fiercely competitive area, industry sources said.</p>
+<p>A Compaq representative said the company scheduled a press briefing in San Francisco, the backyard of the world's leading sellers of engineering workstations, Sun Microsystems Inc. and Hewlett-Packard Co., to unveil the new workstations.</p>
+<p>Compaq said Friday it will introduce new workstations, but declined to provide further details.</p>
+<p>Computer industry analysts and executives said the workstations are expected to provide the sort of &quot;hot box&quot; appeal that has traditionally generated a buzz among the engineering community, which has long been the target market for such high-powered desktop systems.</p>
+<p>A key difference is that unlike classic workstations, which during the 1980s unseated more costly minicomputer systems by offering raw power using custom processors and versions of the Unix operating system, Compaq's machines are based on Intel Corp. microprocessors running Microsoft Corp.'s  Windows NT system.</p>
+<p>Industry sources familiar with Compaq's product pipeline said the systems are a major advance as the company charges into workstation market, valued at $13 billion to $15 billion a year in total revenues.</p>
+<p>One of these sources said Compaq will offer models based on Intel's new Pentium II processor, introduced just last month, with entry pricing around $6,000 for a one-processor system, with a much lower cost of adding more processors than for more specialized, proprietary chips.</p>
+<p>Higher-end Intel Pentium Pro workstations are expected to start at prices around $14,000, with number crunching four-processor systems available for less than $20,000 -- a sharply lower price point than equivalent Unix systems.</p>
+<p>In a major improvement, it addresses past limitations on the speed at which data travels within the machines by providing dual memory control and PCI buses -- offering speedier communications between internal components.</p>
+<p>Analysts would not discuss details of the expected announcement, but said Compaq is working to eliminate one of the most compelling past advantages of the Unix market by addressing architectural constraints of Intel machines.</p>
+<p>&quot;You can no longer say the Intel workstation's a PC,&quot; said DataPro analyst Peter Lowber. &quot;That's impressive.&quot;</p>
+<p>Compaq's fierce drive into the workstation market has already shown up in Windows NT market share numbers.</p>
+<p>Dataquest analyst Peter ffoulkes said Compaq is already ranked No. 2 in both value and volume terms in NT workstation at the end of the second quarter -- after only six months in the business.</p>
+<p>High end graphics-oriented Intergraph leads in revenue terms, but Compaq is firmly No. 2 in both units shipped and sales, according to Dataquest first-quarter 1997 data. In Britain, Compaq also claimed first place market position in the first quarter, boosted by an order for 5,700 workstations from bankers BZW.</p>
+<p>The Compaq machines are further evidence of the rapid erosion of the traditional Unix workstation market as machines based on lower-cost, high volume Intel chips and Windows NT start invading the space.</p>
+<p>Dataquest estimates that Windows NT workstations made up 23.6 percent of total workstation unit shipments in the first quarter, and 12.4 percent of market revenue.</p>
+<p>Nevertheless, the market for Intel-based workstations also requires that companies marketing workstation applications make them available on Windows NT machines -- a process that has begun but which takes time.</p>
+<p>Compaq's announcement will go a long way to overcome a few early growing pains in the workstation arena. For example, a high-flying HP executive it hired last September to run the new Compaq workstation business defected after only a matter of weeks to Sun Microsystems.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

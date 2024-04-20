@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541355" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: FEATURE - Consumers to 56K modem makers -- are we there yet?.</title>
+<headline>FEATURE - Consumers to 56K modem makers -- are we there yet?.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES 1997-04-24</dateline>
+<text>
+<p>Is it time, finally, to buy a new modem?</p>
+<p>The answer could depend on where you live, and how adventurous you feel about upgrading your computer.</p>
+<p>It's been ages since computer magazines first printed stories about a new class of modems that delivered data up to twice as fast as the 28.8 kilobits per second (kbps) devices found on most existing home PCs. Speed hungry Internet lovers couldn't wait.</p>
+<p>Months later, many are still cooling their heels.</p>
+<p>Blame the holdup on a colossal fight over 56 kbps standards between the country's two biggest modem-chip makers, Rockwell Semiconductor Systems in Newport Beach, Calif., and U.S. Robotics, of Skokie, Ill.</p>
+<p>Each is following its own technological path, which means devices built around U.S. Robotics' &quot;x2&quot; 56 kbps chip set aren't compatible with &quot;K56Flex&quot; devices developed by Rockwell and its partner, Lucent Technologies.</p>
+<p>All of which means Internet users are out of luck if the 56 kbps modem they buy doesn't match the technology their Internet service provider has decided to offer.</p>
+<p>Not that so many Internet providers are even providing 56 kbps connections yet. Upgrades to build 56 kbps technology into the so-called &quot;central site&quot; hardware Internet service providers use to answer customers' incoming data calls is just becoming available.</p>
+<p>Many providers, including America Online, CompuServe, Prodigy, Microsoft Network, AT&amp;T WorldNet and other national Internet providers, are just starting to test the higher-speed access and expect to roll it out gradually over the remainder of the year.</p>
+<p>&quot;The longer you wait, the better off you are,&quot; said Robert Sanders, chief technology officer at MindSpring Enterprises Inc.</p>
+<p>MindSpring is a good example of why that may be true.</p>
+<p>The Atlanta Internet provider currently is installing U.S. Robotics' 56 kbps technology in 40 of its 280 dial-in lines. But Sanders doesn't know when high-speed access will be available in the remainder of the network, which MindSpring leases from PSINet, a wholesale Internet provider that is deploying Rockwell technology.</p>
+<p>Netcom On-Line Communications in San Jose, Calif., another major provider, expects to have U.S. Robotics 56 kbps modems in place in its top five markets by the end of the month, and in another six cities by the end of summer, a spokesman said.</p>
+<p>Meanwhile, modem makers such as Hayes Microcomputer Products, are hedging their bets by supporting both U.S. Robotics and Rockwell technology.</p>
+<p>Others have picked sides. Computer maker Gateway 2000, modem makers 3Com and Cardinal, and chip-set maker Cirrus Logic are supporting U.S. Robotics. Lining up behind Rockwell are PC makers Compaq, Hewlett-Packard, and Toshiba, and modem makers Motorola, Diamond Multimedia and Boca Research.</p>
+<p>U.S. Robotics, in the midst of a $6.6 billion merger with 3Com Corp., got an early jump on its rivals, shipping modem chips in late February.</p>
+<p>Rockwell chips were on the market briefly before being pulled in mid-March because of poor performance under certain network operating conditions. The company fixed the problem and resumed shipments last week.</p>
+<p>&quot;By early May, there will be more to choose from&quot; in stores, said Eileen Algaze, a Rockwell spokeswoman.</p>
+<p>For consumers who want their 56 kbps modems sooner rather than later, the good news is prices are low compared with debut price tags for previous generation modems. Depending on the maker, internal PC modems range from $140 to $220. Expect to pay a little more for Mac modems and external models.</p>
+<p>Industry insiders believe that by year's end, and possibly much sooner, the International Telecommunications Union (http://www.itu.ch/), a telecommunications standards-setting body based in Geneva, Switzerland, will select one 56 kbps protocol.</p>
+<p>When that happens, U.S. Robotics, Rockwell and the modem makers they supply maintain they'll make it as easy as possible for consumers who already purchased 56 kbps modems to upgrade. That will most likely come in the form of software patches people will download from a company's Web site and install on their internal or external modems.</p>
+<p>Both U.S. Robotics and Rockwell have set up Web sites consumers can check to find the Internet service providers that support their respective technologies. US Robotics' site is located at http://x2.usr.com/connectnow/index.html, and Rockwell at http://www.nb.rockwell.com/mcd/K56/isps.html.</p>
+<p>A number of modem makers allow customers to upgrade older-generation 28.8 kbps or 33.6 kbps modems to 56 kbps speeds through a software patch available from their corporate Web sites. Motorola's can be found at http://www.mot.com/tidalwave, and U.S. Robotics at http://www.usr.com.</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own.)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

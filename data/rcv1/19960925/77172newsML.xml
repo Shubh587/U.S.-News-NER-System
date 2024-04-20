@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77172" id="root" date="1996-09-25" xml:lang="en">
+<title>JAPAN: Nippon Steel says losses from plant fire unknown.</title>
+<headline>Nippon Steel says losses from plant fire unknown.</headline>
+<dateline>TOKYO 1996-09-25</dateline>
+<text>
+<p>Nippon Steel Corp said on Wednesday that it could not yet estimate damage and losses from a fire on Tuesday at its Oita plant in western Japan.</p>
+<p>The fire broke out around 11 a.m. (0200 GMT) on Tuesday and was extinguished late at night, a company spokesman said. No injuries were reported, but the fire halted operation of its hot-rolling line, which was still shut down, he said.</p>
+<p>The extent of the damage and losses may become clear by the end of this week, the spokesman said. Nippon Steel makes hot-rolled steel sheets and coils at other plants, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

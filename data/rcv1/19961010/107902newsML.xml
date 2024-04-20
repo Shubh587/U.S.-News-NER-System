@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107902" id="root" date="1996-10-10" xml:lang="en">
+<title>KAZAKHSTAN: Kazakh tenge rises to 69.8358 per dollar.</title>
+<headline>Kazakh tenge rises to 69.8358 per dollar.</headline>
+<dateline>ALMATY 1996-10-10</dateline>
+<text>
+<p>The tenge rose to 69.8358 per dollar on the Kazakhstan Currency Exchange from 69.9538 on Wednesday.</p>
+<p>				    Oct 10		  Oct 9</p>
+<p> tenge per dollar	     69.8358		 69.9538</p>
+<p> volume ($ million)		  0.380		   1.620</p>
+<p> tenge per mark		 45.8980		 46.0000</p>
+<p> volume (DM million)		 0.075		   0.010</p>
+<p>--Almaty Newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

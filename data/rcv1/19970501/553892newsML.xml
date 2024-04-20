@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553892" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: U.S. factory vegoil product use - Census.</title>
+<headline>U.S. factory vegoil product use - Census.</headline>
+<dateline>WASHINGTON 1997-05-01</dateline>
+<text>
+<p>U.S. factories used 1,128.1 million lbs of vegoils in March in edible product output versus a revised 1,286.5 million lbs in February and 1,174.9 in March 1996.</p>
+<p>U.S. factory vegoil use with refining losses were as follows:</p>
+<p>   (Mln Lbs) --  March 97   Feb 97   March 96</p>
+<p>    Soybean Oil   1,125.6   1,005.3   1,064.1</p>
+<p> Cottonseed Oil	N/A	N/A	    N/A</p>
+<p>Year-to-date oil use with refining losses (Mln Lbs):</p>
+<p>				    1997	   1996</p>
+<p>		 Soybean Oil   3,251.9	3,022.9</p>
+<p>	    Cottonseed Oil	 N/A	    N/A</p>
+<p> OUTPUT -- Soybean Crude   3,930.2	3,888.9</p>
+<p>		     Refined   2,955.5	2,956.9</p>
+<p>	  Cottonseed Crude     353.3	  485.6</p>
+<p>		     Refined     245.0	  266.1</p>
+<p>		  Corn Crude     553.3	  506.4</p>
+<p>		     Refined     209.7	  255.4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

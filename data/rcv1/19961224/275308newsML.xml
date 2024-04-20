@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275308" id="root" date="1996-12-24" xml:lang="en">
+<title>FRANCE: Presidents of Algeria and Mali meet in Algiers.</title>
+<headline>Presidents of Algeria and Mali meet in Algiers.</headline>
+<dateline>PARIS 1996-12-24</dateline>
+<text>
+<p>Algerian President Liamine Zeroual held talks with Mali's President Alpha Oumar Konare in Algiers on Tuesday, Algerian state-run television said.</p>
+<p>Konare, who left Algiers after the meeting with Zeroual, said he was satisfied with the strong links between the two countries, the television said.</p>
+<p>Algeria was the main broker of a 1992 peace accord which ended fighting between the Malian government and Tuareg rebels and is helping thousands of Tuareg refugees who had fled violence and drought in Mali to return home.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

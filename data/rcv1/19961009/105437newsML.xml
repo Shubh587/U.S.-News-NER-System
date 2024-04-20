@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105437" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: CBOT's MidAm to launch new live hog contract.</title>
+<headline>CBOT's MidAm to launch new live hog contract.</headline>
+<dateline>CHICAGO 1996-10-09</dateline>
+<text>
+<p>The MidAmerica Commodity Exchange, a subsidiary of the Chicago Board of Trade, said it will launch a revised live hog futures contract October 18.</p>
+<p>The new contract, which begins with the February 1997 contract month, will replace the existing one and will feature cash settlements rather than physical deliveries. The contract size will be increased to 25,000 lbs from 20,000.</p>
+<p>Cash settlement will be based on the USDA Iowa-southern Minnesota direct hog market price, which the MidAm said is the most often used price in the industry.</p>
+<p>The contract being replaced is a smaller version of the Chicago Mercantile Exchange. The MidAm recently decided against entering into a licensing agreement with the CME to use that exchange's new lean hog index as a basis for trading a smaller MidAm lean hog contract.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

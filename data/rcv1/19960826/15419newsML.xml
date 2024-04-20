@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15419" id="root" date="1996-08-26" xml:lang="en">
+<title>JAPAN: Faulty motor to be changed at Japan Monju reactor.</title>
+<headline>Faulty motor to be changed at Japan Monju reactor.</headline>
+<dateline>TOKYO 1996-08-26</dateline>
+<text>
+<p>The operators of Japan's prototype fast-breeder nuclear reactor said on Monday that it would change a motor for one of the pumps at the plant as it appeared to be malfunctioning.</p>
+<p>The reactor, known as Monju, remains shut down after an accident in which an estimated two to three tonnes of liquid sodium leaked from a cooling system on December 8.</p>
+<p>A spokesman for the operators, the state-run Power Reactor and Nuclear Fuel Development Corp, said the temperature of the motor had been hitting 80 degrees Celsius, when the normal operating temperature was about 45 degrees Celsius.</p>
+<p>The motor operates a pump which circulates sodium within the reactor.</p>
+<p>&quot;The pump will be stopped today and steps to exchange the motor will begin after that,&quot; the spokesman said.</p>
+<p>He said the pump was not located near the area of December's accident, and was most probably unrelated to it.</p>
+<p>An investigation into the cause of the accident -- which the operators say caused no damage to the environment -- is continuing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

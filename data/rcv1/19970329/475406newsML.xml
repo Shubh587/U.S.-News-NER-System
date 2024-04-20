@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="475406" id="root" date="1997-03-29" xml:lang="en">
+<title>USA: FAA developing checks to detect airline part failures.</title>
+<headline>FAA developing checks to detect airline part failures.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1997-03-28</dateline>
+<text>
+<p>A Federal Aviation Administration official said Friday that new procedures were being developed to detect flaws in key engine parts such as the cracked fan hub that caused a Delta Air Lines jet engine to fly apart last year, killing two people.</p>
+<p>Robert Guyotte, a branch manager in the FAA's engine certification office, told a National Transportation Safety Board hearing that the new rules would require more frequent inspections of &quot;high-energy&quot; parts.</p>
+<p>The hearing which concluded Friday investigated a July 6, 1996, accident in which an engine blew apart as a Delta MD-88 plane was gaining speed for takeoff from an airport in Pensacola, Florida.</p>
+<p>NTSB investigators said a half-inch crack had developed in a fan hub in the Pratt &amp; Whitney engine. The crack had not been detected by Delta workers using a visual test recommended by the manufacturer.</p>
+<p>Guyotte said the new rules would involve &quot;focused inspections at some time within the part's life&quot; to ensure that parts last as long as intended. He said the FAA planned to meet airline representatives in May to discuss the new guidelines.</p>
+<p>NTSB board members said they did not know before the hearing that the FAA was already taking new steps to detect flaws which could occur in parts because of stress or fatigue.</p>
+<p>&quot;Clearly they have in motion a process to do just that,&quot; the NTSB's John Goglia told Reuters. &quot;That wasn't made known to us until today.&quot;</p>
+<p>Goglia said testimony during the three-day hearing into the Delta runway explosion demonstrated a need for better quality control by manufacturers and more frequent inspections once parts were in use.</p>
+<p>&quot;This part was supposed to operate safely from the time it left the manufacturing plant until it saw the end of its useful life, which was 20,000 cycles,&quot; he said.</p>
+<p>&quot;I think what we're going to see is, in the future, some redesign on the part of manufacturers ... and, as an interim measure, additional inspections to ensure that there's nothing going on in the part as its life gets used up,&quot; Goglia said.</p>
+<p>Earlier this year the Federal Aviation Administration proposed that two different methods be used to check for flaws in the 125-pound titanium fan hubs of Pratt &amp; Whitney JT8D-200 series turbofan engines.</p>
+<p>Witnesses at the hearing agreed that the visual &quot;flourescent penetrant&quot; inspection already in use was inadequate for detecting all flaws. After last year's accident, Delta began using a second method, an eddy current test which uses an electrical field to detect cracks.</p>
+<p>Two people were killed and another was seriously injured when debris from the failed engine penetrated the cabin of Delta Flight 1288 from Pensacola to Atlanta with 142 passengers on board. Pilots aborted their takeoff before the plane left the ground.</p>
+<p>The NTSB is not expected to issue its final report on the accident until later this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

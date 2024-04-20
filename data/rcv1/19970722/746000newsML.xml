@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746000" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: U.S. homeownership rate hits 65.7 pct - HUD.</title>
+<headline>U.S. homeownership rate hits 65.7 pct - HUD.</headline>
+<dateline>BOSTON 1997-07-22</dateline>
+<text>
+<p>Housing Secretary Andrew Cuomo Tuesday announced the homeownership rate in the United States rose to 65.7 percent in the second quarter of 1997 - the highest quarterly rate in nearly 17 years.</p>
+<p>Some 67.1 million American households now own their own homes - the highest number in U.S. history, Cuomo said while in Boston for a conference on Empowerment Zones, a federal program funding economic development projects in poor areas.</p>
+<p>((--Boston bureau, 617-367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

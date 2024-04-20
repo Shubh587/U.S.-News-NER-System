@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96427" id="root" date="1996-10-04" xml:lang="en">
+<title>SOUTH KOREA: Port conditions update - Lloyds Shipping.</title>
+<headline>Port conditions update - Lloyds Shipping.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>South korea, oct 4 - Berth congestion situation/berthing delays  at South Korean ports - Busan - 175 vessels in port, 63 at berths and 112 at anchorage. Berthing delay usually two to three days due to berth congestion. Ulsan 120 vessels in port, 80 at berths and 40 at anchorage. Berthing delay usually one to two days due to berth congestion. Pohang 31 vessels in port, 28 at berths and three at anchorage. No delays. Inchon 82 vessels in port, 53 at berths and 29 at anchorage. Berthing delay usually one to two days due to berth congestion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

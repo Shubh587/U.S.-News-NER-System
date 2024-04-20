@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205139" id="root" date="1996-11-20" xml:lang="en">
+<title>HONG KONG: Intense quake rattles area east of Japan's Honshu.</title>
+<headline>Intense quake rattles area east of Japan's Honshu.</headline>
+<dateline>HONG KONG 1996-11-20</dateline>
+<text>
+<p>An intense earthquake measuring 5.8 on the open-ended Richter scale shook an area east of Japan's largest island of Honshu on Wednesday, Hong Kong's Royal Observatory said.</p>
+<p>The observatory said the quake struck at 0233 GMT. The tremor was centred about 190 km (118 miles) southeast of Tokyo, it said. No further details were immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

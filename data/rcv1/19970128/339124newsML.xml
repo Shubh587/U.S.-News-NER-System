@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339124" id="root" date="1997-01-28" xml:lang="en">
+<title>UK: N.Irish police fire shots at stolen car.</title>
+<headline>N.Irish police fire shots at stolen car.</headline>
+<dateline>BELFAST 1997-01-28</dateline>
+<text>
+<p>Police in Northern Ireland opened fire at a stolen car on Monday evening as it drove at high speed through a security checkpoint in Londonderry.</p>
+<p>Police said there were no reports of injuries and the car and its occupants were still at large.</p>
+<p>&quot;Police fired a number of shots at the vehicle,&quot; a spokesman for Northern Ireland's Royal Ulster Constabulary said.</p>
+<p>The car had been stopped at another nearby checkpoint 30 minutes earlier, but as police approached it drove off, narrowly missing an officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

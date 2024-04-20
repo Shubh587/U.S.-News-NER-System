@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201659" id="root" date="1996-11-19" xml:lang="en">
+<title>ISRAEL: Israeli, Malaysian banks establish ties.</title>
+<headline>Israeli, Malaysian banks establish ties.</headline>
+<dateline>TEL AVIV 1996-11-19</dateline>
+<text>
+<p>Bank Hapoalim, Israel's largest bank, said on Tuesday that it had established ties with Malaysia's Public Bank.</p>
+<p>This is the first such relationship between an Israeli and a Malaysian bank and will help advance trade between the two countries, a spokesman for Hapoalim said.</p>
+<p>While the two countries do not have diplomatic ties, the Malaysian government authorised private sector trade with Israel in January 1996, Hapoalim noted.</p>
+<p>Last week the Malaysian government decided to relax its control over the issuing of licences to export to Israel. Import licences are limited to the purchase of machinery, raw materials for industrial production and food.</p>
+<p>Malaysia currently imports integrated circuits and computer boards from Israel while exports include rubber products.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173969" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: U.S. rice weekly export sales highlights - USDA.</title>
+<headline>U.S. rice weekly export sales highlights - USDA.</headline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>USDA rice export sales highlights in latest reporting week:</p>
+<p>Net sales of 66,000 MT were 8 percent above the previous week and 36 percent over the 4-week average.  Haiti (28,500 MT) was the dominant buyer, with smaller quantities to Japan (10,000 MT), Canada (9,900 MT), Jamaica (5,500 MT), Mexico (4,700 MT, of which 2,800 MT was rough), and Germany (1,700 MT).  Reductions of 1,200 MT were reported for Trinidad.</p>
+<p>Exports of 54,700 MT were up 54 percent from the prior week and 35 percent from the 4-week average.  The major destinations were the Netherlands (10,000 MT), Haiti (9,800 MT), the Ivory Coast (6,300 MT), Mexico (5,300 MT), Jamaica (5,000 MT), Saudi Arabia (4,700 MT), and Germany (4,400 MT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

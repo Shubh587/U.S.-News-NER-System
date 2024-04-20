@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112500" id="root" date="1996-10-12" xml:lang="en">
+<title>INDIA: Cricket-India all out for 361, take 179-run lead.</title>
+<headline>Cricket-India all out for 361, take 179-run lead.</headline>
+<dateline>NEW DELHI 1996-10-12</dateline>
+<text>
+<p>India were all out for 361 in their first innings on the third day of the one-off test against Australia at New Delhi's Feroze Shah Kotla ground on Saturday.</p>
+<p>Scores: Australia 182 (M.Slater 44, M.Taylor 27, M.Bevan 26, M.Waugh 26, A.Kumble 4-63, A.Kapoor 2-30, S.Joshi 2-36).</p>
+<p>India 361 (N.Mongia 152, S.Ganguly 66, R.Dravid 40, S.Joshi 23, A.Kapoor 22, P.Reiffel 3-35, P.McIntyre 3-103).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

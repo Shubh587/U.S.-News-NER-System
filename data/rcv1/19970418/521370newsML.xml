@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521370" id="root" date="1997-04-18" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1997-04-18</dateline>
+<text>
+<p>Korea Line tbn 120000/10 Gladstone/S Korea end-May $6.25 fio scale/25000c - Kepco</p>
+<p>Atlantic Pride (1981 built) 70000/10 Davant/Tarragona early May $8.25 fio 30000c/24000x - Carboex</p>
+<p>Sapphire (1981) 55000/10 Roberts Bank/Ijmuiden 5/10 May $11.80 fio 20000c/2 days shinc - Cobelfret (amended)</p>
+<p>Exemplar (1990) 110000/10 Sepetiba/ Everingen-Antwerp 5/20 May $7.25 fio 1-2 50000c/40000c - Cockerill</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

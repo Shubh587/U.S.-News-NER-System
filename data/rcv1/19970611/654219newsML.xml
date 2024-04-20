@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="654219" id="root" date="1997-06-11" xml:lang="en">
+<title>CANADA: Heavy rain warning issued for southeast Alberta-EC.</title>
+<headline>Heavy rain warning issued for southeast Alberta-EC.</headline>
+<dateline>WINNIPEG 1997-06-11</dateline>
+<text>
+<p>A heavy rainfall warning was issued Wednesday for southeast Alberta's Lethbridge district, Environment Canada said.</p>
+<p>Lethbridge should see up to 60 mm (2.4 inches) of rain into Wednesday night, meteorologist Francois Choquette said.</p>
+<p>Calgary should see up to 50 mm (2 inches) and Medicine Hat should see 20 mm (0.8 inch) of rain, Choquette added.</p>
+<p>((Gilbert Le Gras, Winnipeg Reuters bureau 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

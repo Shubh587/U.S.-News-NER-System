@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75730" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: PacifiCorp sees 550 MW Wyo. unit up by Thurs.</title>
+<headline>PacifiCorp sees 550 MW Wyo. unit up by Thurs.</headline>
+<dateline>LOS ANGELES 1996-09-25</dateline>
+<text>
+<p>Unit 3 at the Jim Bridger coal-fired power plant near Rock Springs, Wyo., should be back on line by Thursday, a spokeswoman for the plant's operator, PacifiCorp, said Wednesday.</p>
+<p>The 550 megawatt (MW) unit tripped off on Saturday due to problems with a fan, added spokeswoman Leslie Blythe.</p>
+<p>The Bridger plant also has three other 550 MW units, which are at normal rates.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

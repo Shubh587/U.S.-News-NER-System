@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="764196" id="root" date="1997-07-29" xml:lang="en">
+<title>GREECE: Table of Greek central bank fixing rates, July 29.</title>
+<headline>Table of Greek central bank fixing rates, July 29.</headline>
+<dateline>ATHENS 1997-07-29</dateline>
+<text>
+<p>The Bank of Greece's fixing rates for leading currencies on Tuesday were as follows.</p>
+<p>------------------------------------------------------------</p>
+<p> Currency:     July 29     July 28   Dec 31 96    CHANGE</p>
+<p>								 FROM YR-END</p>
+<p>------------------------------------------------------------</p>
+<p>- USD =	  287.140     288.400     247.020   16.24 %</p>
+<p>- ECU =	  308.590     308.710     306.830    0.57 %</p>
+<p>- DEM =	  156.450     156.145     158.970   -1.59 %</p>
+<p>- FRF =	   46.388	46.342	47.182   -1.68 %</p>
+<p>- GBP =	  468.660     476.360     419.180   11.80 %</p>
+<p>- NLG =	  138.835     138.715     141.685   -2.01 %</p>
+<p>- ITL (100) =   16.054	16.072	16.185   -0.81 %</p>
+<p>- JPY (100) =  244.190     245.960     212.430   14.95 %</p>
+<p>- ESP =	    1.855	 1.854	 1.888   -1.75 %</p>
+<p>- PTE =	    1.549	 1.549	 1.581   -2.02 %</p>
+<p>- CHF =	  189.370     189.680     183.135    3.40 %</p>
+<p>Note: The net change is calculated as the percentage difference between the most recent fixing rate and the December 31, 1996 rate.</p>
+<p>--Angelos Kiosklis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

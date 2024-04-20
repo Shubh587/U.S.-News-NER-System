@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637074" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: U.S. May light vehicle sales decline 5.8 percent.</title>
+<headline>U.S. May light vehicle sales decline 5.8 percent.</headline>
+<dateline>DETROIT 1997-06-04</dateline>
+<text>
+<p>U.S. car and light truck sales during the month of May totaled 1,406,649 units, according to reports from all major automakers, marking a 5.8 percent decline from the 1,492,529 units sold a year earlier.</p>
+<p>The seasonally adjusted annual sales rate for the month was 14.8 million units, down from 15.4 million units a year earlier, but an improvement from the 14.3 million units reported in April. The rate is calculated with seasonal factors supplied by the U.S. Commerce Department.</p>
+<p>Automakers sold 640,163 North American-built cars in the United States in May, down 13.7 percent from a year ago.</p>
+<p>The seasonally adjusted annual rate for domestic cars was 6.65 million units, compared with 7.56 million in May 1996 and 6.48 million in April.</p>
+<p>Automakers sold 579,959 domestic trucks in the United States during May, off 0.1 percent from a year earlier. The seasonally adjusted annual sales rate for domestic trucks was 6.2 million units, compared with 6.01 million a year earlier and 5.87 million in April.</p>
+<p>Imported car sales totaled 132,265 units, up 0.8 percent from a year ago, with a seasonally adjusted annual rate of 1.38 million units. Imported truck sales rose 39.7 percent to 54,263 units for an annual sales rate of 610,000 units.</p>
+<p>For the 1997 year to date, automakers have sold 6.33 million vehicles, down 1 percent from the 6.44 million they sold a year earler.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

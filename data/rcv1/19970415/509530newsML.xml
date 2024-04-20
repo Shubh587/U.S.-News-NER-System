@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="509530" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: First Empire State Q1 net rises.</title>
+<headline>First Empire State Q1 net rises.</headline>
+<dateline>BUFFALO, N.Y. 1997-04-15</dateline>
+<text>
+<p>Three months ended March 31		1997	1996  Change</p>
+<p> Net interest income		     $136,445   129,592    5%</p>
+<p> Less: Prov for credit losses	    11,000     9,675    14</p>
+<p>Gain (loss) on sales of bank</p>
+<p>   investment securities		     (45)	 318    --</p>
+<p> Net income				    41,259    36,153   14%</p>
+<p> Dividends on preferred stock		 --	 900 (100%)</p>
+<p> EPS: Primary				    5.81	5.20   12%</p>
+<p>     Fully diluted			     5.80	4.96    17</p>
+<p>Net excluding securities transactions</p>
+<p>     Primary				     5.81	5.17    12</p>
+<p>     Fully diluted			     5.80	4.93    18</p>
+<p>   Cash dividends				0.80	0.70   14%</p>
+<p>   Avg shrs outstanding		     7,100     6,778    5%</p>
+<p>   Shrs out at period end		   6,642     6,845  (3%)</p>
+<p>	stockholders' equity	   13,122,232  12,670,983   4%</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE:  Net income for the first quarter of 1997 included $7.9 million in charge-offs of consumer loans, as compared to $5.1 million in the first quarter of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUFFALO, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

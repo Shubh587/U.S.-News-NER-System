@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178853" id="root" date="1996-11-10" xml:lang="en">
+<title>SWEDEN: TENNIS-STOCKHOLM OPEN FINAL RESULT.</title>
+<headline>TENNIS-STOCKHOLM OPEN FINAL RESULT.</headline>
+<dateline>STOCKHOLM 1996-11-10</dateline>
+<text>
+<p>Result in the final of the Stockholm Open grand prix on Sunday (prefix number denotes seeding):</p>
+<p>3-Thomas Enqvist (Sweden) beat 2-Todd Martin (U.S.) 7-5 6-4 7-6 (7-0)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

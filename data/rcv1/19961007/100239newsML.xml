@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100239" id="root" date="1996-10-07" xml:lang="en">
+<title>PORTUGAL: Portucel issuing 15 bln esc domestic paper.</title>
+<headline>Portucel issuing 15 bln esc domestic paper.</headline>
+<dateline>LISBON 1996-10-07</dateline>
+<text>
+<p>Portucel-SGPS is launching an eight-year bond for 15 billion escudos, indexed for the first five years to the six-month Lisbor rate plus 2.5 basis points and paying a fixed-rate of 8.2 percent for the final three years, lead manager Banco Santander de Negocios (Portugal) said.  </p>
+<p>BORROWER  Portucel  AMT 15 bln esc</p>
+<p>COUPON Lisbor+2.5 bps 1-5 yrs, fixed 8.2 pct 6-8 yrs</p>
+<p>    MATURITY 5/11/2004		ISS PRICE 100</p>
+<p>    PAY DATE 5/10/96		  PAY FREQ Six-monthly</p>
+<p>    GOV LAW Portuguese		LISTING Lisbon</p>
+<p>PUT OPTION Exercisable from 4th coupon</p>
+<p>CALL OPTION Exercisable from 10th coupon</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

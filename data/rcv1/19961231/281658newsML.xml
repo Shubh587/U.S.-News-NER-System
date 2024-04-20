@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281658" id="root" date="1996-12-31" xml:lang="en">
+<title>USA: Accelr8 to launch NAVIG8 2000 1.5 next week.</title>
+<headline>Accelr8 to launch NAVIG8 2000 1.5 next week.</headline>
+<dateline>DENVER 1996-12-31</dateline>
+<text>
+<p>Accelr8 Technology Corp said it will release version 1.5 of its NAVIG8 2000 software next week and that it entered agreements with existing dealers and partners to collaborate in the delivery of its services worldwide.</p>
+<p>The company, which specializes in fixing the year 2000 software glitch in many computers, said the release includes several new third generation languages and other tools to handle date representations.</p>
+<p>NAVIG8 2000 is also now available on VAX/VMS and Alpha Open VMS, the company said.</p>
+<p>Separately, Accelr8 did not provide terms of the agreements it reached with its dealers and partners.</p>
+<p>It said all of its partners are now working on projects for Digital Equipment VAX-based clients and are looking to concentrate on other clients in the DEC VMS space.</p>
+<p>The so-called year 2000 glitch makes many computers unable to accurately recognize dates past the year 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

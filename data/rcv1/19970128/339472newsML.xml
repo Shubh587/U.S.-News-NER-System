@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339472" id="root" date="1997-01-28" xml:lang="en">
+<title>PHILIPPINES: Philippine bus crash kills 19, injures 39.</title>
+<headline>Philippine bus crash kills 19, injures 39.</headline>
+<dateline>MANILA 1997-01-28</dateline>
+<text>
+<p>Nineteen persons were killed and 39 injured when a passenger bus crashed into 60-metre deep ravine in a town near the southern tip of the main Luzon island, police said on Tuesday.</p>
+<p>Town police chief Roberto Malubay said four children were among those killed after the bus lost control along a zigzag portion of the national highway in Labo town, Camarines Norte province, 210 km (130 miles) southeast of Manila, on Monday.</p>
+<p>The bus was on its way to Manila from a nearby town.</p>
+<p>The police are still investigating the cause of the accident, Malubay added. The driver was among those who died on the spot.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

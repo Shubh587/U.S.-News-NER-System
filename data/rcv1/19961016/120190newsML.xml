@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120190" id="root" date="1996-10-16" xml:lang="en">
+<title>NEW ZEALAND: NZ power users complain at spot price aberrations.</title>
+<headline>NZ power users complain at spot price aberrations.</headline>
+<dateline>WELLINGTON 1996-10-17</dateline>
+<text>
+<p>A rash of wholesale electricity price spikes led to a call on Thursday for urgent action by an &quot;appalled&quot; Major Electricity Users Group.</p>
+<p>Group chairman Terrence Currie said the price spikes to more than 50 cents a kilowatt hour, had happened on eight of the 16 days that the new market had been operating.</p>
+<p>Before the market began prices averaged four to five cents, but now average prices would be more than 15c a kilowatt-hour.</p>
+<p>Unless the aberrations were fixed immediately consumers would seek government action, he said.  </p>
+<p>&quot;On this basis the new market is destroying its own credibility,&quot; Currie said.</p>
+<p>Lincoln Gould, chief executive of wholesale market operator EMCO, admitted last night that power supply companies could end up paying for electricity price spikes, some of which could not be explained by known data inconsistencies.</p>
+<p>In the new market, in place since October 1, there are three phases of half-hourly price determination -- a forecast price before the fact, a provisional price issued the day after power is used, and a final price set at the end of each month.  </p>
+<p>Gould said the provisional prices would not become final prices until a month later, and could be altered if it was found the prices were caused by technical problems, Gould said.</p>
+<p>As well as spikes, there had been abnormal price troughs, where prices had been well below average.</p>
+<p>Gould said some spikes occurring in the past few days, especially in the North Island, could not be explained by known data mismatches.  </p>
+<p>Data inconsistencies that had been identified included instances where a transmission line had not been operating at the beginning of a half hour, but had come on during it, causing the computer model monitoring usage to spike the price. When the model was rerun to account for the change, the spike disappeared, he said.</p>
+<p>To find explanations for the remaining spikes EMCO was urgently reviewing actual transfers and the status of power flowing through Trans Power's lines, the actual demand and injection information from purchasers, and supply and demand curve data.  </p>
+<p>&quot;It may be that some of the higher prices stand, but we don't know at this stage,&quot; Gould said.</p>
+<p>Most power supply companies would have most of their power needs locked into fixed price contracts, but the balance would be subject to the spot market price.</p>
+<p>Gould said EMCO had anticipated there would be teething problems with the new market system.</p>
+<p>&quot;But the beauty about it is that we can see them. We've got them out in the open and can do something about them,&quot; he said.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

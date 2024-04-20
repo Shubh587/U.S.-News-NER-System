@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420027" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: Franklin Holding '96 NAV $12.33 vs $14.67.</title>
+<headline>Franklin Holding '96 NAV $12.33 vs $14.67.</headline>
+<dateline>NEW YORK 1997-03-05</dateline>
+<text>
+<p>Year Ended		 Year Ended</p>
+<p>				   Dec 31, 1996	    Dec 31, 1995</p>
+<p>INCREASE (DECREASE) IN</p>
+<p>  NET ASSETS AFTER TAXES   ($1,192,111)		   $23,443</p>
+<p>INCREASE (DECREASE) IN NET</p>
+<p>  ASSETS PER COMMON SHARE	 ( 1.48)			0.03</p>
+<p> NET ASSET VALUE PER SHARE	  12.33		     14.67</p>
+<p>WEIGHTED AVERAGE NUMBER OF</p>
+<p> SHARES OUTSTANDING		 803,097		   844,172</p>
+<p>NUMBER OF SHARES OUTSTANDING</p>
+<p>  NET OF TREASURY		   801,198		   826,198</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

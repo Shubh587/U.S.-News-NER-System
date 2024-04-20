@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429915" id="root" date="1997-03-10" xml:lang="en">
+<title>CANADA: Stentor, MCI launch virtual network.</title>
+<headline>Stentor, MCI launch virtual network.</headline>
+<dateline>TORONTO 1997-03-10</dateline>
+<text>
+<p>The Stentor consortium of Canadian telephone companies and MCI Communications Corp on Monday unveiled a global virtual network service (VNS) for businesses in Canada.</p>
+<p>The network is part of Concert Communications Services' portfolio of global communications services. It will allow businesses to simplify long-distance billing, improve network management and control with uniform global standards, Stentor and MCI said.</p>
+<p>They said Concert VNS is now available in 15 countries.</p>
+<p>Stentor is made up of Bell Ontario and Bell Quebec, both owned by BCE Inc, BC Telecom Inc, AGT Ltd, wholly owned by Telus Corp  AGT.TO, New Brunswick Telephone, wholly owned by Bruncor Inc, Maritime Telegraph &amp; Telephone Co Ltd, Island Telephone Co Ltd, Newfoundland Telephone, partly owned by BCE Inc, and Saskatchewan's provincially owned SaskTel and Manitoba's recently privatized Manitoba Telecom Services Inc.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

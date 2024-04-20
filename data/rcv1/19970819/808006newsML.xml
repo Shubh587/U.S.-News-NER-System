@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="808006" id="root" date="1997-08-19" xml:lang="en">
+<title>CANADA: Canadian Exchanges Closing - Aug 19.</title>
+<headline>Canadian Exchanges Closing - Aug 19.</headline>
+<text>
+<p>T-BILLS</p>
+<p> CAN.DOLLAR 1.3943-48	1M   2.56  CALL LOAN 3.36</p>
+<p>   CAD/DEM  1.3196-06	2M   2.78</p>
+<p>   CAD/JPY  84.79-89	 3M   3.03</p>
+<p>   CAD/CHF  1.0852-62	WI   3.08  CANADA BONDS YIELD</p>
+<p>   GBP/CAD  2.2377-87	6M   3.62     2YR    100.46 4.513</p>
+<p>				   WI   3.60     5YR    107.61 5.109</p>
+<p> CANADA DOLLAR FORWARDS    1Y   4.09    10YR    104.64 5.657</p>
+<p>	 1MTH 28-27.5	  WI   4.11    30YR    107.70 5.907</p>
+<p>	 2MTH 50-49</p>
+<p>	 3MTH 74-73</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

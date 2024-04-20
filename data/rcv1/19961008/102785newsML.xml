@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102785" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Western Geophysical gets 4-D software license.</title>
+<headline>Western Geophysical gets 4-D software license.</headline>
+<dateline>HOUSTON 1996-10-08</dateline>
+<text>
+<p>Western Geophysical said an agreement with Columbia University grants the company a license to market software that can help locate untapped oil and natural gas reserves, allowing more production from existing wells.</p>
+<p>The technology, consisting of patented Lamont 4-D software, will be available from Western Geophysical as part of a service package or as a licensed software product, the Western Atlas Inc division said.  </p>
+<p>The agreement grants Western Geophysical the exclusive worldwide license to this technology for the analysis of time-lapse seismic data to monitor fluid changes in reservoirs. By monitoring how and where these fluids are bypassed or blocked, oil companies will be able to design drilling strategies to extract oil and gas that are usually left behind.  </p>
+<p>Designed by scientists at Columbia University's Lamont-Doherty Earth Observatory in Palisades, N.Y., the software was developed in conjunction with a consortium of seven oil companies. It has been tested in 15 oilfields in the North Sea and the Gulf of Mexico and is currently being used in almost half of the active 4-D projects worldwide.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

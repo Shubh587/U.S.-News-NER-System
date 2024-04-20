@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253012" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Clinton to meet airline CEOs to discuss safety.</title>
+<headline>Clinton to meet airline CEOs to discuss safety.</headline>
+<dateline>WASHINGTON 1996-12-11</dateline>
+<text>
+<p>President Bill Clinton will meet some of the nation's top airline executives on Thursday to discuss airline safety, U.S. officials said on Wednesday.</p>
+<p>White House officials declined to detail what Clinton will discuss with the executives, who are expected to include the chairmen of AMR Corp's American Airlines, UAL Corp's United Airlines and Delta Air Lines Inc.</p>
+<p>Industry newsletter Aviation Daily reported on Wednesday that the airlines are close to an agreement to begin sharing safety information under a program to be administered by the Air Transport Association (ATA), an industry trade group.</p>
+<p>The ATA, which is to send a representative to the White House meeting, has developed a system under which airlines could send information about incidents to a database that would then be analyzed for trends, the newsletter said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358855" id="root" date="1997-02-05" xml:lang="en">
+<title>JAPAN: Japan rubber stocks fall at end-Jan from Dec.</title>
+<headline>Japan rubber stocks fall at end-Jan from Dec.</headline>
+<dateline>TOKYO 1997-02-05</dateline>
+<text>
+<p>End-January rubber stock figures, issued by the Japan Rubber Trade Association, with month-earlier and year-earlier comparisons, in tonnes, were as follows:</p>
+<p>    Month	    Jan 97   Dec 96   Jan 96</p>
+<p>    Stocks	   41,599   43,244   36,116</p>
+<p>Breakdown of stocks, in tonnes</p>
+<p>    Crude rubber   35,607   37,366   29,680</p>
+<p>    Synthetic	 5,846    5,761    6,330</p>
+<p>    Latex		 146	117	106</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

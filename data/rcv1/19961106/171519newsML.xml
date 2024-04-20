@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171519" id="root" date="1996-11-06" xml:lang="en">
+<title>SPAIN: Spain 5-,15-yr yields fall,6-mth bill yield steady.</title>
+<headline>Spain 5-,15-yr yields fall,6-mth bill yield steady.</headline>
+<dateline>MADRID 1996-11-06</dateline>
+<text>
+<p>The Bank of Spain announced the following results at today's Treasury debt auction (amounts bid, allocated in billions of pesetas): ISSUE	Yield    Pvs     Price     Pvs	Bid    Allocated</p>
+<p>6-month    6.581    6.581   96.78    96.78   159.427  141.927</p>
+<p>5-year     6.907    7.319  102.10    99.70   481.214  179.037</p>
+<p>15-year    7.638    7.900  107.00   103.90    50.865   19.565</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

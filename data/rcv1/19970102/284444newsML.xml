@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284444" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Vical wins patent for DNA injection method.</title>
+<headline>Vical wins patent for DNA injection method.</headline>
+<dateline>SAN DIEGO 1997-01-02</dateline>
+<text>
+<p>Vical Inc said on Thursday it has won a U.S. patent for its its method of immunization through direct injection of DNA sequences, or genes, into muscle or skin.</p>
+<p>In a statement, Vical said its scientists and their collaborators discovered cells in some tissues can take up DNA directly and produce proteins encoded by DNA.</p>
+<p>When applied as a vaccine, this new technology can induce cellular and antibody protective immunity, Vical said.</p>
+<p>Vical shares were up one at 17-1/2 by mid-morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

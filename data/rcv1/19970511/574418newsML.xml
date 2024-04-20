@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574418" id="root" date="1997-05-11" xml:lang="en">
+<title>TAJIKISTAN: SOCCER-CHINA BEAT TAJIKISTAN IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-CHINA BEAT TAJIKISTAN IN WORLD CUP QUALIFIER.</headline>
+<dateline>DUSHANBE 1997-05-11</dateline>
+<text>
+<p>China beat Tajikistan 1-0 (halftime 0-0) in a World Cup Asian zone group eight qualifier on Sunday.</p>
+<p>Scorer: Hao Hiedoon (66)</p>
+<p>Attendance: 15,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="TADZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUSHANBE"/>
+<dc element="dc.creator.location.country.name" value="TAJIKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="628321" id="root" date="1997-05-30" xml:lang="en">
+<title>JAPAN: Japan jobless rate rises to 3.3 pct in April.</title>
+<headline>Japan jobless rate rises to 3.3 pct in April.</headline>
+<dateline>TOKYO 1997-05-30</dateline>
+<text>
+<p>Japan's seasonally adjusted unemployment rate rose to 3.3 percent in April, up from 3.2 percent in March, the government's Management and Coordination Agency said on Friday.</p>
+<p>The jobs-to-applicants ratio for April was 0.71, down from 0.73 the previous month, the Labour Ministry announced separately. This means there were 71 job openings for every 100 job seekers.  </p>
+<p>The following is a breakdown of the jobs data:</p>
+<p> (Adjusted)			    April     March     Year ago</p>
+<p> Unemployment rate		   3.3 pct   3.2 pct   3.4 pct</p>
+<p> Jobs-to-applicants ratio	  0.71	0.73	0.67</p>
+<p> (Unadjusted)			  April     March     Year ago</p>
+<p> Unemployment rate		   3.4 pct   3.5 pct   3.5 pct</p>
+<p> Number of unemployed		2.31 million  2.34 million  2.35 million</p>
+<p> Number of employed		  April	year/year change</p>
+<p> Overall				 65.74 million  +1.2 pct</p>
+<p>Main Industries:</p>
+<p> Manufacturing			 14.47 million  +2.3 pct</p>
+<p> Services				16.52 million  +2.7 pct</p>
+<p> Wholesale, retail, restaurants  14.85 million  +1.7 pct</p>
+<p> Construction			   6.71 million  +0.1 pct</p>
+<p> Agriculture			    3.46 million  -2.3 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

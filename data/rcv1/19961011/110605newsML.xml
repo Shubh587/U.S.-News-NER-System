@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110605" id="root" date="1996-10-11" xml:lang="en">
+<title>PANAMA: Panama reopens race track concession bid.</title>
+<headline>Panama reopens race track concession bid.</headline>
+<dateline>PANAMA CITY 1996-10-11</dateline>
+<text>
+<p>Panama reopened this week the pre-qualification process to operate the nation's only race track after a Chilean company pulled out, a top government official said on Friday.</p>
+<p>Chile's El Club Hipico withdrew recently after company officials could not agree on coming to Panama, Alfredo Macia, head of the government's privatization program, told Reuters.</p>
+<p>Puerto Rico's Equus Gaming Co was left as the only company qualified to participate, he said, adding that France's state betting group Pari Mutuel Urbain (PMU) has also expressed interest in participating.</p>
+<p>Panama hopes to award the contract by the end of the year. Panama's Constitution prohibits the sale of the race track, but foreign companies can operate it.</p>
+<p>-- Laurens Grant, Panama City newsroom, 507 2237739 GT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97911">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

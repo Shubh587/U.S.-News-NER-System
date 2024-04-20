@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141424" id="root" date="1996-10-24" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-10-24</dateline>
+<text>
+<p>COAL - Ocean Irene - 180,000 tones coal Richards Bay/Rotterdam Dec $6.25 fio scale load/25,000 shinc Cobelfret.</p>
+<p>ORE - Esplanade - 130,000 tonnes Tuburao/Beilun 20/11-5/12 $9.95 fio scale load/15,000 shex Eastern Rich/CSG.</p>
+<p>Jean LD - 130,000 tonnes Seven Islands/Antwerp 1-15/12 $4.75 fio six days shinc Cockerill.</p>
+<p>TBN 45,000 tonnes bauxite Trombetas/Corpus Christi 20-26/11 $8.25 fio seven days D'Amato.</p>
+<p>There were no fixtures reported from New York on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207722" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: China buys U.S. soybeans, oil in Nov 14 wk - USDA.</title>
+<headline>China buys U.S. soybeans, oil in Nov 14 wk - USDA.</headline>
+<dateline>WASHINGTON 1996-11-21</dateline>
+<text>
+<p>U.S. Agriculture Department said Thursday net U.S. soybean sales to China in the week ended Nov 14 totaled 185,400 tonnes and that soyoil sales were 42,500 tonnes.</p>
+<p>In its weekly export sales report, USDA said the soybean sale activity included 9,600 tonnes in new sales, 180,900 tonnes in destination changes and 5,100 tonnes in cancellations.</p>
+<p>It said the soyoil sales activity included 27,500 tonnes new sales, 20,000 tonnes in destination changes and 5,000 tonnes in cancellations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

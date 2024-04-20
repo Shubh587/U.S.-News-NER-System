@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="199442" id="root" date="1996-11-19" xml:lang="en">
+<title>RUSSIA: Yeltsin congratulates Romania's new president.</title>
+<headline>Yeltsin congratulates Romania's new president.</headline>
+<dateline>MOSCOW 1996-11-19</dateline>
+<text>
+<p>President Boris Yeltsin on Tuesday congratulated Emil Constantinescu on his victory in Romania's presidential election, which ended seven years of rule by ex-communists following dictator Nicolae Ceausescu's ouster.</p>
+<p>&quot;In Boris Yeltsin's message he expresses hope for the further development of ties between Russia and Romania,&quot; Itar-Tass news agency said.</p>
+<p>The victory of Constantinescu, who beat Moscow-educated incumbent Ion Iliescu in Sunday's poll on promises to speed up market reforms, has been widely welcomed by the West.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

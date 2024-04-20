@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="557982" id="root" date="1997-05-03" xml:lang="en">
+<title>POLAND: SOCCER-POLISH FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-POLISH FIRST DIVISION RESULTS.</headline>
+<dateline>WARSAW 1997-05-03</dateline>
+<text>
+<p>Results of Polish first division</p>
+<p>soccer matches played on Saturday:</p>
+<p> Stomil Olsztyn	  1    Gornik Zabrze	 1</p>
+<p> Amica Wronki	    0    Odra Wodzislaw	0</p>
+<p> GKS Katowice	    0    Lech Poznan	   1</p>
+<p> Rakow Czestochowa     2    Polonia Warszawa    0</p>
+<p> Widzew Lodz	     1    Wisla Krakow	  0</p>
+<p>Playing Sunday:</p>
+<p> LKS Lodz		  v    GKS Belchatow</p>
+<p> Zaglebie Lubin	  v    Hutnik Krakow</p>
+<p> Slask Wroclaw	   3    Sokol Tychy	   0 (walkover)</p>
+<p> Legia Warszawa	  v    Ruch Chorzow (postponed)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170720" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Johnson defeats incumbent South Dakota senator.</title>
+<headline>Johnson defeats incumbent South Dakota senator.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Democratic Representative Tim Johnson defeated third-term incumbent Republican Sen. Larry Pressler in one of the hardest-fought races in the nation on Tuesday, the CNN television network reported.</p>
+<p>Pressler, chairman of the Senate Commerce Committee, was a key player in shaping a new telecommunications law during the last session of Congress. But he was also accused of using his chairmanship to raise a huge amount of money from political action committees.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

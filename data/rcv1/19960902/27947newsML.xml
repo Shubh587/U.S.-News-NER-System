@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27947" id="root" date="1996-09-02" xml:lang="en">
+<title>SPAIN: Spanish unemployment fell 27,000 in August.</title>
+<headline>Spanish unemployment fell 27,000 in August.</headline>
+<dateline>MADRID 1996-09-02</dateline>
+<text>
+<p>Spanish unemployment fell 27,000 in August, according to advance data released by the Employment Ministry.</p>
+<p>This would bring the total number of unemployed down to 2.14 million for a jobless rate of 13.5 percent, based on July figures. Unemployment stood at 13.67 percent in July.</p>
+<p>The full August data were originally scheduled for release next week.</p>
+<p>--Madrid Newsroom +34 1 585 2161</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

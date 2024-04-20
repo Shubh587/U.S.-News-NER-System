@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400323" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: FDA panel recommends Molecular Bio agent okay.</title>
+<headline>FDA panel recommends Molecular Bio agent okay.</headline>
+<dateline>SAN DIEGO 1997-02-25</dateline>
+<text>
+<p>Molecular Biosystems Inc said on Tuesday that the Radiology Device Advisory Panel of the U.S. Food and Drug Administration voted to recommend approval without conditions for the company's second generation ultrasound imaging agent, FS069.</p>
+<p>According to Molecular Biosystems, the Advisory Panel took the position that there is reasonable assurance FS069 is safe and effective to support an FDA approval.</p>
+<p>FS069 is designed to enhance ultrasound imaging by enabling physicians to visualize blood flow and enhance resolution of anatomical structure where ultrasound alone is inadequate.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

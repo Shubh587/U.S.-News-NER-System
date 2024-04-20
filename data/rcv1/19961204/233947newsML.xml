@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233947" id="root" date="1996-12-04" xml:lang="en">
+<title>MEXICO: Mexico's Bufete wins contracts for $14 mln.</title>
+<headline>Mexico's Bufete wins contracts for $14 mln.</headline>
+<dateline>MEXICO CITY 1996-12-04</dateline>
+<text>
+<p>Bufete Industrial SA de CV, Mexico's construction company, said it had been awarded three contracts worth approximately $14 million through its Chilean subsidiary Empresas de Obras y Montajes Ovalle, Moore SA.</p>
+<p>One project includes the civil works and technical installation of what is to be the largest telescope in the world for the European Southern Observatory at the Cerro Paranal site in Chile.</p>
+<p>Another contract is for mining tunnel connections for state-owned copper company Codelco and another is for a drainage tunnel window.</p>
+<p>--Chris Aspin, Mexico City newsroom +525 7289530</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

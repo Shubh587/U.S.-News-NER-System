@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83597" id="root" date="1996-09-29" xml:lang="en">
+<title>USA: Canada has solid economic recovery - Martin.</title>
+<headline>Canada has solid economic recovery - Martin.</headline>
+<dateline>WASHINGTON 1996-09-29</dateline>
+<text>
+<p>Canada's economic recovery is solid but it is too soon to cut taxes, Finance Minister Paul Martin said on Sunday.</p>
+<p>&quot;Economic recovery is firmly anchored. There is no doubt that lower interest rates are the main reason,&quot; he told reporters at the start of the IMF's Interim Committee meeting.</p>
+<p>Martin noted the housing and manufacturing sectors had improved considerably along with competitiveness, adding: &quot;But now is not the time for broad-based tax cuts&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

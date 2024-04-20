@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="686199" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: ETrade Web site crashes during busy Dow session.</title>
+<headline>ETrade Web site crashes during busy Dow session.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>SAN FRANCISCO 1997-06-25</dateline>
+<text>
+<p>E*Trade Group Inc.'s stock-trading site on the World Wide Web crashed for an hour on Tuesday just as the Dow Jones industrial average was soaring, forcing investors to use the phone instead of their personal computers.</p>
+<p>A faulty disk drive caused the E*Trade system to halt, and backup systems designed to keep the system going in case of a malfunction could not operate, the company said Wednesday. PC users who tried to pull up the site on their screens saw a message that told them to call in their trades.</p>
+<p>The crash was the second in a year for E*Trade. In May 1996, its site shut down, costing the company about $1.7 million in refunds to investors who could not trade.</p>
+<p>This time, every trade was executed, so the Palo Alto, Calif.-based company will not have to pay any money, a spokeswoman said. But the gaffe could damage the reputation of E*Trade and other online brokerages, analysts said.</p>
+<p>&quot;It's certainly not going to endear people to online trading, given the concerns about it,&quot; said David Weisman, director of money and technology research at Forrester Research Inc., a Boston-based market researcher. Online brokerages &quot;need to start thinking about this as a mission-critical system.&quot;</p>
+<p>Actually, E*Trade is better off than most online brokerages because the company has an extensive telephone order-taking system, Weisman said. Some online brokerages emphasise PC-access only.</p>
+<p>E*Trade's own stock did not suffer Wednesday. It closed unchanged at about $19.97.</p>
+<p>E*Trade said the average wait on the phone was three minutes per trade. E*Trade clocked each call, compensating any price difference between when the call was made and when the customer spoke with a broker.</p>
+<p>The company said a system change over the weekend prevented the backup process to kick in when the disk drive failed. Operations returned to normal Wednesday, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

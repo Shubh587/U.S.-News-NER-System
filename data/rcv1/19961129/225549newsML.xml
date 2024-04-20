@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225549" id="root" date="1996-11-29" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-11-29</dateline>
+<text>
+<p>COAL - Sea Grace - 120,000 tonnes Queensland/Kaohsiung end Jan $5.00 fio 40,000/28,000 shinc CSC.</p>
+<p>TBN 40,000 tonnes coke Xingang/Piombino 1-15/12 $16.00 Duferco.</p>
+<p>ORE - SGC Pioneer - 150,000 tonnes Ponta da Madeira/Rotterdam Dec $5.00 fio six days shinc Rohstoffhandel.</p>
+<p>Karoc - 140,000 tonnes Saldanha/ two trips China 10-25/1 $8.00 fio scale load/30,000 shinc Bao Island.</p>
+<p>TBN 60,000 tonnes New Mangalore/Kaohsiung 26/12-6/1 high $6.00s CSC.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

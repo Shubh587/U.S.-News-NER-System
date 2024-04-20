@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106008" id="root" date="1996-10-09" xml:lang="en">
+<title>UK: UK bookmakers says bets on Scotland match void.</title>
+<headline>UK bookmakers says bets on Scotland match void.</headline>
+<dateline>LONDON 1996-10-09</dateline>
+<text>
+<p>British bookmakers William Hill said bets laid on Scotland's World Cup match against Estonia were void.</p>
+<p>Scotland were awarded a 3-0 victory in their European group four qualifier in Tallinn after their Estonian opponents failed to turn up for the match after it was rescheduled.</p>
+<p>&quot;Our rules clearly state that if a game is abandoned before 90 minutes play takes place then all bets are void,&quot; the company said in a statement.</p>
+<p>The company had quoted Scotland as 1-5 to win the match, with the draw at 9-2 and Estonia at 8-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

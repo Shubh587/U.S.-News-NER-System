@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335485" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: BI Inc acquires patent from CAE Inc.</title>
+<headline>BI Inc acquires patent from CAE Inc.</headline>
+<dateline>BOULDER, Colo. 1997-01-27</dateline>
+<text>
+<p>BI Inc said it acquired from CAE Inc a patent that includes &quot;tracking&quot; technologies such as geolocation and telecommunications capabilities.</p>
+<p>BI said will use the acquired technology specifically for the corrections industry.</p>
+<p>&quot;Understandably, the corrections environment presents a challenging application for full time tracking of individuals. We will offer this technology to our customers only after it's been thoroughly tested and proven reliable for application in a community corrections setting,&quot; said Mckinley Edwards Jr, BI's chief operating officer.</p>
+<p>BI provides electronic monitoring equipment and services, corrections information systems and community correctional services to the criminal justice market worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

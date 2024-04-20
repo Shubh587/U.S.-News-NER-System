@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="683317" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Avesta Technology in partnership with NYNEX.</title>
+<headline>Avesta Technology in partnership with NYNEX.</headline>
+<dateline>NEW YORK 1997-06-24</dateline>
+<text>
+<p>Privately-held Avesta Technologies said its partnership with NYNEX Corp will develop Intranet and Extranet applications for the financial services industry.</p>
+<p>The first step in the initiative will include Avesta's product Niagara, a subscriber-based JAVA application, the company said.</p>
+<p>Niagara delivers customizable real-time information, the company said, adding it is suited for Intranet and Extranet delivery of financial information, news, research and messaging for a closed user group.  </p>
+<p>Avesta Technologies provides information management services and is not related to the Swedish-British steel company Avesta Sheffield AB.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

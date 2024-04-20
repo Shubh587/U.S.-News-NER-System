@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33951" id="root" date="1996-09-05" xml:lang="en">
+<title>CANADA: Canadian pulp producers plan price increase.</title>
+<headline>Canadian pulp producers plan price increase.</headline>
+<dateline>VANCOUVER 1996-09-05</dateline>
+<text>
+<p>Two Canadian pulp producers confirmed Thursday plans to increase prices by at least US$50 a tonne starting October 1.</p>
+<p>Harmac Pacific Inc said it told customers that its pulp price would rise to US$630 from US$580 while Canfor Corp announced an increase to US$620 from US$560.</p>
+<p>Canfor chief financial officer Gordon Armstrong said the move reflects &quot;increased market demand...and paper prices seem to be moving up.&quot; But some industry analysts questioned whether customers would accept the increase.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

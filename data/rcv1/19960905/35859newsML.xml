@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35859" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Strouds August same store sales fall.</title>
+<headline>Strouds August same store sales fall.</headline>
+<dateline>CITY OF INDUSTRY, Calif. 1996-09-05</dateline>
+<text>
+<p>Strouds Inc Thursday said sales for the four-week period ended August 31 rose to $15.6 million from $13.5 million for the same period last year, but same store sales fell 4.2 percent.</p>
+<p>Net sales for the 26 weeks ended August 31 were $95.9 million compared with $85.9 million for the same period last year. Year-to-date same store sales rose 2.0 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CITY OF INDUSTRY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

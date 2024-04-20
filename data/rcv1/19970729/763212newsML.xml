@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763212" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: Wisconsin unemployment rises to 3.6 pct in June.</title>
+<headline>Wisconsin unemployment rises to 3.6 pct in June.</headline>
+<dateline>MADISON, Wis. 1997-07-29</dateline>
+<text>
+<p>Wisconsin's seasonally adjusted unemployment rate rose to 3.6 percent in June from 3.4 percent in May, the state Workforce Development Department reported Tuesday.</p>
+<p>Seasonally adjusted employment is at an all-time high in Wisconsin as well and the June unemployment rate ran slightly higher than the 3.5 percent reported a year ago, the department reported.</p>
+<p>Nonfarm employment rose about 33,700 jobs in June over May and reflected an increase of 48,200 jobs over a year ago, the department reported.</p>
+<p>The national seasonally adjusted unemployment rate was 5 percent in June, up from 4.8 percent in May and down from 5.3 percent reported a year ago.</p>
+<p>((--David Bailey, Chicago Newsroom, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADISON, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

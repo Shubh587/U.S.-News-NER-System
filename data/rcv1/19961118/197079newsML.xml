@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197079" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Omaha cattle fully steady - USDA.</title>
+<headline>Omaha cattle fully steady - USDA.</headline>
+<dateline>OMAHA 1996-11-18</dateline>
+<text>
+<p>USDA said slaughter steers and heifers fully steady, fairly active.</p>
+<p>Steers: Select to Choice 2-4 1100-1350 lbs 73.50-75.00, package 76.00. Select 70.00-73.00.</p>
+<p>Heifers: Select to Choice 2-4 1000-1250 lbs 73.00-75.00. Select 70.00-73.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

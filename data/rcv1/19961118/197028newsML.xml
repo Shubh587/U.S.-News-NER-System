@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197028" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Amoco Tuscaloosa Trend well in production.</title>
+<headline>Amoco Tuscaloosa Trend well in production.</headline>
+<dateline>CHICAGO 1996-11-18</dateline>
+<text>
+<p>Amoco Corp said its new discovery in the Tuscaloosa Trend is producing at a rate of 18 million cubic feet of natural gas and 450 barrels of condensate daily.</p>
+<p>The recently completed well in the Judge Digby field is in the Tuscaloosa Trend, north and west of Baton Rouge, La.</p>
+<p>Amoco said the natural gas is being produced from perforations at a depth of 21,500 feet and at a flowing tubing pressure of 8,900 pounds per square inch.</p>
+<p>Amoco, an international oil company, said it expects to drill up to five more wells in the Judge Digby field, where it is the operator and owns about an 85 percent working interest.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

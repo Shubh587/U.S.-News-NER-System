@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="267937" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Judge rules against U.S. encryption export laws.</title>
+<headline>Judge rules against U.S. encryption export laws.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-12-18</dateline>
+<text>
+<p>A federal judge in California ruled on Wednesday that a U.S. law limiting the export of encryption software and devices violates the First Amendment.</p>
+<p>The decision by U.S. District Court Judge Marilyn Hall Patel in San Francisco comes at a time when the topic of restrictions on exporting encryption technology is roiling Washington and putting the computer industry and the U.S. government at loggerheads.</p>
+<p>The decision immediately brought cheers from computer executives.</p>
+<p>&quot;It sets the base principle that supports our argument to relax the data policy regulations,&quot; said Tandem Computers Inc. chief executive officer Roel Pieper.</p>
+<p>&quot;I think Silicon Valley will be very excited about this decision,&quot; said Piper Cole, public policy director at Sun Microsystems Inc..</p>
+<p>The computer industry sees use of encryption technology across country borders as essential for advancing electronic commerce and private communications over the Internet.</p>
+<p>The Clinton administration maintains that national security interests require that the government be able to unscramble encryption technolgoy that is exported, and President Bill Clinton signed an executive order to that effect Nov. 15.</p>
+<p>Judge Patel ruled on a case brought by a University of California graduate student who now teaches at the University of Illinois seeking injunctive relief from the Arms Export Control Act and the Interational Traffic in Arms Regulations.</p>
+<p>Her decision gave some victory to both sides of the encryption export debate, however, in that she granted some of what the plaintiff sought and denied other points.</p>
+<p>But the part of Patel's 40-page decision that evoked cheers from several Silicon Valley executives was her agreement with plaintiff Daniel Bernstein that the International Traffic in Arms Regulations constitutes prior restraint of speech.</p>
+<p>Patel denied Bernstein an injunction from prosecution under terms of the two laws, citing no immediate threat partly because her court had just ruled parts of the laws invalid.</p>
+<p>Several members of Congress have proposed bills to relax export restrictions on encryption technology found in those laws, but the Clinton administration has opposed them.</p>
+<p>Pieper is one of a group of computer industry executives who have been trying to lobby Congress, the Central Intelligence Agency and other agencies on this issue.</p>
+<p>Lori Fena, executive director of the Electronic Frontier Foundation, an organization backing freedom over the Internet, said the most interesting part of the ruling may be that it puts the encryption export debate in the hands of the courts instead of in the muddled political arena.</p>
+<p>&quot;It might be a situation where reasoned understanding of the technology and the law by the judicial branch may be what sorts out cyberspace,&quot; Fena said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

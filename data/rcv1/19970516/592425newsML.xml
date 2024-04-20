@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592425" id="root" date="1997-05-16" xml:lang="en">
+<title>JAPAN: Moody's rates TEPCO's 1 bln mark bonds Aaa.</title>
+<headline>Moody's rates TEPCO's 1 bln mark bonds Aaa.</headline>
+<dateline>TOKYO 1997-05-16</dateline>
+<text>
+<p>Moody's Investors Service said on Friday it had assigned an Aaa rating to Tokyo Electric Power Co Inc's (TEPCO) 4.75 percent bonds worth one billion marks maturing in 2002.</p>
+<p>The rating is based on TEPCO's importance to the national economy and the very favourable industry operating environment, the rating agency said.</p>
+<p>Moody's also said it expects that a favourable operating environment will continue to allow TEPCO to operate with a low degree of industry risk.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47478" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: CBOT silver deliveries - Sept 11.</title>
+<headline>CBOT silver deliveries - Sept 11.</headline>
+<dateline>CHICAGO 1996-09-11</dateline>
+<text>
+<p>Delivery notices against September silver futures for September 12 (In contracts).</p>
+<p>Bot-Silver 1 - 6. Oldest long - Sept 4, 1996.</p>
+<p>Delivered - 1st option/c 6.</p>
+<p>Received - Prudential/c 3, LFG/c 3.</p>
+<p>Delivery locations - 3 at Chicago 4002.</p>
+<p>Source: Chicago Board of Trade Clearing Corp.</p>
+<p>H=House account. C=Customer Account.</p>
+<p>(Chicago newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

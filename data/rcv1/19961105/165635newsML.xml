@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165635" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Ariz. 720 MW Four Corners coal-fired unit shut.</title>
+<headline>Ariz. 720 MW Four Corners coal-fired unit shut.</headline>
+<dateline>LOS ANGELES 1996-11-05</dateline>
+<text>
+<p>The 720-megawatt (MW) unit 4 at the Four Corners coal-fired power plant in Arizona was shut Monday night due to a boiler tube leak, sources familiar with the plant's operations said Tuesday.</p>
+<p>A rough estimate is that the unit will be down for six days, they said.</p>
+<p>The Four Corners plant also has a 750 MW unit, two 175 MW units and one at 200 MW, all of which are said to be operating normally.</p>
+<p>Arizona Public Service Co, a subsidiary of Pinnacle West Capital Corp, has a 15 percents take in Four Corners' units 4 and 5, while Edison International's, Southern California Edison Co holds a 48 percent stake.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

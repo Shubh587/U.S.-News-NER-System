@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95768" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: CME drops proposal to ban certain pit orders.</title>
+<headline>CME drops proposal to ban certain pit orders.</headline>
+<dateline>CHICAGO 1996-10-04</dateline>
+<text>
+<p>Chicago Mercantile Exchange directors dropped a proposal to ban certain types of pit orders that could potentially be used to guarantee prices, the CME said.</p>
+<p>The CME's Ad Hoc Committee to Review Trading Issues proposed banning discretionary orders with a limit as a way to tighten rules prohibiting brokers from guaranteeing prices.</p>
+<p>&quot;While the board strongly supports the committee's efforts, the board was of the belief that the committee's proposal to ban certain orders needed refinement,&quot; the CME board said in a letter to members.  </p>
+<p>While the CME and the Commodity Futures Trading Commission prohibit guaranteeing prices to customers, the ad hoc committee believed that discretionary orders with a limit could be used in this way.</p>
+<p>A discretionary order with a limit gives a broker flexibility to try to get the best possible price for a customer, while barring the customer from lodging charges of negligence against the broker if the order is not filled to his liking.  </p>
+<p>&quot;It's giving the broker discretion with the understanding that they are not going to be held to the uptick rule,&quot; James Oliff, a CME director and chairman of the ad hoc committee, said in an interview.</p>
+<p>Under the uptick rule, the broker could be liable for negligence if the market ticks up through a specified level and the broker fails to fill a customer's order at that level.</p>
+<p>Oliff said the discretionary orders relieved the broker from negligence, and were appropriate as long as the broker was not guaranteeing an execution and the customer clearly understood that he had relieved the broker from negligence.</p>
+<p>&quot;What the board said was we have those rules on our books and that any form of guaranteeing prices is illegal, we don't care what you call it, and if we detect it we will prosecute it,&quot; Oliff said.</p>
+<p>&quot;The intent of the board was there was no need to make a duplicative rule -- the rule is already in our books,&quot; Oliff said.</p>
+<p>He said his committee would continue to discuss the issue. -Derivatives Desk 312-408-8750;E-mail derivatives@reuter.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

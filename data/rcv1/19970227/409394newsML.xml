@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="409394" id="root" date="1997-02-27" xml:lang="en">
+<title>NETHERLANDS: Dutch December consumer spending rises 1.2 pct.</title>
+<headline>Dutch December consumer spending rises 1.2 pct.</headline>
+<dateline>VOORBURG, Netherlands 1997-02-27</dateline>
+<text>
+<p>Dutch consumer spending rose 1.2 percent in volume terms in December compared with December 1995, the Central Bureau of Statistics (CBS) said.  </p>
+<p>Dutch full-year 1996 gross domestic product (GDP) rose a provisional 2.7 percent year-on-year, the Central Bureau of Statistics (CBS) said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VOORBURG, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

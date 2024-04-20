@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302034" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: American Air cancels flights due to weather.</title>
+<headline>American Air cancels flights due to weather.</headline>
+<dateline>DALLAS 1997-01-13</dateline>
+<text>
+<p>American Airlines said it was cancelling about 35-40 percent of its flights into and out of Dallas-Fort Worth International Airport on Monday and a similar amount on Tuesday because of snow storms and icy conditions.</p>
+<p>The carrier said in a news release that about 600 American Airlines and American Eagle flights would be cancelled on Monday, accounting for almost 40 percent of the total 1,560 daily flights it normally has into and out of the airport.  </p>
+<p>It said forecasts were for more snow overnight and freezing rain early on Wednesday morning. &quot;We expect to cancel at least 40 percent of our DFW (Dallas-Fort Worth) operation again tomorrow,&quot; the carrier said.</p>
+<p>It said American Airlines' operations at Austin, San Antonio and Houston were also &quot;significantly affected&quot; by the winter storms, as were American Eagle flights to and from cities south and east of Dallas.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

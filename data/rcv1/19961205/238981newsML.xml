@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238981" id="root" date="1996-12-05" xml:lang="en">
+<title>GERMANY: German Oct wholesale sales up 0.7 pct from Sept.</title>
+<headline>German Oct wholesale sales up 0.7 pct from Sept.</headline>
+<dateline>WIESBADEN, Germany 1996-12-05</dateline>
+<text>
+<p>The Federal Statistics Office reported the following economic indicator:</p>
+<p> GERMAN WHOLESALE SALES	 Oct 96    Sept 96	 Oct 95</p>
+<p> Mth-on-mth change (adj,pct)   +0.7     +0.7	     +1.0</p>
+<p> Yr-on-yr change (unadj,pct)   +5.0     -1.2	     +0.6</p>
+<p> Index (adj, base 1991)	 101.4    100.7	     101.2</p>
+<p>NOTE - Month-on-month and index figures are seasonally and calendar adjusted. Year-on-year is unadjusted. All figures are real. Previously announced data in brackets.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

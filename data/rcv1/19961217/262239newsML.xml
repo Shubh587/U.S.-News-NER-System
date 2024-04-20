@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262239" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 17-DEC.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 17-DEC.</headline>
+<text>
+<p>Tropical Cyclone Ophelia, with 65 mph winds, is south of Java in the Southeast Indian Ocean near 14s/114e, moving east at 11 mph. Ophelia will continue on an easterly track before turning more southweserly. Top winds will be near 70 mph by 24 hours before gradually weakening thereafter. It remains well off the Northwest Australia coast at this time, and is only a threat to shipping south of Java.  </p>
+<p>Tropical Depression 41W is nearly stationary in the far southern South China Sea near 3n/110e. Top winds are near 30 mph and may weaken slightly during the next 36 hours, remaining over open water as a minor to moderate shipping threat.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

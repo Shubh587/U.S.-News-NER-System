@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751480" id="root" date="1997-07-23" xml:lang="en">
+<title>SWEDEN: Sweden reduces six-month t-bill issue volume.</title>
+<headline>Sweden reduces six-month t-bill issue volume.</headline>
+<dateline>STOCKHOLM 1997-07-23</dateline>
+<text>
+<p>Sweden's national debt office said on Wednesday it reduced the issue volume of six-month T-bills from five billion to 1.9 billion at the weekly auction.</p>
+<p>					    176 day bill    322 day bill</p>
+<p> Volume issued (billion Skr)	  1.898	     4.997</p>
+<p> Total bids (billion Skr)	     2.498	     6.640</p>
+<p> Number of accepted bids		   19		  33</p>
+<p> Number of bids				22		  41</p>
+<p> Lowest rate				4.230	     4.415</p>
+<p> Highest accepted rate		  4.250	     4.440</p>
+<p> Weighted average rate		  4.244	     4.430</p>
+<p> Percent served at highest rate	 100	     54.62</p>
+<p>-- Stockholm newsroom +46-8-700-1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

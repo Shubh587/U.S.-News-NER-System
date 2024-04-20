@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260749" id="root" date="1996-12-17" xml:lang="en">
+<title>UK: London LIFFE futures APT closing prices.</title>
+<headline>London LIFFE futures APT closing prices.</headline>
+<dateline>LONDON 1996-12-17</dateline>
+<text>
+<p>London International Financial Futures Exchange automated pit trading (APT) tabular details:</p>
+<p>   CONTRACT (MONTH)	APT CLOSE  SETTLEMENT  PREVIOUS SETTLE</p>
+<p>   LONG GILT (DEC) (1/32)   109-16	109-15	     109-26</p>
+<p>   SHORT STERLING (DEC)	93.60	 93.60		93.62</p>
+<p>   GERMAN GOVT BOND (MAR)    99.84	 99.83	     100.20</p>
+<p>   EUROMARK (MAR)		96.92	 96.92		96.69</p>
+<p>   ITALIAN GOVT BOND (MAR)  128.35	128.29	     128.93</p>
+<p>   EUROLIRA (MAR)		93.62	 92.62		92.80</p>
+<p>   EUROSWISS (MAR)	     98.12	 98.12		97.94</p>
+<p>   FTSE 100 (DEC)	   3,976.00    3,972.00	   3,989.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

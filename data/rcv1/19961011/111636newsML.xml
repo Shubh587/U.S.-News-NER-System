@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111636" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U.S. 1996 upland cotton in major states -USDA.</title>
+<headline>U.S. 1996 upland cotton in major states -USDA.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>USDA 1996 upland cotton production and acreage estimates in major states.</p>
+<p>    PRODUCTION, 1,000 bales:	YIELD, lbs/acre:</p>
+<p> -	1996--Prev.96     1995    1996--Prev.96  1995</p>
+<p> AZ    790.0    810.0    793.0    1,170  1,200  1,046</p>
+<p> AR  1,530.0  1,530.0  1,468.0	742    742    635</p>
+<p> CA  2,500.0  2,350.0  2,312.0    1,206  1,134    953</p>
+<p> GA  2,000.0  2,000.0  1,941.0	698    698    625</p>
+<p> LA  1,340.0  1,380.0  1,375.0	684    705    614</p>
+<p> MS  1,670.0  1,640.0  1,841.0	778    764    622</p>
+<p> TX  3,850.0  3,650.0  4,460.0	451    427    372</p>
+<p>HARVEST ACRES, 1,000s:</p>
+<p> -	1996--Prev.96     1995</p>
+<p> AZ    324.0    324.0    364.0</p>
+<p> AR    990.0    990.0  1,110.0</p>
+<p> CA    995.0    995.0  1,165.0</p>
+<p> GA  1,375.0  1,375.0  1,490.0</p>
+<p> LA    940.0    940.0  1,075.0</p>
+<p> MS  1,030.0  1,030.0  1,420.0</p>
+<p> TX  4,100.0  4,100.0  5,750.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146181" id="root" date="1996-10-27" xml:lang="en">
+<title>AUSTRALIA: Australia split into five time zones.</title>
+<headline>Australia split into five time zones.</headline>
+<dateline>SYDNEY 1996-10-27</dateline>
+<text>
+<p>Australia was split into five time zones on Sunday when daylight saving started in some states and territories.</p>
+<p>Clocks moved forward one hour in Victoria, New South Wales and the Australian Capital Territory on Sunday, putting the two states and territory 11 hours ahead of GMT.</p>
+<p>Clocks also went forward an hour in South Australia, putting that state 10-1/2 hours ahead of GMT. The southern island state of Tasmania started daylight saving last month, putting it 11 hours ahead of GMT.</p>
+<p>The northern state of Queensland remains on its standard time 10 hours ahead of GMT, Western Australia remains eight hours ahead of GMT and the Northern Territory stays 9-1/2 hours ahead of GMT.</p>
+<p>It is up to individual Australian states and territories to decide whether or not to adopt summer time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

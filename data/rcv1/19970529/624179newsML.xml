@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624179" id="root" date="1997-05-29" xml:lang="en">
+<title>UK: Trade associations set market conventions for euro.</title>
+<headline>Trade associations set market conventions for euro.</headline>
+<dateline>LONDON 1997-05-29</dateline>
+<text>
+<p>Five leading international financial trade associations recommended on Thursday a series of conventions for money and bond transactions issued after the launch of a single European currency.</p>
+<p>They set a standard basis for day counts, settlements, fixing periods and business days to be applied under the Economic and Monetary Union (EMU). They said they expected the European Commission to adopt the conventions &quot;without too much controversy&quot;.</p>
+<p>&quot;It's a very short time until EMU is due to start and programmers have a lot of work to do,&quot; Matthew Elderfield, director of European policy at ISDA (International Swaps and Derivatives Association) told a news conference.</p>
+<p>Harmonised conventions, drawn up after consulting with individual governments and the Commission, would promote liquidity and transparency that would be created by the euro, he said.</p>
+<p>&quot;Harmonised conventions will allow you to avoid disputes and confusion in the market.&quot;</p>
+<p>The trade associations, supported by Euroclear and CEDEL, are Association Cambiste International (ACI), International Paying Agents Association (IPAA), International Primary Market Association (IPMA), International Securities Markets Association (ISMA) and International Swaps and Derivatives Association (ISDA).</p>
+<p>Elderfield said the recommendations provided a basis for standard practice, but added parties to a financial contract could specify their own terms at any time. Government issuers however should ensure the use of common standards for euro-denominated benchmark bond issues.</p>
+<p>The harmonised standards should be applied for financial instruments which enter into force after the launch of a single currency. Applying these to existing instruments, including bonds that redenominate into euro, would present complications, the associations said.</p>
+<p>&quot;We are recommending that any current issuance stick to their existing conventions. We are very sensitive of a mismatch,&quot; said Elderfield.</p>
+<p>The associations recommended the following conventions for the euro money and bond markets:</p>
+<p>EURO MONEY</p>
+<p>Day Count Basis  -- actual/360, in line with common practice in EU markets and already proposed by the European Monetary Institute (EMI).</p>
+<p>Settlement Basis -- spot/two day.</p>
+<p>Fixing Period for Derivatives Contracts -- two day rate fixing convention.</p>
+<p>Business Days -- TARGET operating days forming the basis for euro business days. This should ensure the availibility of euro payments arrangements throughout all EMU countries on a day identified as a euro business day. TARGET is the payment system developed by the EMI.</p>
+<p>The associations recommended the number of non euro business days be limited to 1 January and 25 December.</p>
+<p>EURO BOND</p>
+<p>Day Count Basis -- actual/actual. This, as opposed to 30/360 method, is most prevalent in the EU, including in France, Britain and Italy.</p>
+<p>Quotation Basis -- decimals, rather than fractions.</p>
+<p>Business Days -- TARGET operating days forming the basis for euro business days</p>
+<p>Coupon Frequency -- The associations did not recommend a standardised practice as there were strong arguments for the use of either a semi-annual or annual payment basis.</p>
+<p>Settlement Dates -- T plus three business day cycle for cross border transactions.</p>
+<p>-- Clelia Oziel, International Bonds +44-171-542 8663</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

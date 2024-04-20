@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263255" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Hallmark says 1996 net revenues up six percent.</title>
+<headline>Hallmark says 1996 net revenues up six percent.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-18</dateline>
+<text>
+<p>Hallmark Cards Inc said on Wednesday that it estimated 1996 consolidated net revenues of $3.6 billion, up six percent from 1995 net revenues.</p>
+<p>The company said it will contribute $48.1 million to its Employee Profit Sharing and Ownership Plan. The contribution rate for 1996 will be 10 percent of employees' eligible earnings, up from 8.5 percent in 1995.</p>
+<p>Although Hallmark does not announce profits, it did tell employees that they achieved their profit plan and that profits grew at a faster rate than revenues.</p>
+<p>Hallmark is a leading publisher of greeting cards and related personal expression products.</p>
+<p>((--Kansas City bureau, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="781875" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Postal Service e-mail moves -- too little, too late?.</title>
+<headline>Postal Service e-mail moves -- too little, too late?.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>The U.S. Postal Service has discovered electronic mail. But is it too late?</p>
+<p>The federal government's postal service, begun more than 200 years ago when Benjamin Franklin became the country's first postmaster general, has embarked on a series of e-mail and Internet-commerce experiments that could launch it into the digital age.</p>
+<p>But Internet industry insiders had mixed reactions, with some believing the agency's longevity and public trust will work to its advantage and others claiming it's too late to make a mark.</p>
+<p>The USPS (http://www.usps.gov) expects to begin limited market tests of electronic postmarks and e-mail storage this fall and could begin providing those services to the general public by summer 1998, according to Leo Campbell, the agency's electronic-commerce manager.</p>
+<p>In addition, the post office is debating offering free e-mail forwarding, the digital equivalent of the change-of-address service it currently provides.</p>
+<p>Also being considered: whether the post office should become a so-called certification authority, an agency that will hand out the digital certificates and encrypted public keys consumers and merchants will use to make secure credit-card purchases and other online transactions.</p>
+<p>The agency's long history of moving messages, merchandise and money puts it in an excellent position to become the Electronic Postal Service, &quot;if we can move those hard-copy attributes to the electronic world,&quot; Campbell said.</p>
+<p>Tracy Crowe, product marketing manager for the popular Eudora e-mail software programme from Qualcomm Inc.(http://www.qualcomm.com), in San Diego, agrees.</p>
+<p>The biggest thing the postal service has going is that people trust it, Crowe said. &quot;Once you drop a letter in that blue box, you have a high confidence that if someone tampers with it, the government will prosecute them to the full extent of the law,&quot; Crowe said.</p>
+<p>According to Crowe, that trust could go a long way if the agency decided to become a certification authority or offer e-mail archiving or an electronic postmark that would verify when an e-mail message was sent and received, and who sent it.</p>
+<p>To put an electronic postmark on a piece of e-mail, a consumer would send a message intended for a third party first to a USPS e-mail address, where it would receive a digital time and date stamp. The message then would be enclosed in an electronic &quot;seal&quot; and forwarded to the recipient, who would open the seal with an encrypted key. The proposed cost of the service: 22 cents per 50 kilobyte message, according to USPS' Campbell. Consumers would pay for the service through accounts linked to their checkbook or credit card, or in the case of a business, through an existing postal account, he said.</p>
+<p>The USPS has been running limited tests of electronic postmarks with unnamed companies in health care, legal and banking industries as well as other government agencies. In those tests, the system worked with popular e-mail software and Web-based e-mail systems &quot;98 percent of the time,&quot; Campbell said.</p>
+<p>The agency recently expanded the tests to Internet service providers and other companies and got a good response, he said. &quot;This has been the easiest thing to sell ever,&quot; he said.</p>
+<p>But by waiting until now to gear up for electronic communications, the USPS has put itself at a severe disadvantage, said Kate Delhagen, an analyst with Forrester Research who follows the e-mail market.</p>
+<p>U.S. Internet users send 100 million to 150 million e-mail messages a day, all without the help of the postal service, Delhagen said.</p>
+<p>&quot;The question is, is it too late to enter this market where people already have established behaviours,&quot; she said.</p>
+<p>In the e-mail forwarding business, for example, the agency would be competing with Internet start-up companies such as Bigfoot (http://www.bigfoot.com) while users of free e-mail services have grown to 5 million in less than a year.</p>
+<p>&quot;The (postal service) is a huge bureacracy, a well-oiled machine with a very rich base,&quot; she said. &quot;They're not that motivated. They don't have the same urgency of some hungry start-up.&quot;</p>
+<p>At a recent Internet payments conference, Campbell acknowledged as much, sharing with attendees the difficulties of promoting digital communications to USPS executives who don't use e-mail -- or the Internet.</p>
+<p>But the opportunities are too great not to take advantage of, said Qualcomm's Crowe. &quot;Ninety percent of the communicating I do with my friends is over e-mail because it's so much easier,&quot; he said. &quot;E-mail is here to stay.&quot;</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own.)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

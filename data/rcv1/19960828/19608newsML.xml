@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19608" id="root" date="1996-08-28" xml:lang="en">
+<title>SWITZERLAND: Zurich opens Japan, China offices.</title>
+<headline>Zurich opens Japan, China offices.</headline>
+<dateline>ZURICH 1996-08-28</dateline>
+<text>
+<p>Zurich Insurance Group said it had received approval from the Japanese Ministry of Finance to begin life insurance operations in the country.</p>
+<p>It has been operating non-life business in the country since 1986, Zurich said in a press statement.</p>
+<p>The new office will be called Zurich Life Insurance Company, Japan branch.</p>
+<p>Zurich has also received approval from authorities in China to establish a representative office in Shanghai, it said. Zurich has been represented in Beijing since 1993.</p>
+<p>Zurich is already present in Asia with branch offices in Guam, Hong Kong, Indonesia, Japan, Malaysia, Papua New Guinea, Singapore, Taiwan. It has affiliated companies in the Philippines, as well as representive offices in China and Vietnam.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

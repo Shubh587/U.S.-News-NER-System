@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272140" id="root" date="1996-12-22" xml:lang="en">
+<title>HONG KONG: HK Observatory reports quake north of Japan.</title>
+<headline>HK Observatory reports quake north of Japan.</headline>
+<dateline>HONG KONG 1996-12-23</dateline>
+<text>
+<p>An intense earthquake was recorded off northern Japan about 200 km west of Sapporo, the Royal Hong Kong Observatory said.</p>
+<p>The quake, estimated to be 6.0 on the Richter scale, was recorded at 10.59 p.m. on Sunday (1459 GMT).</p>
+<p>The epicentre was initially determined to be off the western coast of northern Japan west of Sapporo, Hokkaido, at 43.2 N 138.9 E, the observatory said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

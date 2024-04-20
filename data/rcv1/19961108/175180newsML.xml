@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175180" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: AT&amp;T Worldnet users hit by E-mail glitch.</title>
+<headline>AT&amp;T Worldnet users hit by E-mail glitch.</headline>
+<dateline>NEW YORK 1996-11-08</dateline>
+<text>
+<p>AT&amp;T Corp said on Friday that half of its 425,000 Worldnet Internet users have been hit by a an electronic mail problem that halts message delivery.</p>
+<p>&quot;E-Mail is being sent, it is just not being received. It will be stored in the datatbase, we just can't deliver it yet,&quot; said spokeswoman Patty Allen. AT&amp;T hopes to resolve the problem by this evening, she said.</p>
+<p>The snags were first reported by web-based news service CNet, which said Worldnet users first reported experiencing problems on Thursday afternoon.</p>
+<p>Allen said that the problems were caused by hardware failures in the database servers. -- Nick Louth, New York Newsroom  212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

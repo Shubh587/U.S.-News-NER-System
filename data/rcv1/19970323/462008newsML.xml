@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462008" id="root" date="1997-03-23" xml:lang="en">
+<title>SOMALIA: Eight dead, 20 wounded in Somali clans fighting.</title>
+<headline>Eight dead, 20 wounded in Somali clans fighting.</headline>
+<dateline>MOGADISHU 1997-03-23</dateline>
+<text>
+<p>At least eight people were killed and 20 were wounded in heavy fighting between rival clans in the southern Somali port city of Kismayu on Sunday, radio reports said.</p>
+<p>They said the fighting erupted when armed militiamen of the Marehan clan gunned down two members of the Majertein clan at Gobwein village, five km (three miles) north of Kismayu.</p>
+<p>Majertein militiamen then took to the streets of the town, killing four Marehan. At least two other Somalis died in the fighting, the reports added.</p>
+<p>The fighting escalated with other sub-clans joining both rival groups.</p>
+<p>Both the Marehan and Majertein formerly supported local warlord general Morgan, who is linked to Mogadishu warlord Ali Mahdi Mohamed. But Morgan is at present out of the country.</p>
+<p>Somalia in the Horn of Africa has been without central administration since 1991 when rebels ousted dictator Mohamed Siad Barre. The rebels then turned on each other in battles that laid waste to the country.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SOMAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOGADISHU"/>
+<dc element="dc.creator.location.country.name" value="SOMALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

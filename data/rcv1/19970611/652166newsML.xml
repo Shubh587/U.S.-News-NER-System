@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652166" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Kaiser Perm uses Matritech bladder test.</title>
+<headline>Kaiser Perm uses Matritech bladder test.</headline>
+<dateline>NEWTON, Mass. 1997-06-11</dateline>
+<text>
+<p>Matritech Inc said Wednesday health care organization Kaiser Permanente in Southern California has adopted Matritech's NMP22 Test Kit to monitor all of its bladder cancer patients for disease recurrence.</p>
+<p>According to Matritech, the NMP22 Test is the only quantitative, non-invasive urine test for transitional cell carcinoma, the type of cancer responsible for 90 percent of bladder cancers.</p>
+<p>The company said the recurrence rate for bladder cancer is about 70 percent, so patients must be monitored frequently to detect a recurrence as early as possible.</p>
+<p>More than two million people worldwide suffer from bladder cancer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="714526" id="root" date="1997-07-08" xml:lang="en">
+<title>GREECE: Greek/Bund gap widens to 362 bps, 266 vs BTP.</title>
+<headline>Greek/Bund gap widens to 362 bps, 266 vs BTP.</headline>
+<dateline>ATHENS 1997-07-08</dateline>
+<text>
+<p>The spread of Greece's 10-year bond over bunds rose to 362 basis points from 357 on Monday.</p>
+<p>The Greek/BTP gap also widened to 266 basis points from 252 on Monday.</p>
+<p>		 CPN     MATURITY  YIELDS    SPREADS    PREVIOUS</p>
+<p>								    SPREADS</p>
+<p>   GREECE    8.80%   25JUN07    9.17%</p>
+<p>   GERMANY   6.0%    04JUL07    5.55%	362	357 bps</p>
+<p>   FRANCE    5.5%    25APR07    5.42%	375	367 bps</p>
+<p>   ITALY     6.75%   01FEB07    6.51%	266	252 bps</p>
+<p>   PORTUGAL  6.63%   23FEB07    6.30%	287	282 bps</p>
+<p>   SPAIN     7.35%   31MAR07    6.23%	294	288 bps</p>
+<p>   UK	  7.25%   07DEC07    7.16%	201	201 bps</p>
+<p>   US	  6.63%   15MAY07    6.37%	280	276 bps</p>
+<p>All yields are annualised and based on bid prices at 0947 GMT.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

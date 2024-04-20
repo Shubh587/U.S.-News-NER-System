@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689731" id="root" date="1997-06-26" xml:lang="en">
+<title>GERMANY: Minor weld fault at German nuclear power station.</title>
+<headline>Minor weld fault at German nuclear power station.</headline>
+<dateline>BONN 1997-06-26</dateline>
+<text>
+<p>A faulty weld was discovered at a German nuclear power station on Thursday but no radiation has escaped and members of the public were not exposed to any danger, a spokesman for the plant said.</p>
+<p>The faulty weld was found in a pipe which forms part of a cleaning system for water from the reactor at the Biblis plant in the central state of Hesse, the spokesman said. The station is run by power company RWE Energie.</p>
+<p>The spokesman said the fault was so tiny that no water was escaping from the pipe, which was located far from the reactor.</p>
+<p>Engineers were considering how to repair the weld and should be able to carry out the necessary measures without affecting the running of the plant, he said.</p>
+<p>The spokesman said the fault was &quot;meaningless from a security point of view&quot; and posed no danger to the public.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

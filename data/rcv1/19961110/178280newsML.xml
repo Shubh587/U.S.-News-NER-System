@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178280" id="root" date="1996-11-10" xml:lang="en">
+<title>USA: Centerior unit working on outages after snow.</title>
+<headline>Centerior unit working on outages after snow.</headline>
+<dateline>CLEVELAND, Ohio 1996-11-10</dateline>
+<text>
+<p>Centerior Energy Corp's Cleveland Electric Illumninating Co said on Sunday it is working to restore service to 116,000 Northeast Ohio customers following last night's snow storm.</p>
+<p>More than 156,000 Cleveland Electric customers in Cuyahoga, Lake, Geauga and Ashtabula counties lost power after eight to 12 inches of snow brought down more than 800 power lines and put another 125 main power lines out of service, the utility said.</p>
+<p>Electricity has been restored to approximately 40,000 of those customers, Cleveland Electric said. The remaining customers are expected to be restored by late Tuesday, the company said.</p>
+<p>Some isolated outages may not be restored until early Wednesday, Cleveland Electric said. Restoration efforts may be delayed if today's weather conditions worsen, the company said.</p>
+<p>About 40 crews from Ohio Edison, American Electric Power and Centerior's Toledo Edison are assisting Cleveland Electric in power restoration efforts, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

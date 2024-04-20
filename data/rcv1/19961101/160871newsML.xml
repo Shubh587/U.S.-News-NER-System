@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160871" id="root" date="1996-11-01" xml:lang="en">
+<title>FRANCE: Air France says fare hikes not finalised.</title>
+<headline>Air France says fare hikes not finalised.</headline>
+<dateline>PARIS 1996-11-01</dateline>
+<text>
+<p>Air France said on Friday it was considering increasing passenger fares on flights from France from Monday November 4 but new rates had yet to be finalised.</p>
+<p>The company had earlier issued a statement detailing the price rises but then withdrew it, saying it was not final.</p>
+<p>The first statement, linking the decision to a rise of some 40 percent in fuel costs, had detailed fare hikes on flights to European, North African, Asian, American and Middle East destinations.</p>
+<p>It had said that it had not yet decided on the date and level of fare changes applying to French overseas territories.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303102" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Missouri's Gov Carnahan sworn in for second term.</title>
+<headline>Missouri's Gov Carnahan sworn in for second term.</headline>
+<dateline>CHICAGO 1997-01-13</dateline>
+<text>
+<p>Missouri Gov. Mel Carnahan was sworn in for a second term Monday, vowing to &quot;vigorously promote education.&quot;</p>
+<p>Carnahan, a Democrat who handily won election Nov. 5, stressed computer training for students, outlining a goal to make &quot;every Missouri youngster computer literate by age 12.&quot;</p>
+<p>He pledged to equip schools with computers and link them to the information highway. He also pledged to make schools safer and to forge partnerships with businesses to improve education.</p>
+<p>((--Karen Pierog, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699611" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Internet plan applauded despite troubling details.</title>
+<headline>Internet plan applauded despite troubling details.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-06-30</dateline>
+<text>
+<p>The Clinton administration's new &quot;hands off&quot; policy for the Internet has attracted widespread praise, but not all of the plan is getting such a warm reception.</p>
+<p>President Bill Clinton and Vice President Al Gore will formally unveil the Internet report on Tuesday at a White House ceremony in the company of dozens of computer industry moguls.</p>
+<p>The proposal concludes that the Internet could provide a huge boost to the U.S. economy if the government pursues market-oriented policies. The report also recommends that no new taxes be imposed on Internet transactions.</p>
+<p>Clinton plans to promote the report by issuing an executive order declaring it official U.S. policy, administration officials told business leaders this week.</p>
+<p>&quot;With a few exceptions, it's an excellent policy,&quot; Paul Misener, chairman of the Internet Access Coalition, said in an interview. &quot;It emphasizes the market's ability to work out many of these issues.&quot;</p>
+<p>The Internet has been around in one form or another since the 1960s, but only emerged from the shadows of academia in the past five years. Once ruled by consensus among university and government researchers, the &quot;net&quot; is now subject to a hodgepodge of formal and informal rules.</p>
+<p>The Clinton report seeks to recognize the Internet's growing importance and define some of the legal parameters needed to foster its continued evolution.</p>
+<p>The report includes recommendations on nine topics, ranging from taxation and customs to security and privacy, all issues of grave importance to businesses.</p>
+<p>Ironically, until 1991 the National Science Foundation expressly prohibited commercial traffic on the Internet. Once the prohibition was lifted, however, the network quickly entered the mainstream and the majority of computers connected now belong to businesses.</p>
+<p>Commerce over the Internet, which includes everything from sales of books and compact disks to fine wine and cheese, is projected to grow from less than $1 billion last year to perhaps $5 billion to $10 billion by the year 2000.</p>
+<p>Two controversial sections of the report cover the protection of privacy and the use of encryption, computer programs that scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>Privacy advocates praised recommendations that could lead to new laws preventing companies from collecting information from children.</p>
+<p>&quot;It's clear the administration is taking privacy issues more seriously,&quot; said Marc Rotenberg, director of the Electronic Privacy Information Center. &quot;On the issue of kids' privacy, they may be prepared to back some legislation.&quot;</p>
+<p>But the report also reiterated the administration's hard line against encryption. While the government wants to keep strong encryption out fo the hands of criminals, ordinary citizens need encryption to protect their privacy, Rotenberg argued.</p>
+<p>Encryption can safeguard sensitive medical records or keep unintended recipients from reading an e-mail message.</p>
+<p>&quot;Good cryptography is inextricably intertwined with on-line privacy,&quot; Rotenberg said. &quot;They've tried to treat the two as being separate.&quot;</p>
+<p>Some analysts point out that more direct government involvement may be required in the future to keep Internet commerce thriving.</p>
+<p>&quot;Commercial interests are goiong to try and do all kinds of things to protect themselves,&quot; said Gary Arlen, president of Arlen Communications. &quot;At some point, it's poppycock to think the government can stay out of it. Governments are going to have to wind up playing some role as arbiter.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

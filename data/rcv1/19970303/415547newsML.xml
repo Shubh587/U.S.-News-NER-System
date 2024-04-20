@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="415547" id="root" date="1997-03-03" xml:lang="en">
+<title>UK: BRITAIN-NATWEST-OPTIONS.</title>
+<headline>BRITAIN-NATWEST-OPTIONS.</headline>
+<dateline>LONDON 1997-03-03</dateline>
+<text>
+<p>Britain's National Westminster Bank has yet to explain a 50 million pound ($81.3 million) black hole in its interest rate options book but theories about the loss abound.</p>
+<p>Traders were baffled by NatWest's assertion the first half provision revealed on Friday was due to mispricing errors at investment banking arm NatWest Markets, which they said was vague.</p>
+<p>The biggest question was how the apparent mispricing went undetected long enough for it to reach such a significant figure.</p>
+<p>&quot;If I'd done this the back office would have been on the phone the next day,&quot; said a senior derivatives trader at a British bank.</p>
+<p>Traders said mispricing could cover a myriad of different circumstances ranging from a simple mis-booking of the trade, where an option was booked as a put when in fact it was a call, to using the wrong pricing model.</p>
+<p>This could involve a trader using the right trading tool but consistently getting bad prices, either under- or over-pricing the deals.</p>
+<p>Options are contracts which give buyers the right, but not the obligation, to buy or sell an underlying security at a set price on a set date in the future.</p>
+<p>Some reports suggest the derivative at the heart of the affair was a so-called &quot;swaption&quot; which gives, for example, a counterparty the option to swap floating interest rate assets for fixed rates.</p>
+<p>Another theory was the trader in question could have either over- or under-estimated the volatility of an option. Traders have discretion over booking what the volatility of a trade was, and this is one of the most common causes of mispricing, traders said.</p>
+<p>The loss could simply have been the result of a trader writing the details of the options trade down incorrectly, but this would under normal circumstances be spotted and corrected quickly, either by the trader or a supervisor.</p>
+<p>Any of these scenarios could be the result of genuine error, as traders said that any over-the-counter (OTC) option, which would not be traded on an exchange such as LIFFE (London International Financial Futures and Options Exchange), would prove difficult for a back office to price.</p>
+<p>The Futures and Options Association (FOA), of which NatWest is a member, advises in its guidelines on derivatives trading that valuations should be carried out independently of those responsible for trade execution.</p>
+<p>&quot;If transactions do not have readily available market prices or they are complex, it will be necessary to ensure there that there is a sufficient degree of independent expertise available in the organisation...to value such products&quot; the FOA said.</p>
+<p>Otherwise quotations &quot;independent of the product providers&quot; should be available, it added. ($ = 0.614 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

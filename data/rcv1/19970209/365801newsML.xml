@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365801" id="root" date="1997-02-09" xml:lang="en">
+<title>DUBAI: Bahrain prime minister returns home.</title>
+<headline>Bahrain prime minister returns home.</headline>
+<dateline>DUBAI 1997-02-09</dateline>
+<text>
+<p>Bahrain's Prime Minister Sheikh Khalifa bin Sulman al-Khalifa returned to the Gulf Arab state on Sunday from a private visit abroad, the official Gulf News Agency said.</p>
+<p>Sheikh Khalifa, prime minister since Bahrain's independence from Britain in 1971, left the smallest and least wealthy of the six oil-rich Gulf Arab monarchies and emirates in early December on what was officially described as a private visit.</p>
+<p>Sources in Bahrain had said the prime minister, who suffered heart attacks in 1985 and 1988, had visited Europe, Malaysia, the Philippines and the Maldives.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

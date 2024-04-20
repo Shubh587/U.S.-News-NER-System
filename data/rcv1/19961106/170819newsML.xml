@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170819" id="root" date="1996-11-06" xml:lang="en">
+<title>ICELAND: Iceland volcano erupts as glacier floods.</title>
+<headline>Iceland volcano erupts as glacier floods.</headline>
+<dateline>REYKJAVIK 1996-11-06</dateline>
+<text>
+<p>A violent eruption from an Icelandic volcano on Wednesday sent clouds of ash and smoke soaring 14,000 (4,300 metres) feet into the air, Iceland meteorologists said.</p>
+<p>The eruption took place as a vast torrent of water and ice poured from the sides of the glacier that covers the remote volcano in southeast Iceland. Previous eruptions have produced a huge hidden lake that is now spilling over.  </p>
+<p>Officials said the eruption took place shortly before 1500 GMT and was unexpected.</p>
+<p>Eruptions last month from a nearby volcano -- normally buried under millions of tonnes of ice -- melted vast amounts of water, creating an underground lake that finally cascaded from underneath the glacier on Tuesday.</p>
+<p>House-sized blocks of ice and millions of tonnes of black, sulphurous water are pouring on to uninhabited regions of Iceland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ICEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REYKJAVIK"/>
+<dc element="dc.creator.location.country.name" value="ICELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237796" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Chico's Nov same-store sales down.</title>
+<headline>Chico's Nov same-store sales down.</headline>
+<dateline>FORT MYERS, Fla. 1996-12-05</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month		 $4.7	 $4.5	+5.1     -6.2</p>
+<p>Year-to-date     $57.6	$54.4	+5.9     +1.1</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Full company name is  Chico's FAS Inc</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT MYERS, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

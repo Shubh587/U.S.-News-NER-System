@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="737187" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: U.S. wheat weekly export sales highlights -- USDA.</title>
+<headline>U.S. wheat weekly export sales highlights -- USDA.</headline>
+<dateline>WASHINGTON 1997-07-17</dateline>
+<text>
+<p>USDA wheat export sales highlights in latest reporting week:</p>
+<p>Net sales of 586,900 metric tons (MT) were off one-fifth from the week earlier and 17 percent below the 4-week average.</p>
+<p>Major increases reported for Egypt (136,200 MT), Japan (90,000 MT), Morocco (74,700 MT), Tunisia (67,000 MT), South Korea (46,000 MT), and the Philippines (42,000 MT) were partially offset by decreases for unknown destinations (53,300 MT) and Israel (26,700 MT).</p>
+<p>Exports of 609,300 MT were one-fifth above the prior week and 43 percent above the 4-week average.</p>
+<p>The primary destinations were Egypt (275,200 MT), Italy (60,400 MT), Morocco (50,700 MT), South Korea (26,100 MT), and El Salvador (24,500 MT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

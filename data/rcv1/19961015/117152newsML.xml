@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117152" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: U.S. weekly national grain stocks by region - USDA.</title>
+<headline>U.S. weekly national grain stocks by region - USDA.</headline>
+<dateline>PORTLAND 1996-10-15</dateline>
+<text>
+<p>National stocks of grain, in thousand bushels, as reported by the USDA.</p>
+<p>		   Wheat   Corn  Soybeans Pct filled</p>
+<p> Atlantic cst    2557   1593     179    43</p>
+<p> Great Lakes    30313    349    4383    21</p>
+<p> River Points   17557   4888   11927    23</p>
+<p> Southwest	16955   5962     347    17</p>
+<p> Gulf Points    21093   3849    1931    31</p>
+<p> Plains Area    38085   7317    2028    20</p>
+<p> Pacific NW     12673    628     unq    42</p>
+<p> Grand Total   139233  24586   20795    23</p>
+<p>--Chicago newsdesk 312-983-7278--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

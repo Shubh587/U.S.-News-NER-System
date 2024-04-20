@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41278" id="root" date="1996-09-09" xml:lang="en">
+<title>JAPAN: Japan MITI says concerned over chip price declines.</title>
+<headline>Japan MITI says concerned over chip price declines.</headline>
+<dateline>TOKYO 1996-09-09</dateline>
+<text>
+<p>Japan's Ministry of International Trade and Industry said on Monday that the ministry was concerned that the healthy development of the electronic chip industry could be jeopardised if chip prices declined further.</p>
+<p>&quot;It's been said that the prices have dropped to levels close to cost,&quot; the official said.</p>
+<p>He denied industry talk, however, that the ministry had launched hearings over rumours that some makers were selling chips below cost, raising concerns over market dumping.</p>
+<p>&quot;They are not hearings, but an exchange of views over production costs,&quot; he said.</p>
+<p>According to local media reports, prices of 16-megabit DRAMs for volume users for September delivery were quoted below 1,000 yen.</p>
+<p>Akira Minamikawa, an analyst at research firm IDC Corp, said the production cost of a 16-megabit DRAM would be at around $12 for small makers, and at around $8 for some big South Korean and Japanese makers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

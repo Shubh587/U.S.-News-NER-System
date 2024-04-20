@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354165" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: US Treasury new issues calendar--bills/notes/bonds.</title>
+<headline>US Treasury new issues calendar--bills/notes/bonds.</headline>
+<text>
+<p>Issue    Size-$BN  Auction    Settles   Anncmt   Yield-Pct</p>
+<p>3-,6-mo  $26.0     Feb 10     Feb 13    Feb 4</p>
+<p>Pricings of Recent Government Auctions</p>
+<p>3-,6-mo  $25.0     Feb 3	Feb 6     Jan 28   5.00/5.08</p>
+<p>52-wk    $19.25    Jan 30     Feb 6     Jan 24	  5.34</p>
+<p>10-yr    $ 7.0     Jan 29     Feb 6     Jan 21*	3.449</p>
+<p>3-,6-mo  $23.0     Jan 27     Jan 30    Jan 21   5.06/5.12</p>
+<p>5-yr     $12.5     Jan 23     Jan 31    Jan 15	 6.325</p>
+<p>2-yr     $17.5     Jan 22     Jan 31    Jan 15	 5.984</p>
+<p>* First inflation-indexed securities' sale.</p>
+<p>	   (( -- N.A. Treasury Desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

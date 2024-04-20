@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69078" id="root" date="1996-09-22" xml:lang="en">
+<title>USA: NFL-SUNDAY'S RESULTS.</title>
+<headline>NFL-SUNDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-09-22</dateline>
+<text>
+<p>Results of National Football</p>
+<p>League games played on Sunday (home team in CAPS):</p>
+<p> CAROLINA	    23   San Francisco     7</p>
+<p> KANSAS CITY	 17   Denver	     14</p>
+<p> MINNESOTA	   30   Green Bay	  21</p>
+<p> Arizona	     28   NEW ORLEANS	14</p>
+<p> NEW ENGLAND	 28   Jacksonville     25 (OT)</p>
+<p> New York Giants   13   NEW YORK JETS     6</p>
+<p> Washington	  17   ST LOUIS	   10</p>
+<p>:</p>
+<p> BUFFALO	     10   Dallas		7</p>
+<p> DETROIT	     35   Chicago	    16</p>
+<p> San Diego	   40   OAKLAND	    34</p>
+<p> Seattle	     17   TAMPA BAY	  13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

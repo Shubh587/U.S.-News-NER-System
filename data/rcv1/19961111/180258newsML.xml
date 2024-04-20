@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180258" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Chicago weekly visible grain supply.</title>
+<headline>Chicago weekly visible grain supply.</headline>
+<dateline>CHICAGO 1996-11-11</dateline>
+<text>
+<p>- Chicago visible supply estimates for the week ending November 8, in thousand bushels, according to the Chicago Board of Trade.</p>
+<p>		Wheat     Corn	Oats   Soybeans   Total</p>
+<p>This Week    496	 755	 0     5,673	6,924</p>
+<p>Week Ago     251	 940	 0     4,944	6,135</p>
+<p>Year Ago   5,005     3,452	 0     6,996     15,453</p>
+<p>Weekly Net Changes</p>
+<p>This Week  + 245    -  185	 0   +   729</p>
+<p>Week Ago   -  90    +  505	 0   + 1,398</p>
+<p>Year Ago - 1,257    +  137   - 333   -    11</p>
+<p>(Chicago 312 983 7278)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

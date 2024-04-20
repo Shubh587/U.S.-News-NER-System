@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212420" id="root" date="1996-11-23" xml:lang="en">
+<title>JORDAN: Jordan, Uzbekistan sign economic agreement.</title>
+<headline>Jordan, Uzbekistan sign economic agreement.</headline>
+<dateline>AMMAN 1996-11-23</dateline>
+<text>
+<p>Jordan and Uzbekistan signed an economic accord on Saturday aimed at boosting trade between the two countries, Uzbek Foreign Minister Abdulaziz Komilov told reporters.</p>
+<p>The accord, signed by Komilov and Jordanian Minister of Trade and Industry Ali Abu al-Ragheb, is the first signed between Jordan and the former Soviet republic.</p>
+<p>Jordan sees Uzbekistan as a rich source of raw materials and minerals, and also hopes to find a market in Uzbekistan for its exports of fruit, vegetables, pharmaceuticals and construction materials.</p>
+<p>Komilov, on a brief visit to Jordan, said the agreement also aimed at encouraging investment in the two countries and boosting the role of the private sector.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="UZBK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183230" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Midland Financial Q3 shr loss narrows.</title>
+<headline>Midland Financial Q3 shr loss narrows.</headline>
+<dateline>MEMPHIS, Tenn. 1996-11-12</dateline>
+<text>
+<p>MIDLAND FINANCIAL GROUP, INC.</p>
+<p>		    (In thousands except per share amounts)</p>
+<p>					Three months	Nine months</p>
+<p>					1996     1995     1996     1995</p>
+<p> Gross premiums written    $42,907  $57,761 $146,668 $164,420</p>
+<p> Net premiums written	 14,049   34,327   90,494  138,408</p>
+<p> Total income		   34,787   55,321  124,127  148,882</p>
+<p> Net income (loss)	   (3,905)  (5,723)  (2,487)    (320)</p>
+<p>Net income (loss)</p>
+<p>  per common share	     (.70)   (1.05)    (.45)    (.06)</p>
+<p>Weighted average</p>
+<p>common shares</p>
+<p>   outstanding		   5,547    5,471    5,547    5,458</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

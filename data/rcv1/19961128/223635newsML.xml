@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223635" id="root" date="1996-11-28" xml:lang="en">
+<title>SWITZERLAND: Swiss govt allocates 766 Mln Sfrs in bond auction.</title>
+<headline>Swiss govt allocates 766 Mln Sfrs in bond auction.</headline>
+<dateline>BERNE 1996-11-28</dateline>
+<text>
+<p>The following issue terms were set on a reopened bond issue by the Swiss Treasury and the Swiss National Bank.</p>
+<p>BORROWER - SWISS GOVERNMENT</p>
+<p> AMT  = 766 MLN CHF  COUPON    = 4.50   MATURITY = 10.JUN.07</p>
+<p> TYPE = FIXED-RATE   ISS PRICE = 103.45 SETTLEMENT = 13.JAN.97</p>
+<p>YIELD TO MATURITY = 4.084 PCT</p>
+<p>TOTAL BIDS = 997 MLN CHF</p>
+<p>LOCAL CODE (PROVISIONAL) 551 861</p>
+<p>FUNGIBLE WITH 470 458</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

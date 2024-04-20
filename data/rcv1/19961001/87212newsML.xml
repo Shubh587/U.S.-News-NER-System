@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87212" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Diatide says Phase II begins on Techtide.</title>
+<headline>Diatide says Phase II begins on Techtide.</headline>
+<dateline>LONDONDERRY, N.H. 1996-10-01</dateline>
+<text>
+<p>Diatide Inc said Tuesday it had begun the Phase II clinical trials of its P483H Techtide and expects to complete the trial in the first quarter of 1997.</p>
+<p>P483H Techtide is designed for use in imaging the exact location of internal infections. It is a combination of synthetic peptides designed to attach themselves to targeted disease molecules and a radioactive material easily detected by the gamma cameras used by hospitals.  </p>
+<p>The first of the 30 patients expected to be enrolled in Phase II trials was injected on September 25, the company said. The trials are to be conducted at six hospitals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDONDERRY, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

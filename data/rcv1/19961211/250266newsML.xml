@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250266" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Washington state completes $8.5 mln bond deal.</title>
+<headline>Washington state completes $8.5 mln bond deal.</headline>
+<dateline>SEATTLE 1996-12-11</dateline>
+<text>
+<p>The Washington State Housing Finance Commission said on Tuesday it had successfully completed an $8.5 million tax-exempt bond issue to build homes for the elderly.</p>
+<p>The proceeds of the bonds will be used to construct facilities that will be owned and operated by Assisted Living Concepts, a for-profit company that serves low- and moderate-income elderly in Washington and other states.</p>
+<p>The total cost of the projects is estimated at $11.92 million, with $8.5 million coming from the bond proceeds.</p>
+<p>The bonds were publicly sold and backed with a letter of credit by U.S. Bank of Washington. They were issued through the Housing Finance Commission's Housing for the Elderly program, which provides tax-exempt financing.</p>
+<p>--Adam Entous, 415-677-2511</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213998" id="root" date="1996-11-25" xml:lang="en">
+<title>MEXICO: Mexican trains collide head-on injuring 40.</title>
+<headline>Mexican trains collide head-on injuring 40.</headline>
+<dateline>GUADALAJARA, Mexico 1996-11-25</dateline>
+<text>
+<p>Two Mexican trains collided head-on at slow speeds on Monday in the south of the western state of Jalisco, injuring 40 passengers, the Jalisco state Red Cross said.</p>
+<p>&quot;In total the report has 40 injuries from moderate to light,&quot; Edgar Aguilar, the Red Cross's chief of radio communications in Jalisco, told Reuters. &quot;Nobody has died as of the moment.&quot;</p>
+<p>Jalisco state authorities said a passenger train and a cargo train, both belonging to the state-owned Ferrocarriles Nacionales de Mexico, met head-on at the small town of Tlajomulco de Zuniga because of &quot;a lack of coordination,&quot; according to Carlos Barragan, chief of the state's Civil Protection Guard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

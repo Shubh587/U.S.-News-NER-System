@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="615777" id="root" date="1997-05-27" xml:lang="en">
+<title>USA: Imaging Diagnostic seeks cancer treatment.</title>
+<headline>Imaging Diagnostic seeks cancer treatment.</headline>
+<dateline>FT. LAUDERDALE, FLa. 1997-05-27</dateline>
+<text>
+<p>Imaging Diagnostic Systems on Tuesday said it expanded its development of its Computed Tomography Laser Mammography (CTLM) to include PhotoDynamic Therapy for the treatment of breast cancer.</p>
+<p>PhotoDynamic Therapy involves the use of light-sensitive agents in an oxygen-rich environment. The agents, when activated by light, are designed to seek out and kill the cancer cells. It also employs certain types of antibodies that have been produced to attach fluorescent dyes to the cancer cells, allowing for their location, Imaging Diagnostic said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FT. LAUDERDALE, FLa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171824" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Immunex says FDA approves Leukine liquid.</title>
+<headline>Immunex says FDA approves Leukine liquid.</headline>
+<dateline>SEATTLE 1996-11-07</dateline>
+<text>
+<p>Immunex Corp said the U.S. Food and Drug Administration approved a new liquid, multiple-dose formulation of Leukine, which stimulates the immune system and helps prevent infection in certain cancer patients.</p>
+<p>The drug has been available in the U.S. since 1991, in a dehydrated concentrate formulation.</p>
+<p>The company said the new formulation is expected to broaden the drug's marketability and consumer appeal. A preservative included in the new formulation insures sterility and allows for multiple doses to be taken with a needle from the same vial.  </p>
+<p>While the drug currently is not sold for at-home use, Immunex said the new formulation makes that more feasible, and added that the multiple-dosing possibilities reduce waste and cost.</p>
+<p>Leukine is given to older adult leukemia patients to treat neutropenia, a depletion of a certain class of white blood cells.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

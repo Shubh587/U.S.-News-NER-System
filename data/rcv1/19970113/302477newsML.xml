@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302477" id="root" date="1997-01-13" xml:lang="en">
+<title>SUDAN: Three killed in riot in tribal western Sudan.</title>
+<headline>Three killed in riot in tribal western Sudan.</headline>
+<dateline>KHARTOUM 1997-01-13</dateline>
+<text>
+<p>Three people were killed and many injured in a riot in western Sudan, the official news agency SUNA said on Monday.</p>
+<p>The riot broke out in the middle of last week in the town of Geneina, the capital of Western Darfur state, after a gang attacked some villages in the state, it said.</p>
+<p>The state legislature described it as a violation of a reconciliation agreement signed last November after fighting between the Massalit and and some Arab tribes.</p>
+<p>Gang warfare and armed robbery are rampant in Western Darfur and other states in western Sudan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

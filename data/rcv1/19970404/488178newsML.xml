@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488178" id="root" date="1997-04-04" xml:lang="en">
+<title>UK: Drug-resistant bacteria spreads from chicken feed.</title>
+<headline>Drug-resistant bacteria spreads from chicken feed.</headline>
+<dateline>LONDON 1997-04-04</dateline>
+<text>
+<p>British scientists said on Friday drug-resistant bacteria could spread to people from animal feeds and praised bans on the use of certain antibiotics in them.</p>
+<p>Ira Das and colleagues, microbiologists at City Hospital in Birmingham, described the case of a worker who got an infection after breaking his leg at a factory processing chicken carcasses.</p>
+<p>They found the infection was full of Enterococcus faecelis bacteria that were resistant to the antibiotic vancomycin.</p>
+<p>They tested chickens at the factory and found many were contaminated with vancomycin-resistant enterococci (VRE), which are found in excrement and gut contents.</p>
+<p>The chickens had been given feed containing avoparcin, an antibiotic given to factory-bred birds to combat infection.</p>
+<p>Antibiotics increase the growth rate of animals, but there are fears that routinely dosing animals with such drugs could give rise to antibiotic-resistant bacteria.</p>
+<p>Das's group said this was the first evidence of this happening and spreading to people. &quot;This is, to our knowledge, the first reported case of VRE infection where the probable source is animals colonised with VRE,&quot; they wrote.</p>
+<p>&quot;We welcome the decision of the European Union's Standing Committee on Animal Foodstuffs to ban the use of avoparcin in animal feeds.&quot;</p>
+<p>The European Commission adopted the ban in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I42210">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

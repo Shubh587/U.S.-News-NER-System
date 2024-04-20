@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181453" id="root" date="1996-11-11" xml:lang="en">
+<title>MALAYSIA: KL stock market closed for holiday.</title>
+<headline>KL stock market closed for holiday.</headline>
+<dateline>KUALA LUMPUR 1996-11-11</dateline>
+<text>
+<p>The Malaysian stock market is closed on Monday for a Hindu festival. It reopens on Tuesday.</p>
+<p>On Friday, a rebound in heavyweight Tenaga Nasional stock helped push the key share market index higher at the close, but interest was mainly on secondary stocks.</p>
+<p>The Composite Index closed at 1,179.60, up 1.67 points, after hitting an intraday low of 1,173.24.</p>
+<p>The Second Board index rose 6.09 points to 643.48.</p>
+<p>Market volume was 276 million shares, and gainers led losers 298 to 224.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394792" id="root" date="1997-02-21" xml:lang="en">
+<title>GREECE: GNN BOND GUIDE - MONTE CARLO SIMULATION METHOD.</title>
+<headline>GNN BOND GUIDE - MONTE CARLO SIMULATION METHOD.</headline>
+<dateline>ATHENS 1997-02-21</dateline>
+<text>
+<p>We proceed today with a brief</p>
+<p>description of the Monte Carlo method which is a simulation</p>
+<p>study designed to shed light on the small-sample properties of</p>
+<p>competing outcomes for a given problem in business management</p>
+<p>and narrower fields such as finance.</p>
+<p>The Monte Carlo method is the most commonly used valuation</p>
+<p>method of interest rate instruments such as bonds with embedded</p>
+<p>options, FRNs, interest rate caps and floors.</p>
+<p>The general steps of the simulation in statistics are:</p>
+<p>1) Model the data generating process</p>
+<p>2) Generate several sets of artificial data</p>
+<p>3) Employ the data and the estimator to create several</p>
+<p>estimates</p>
+<p>4) Use the estimates to gauge the sampling distribution</p>
+<p>properties of that estimator.</p>
+<p>The same structure characterizes the Monte Carlo valuation</p>
+<p>method of interest rate financial instruments.</p>
+<p>We outline the steps for the valuation of interest rate</p>
+<p>instruments embodied in commercial packages. What follows is</p>
+<p>what we know from Wall Street.</p>
+<p>It should be noted that the Monte Carlo simulation has been</p>
+<p>limited to the theoretical value of the bond in question, that</p>
+<p>is the average price of the process, ignoring information about</p>
+<p>the probability distribution.</p>
+<p>VALUATION STEPS:</p>
+<p>1) Input the current term structure of spot interest rates</p>
+<p>and assume some degree of volatility that will constrain the</p>
+<p>dispersion of future interest rates in the simulation and ensure</p>
+<p>that the average simulated price of the instrument is the</p>
+<p>current market price.</p>
+<p>The market calibration of the model is common practice and</p>
+<p>usually takes the form of inserting a drift term in the model so</p>
+<p>that market price equals the Monte Carlo value for the security.</p>
+<p>2) Make sure that the model is arbitrage free, that is no</p>
+<p>arbitrage is possible in future dates among interest rates.</p>
+<p>3) Calculate the present value of the cash flows for each</p>
+<p>interest rate path by discounting them with the simulated spot</p>
+<p>rates calculated from the simulated future rates.</p>
+<p>To save computational time, the number of interest rate</p>
+<p>paths is limited by a price convergence figure, typically a</p>
+<p>tick. In other words, the number of rate paths is determined</p>
+<p>when price estimates from the model do not chnage by more than a</p>
+<p>tick.</p>
+<p>It should also be pointed out that the model is constructed</p>
+<p>in such a way as to rule out interest rate outliers (negative</p>
+<p>nominal interest rates etc.). This is achieved by the so called</p>
+<p>interest rate mean reversion. In other words, the interest rate</p>
+<p>is forced back to an average value after hitting the outer</p>
+<p>interest rate frontier set in advance.</p>
+<p>4) Average all present values on all interest rate paths to</p>
+<p>come up with the theoretical value of the security.</p>
+<p>Monte Carlo simulation is also used to get measures of</p>
+<p>option-adjusted duration and convexity for nonparallel shifts in</p>
+<p>the yield curve.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

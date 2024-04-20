@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193643" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: CCC buys 380 tonnes US wheat-soy blend for Iraq.</title>
+<headline>CCC buys 380 tonnes US wheat-soy blend for Iraq.</headline>
+<dateline>CHICAGO 1996-11-14</dateline>
+<text>
+<p>The Commodity Credit Corp of the U.S. Department of Agriculture said on Thursday it had purchased 380 tonnes of U.S. wheat-soy blend for export to Iraq, November 25-December 10 shipment.</p>
+<p>ADM Milling Co sold the blend for $442.35 per tonne, FOB Jacintoport, Texas.</p>
+<p>--Nigel Hunt 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

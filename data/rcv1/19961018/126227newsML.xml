@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126227" id="root" date="1996-10-18" xml:lang="en">
+<title>CANADA: Canadian Money Market Rates Closing - Oct 18.</title>
+<headline>Canadian Money Market Rates Closing - Oct 18.</headline>
+<text>
+<p>CANADA T-BILLS</p>
+<p> 90 DAYS   3.35</p>
+<p>180 DAYS  3.57 FINANCE COMPANY PAPER</p>
+<p> 30 DAYS   3.55</p>
+<p> 60 DAYS   3.54</p>
+<p> 90 DAYS   3.53</p>
+<p>BANK PAPER</p>
+<p> 30 DAYS   3.54</p>
+<p> 60 DAYS   3.53</p>
+<p> 90 DAYS   3.52</p>
+<p>BANKERS ACCEPTANCES</p>
+<p> 30 DAYS   3.51</p>
+<p> 60 DAYS   3.50</p>
+<p> 90 DAYS   3.49</p>
+<p>CANADIAN DOLLAR SWAPS</p>
+<p> 30 DAYS   3.41</p>
+<p> 60 DAYS   3.42</p>
+<p> 90 DAYS   3.41</p>
+<p>CALL MONEY3.50</p>
+<p>DAY MONEY 3.50</p>
+<p>PRIME RATE5.25</p>
+<p> U.S. DOLLAR BASE RATE   8.25</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

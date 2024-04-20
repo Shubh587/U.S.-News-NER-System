@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233993" id="root" date="1996-12-04" xml:lang="en">
+<title>MEXICO: Mexico 1996 tortilla production flat - industry.</title>
+<headline>Mexico 1996 tortilla production flat - industry.</headline>
+<dateline>LEON, Mexico 1996-12-03</dateline>
+<text>
+<p>Mexico is on course to produce a total of six million tonnes of tortillas in 1996, similar to 1995 figures, an industry spokesman told Reuters on Tuesday.</p>
+<p>&quot;Whereas tortilla production may not grow due to the (economic) crisis, it will hold steady at 1995 levels, or six million tonnes,&quot; said Jesus Fonseca, organization secretary of the Confederation of Corn Flour and Tortilla Industries.</p>
+<p>Tortillas are pancakes made from maize flour that have been a staple of the Mexican diet for centuries.</p>
+<p>--David Monjaraz, Leon bureau +5247-161225</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEON, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

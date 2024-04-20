@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="639043" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Mesa Air May load factor 54.4 vs 56.3.</title>
+<headline>Mesa Air May load factor 54.4 vs 56.3.</headline>
+<dateline>FARMINGTON, N.M. 1997-06-05</dateline>
+<text>
+<p>1997		  1996</p>
+<p> Load factor - percent		  54.4		56.3</p>
+<p> Revenue passenger miles	   120,757	   114,336</p>
+<p> Available seat miles		221,828	   203,193</p>
+<p> Total cargo ton miles		   n/a		 n/a</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  54.7		55.5</p>
+<p> Revenue passenger miles	   560,895	   564,100</p>
+<p> Available seat miles	    1,025,526	 1,015,875</p>
+<p> Total cargo ton miles		   n/a		 n/a</p>
+<p>(Revenue passenger and available seat miles in 000s)</p>
+<p>NOTES: Full company name is Mesa Air Group Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON, N.M."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

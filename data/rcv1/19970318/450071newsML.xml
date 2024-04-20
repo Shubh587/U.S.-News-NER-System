@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450071" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Oncogene signs Dow compound license.</title>
+<headline>Oncogene signs Dow compound license.</headline>
+<dateline>UNIONDALE, N.Y. 1997-03-18</dateline>
+<text>
+<p>Oncogene Science Inc said Tuesday that it has signed an exclusive worldwide license with Dow Chemical Co for rights to use more than 140,000 compounds for screening and potential development of small molecule drugs.</p>
+<p>The library of compounds will enable Oncogene to extend its current large portfolio of compounds, and increases the company's chances of identifying target compounds for the treatment of a wide range of diseases.</p>
+<p>Under terms of the agreement, the company said Dow will receive approximately 350,000 shares of Oncogene common stock, using stock Oncogene recently repurchased from Becton Dickinson and Co.</p>
+<p>Oncogene said it will own rights to most of the drugs developed from the compound library.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNIONDALE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

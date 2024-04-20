@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567386" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Delta expands code-share agreement.</title>
+<headline>Delta expands code-share agreement.</headline>
+<dateline>ATLANTA 1997-05-07</dateline>
+<text>
+<p>Delta Air Lines said Wednesday that it won approval for an expanded code-share agreement with Sabena, Swissair and Austrian.</p>
+<p>Beginning June 1, the three carriers will purchase seats on daily Delta flights to 30 U.S. cities beyond Delta's international gateways in New York, Cincinnati and Atlanta.</p>
+<p>In addition to the 30 U.S. cities offered via Delta service, Delta will purchase seats on Sabena flights from Brussels to Oslo, Glasgow, London City, Leeds, Geneva, and Basel; on Swissair flights from Zurich to Geneva; and on Austrian flights from Vienna to Warsaw.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

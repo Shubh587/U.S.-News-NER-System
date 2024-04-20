@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472066" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: U.S. EPA eases screening of some biotech products.</title>
+<headline>U.S. EPA eases screening of some biotech products.</headline>
+<dateline>WASHINGTON 1997-03-27</dateline>
+<text>
+<p>The U.S. Environmental Protection Agency on Thursday said it would streamline the process for screening biotech products used in some industrial applications.</p>
+<p>The EPA, which regulates a fairly narrow range of biotech products under the Toxic Substances Control Act, said it would give full or partial exemptions from screening requirements for some categories of new organisms in which the EPA has substantial assessment experience.</p>
+<p>Those products include enzymes used in soap and laundry detergent, and bioremediation for cleanup of waste sites, an EPA spokeswoman said.</p>
+<p>The agency said it would focus its &quot;regulatory attention on microorganisms that are likely to display new traits or exhibit less predictable behavior in the environment.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="362634" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: NBA BASKETBALL-THURSDAY'S RESULTS.</title>
+<headline>NBA BASKETBALL-THURSDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1997-02-06</dateline>
+<text>
+<p>Results of National Basketball</p>
+<p>Association games on Thursday (home team in CAPS):</p>
+<p> CHARLOTTE	 115  Sacramento	 100</p>
+<p> DETROIT	    96  Houston	     87</p>
+<p> MIAMI	     102  Milwaukee	   90</p>
+<p> Indiana	   104  NEW JERSEY	 100</p>
+<p> NEW YORK	   96  San Antonio	 84</p>
+<p> ORLANDO	   119  Boston	     111</p>
+<p> MINNESOTA	 103  Vancouver	   86</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

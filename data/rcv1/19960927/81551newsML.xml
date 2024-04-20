@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81551" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Senate passes $4.6 billion water projects bill.</title>
+<headline>Senate passes $4.6 billion water projects bill.</headline>
+<dateline>WASHINGTON 1996-09-27</dateline>
+<text>
+<p>The Senate on Friday unanimously passed a $4.6 billion bill for water projects and flood control projects, sending it to the White House.</p>
+<p>The House Thursday approved the bill for four year's worth of projects, which was a compromise between the House's $5.1 billion measure and the Senate's $3.6 billion version.</p>
+<p>Several environmental and conservation groups that had opposed the bill lifted their objections when some projects were dropped and more environmental requirements were put in.</p>
+<p>The bill would decrease the federal cost share of flood control projects to 65 percent from 75 percent, raising the local share and requiring that local governments implement flood plain management plans before they become eligible for flood control projects.</p>
+<p>The bill also provided for federal and local cost-sharing to dispose of dredged material from navigation projects, giving the federal government more role in what can be a serious environmental problem.</p>
+<p>In another measure pushed by the White House, the bill authorises the administration's plan to restore the Everglades and the south Florida ecosystem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

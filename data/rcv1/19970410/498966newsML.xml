@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="498966" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: BASEBALL-WEDNESDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-WEDNESDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1997-04-10</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games played on Wednesday (home team in CAPS):</p>
+<p>	     American League</p>
+<p> DETROIT	     10  Minnesota	 5</p>
+<p> Toronto		5  WHITE SOX	 0</p>
+<p> OAKLAND		4  Boston	    3 (10 inns)</p>
+<p> SEATTLE	     11  Cleveland	 1</p>
+<p> Baltimore	    4  KANSAS CITY     2 (11)</p>
+<p> Ny Yankees	  12  ANAHEIM	   5</p>
+<p>(PPD - Texas AT MILWAUKEE)</p>
+<p>	     National League</p>
+<p> SAN FRANCISCO	3  Philadelphia    0</p>
+<p> COLORADO	    13  Cincinnati	4</p>
+<p> ATLANTA		4  Houston	   3 (12)</p>
+<p> LOS ANGELES	  3  Ny Mets	   2 (14)</p>
+<p> Pittsburgh	   4  SAN DIEGO	 2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

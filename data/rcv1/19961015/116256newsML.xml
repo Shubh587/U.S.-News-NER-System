@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116256" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Xerox, DEC, Sun Micro set printer software pact.</title>
+<headline>Xerox, DEC, Sun Micro set printer software pact.</headline>
+<dateline>EL SEGUNDO, Calif. 1996-10-15</dateline>
+<text>
+<p>Xerox Corp, Digital Equipment Corp and Sun Microsystems Inc on Tuesday said they have agreed to release Printxchange software, which is designed to simplify printing across complex networks and link several brands of printers.</p>
+<p>Printxchange 1.0 will enable users to submit print jobs to a broad range of Printxchange-supported printers, ranging from popular desktop products through high-end production printing systems, the companies said.</p>
+<p>Digital plans to provide the Printxchange 1.0 software for beta testing to selected Digital customers in March of 1997. Sun plans to provide the software to selected customers in the same time frame.</p>
+<p>The three-company coalition also announced developer kits and a certification process that would allow other vendors to build compliant products.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL SEGUNDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

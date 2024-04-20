@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212711" id="root" date="1996-11-24" xml:lang="en">
+<title>ITALY: SOCCER-ITALIAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-ITALIAN FIRST DIVISION RESULTS.</headline>
+<dateline>ROME 1996-11-24</dateline>
+<text>
+<p>Results of Italian first division</p>
+<p>soccer matches played on Sunday:</p>
+<p> Bologna    3 Atalanta   1</p>
+<p> Cagliari   1 Napoli     1</p>
+<p> Fiorentina 1 Piacenza   1</p>
+<p> Lazio	1 Sampdoria  1</p>
+<p> Parma	0 Roma	 0</p>
+<p> Perugia    3 Verona     1</p>
+<p> Vicenza    2 Reggiana   0</p>
+<p>Milan vs Inter 1930 GMT kick-off</p>
+<p>Add first division results: Milan 1 Inter 1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

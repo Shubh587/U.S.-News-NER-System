@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773754" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: AOL has brief system outage Thursday.</title>
+<headline>AOL has brief system outage Thursday.</headline>
+<dateline>NEW YORK 1997-07-31</dateline>
+<text>
+<p>America Online Inc said it had a system  outage on Thursday for a little over one hour after a hardware and  software problem affected its data center.</p>
+<p>An America Online spokesman in Dulles, Va. said that the world's largest  online service is now back up and running. It was down from 1640 to  1753 EDT Thursday, but the exact nature of the problem in the hardware  and software was not yet known.</p>
+<p>Users who were already online at that time did not have a problem  but other users could not log on to the system.</p>
+<p>America Online is the largest online service with over eight million  users.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

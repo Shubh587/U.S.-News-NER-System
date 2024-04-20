@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212312" id="root" date="1996-11-23" xml:lang="en">
+<title>BOSNIA: U.N. policeman wounded in Bosnia grenade incident.</title>
+<headline>U.N. policeman wounded in Bosnia grenade incident.</headline>
+<dateline>SARAJEVO 1996-11-23</dateline>
+<text>
+<p>A United Nations police station commmander and his interpreter were wounded when a hand grenade was thrown into their car between Nevisinje and Mostar in southwestern Bosnia, a U.N. spokesman said on Saturday.</p>
+<p>&quot;The station commander and his interepreter were able to stop the car and jump out,&quot; said Alex Ivanko, U.N. police spokesman in Sarajevo.</p>
+<p>&quot;That's why they sustained only minimal injuries in the attack.&quot;</p>
+<p>Ivanko said the two casualties from Friday's incident were being treated at a French military hospital in Mostar. An investigation was under way.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

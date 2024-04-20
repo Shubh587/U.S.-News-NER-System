@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227734" id="root" date="1996-12-02" xml:lang="en">
+<title>UK: RUGBY UNION-WESTERN SAMOA BEATEN 36-17 BY BATH.</title>
+<headline>RUGBY UNION-WESTERN SAMOA BEATEN 36-17 BY BATH.</headline>
+<dateline>BATH, England 1996-12-02</dateline>
+<text>
+<p>English club champions Bath beat Western Samoa 36-17 in a tour match on Monday.</p>
+<p>Scorers:</p>
+<p>Bath - Tries: Jon Callard, Kevin Yates. Penalty try. Conversions: Callard (3). Penalties: Callard (5)</p>
+<p>Western Samoa - Tries: Mark Fatialofa (2). Conversions: Earl Va'a (2). Penalties: Va'a.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="WSOMOA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BATH, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

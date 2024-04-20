@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777207" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Motorola, IBM unveil new PowerPC chips.</title>
+<headline>Motorola, IBM unveil new PowerPC chips.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Motorola Inc and International Business Machines Corp on Monday introduced three PowerPC microprocessors, including two new chips and a high-speed upgrade to an existing model.</p>
+<p>The companies said they would introduce newly-designed 750 and 740 chips, which will be sold at clock speeds as high as 266 MHz, and a faster 604e chip running at clock speeds as high as 350 MHz.</p>
+<p>RISC-based PowerPC microprocessors are jointly developed by Apple Computer Corp., IBM and Motorola. Apple and vendors that develop for the Mac OS operating system will remain the major consumers of PowerPC chips.</p>
+<p>Venders are expected to announce their support for the new products this week to coincide with the Macworld show in Boston.</p>
+<p>Motorola product manager Will Swearningen said the 750 and 740 models, which incorporate new micro-architecture design, will target markets for high-end desktop PCs, high volume mainstream systems, and mobile products like notebook PCs.</p>
+<p>Systems using the chips should be available in the next few months.</p>
+<p>&quot;They will address a wide breadth of applications,&quot; Swearningen said. &quot;(They include) a mobile configuration which will mean not only higher performance than anything available in the Mac OS environment, but we think it will be higher than anything available on the 'Wintel' world as well.&quot;</p>
+<p>&quot;Wintel&quot; is a commonly used term that refers to the alliance between Microsoft Corp's market-leading Windows software and Intel Corp's processors.</p>
+<p>In the early 1990's, PowerPC was seen as the strongest challenger to Intel's dominance of the computer microprocessor market. Intel remains the market leader by a great margin.</p>
+<p>Swearington said that the new chips offer advantages to programmers and developers that will convince them to make products that run on PowerPC processors.</p>
+<p>&quot;When you combine the fact that (developers) will have access to the latest and greatest stuff from the infrastructure with a processor that is becoming significantly faster (than Wintel chips), we are going to start to see some things that compel users to adopt the PowerPC environment,&quot; he said.</p>
+<p>The 604e chips, shipping in systems this week, will appeal to developers of servers, multiprocessor systems, and high performance workstations, he said. The performance of the 604e was boosted through new manufacturing process technology.</p>
+<p>IBM said the fastest 604e chip is priced at $995 when purchased in quantities of 1,000. The fastest 750 and 740 will sell for about $568 and $549, respectively, in similar quantities, Motorola said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

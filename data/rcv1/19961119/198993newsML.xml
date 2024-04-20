@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198993" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: CVS holders approve name change.</title>
+<headline>CVS holders approve name change.</headline>
+<dateline>WOONSOCKET, R.I. 1996-11-19</dateline>
+<text>
+<p>Melville Corp said on Tuesday shareholders approved a name change to CVS Corp.</p>
+<p>The company also said it plans to separate by no later than the end of 1997 its two other remaining businesses: Linens 'n Things and Bob's Stores, both of which are classified as discontinued operations.</p>
+<p>The company said the name change reflects its new status as a stand-alone chain drug company, with CVS/pharmacy as its only continuing operation.</p>
+<p>Shareholders also gave approval to reincorporate in Delaware.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOONSOCKET, R.I."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554411" id="root" date="1997-05-01" xml:lang="en">
+<title>UK: Last UK poll puts Labour lead at 18 points.</title>
+<headline>Last UK poll puts Labour lead at 18 points.</headline>
+<dateline>LONDON 1997-05-01</dateline>
+<text>
+<p>The last opinion poll to be published before Britain started voting in Thursday's election said the opposition Labour party's lead over the ruling Conservatives had dropped three points to 18 points.</p>
+<p>The MORI poll for London's Evening Standard newspaper put Labour support on 47 percent, three points down from when the same group of 1,500 voters were questioned in mid-April, while backing for the Conservatives remained steady on 29 percent.</p>
+<p>Support for the minority Liberal Democrats rose four points to 19 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

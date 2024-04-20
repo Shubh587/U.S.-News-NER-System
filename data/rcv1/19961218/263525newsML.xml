@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263525" id="root" date="1996-12-18" xml:lang="en">
+<title>UK: British MP seeks law to fight computer bug in 2000.</title>
+<headline>British MP seeks law to fight computer bug in 2000.</headline>
+<dateline>LONDON 1996-12-18</dateline>
+<text>
+<p>A member of parliament was given leave on Wednesday to bring in a bill which he said could prevent hundreds of British companies going out of business in 2000 because of &quot;Millennium Bug&quot; computer chaos.</p>
+<p>Conservative David Atkinson said it was essential to give company directors a legal obligation to assess whether their computer systems would crash as the chimes of the parliamentary clock, Big Ben, ushered in the new millennium.</p>
+<p>Industry experts around the world have warned of a looming problem because the year date on most computers is expressed as a two-digit figure -- 96 in the current year.</p>
+<p>&quot;Unless they are properly reprogrammed, computer systems will recognise the year 2000 as 1900 or simply reset to some other date. This will mean that they will no longer deliver what they are programmed to deliver,&quot; Atkinson said.</p>
+<p>He said the problems this could cause included the collapse of payroll systems, financial records losing track of investments and invoicing systems either forgetting to send out bills or charging 100 years of interest.</p>
+<p>Atkinson's bill would force all companies to make an audit of whether their computer systems would face trouble in three years' time and to tell shareholders the position in their annual reports.</p>
+<p>&quot;My bill is designed to ensure that we avoid seeing huge numbers of legal cases in the millennium in costly attempts to determine who is to blame for the company's failure,&quot; he said.</p>
+<p>No MP opposed Atkinson's application for leave to bring in the bill. Despite that, it has virtually no chance of being debated any further.</p>
+<p>However, Atkinson hopes that by raising the issue in parliament, he will prompt the government to look at whether it should consider bringing legislation on similar lines.</p>
+<p>The government set up a taskforce this year to consider the &quot;Millennium Bug&quot; problem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

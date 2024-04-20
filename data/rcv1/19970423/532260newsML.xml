@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532260" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Earthquake reported in ocean north of Guam.</title>
+<headline>Earthquake reported in ocean north of Guam.</headline>
+<dateline>GOLDEN, Colo. 1997-04-23</dateline>
+<text>
+<p>An earthquake measuring 6.3 on the open-ended Richter scale occurred in the Pacific Ocean between Guam and Saipan, the U.S. Geological Survey's Earthquake Information Centre said on Wednesday.</p>
+<p>The center's director Waverly Person said the quake occurred about 60 miles (100 km) below the surface of the ocean.</p>
+<p>The tremor was felt on  Guam, but Person said the centre had not heard of any reports of damage on the island. The quake was reported at 5:44 a.m. on Thursday local time in Guam (3:44 p.m. EDT (1944 GMT) on Wednesday).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLDEN, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

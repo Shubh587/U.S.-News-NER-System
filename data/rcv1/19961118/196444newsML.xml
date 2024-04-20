@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196444" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: US Wats Inc Q3 net profit vs loss.</title>
+<headline>US Wats Inc Q3 net profit vs loss.</headline>
+<dateline>BALA CYNWYD, Pa. 1996-11-18</dateline>
+<text>
+<p>(amounts in thousands of dollars)</p>
+<p>			 3rd qtr '96  3rd qtr '95  YTD '96  YTD '95</p>
+<p> Revenues		     $10,222    $6,935  $28,576  $20,605</p>
+<p>Net income (loss) before</p>
+<p>  preferred dividends	    97     (267)	445	841</p>
+<p>Earnings (loss) per</p>
+<p>  common share		    .01     (.02)	.02	.05</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALA CYNWYD, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

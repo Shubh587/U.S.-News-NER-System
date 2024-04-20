@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13027" id="root" date="1996-08-25" xml:lang="en">
+<title>SOUTH KOREA: BASEBALL-RESULTS OF S. KOREAN PRO-BASEBALL GAMES.</title>
+<headline>BASEBALL-RESULTS OF S. KOREAN PRO-BASEBALL GAMES.</headline>
+<dateline>SEOUL 1996-08-25</dateline>
+<text>
+<p>Results of South Korean</p>
+<p>pro-baseball games played on Saturday.</p>
+<p>    Haitai		  10	Hanwha	     4</p>
+<p>    Hyundai		  5	Samsung	    4</p>
+<p>    Ssangbangwool	  4	LG		   1</p>
+<p>    OB			 1	Lotte		1</p>
+<p>    Lotte		    1	OB		   0*</p>
+<p>*Note - OB and Lotte played two games.</p>
+<p>Standings after games played on Saturday (won, drawn, lost,</p>
+<p>winning percentage, games behind first place)</p>
+<p>			  W   D    L     PCT	   GB</p>
+<p>    Haitai	   63   2   40    .610	    -</p>
+<p>    Ssangbangwool  57   2   47    .547	6 1/2</p>
+<p>    Hyundai	  55   5   47    .537	7 1/2</p>
+<p>    Hanwha	   55   1   48    .534	    8</p>
+<p>    Samsung	  47   5   54    .467	   15</p>
+<p>    Lotte	    44   6   52    .461     15 1/2</p>
+<p>    LG		 44   5   57    .439	   18</p>
+<p>    OB		 40   6   60    .406     21 1/2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

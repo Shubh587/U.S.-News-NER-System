@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219233" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Northwest Natural Gas to reduce rates.</title>
+<headline>Northwest Natural Gas to reduce rates.</headline>
+<dateline>VANCOUVER, Wash. 1996-11-27</dateline>
+<text>
+<p>Northwest Natural Gas Co Wednesday said the Washington Utilities and Transportation Commission has approved rate reductions totaling 4.5 percent for Washington residential customers, effective December 1.</p>
+<p>In a statement, the company said the reduction will lower the average residential customer's bill by about $1.65 a month, assuming average consumption of 69.3 therms a month.</p>
+<p>The reduction includes the effects of lower gas costs from the company's suppliers for the coming year.  It also includes amounts to be refunded over the next 12 months for gas cost savings realized in prior years as well as refunds received from interstate pipelines.</p>
+<p>The filings also include reductions of 5 percent for commercial customers, 6 percent for industrial firm customers and 6.3 percent for interruptible customers.</p>
+<p>The company said the rate changes will have no effect on the company's earnings. Northwest Natural Gas serves about 25,000 customers in its southwest Washington service territory.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

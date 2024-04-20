@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="808784" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: IBM ships PC speech recognition product.</title>
+<headline>IBM ships PC speech recognition product.</headline>
+<dateline>NEW YORK 1997-08-19</dateline>
+<text>
+<p>International Business Machines Corp said Tuesday it shipped its ViaVoice dictation software for personal computers.</p>
+<p>The ViaVoice package, priced at $99, includes a headset microphone and can be linked for text dictation to Microsoft Corp's Microsoft Word. It will be integrated with the next version of Lotus's Word Pro and other word processors.</p>
+<p>An upcoming version of ViaVoice will expand the speech entry capability to commands rather than just text, further eliminating the need for typing, IBM Speech Systems General Manager W.S. Osborne said.</p>
+<p>The software can accept dictation at speeds of up to 140 words per minute and lets users speak in their normal voices instead of the labored speech patterns required by older software. It can be trained to recognize and filter out background noise, such as on an airplane.</p>
+<p>IBM started shipping the product about two weeks ago, but deliveries were slowed by the general shipping disruption associated with the strike at United Parcel Service, Osborne said.</p>
+<p>((-- R. Melville, Wall Street desk, 212-859-1731))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

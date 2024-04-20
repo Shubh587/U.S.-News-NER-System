@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172630" id="root" date="1996-11-07" xml:lang="en">
+<title>BRAZIL: Eleven babies die in Brazilian hospital.</title>
+<headline>Eleven babies die in Brazilian hospital.</headline>
+<dateline>RIO DE JANEIRO 1996-11-06</dateline>
+<text>
+<p>Eleven babies have died in the past 15 days at a hospital in Niteroi, Rio de Janeiro state, the hospital's medical director said on Wednesday.</p>
+<p>Marco Antonio Gomes Andrade said 11 babies died due to a bacterial infection and another 25 babies were still infected and currently being treated with antibiotics.</p>
+<p>Andrade blamed the overcrowded conditions at the Antonio Pedro hospital for the deaths.</p>
+<p>&quot;Overcrowding was certainly a factor which contributed to this problem,&quot; he said. &quot;We have space for 20 babies, but we are taking care of 40. Overcrowding is not just a problem at this hospital but a general problem in the health system.&quot;</p>
+<p>Only last month, 20 babies died of an infection caused by poor hygiene at a maternity hospital in Boa Vista in northern Brazil near the border with Venezuela.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

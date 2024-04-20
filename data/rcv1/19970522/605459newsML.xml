@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="605459" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Following were the most active issues in Nasdaq trading Thursday.</p>
+<p>  Intel Corp	  8,930,000	 161 3/8    off    1 1/8</p>
+<p>  Three Com Cp	8,115,300	 41 5/8     unch    UNCH</p>
+<p>  Quarterdeck	 7,638,700	 3 5/16     up     31/32</p>
+<p>  Cisco Systems     7,447,000	 65 1/2     off    1/4</p>
+<p>  Quantum Corp	6,621,800	 38 3/8     up     13/16</p>
+<p>  Read Rite Cp	4,872,000	 22	   up     1/2</p>
+<p>  Oracle Corp	 4,859,800	 46 3/4     off    3/16</p>
+<p>  Fpa Med Mgmnt     4,794,300	 18 3/4     off    1/8</p>
+<p>  Outdoor Systems   4,734,800	 30 1/2     unch    UNCH</p>
+<p>  Biogen Inc	  4,649,300	 34 7/16    up     15/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

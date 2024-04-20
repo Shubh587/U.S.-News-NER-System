@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157900" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. weekly corn, soybean exports hit highs.</title>
+<headline>U.S. weekly corn, soybean exports hit highs.</headline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>U.S. corn and soybean exports in the week ending Oct 24 hit marketing year highs, U.S. Agriculture Department said Thursday in its weekly Export Sales Report.</p>
+<p>USDA said corn exports of 837,400 tonnes were 12 percent over the prior week and 23 percent higher than the four-week average.</p>
+<p>Soybean exports of 699,300 tonnes were 17 percent higher than the previous week and double the four-week average.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

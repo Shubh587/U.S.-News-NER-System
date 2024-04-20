@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13908" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Laser Photonics to test laser on humans.</title>
+<headline>Laser Photonics to test laser on humans.</headline>
+<dateline>ORLANDO, Fla 1996-08-26</dateline>
+<text>
+<p>The U.S. Food and Drug Administration has authorized Laser Photonics Inc to begin human clinical trials of a laser designed to treat patients suffering from coronary artery disease, the company said Monday.</p>
+<p>Laser Photonics said it would begin trying out its AccuLaser device on patients who suffer from angina and are no longer candidates for coronary artery bypass graft or angioplasty surgery at The New York Hospital-Cornell Medical Center in New York and the Heart Institute of Good Samaritan Hospital in Los Angeles in September.</p>
+<p>It said the laser is used to create channels through the heart wall into the left ventricle chamber to allow blood rich in oxygen to flow directly into the myocardium.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

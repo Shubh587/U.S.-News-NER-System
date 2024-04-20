@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247498" id="root" date="1996-12-10" xml:lang="en">
+<title>SWITZERLAND: Basle Committee retains capital charges multiplier.</title>
+<headline>Basle Committee retains capital charges multiplier.</headline>
+<byline>Peter Nielsen</byline>
+<dateline>ZURICH 1996-12-10</dateline>
+<text>
+<p>The Basle Committee on Banking Supervision, which groups supervisors from the Group of 10 (G10) industrial nations, said on Tuesday banks using sophisticated risk calculation models will still have to use a multiplier of three when calculating capital charges.</p>
+<p>Live tests in major G10 trading centres showed that banks using their own internal models to calculate market risks generally had to apply a lower capital charge than banks using the cruder, standardised method, banking supervisors said.</p>
+<p>&quot;Based on this work, the Committee confirms that the quantative parameters, including the multiplication factor of three times the outcome of the value-at-risk calculations, will be retained,&quot; the Basle Committee said in a statement.  </p>
+<p>Last year international supervisors amended the 1988 Capital Accord to require banks to set aside capital as a cushion against exposure to volatile financial markets in addition to traditional credit risks.</p>
+<p>The amendment broke new regulatory ground by allowing banks for the first time to use their own in-house, value-at-risk (VaR) calculation models as an alternative to the traditional, standardised framework for measuring risks.</p>
+<p>The approach illustrates a growing orientation toward incentive-based bank regulation that allows well-capitalised, efficent and sophisticated banks to compete while costs are imposed on undercapitalised and poorly managed banks.</p>
+<p>The new capital standards were aimed at permitting banks that were more efficient at monitoring and controlling their risks to hold less capital than inefficient banks.</p>
+<p>While the banking industry broadly welcomed the amendment and the ability to rely on in-house risk models, there was some criticism of the size of the multiplicator of three.</p>
+<p>Some private bankers said the multiplier, which is applied to the outcome of (VaR) calculations, would lead to higher capital charges.</p>
+<p>However, supervisors note with satisfaction that tests with a representative sample of G10 banks prove the new approach does not lead to higher capital charges and there is an incentive for banks to develop their own risk management models.</p>
+<p>&quot;The Committee believes such results are consistent with its view that the internal models approach appropriately recognises the benefits of risk diversification strategies and provides incentives for firms to develop and implement sound internal models,&quot; the committee said.</p>
+<p>Immediate comment from the banking industry, including the International Swaps and Derivatives Dealers Association, was not available. But supervisors expect initial criticism from such bodies to die down following the live tests.</p>
+<p>To use their internal models, banks must fulfill strict quantitative and qualitative standards, including a requirement that a bank's board of directors and senior management are actively involved in controlling risks and there is an independent risk-control unit.</p>
+<p>These qualitative standards were an attempt to address the management failures that have characteristed recent bank scandals, such as the collapse of Britain's Barings Bank and the apparent cover-up of huge trading losses at Japan's Daiwa Bank.</p>
+<p>In addition to the multiplier, the quantitative criteria require banks to make a daily calculation of exposure, using a 99 percent confidence interval, and a 10-day holding period. This in effect assumes that a market is so illiquid that a bank caanot get out of its trading position during two weeks.</p>
+<p>The Basle Committee also asked the banking industry to continue to develop models for measuring specific risk -- the risk that a bank's position in a portfolio moves more or less than the general market.</p>
+<p>While the committee was encouraged by the industry's progress in modelling such specific risks, it is not yet convinced that existing models can capture all risk elements and would retain its current specific-risk charges, it added.</p>
+<p>The amendment to the capital accord, which has been worked on since 1988, take effect at the end of 1997 at the latest and was approved G10 central bank governors in December.</p>
+<p>Banking standards agreed by the Basle Committee, established in 1974, are adopted by most countries worldwide.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GTEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

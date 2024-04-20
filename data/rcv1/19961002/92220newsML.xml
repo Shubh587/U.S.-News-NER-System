@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92220" id="root" date="1996-10-02" xml:lang="en">
+<title>SPAIN: Spanish yields fall at 5-, 15- and one-yr auctions.</title>
+<headline>Spanish yields fall at 5-, 15- and one-yr auctions.</headline>
+<dateline>MADRID 1996-10-02</dateline>
+<text>
+<p>The Bank of Spain announced the following results at today's Treasury debt auction (amounts bid, allocated in billions of pesetas):</p>
+<p>ISSUE	Yield    Pvs     Price     Pvs	Bid    Allocated</p>
+<p>1-year    6.751     6.954   93.610   93.43    933.058  419.461</p>
+<p>5-year    7.319     8.110   99.70   104.20    387.173  210.443</p>
+<p>15-year   7.90	8.894   103.90   94.70     55.590   33.337</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

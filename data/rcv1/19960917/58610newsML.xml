@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58610" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Gilead Sciences compound inhibits flu.</title>
+<headline>Gilead Sciences compound inhibits flu.</headline>
+<dateline>FOSTER CITY, Calif. 1996-09-17</dateline>
+<text>
+<p>Gilead Sciences Inc. said Tuesday it has discovered a highly potent compound that inhibits the replication of influenza virus.</p>
+<p>The Foster City, Calif. biotechnology company said that the compound, GS 4104, when given orally to mice, helped fight the two most prominent strains, influenza A and B.</p>
+<p>The compound increased survival and decreased levels of the virus in lung tissue, without any reported toxic side effects, the company said.</p>
+<p>Based upon these data, Gilead is completing additional studies required by the Food and Drug Administration, in order to begin testing the compound on humans.</p>
+<p>Gilead's GS 4104 is part of a class of new chemical entities known as carbocyclic compounds. Carbocyclic compounds fight influenza by inhibiting an enzyme that is essential to the replication cycle of influenza. This enzyme promotes the release of new viral particles produced by infected cells.</p>
+<p>According to the company, 70 million to 120 million people in North America, Western Europe and Japan are infected with influenza each year.</p>
+<p>Gilead stock was down $3 to $25.75 in afternoon trading on the Nasdaq stock market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOSTER CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

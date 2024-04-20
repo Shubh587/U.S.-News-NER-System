@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16132" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Edison's Socal hopes to restart lines today.</title>
+<headline>Edison's Socal hopes to restart lines today.</headline>
+<dateline>ALHAMBRA, Calif 1996-08-27</dateline>
+<text>
+<p>Edison International's Southern California Edison said Tuesday it hopes to restart later today two high-voltage transmission lines which were shut Monday evening due to fire conditions.</p>
+<p>As a result of the outage, Edison has curtailed imports of power purchased from the Pacific Northwest.</p>
+<p>Gary Tarplee, manager of Edison's Control Center, said the two 500 kilovolt lines were taken off line about 1830 PST/2130 EDT Monday when smoke from a major fire north of Los Angeles contaminated their insulators.</p>
+<p>&quot;The fires are still out of control, but we hope to restart the lines sometime later today,&quot; Tarplee said.</p>
+<p>Edison offset the disruption by bringing up some of its idled power generation units so that customer service was not disrupted.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALHAMBRA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

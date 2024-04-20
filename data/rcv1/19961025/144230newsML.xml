@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144230" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: New York insurer, cancer center sign deal - WSJ.</title>
+<headline>New York insurer, cancer center sign deal - WSJ.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>New York State health insurer Empire Blue Cross &amp; Blue Shield has signed a contract with Memorial Sloan-Kettering Cancer Center, a prominent cancer facility that had previously shunned managed care, the Wall Street Journal reported on Thursday.</p>
+<p>The newspaper said the insurer had secretly negotiated a contract with the insurer during the last few months.</p>
+<p>Under its terms, the center would cut its rates by as much as 30 percent in exchange for a greater flow of new patients.</p>
+<p>In January, the U.S. state will lift regulations that control the prices that hospitals can charge and insurers can pay.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

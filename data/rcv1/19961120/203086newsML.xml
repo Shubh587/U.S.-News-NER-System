@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203086" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: PRESALE - Savannah, Ga..</title>
+<headline>PRESALE - Savannah, Ga..</headline>
+<text>
+<p>AMT: 2,000,000	DATE: 11/21/96	NYC Time: 1200	CUSIP: 804804</p>
+<p>ISSUER: Savannah							  ST: GA</p>
+<p>ISSUE: G.O. street &amp; drainage imp, Series 1996	    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: Aa/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 11/01/96							     SURE BID: Y</p>
+<p>DUE: 8/1/03-04						SR MGR:</p>
+<p>1ST CPN: 02/01/97</p>
+<p>CALL: Non-Callable					  NIC</p>
+<p>DELIVERY: 12/5/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: The Bank of New York, NYC</p>
+<p>L.O.: Oliver Maner &amp; Gray, Savannah</p>
+<p>F.A.: A.G. Edwards &amp; Sons, Inc., Atlanta</p>
+<p>LAST SALE: $2,000,000 9/24/95 @ 4.2310% NIC; 5yrs 5mos Avg; BBI-5.90%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2003		    300,000</p>
+<p>2004		  1,700,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

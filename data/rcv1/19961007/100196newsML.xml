@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100196" id="root" date="1996-10-07" xml:lang="en">
+<title>GERMANY: Deutsche BA sells turboprop planes to French group.</title>
+<headline>Deutsche BA sells turboprop planes to French group.</headline>
+<dateline>MUNICH, Germany 1996-10-07</dateline>
+<text>
+<p>Deutsche BA, the German subsidiary of British Airways PLC said on Monday it had signed a letter of intent to sell all its turboprop planes to France's Regional Airlines.</p>
+<p>Deutsche BA said in a statement the decision was part of a plan to concentrate on its core business.</p>
+<p>It said Regional Airlines intended to set up a German subsidiary which would operate independently using Deutsche BA's five Saab 2000 aircraft.</p>
+<p>The network currently comprises 10 inner-German and international routes from Friedrichshafen, Stuttgart and Bremen. There are currently 184 people employed in this area and the airline said these jobs would be retained.</p>
+<p>Deutsche BA carried 298,000 passengers in its regional network in 1995.</p>
+<p>It gave no financial details for the transaction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

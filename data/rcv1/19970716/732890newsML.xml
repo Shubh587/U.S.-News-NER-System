@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732890" id="root" date="1997-07-16" xml:lang="en">
+<title>FRANCE: French parliamentary panel to study auto industry.</title>
+<headline>French parliamentary panel to study auto industry.</headline>
+<dateline>PARIS 1997-07-16</dateline>
+<text>
+<p>The National Assembly named a special commission on Wednesday to study the automobile industry's future in France and in Europe.</p>
+<p>Communist deputy Daniel Paul will head the 45-member commission, which will hold its first meeting on August 27, parliamentary aides said.</p>
+<p>Twenty-five of the panel's members are from the assembly's leftist majority, a coalition of Socialists, Communists and Greens.</p>
+<p>The commission was created at the request of the Socialist bloc of deputies after loss-making French carmaker Renault abruptly announced plans earlier this year to close an assembly plant in Vilvoorde, Belgium, employing 3,100 people.</p>
+<p>Renault, which is 46-percent owned by the French state, argued that closing the plant was a competitive necessity but politicians in both France and Belgium attacked the move as inappropriate during a time of high unemployment.</p>
+<p>Socialist Prime Minister Lionel Jospin pledged during this year's parliamentary election campaign to review the case.</p>
+<p>But following his review he allowed the plant closing to go forward after winning assurances there would be no layoffs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

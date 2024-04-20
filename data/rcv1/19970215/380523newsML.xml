@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="380523" id="root" date="1997-02-15" xml:lang="en">
+<title>UK: CRICKET-ENGLAND 145-5 AT STUMPS ON 2ND DAY VS NZ.</title>
+<headline>CRICKET-ENGLAND 145-5 AT STUMPS ON 2ND DAY VS NZ.</headline>
+<dateline>CHRISTCHURCH 1997-02-15</dateline>
+<text>
+<p>England were 145 for the loss of five wickets at stumps on the second day of their third and final cricket test against New Zealand on Saturday. Scores:</p>
+<p>New Zealand first innings 346 (G. Allott eight not out)</p>
+<p>England first innings 145 for five wickets (M. Atherton 66 not out, D. Cork 16 not out).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHRISTCHURCH"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148027" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: NYSE closing averages.</title>
+<headline>NYSE closing averages.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Prices on the New York Stock Exchange closed lower in moderate trading Monday.</p>
+<p>The Dow Jones Industrial Average fell 34.29 to 5972.73.</p>
+<p>The NYSE Composite fell 2.28 to 370.98.</p>
+<p>The average price per share fell $0.24.</p>
+<p>Losers beat gainers 1530 to 865.</p>
+<p>Volume was 383,634,340, compared with 364,980,270 Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

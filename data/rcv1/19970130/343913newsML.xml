@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343913" id="root" date="1997-01-30" xml:lang="en">
+<title>JAPAN: Japan buys 165,000 tonnes wheat, 20,000 barley.</title>
+<headline>Japan buys 165,000 tonnes wheat, 20,000 barley.</headline>
+<dateline>TOKYO 1997-01-30</dateline>
+<text>
+<p>The Japanese Food Agency said it had bought 100,000 tonnes of U.S. wheat, 45,000 of Canadian wheat, 20,000 of Australian wheat and 20,000 of Australian barley at its weekly tender on Thursday, all for March shipment.</p>
+<p>The tender results details are as follows, in tonnes:</p>
+<p>WHEAT</p>
+<p>    Country    Quantity</p>
+<p>    U.S.	 100,000	  Western white	    40,000</p>
+<p>					Dark northern spring   30,000</p>
+<p>					Hard red winter</p>
+<p>					(11.5 percent protein) 10,000</p>
+<p>					(13 percent protein)   20,000</p>
+<p>Canada     45,000	   1 Canadian western red spring</p>
+<p>								     27,000</p>
+<p>					durum			18,000</p>
+<p>    Australia  20,000	   Standard white	   20,000</p>
+<p>BARLEY</p>
+<p>    Country    Quantity</p>
+<p>    Australia  20,000	   Feed			 20,000</p>
+<p>-- Japan Commodities Desk +81-3-3432-7431</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

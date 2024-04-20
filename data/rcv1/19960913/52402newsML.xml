@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52402" id="root" date="1996-09-13" xml:lang="en">
+<title>CANADA: Alberta Wheat Pool details harvest level Sept 13.</title>
+<headline>Alberta Wheat Pool details harvest level Sept 13.</headline>
+<dateline>WINNIPEG 1996-09-13</dateline>
+<text>
+<p>Alberta Wheat Pool on Friday detailed the level of harvest progress as of Sept 13.</p>
+<p>CROP		     COMBINED (PCT)  COMBINED SEPT 13/95</p>
+<p>Hard Red Spring Wheat 23		  34</p>
+<p>Canada Prairie Spring 13		  26</p>
+<p>Soft White Spring     76		  42</p>
+<p>Winter Wheat	   100		  97</p>
+<p>Durum Wheat	     69		  34</p>
+<p>Oats			16		  24</p>
+<p>Barley		    32		  40</p>
+<p>Flax			 7		  22</p>
+<p>Fall Rye		  77		  88</p>
+<p>Canola		    29		  39</p>
+<p>Total:		    28		  37</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

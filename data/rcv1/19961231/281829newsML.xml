@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281829" id="root" date="1996-12-31" xml:lang="en">
+<title>NIGERIA: Twenty dead in Nigerian bus crash.</title>
+<headline>Twenty dead in Nigerian bus crash.</headline>
+<dateline>LAGOS 1996-12-31</dateline>
+<text>
+<p>At least 20 people died when two buses travelling to the countryside for Christmas and New Year festivities collided in Nigeria's Kano state, the Daily Times newspaper reported on Tuesday.</p>
+<p>It said the accident occurred on Sunday night when the driver of one of the buses was overtaking an articulated lorry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

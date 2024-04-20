@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73517" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: New '3-D' trading system unveiled.</title>
+<headline>New '3-D' trading system unveiled.</headline>
+<dateline>NEW YORK 1996-09-24</dateline>
+<text>
+<p>Privately held OptiMark Technologies Inc. said Tuesday that it has developed a new &quot;three-dimensional&quot; trading system that will reduce price volatility and increase liquidity in securities markets.</p>
+<p>The Colorado-based company said the Pacific Stock Exchange and the Chicago Board Options Exchange already have agreed to use its system, which allows traders to specify a variety of trading prices and block sizes and the degree of their willingness to trade under those differing circumstances.</p>
+<p>OptiMark said it intends to offer the system non-exclusively as an integrated transaction facility for all exchanges and distribute the service through existing vendors.</p>
+<p>The new system, which has financial backing from Dow Jones &amp; Co., will be offered first in stock markets and then in related options markets, OptiMark said.</p>
+<p>The system also will be accessible over the IBM Global Network, a private voice, data and video network operated by International Business Machines Corp., which provided the technological infrastructure for the system.</p>
+<p>The company, based in Durango, Colo., was due to unveil the system formally on Wednesday at Pace University's Third Annual Securities Industry Conference in New York.</p>
+<p>OptiMark said its system recognises that usually there is not just one price at which a trader is willing to buy or sell shares. Typically, there is a range of acceptable prices, depending on such factors as the size of the block, timing and market direction.</p>
+<p>Existing trading systems can represent a single price in a bid or offer, but these are only a crude approximation of buyers' and sellers' real intentions, the company said.</p>
+<p>OptiMark said its system will enable buyers and sellers to specify a variety of trading preferences and, based on those preferences, to find the best trade prices and block sizes to complete transactions -- while keeping traders' anonymity and trading strategies secret.</p>
+<p>&quot;Through OptiMark buyers and sellers are able to represent their intentions with visually intuitive 'satisfaction profiles' and can take advantage of the sophisticated search and matching capability of the system's supercomputer to execute entire transactions at optimal prices,&quot; OptiMark President Terry Rickard said in a statement.</p>
+<p>OptiMark said that while its technology is protected by multiple patents pending, the company's strategy is to offer the new system non-exclusively as an integrated transaction facility for all exchanges.</p>
+<p>It said the system, designed for maximum participation via an open architecture, will run over various distribution networks to both new and existing trader workstations.</p>
+<p>The company said the system will be distributed through existing market data services, including Dow Jones Telerate, which serves the financial community in 83 countries.</p>
+<p>The system will also be available non-exclusively to other network providers that wish to carry the service.</p>
+<p>IBM is providing the complete technology infrastructure to support the project, including an RS/6000 SP supercomputer that will power OptiMark, as well as software development, operations support and other integration services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

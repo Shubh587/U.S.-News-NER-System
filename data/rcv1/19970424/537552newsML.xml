@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537552" id="root" date="1997-04-24" xml:lang="en">
+<title>JAPAN: Japan buys 80,000 tonnes of wheat in weekly tender.</title>
+<headline>Japan buys 80,000 tonnes of wheat in weekly tender.</headline>
+<dateline>TOKYO 1997-04-24</dateline>
+<text>
+<p>Japan's Food Agency said on Thursday that it had bought 20,000 tonnes of U.S. wheat, 20,000 tonnes of Canadian wheat and 40,000 tonnes of Australian wheat at its weekly tender, all for June shipment.</p>
+<p>The Food Agency did not buy barley in this week's tender, an agency official said.</p>
+<p>The breakdown is as follows (in tonnes):</p>
+<p>WHEAT</p>
+<p>COUNTRY	 QUANTITY</p>
+<p>U.S.	 20,000    Dark Northern Spring</p>
+<p> Canada     20,000    Western Red Spring</p>
+<p> Australia  20,000    Standard White</p>
+<p> 20,000    Prime Hard</p>
+<p>-- Tokyo Commodity Desk, +81-3-3432-7431</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

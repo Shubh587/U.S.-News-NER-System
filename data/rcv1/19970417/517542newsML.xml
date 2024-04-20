@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="517542" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: GM CEO sees new electric car battery soon.</title>
+<headline>GM CEO sees new electric car battery soon.</headline>
+<dateline>CHICAGO 1997-04-17</dateline>
+<text>
+<p>General Motors Corp chief executive officer Jack Smith said Thursday the company expects a new battery for its EV1 electric vehicle to be on the market by the end 1997 or early 1998.</p>
+<p>The new battery could double the current 70-mile range between charges required by current lead-acid batteries, Smith said.</p>
+<p>But it will cost five times as much, he said after a speech to the Executives' Club of Chicago.</p>
+<p>The new battery will be interchangeable with lead-acid batteries, he said.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

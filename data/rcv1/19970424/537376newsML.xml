@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537376" id="root" date="1997-04-24" xml:lang="en">
+<title>UK: Researchers show how genes fail in breast cancer.</title>
+<headline>Researchers show how genes fail in breast cancer.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1997-04-23</dateline>
+<text>
+<p>The two main genes linked with breast cancer seem to work with a third gene as a genetic inspection and repair team, researchers reported on Wednesday.</p>
+<p>The findings shed more light on the mechanisms behind breast and other forms of cancer and could help doctors find more effective ways of treating them.</p>
+<p>Shyam Sharan and Allan Bradley of the Howard Hughes Medical Institute at the Baylor College of Medicine in Houston, Texas and colleagues at Lexicon Genetics Inc were working with BRCA-1 and BRCA-2, genes believed to act as tumour suppressors.</p>
+<p>BRCA-2 is mutated in 45 percent of breast cancer cases in which there is a family history of breast cancer, while inherited mutations in BRCA-1 can cause breast and ovarian cancer. They interact with a third gene, known as Rad51.</p>
+<p>Working with genetically engineered mice, Bradley's team found the three act in concert to repair DNA.</p>
+<p>&quot;What we have shown is that this gene is involved in the process of DNA repair -- in other words protecting the genetic code of a cell,&quot; Bradley said in a telephone interview.</p>
+<p>This repair process is essential -- it helps cells correct mistakes made as they replicate every day. When these mistakes are not corrected, a cell can go out of control and start reproducing frantically, becoming a tumour.</p>
+<p>Bradley's team also found that mice engineered to lack BRCA2 die as embryos. This indicates the gene is essential for embryonic development.</p>
+<p>It could be embryonic cells are very sensitive to unrepaired mistakes. Adult breast cells survive, but once the mistakes start adding up they turn into out-of-control cancer cells, Bradley said.</p>
+<p>The BRCA-2 deficient mice embryos were also extremely susceptible to radiation -- which could point to better methods of treatment, Bradley said.</p>
+<p>&quot;Now we have some feeling for what this gene is coding, what we have to do is clinical trials to address whether people with these mutations are more or less sensitive to radiation,&quot; he said.</p>
+<p>Cancer experts Kenneth Kinzler and Bert Vogelstein of Johns Hopkins University, who wrote a commentary on the study, said people with inherited breast cancer, as opposed to &quot;sporadic&quot; breast cancer, might need different therapies.</p>
+<p>&quot;If the same thing is true in humans, then the breast cancer cells from these individuals should be particularly sensitive to radiation or drugs that act like radiation,&quot; Vogelstein said.</p>
+<p>&quot;It could lead to a more tailor-made design of therapy.&quot;</p>
+<p>Vogelstein said BRCA-1, BRCA-2 and Rad-51 probably acted like a complex to fix damaged DNA.</p>
+<p>&quot;But exactly how the absence of that complex results in higher mutation rates isn't clear,&quot; he said.</p>
+<p>&quot;It probably has something to do with recombinant repair, which is the mechanism cells often use to fix DNA.&quot; All cells have two copies of each gene and when one gets damaged the cells can use the good gene as a template to fix the bad one.</p>
+<p>In a letter to Nature, Tony Kouzarides and colleagues of the Wellcome/Cancer Research Campaign Institute in Cambridge, England added weight to this idea.</p>
+<p>They said they had found evidence BRCA-2 acted as a transcription factor -- helping transfer genetic information in the early steps of cell replication.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

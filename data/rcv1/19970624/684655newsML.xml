@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="684655" id="root" date="1997-06-24" xml:lang="en">
+<title>JAPAN: Japan May crude oil import statistics.</title>
+<headline>Japan May crude oil import statistics.</headline>
+<dateline>TOKYO 1997-06-24</dateline>
+<text>
+<p>Japan's Ministry of International</p>
+<p>Trade and Industry (MITI) issued the following data on crude</p>
+<p>oil and oil product imports during May:</p>
+<p> CRUDE OIL   (1,000 kl) (1,000 bbl) mth/mth% yr/yr%</p>
+<p> Iran	   2,027	 12,750    +39.5     +8.7</p>
+<p> Saudi Arabia 4,427	 27,846    -15.9     -4.1</p>
+<p> Kuwait	 1,453	  9,139     -5.3    +50.0</p>
+<p> Neutral Zone 1,143	  7,189     -2.3     -6.3</p>
+<p> Qatar	  1,554	  9,775     +2.6     -5.8</p>
+<p> Oman	   1,072	  6,743    +13.5     +6.6</p>
+<p> Iraq	     289	  1,818     -0.3     ---</p>
+<p> UAE	    5,230	 32,897     -19.3    -3.2</p>
+<p> China	  1,037	  6,523     -14.0   +12.3</p>
+<p> Malaysia	 256	  1,610     -25.5   -57.2</p>
+<p> Brunei	   129	    811     +13.3   -40.1</p>
+<p> Indonesia    1,102	  6,932     -14.5   -15.9</p>
+<p> Vietnam	  508	  3,195     +22.9  +110.0</p>
+<p> Mexico	   289	  1,818     -48.5    -0.2</p>
+<p> Australia	 98	    616     -51.5   -39.4</p>
+<p> TOTAL	  20,615	129,668     -9.7    +0.4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

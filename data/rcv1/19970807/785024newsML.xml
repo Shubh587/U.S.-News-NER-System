@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785024" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: CBOT/CME CLOSING TRENDS - AUG 7.</title>
+<headline>CBOT/CME CLOSING TRENDS - AUG 7.</headline>
+<text>
+<p>Wheat    up  1     cts/bu    Live Cattle  dn 0.700 cts/lb</p>
+<p>    Corn     dn  9     cts/bu    Feeders	dn 0.150 cts/lb</p>
+<p>    Oats     dn  1     cts/bu    Live Hogs    up 0.700 cts/lb</p>
+<p>    Soybeans dn 23 1/2 cts/bu    Pork Bellies dn 3.000 cts/lb</p>
+<p>    Soyoil   dn  0.45  cts/lb</p>
+<p>Soymeal  dn  6.30  dollar/ton</p>
+<p>Commodity Research Bureau Futures Index - Aug 6</p>
+<p>FUTURES INDEX	242.81  IMPORTS		404.19</p>
+<p>INDUSTRIES	   258.17  GRAINS		 213.54</p>
+<p>OILSEEDS	     N/A     LIVESTOCKS/MEATS   270.62</p>
+<p>ENERGY		 206.10  PRECIOUS METALS    243.44</p>
+<p>CURRENCY	     125.82  INTEREST RATES     113.98</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

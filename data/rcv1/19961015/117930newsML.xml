@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117930" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Delphi Financial files to list stock.</title>
+<headline>Delphi Financial files to list stock.</headline>
+<dateline>WILMINGTON, Del 1996-10-15</dateline>
+<text>
+<p>Delphi Financial Group Inc said it had filed an application to list its Class A Common Stock on the New York Stock Exchange.</p>
+<p>The company said it expected trading to begin on the exchange by October 31 under the symbol &quot;DFG.&quot;</p>
+<p>&quot;We believe this move will enhance the liquidity of Delphi's Class A shares, reduce transaction costs for our shareholders and stimulate additional investor and analyst interest in Delphi,&quot; it said.</p>
+<p>Delphi Financial Group Inc is the parent company of Reliance Standard Life Insurance Co and Safety National Casualty Corp, providing group employee benefits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

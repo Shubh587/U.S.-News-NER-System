@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101325" id="root" date="1996-10-07" xml:lang="en">
+<title>TAIWAN: PRESS DIGEST - Taiwan newspapers - October 7.</title>
+<headline>PRESS DIGEST - Taiwan newspapers - October 7.</headline>
+<dateline>TAIPEI 1996-10-07</dateline>
+<text>
+<p>These are the leading stories in the Taiwan press on Monday. Reuter has not verified these stories and does not vouch for their accuracy.</p>
+<p>Newspaper headlines</p>
+<p>CHINA TIMES - Protesters plan landing on disputed islands.</p>
+<p>New pro-independence party inaugurated.</p>
+<p>UNITED DAILY NEWS - Flotilla set for disputed islands.</p>
+<p>Newly-found Taiwan Independence Party celebrates founding day.</p>
+<p>COMMERCIAL TIMES - Special trade zone may allow Taiwan-China business transactions in third currency.</p>
+<p>Central Bank governor says easy credit no panacea for economic recovery.</p>
+<p>ECONOMIC DAILY NEWS - Financial reform task force to start working next month.</p>
+<p>Government resists shortening work week to five days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

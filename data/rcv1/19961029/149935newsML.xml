@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149935" id="root" date="1996-10-29" xml:lang="en">
+<title>CANADA: Daily Canadian spot natgas prices - Oct 29.</title>
+<headline>Daily Canadian spot natgas prices - Oct 29.</headline>
+<text>
+<p>DOMESTIC (OCT SALES)		 $CDN/GJ		 $US/MMBTU</p>
+<p>  AECO				  1.59/1.64		1.27/1.31</p>
+<p>  ALBERTA BORDER - EMPRESS	1.69/1.74		1.35/1.39</p>
+<p>EXPORT (OCT SALES)</p>
+<p>  SUMAS (HUNTINGDON, BC)	  2.65/2.71		2.12/2.17</p>
+<p>  NIAGARA, ONT			3.62/3.69		2.90/2.95</p>
+<p>NOTE - CANADA, U.S. DOLLAR CONVERSION BASED ON BANK OF CANADA NOON RATE.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156548" id="root" date="1996-10-31" xml:lang="en">
+<title>VENEZUELA: Venezuela's Boulton Q1 adjusted profit.</title>
+<headline>Venezuela's Boulton Q1 adjusted profit.</headline>
+<dateline>CARACAS 1996-10-31</dateline>
+<text>
+<p>Net profit 91.50 million bolivars vs 466 million loss</p>
+<p>Total costs 2.52 bln bolivars vs 6.07 bln bolivars</p>
+<p>Revenues 2.62 bln bolivars vs 5.60 bln bolivars</p>
+<p>NOTES: Results are inflation-adjusted in constant September 30, 1996 bolivars.</p>
+<p>Accounts are consolidated.</p>
+<p>Venezuelan's H.L. Boulton and Co SACA is a holding company.</p>
+<p>-- Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

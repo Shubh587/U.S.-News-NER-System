@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202174" id="root" date="1996-11-20" xml:lang="en">
+<title>MALI: Condom sales boom in Mali.</title>
+<headline>Condom sales boom in Mali.</headline>
+<dateline>BAMAKO 1996-11-20</dateline>
+<text>
+<p>Condom sales in the West African state of Mali are booming, according to the national committee against the spread of the killer disease AIDS.</p>
+<p>The committee said a total of 2,265,926 condoms had been sold from January 1 to September 30.</p>
+<p>Sales in 1995 totalled 1,699,014 condoms. Sales have grown annually since the committee launched the campaign in 1992. That year sales totalled 460,332.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAMAKO"/>
+<dc element="dc.creator.location.country.name" value="MALI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

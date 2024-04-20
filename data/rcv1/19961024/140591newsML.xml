@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140591" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: PSE waives transaction fees on new equity options.</title>
+<headline>PSE waives transaction fees on new equity options.</headline>
+<dateline>CHICAGO 1996-10-24</dateline>
+<text>
+<p>The Pacific Stock Exchange (PSE) said it would waive transaction fees on its new flex options that began trading Thursday.</p>
+<p>The exchange said fees would be waived for three months from Thursday, in line with the Chicago Board Options Exchange (CBOE) and the American Stock Exchange (AMEX).</p>
+<p>The three exchanges Thursday launched flex options on individual stocks. The PSE listed flex options on 10 stocks, the AMEX on 15 and the CBOE on 10.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

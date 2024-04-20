@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773030" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: U.S. stocks still sharply lower, bonds fall.</title>
+<headline>U.S. stocks still sharply lower, bonds fall.</headline>
+<dateline>NEW YORK 1997-08-01</dateline>
+<text>
+<p>U.S. stocks remained slumped in negative  ground on Friday, battered by profit-taking and sharp declines in  bonds after strong July employment and National Association of Purchasing  Management data.</p>
+<p>The Dow Jones Industrial average was down 102 points, over one percent,  at 8121, while the long bond extended losses.  The benchmark U.S.  Treasury stumbled two full points, then traded off 1-19/32 at a 6.44  percent yield.</p>
+<p>The Nasdaq composite index was down seven points at 1588.</p>
+<p>((Wall Street desk 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51069" id="root" date="1996-09-12" xml:lang="en">
+<title>CHINA: China's Construction Bank has $123.2 bln deposits.</title>
+<headline>China's Construction Bank has $123.2 bln deposits.</headline>
+<dateline>BEIJING 1996-09-12</dateline>
+<text>
+<p>The Construction Bank of China had deposits of 1.0223 trillion yuan ($123.2 billion) at the end of August, up more than 200 billion yuan from the beginning of this year, the People's Daily said on Thursday.</p>
+<p>The bank had met its target for the year of increasing deposits by 180 billion yuan in 1996, the newspaper said.</p>
+<p>By the end of August, about 72 billion yuan in new loans extended by the bank this year went to 1,000 key state enterprises with the outstanding balance reaching 150 billion yuan, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

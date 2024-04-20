@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89847" id="root" date="1996-10-01" xml:lang="en">
+<title>DUBAI: Technip wins Abu Dhabi gas contract.</title>
+<headline>Technip wins Abu Dhabi gas contract.</headline>
+<dateline>DUBAI 1996-10-01</dateline>
+<text>
+<p>Abu Dhabi National Oil Company (ADNOC) has awarded France's Technip the front end engineering and design (FEED) contract to expand gas producing facilities in the Gulf Arab state, an ADNOC company magazine reported.</p>
+<p>ADNOC gave no details of the value of the deal, Technip's second major gas contract in Abu Dhabi.</p>
+<p>&quot;FEED efforts are scheduled to be completed within eight months to support an aggressive end of the century project competition goal,&quot; ADNOC said.</p>
+<p>Abu Dhabi needs additional gas processing facilities to keep pace with growing domestic and industrial gas use.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

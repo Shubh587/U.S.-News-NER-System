@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47615" id="root" date="1996-09-11" xml:lang="en">
+<title>FRANCE: Highlights of ONIC soft wheat estimates.</title>
+<headline>Highlights of ONIC soft wheat estimates.</headline>
+<dateline>PARIS 1996-09-11</dateline>
+<text>
+<p>Cereals office ONIC issued the following monthly soft wheat estimates (million tonnes). Revisions for 1995/96 marked with *. 96/97 (Aug/Sept)   95/96 (Aug/Sept)</p>
+<p> Opening stocks		     2.230		* 3.087</p>
+<p> Harvested crop		    33.800		 29.825</p>
+<p> Delivered crop		    29.700		*25.946</p>
+<p> Non-farm use			12.672		*12.340</p>
+<p> Exports to EU			8.000		* 8.613</p>
+<p> Commercial export to non-EU    6.700		  3.750</p>
+<p> Non-EU commercial flour export 1.985		* 1.803</p>
+<p> Final stock			  2.193		  2.230</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

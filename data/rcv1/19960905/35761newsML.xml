@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35761" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Continental Airlines Aug load factor rises.</title>
+<headline>Continental Airlines Aug load factor rises.</headline>
+<dateline>HOUSTON 1996-09-05</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Load factor - percent		  74.3		73.3</p>
+<p> Revenue passenger miles	     4,119	     3,877</p>
+<p> Available seat miles		  5,541	     5,289</p>
+<p> Total cargo ton miles		    42		  37</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  69.6		65.8</p>
+<p> Revenue passenger miles	    28,324	    27,473</p>
+<p> Available seat miles		 40,709	    41,730</p>
+<p> Total cargo ton miles		   315		 308</p>
+<p>(Revenue passenger, available seat and cargo ton miles in 000,000s)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="332651" id="root" date="1997-01-24" xml:lang="en">
+<title>YEMEN: Somali refugees in Yemen to return home next week.</title>
+<headline>Somali refugees in Yemen to return home next week.</headline>
+<dateline>ADEN 1997-01-23</dateline>
+<text>
+<p>The first of some 20,000 Somali refugees in Yemen are due to return home next week, the United Nations refugee agency UNHCR said on Thursday.</p>
+<p>The voluntary repatriation was in accordance with an agreement reached between the UNHCR and a Somali delegation in Yemen at the end of last year, the agency said in a statement.</p>
+<p>The refugees, who fled to Yemen after violence broke out in Somalia in 1991, are all due to return home in the coming months, it said.</p>
+<p>Yemen, a small oil producer, is one of the Arab World's poorest countries and suffers from about 25 percent inflation.</p>
+<p>Somalia has been devastated by faction fighting since 1991 after rebels overthrew late president Mohammed Siad Barre and turned their guns on each other in vicious fighting which killed thousands of people.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SOMAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADEN"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

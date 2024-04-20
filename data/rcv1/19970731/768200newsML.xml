@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768200" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: TABLE - Federal Reserve report 4 (H.4.1)- July 31.</title>
+<headline>TABLE - Federal Reserve report 4 (H.4.1)- July 31.</headline>
+<text>
+<p>One week ended July 30 daily avgs-millions</p>
+<p> Foreign deposits............172  up..........4</p>
+<p> Gold stock...............11,050  up..........1</p>
+<p> Custody holdings........631,119  up......1,139</p>
+<p> Federal funds rate avg.....5.57  vs.......5.43</p>
+<p>Factors on Wednesday, July 30</p>
+<p> Bank borrowings...........1,678  vs........366</p>
+<p> Extended credit.............nil  vs.......unch</p>
+<p> Matched sales............15,398  vs.....14,513</p>
+<p> Including sales w/cust...15,398  vs.....14,513</p>
+<p> Float......................-593  vs........940</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

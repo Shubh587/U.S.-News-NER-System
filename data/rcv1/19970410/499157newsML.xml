@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="499157" id="root" date="1997-04-10" xml:lang="en">
+<title>UK: Policewoman hurt in suspected IRA attack.</title>
+<headline>Policewoman hurt in suspected IRA attack.</headline>
+<dateline>BELFAST 1997-04-10</dateline>
+<text>
+<p>A Northern Ireland policewoman was shot and wounded in a suspected IRA guerrilla attack in the city of Londonderry on Thursday, police sources said.</p>
+<p>The sources said the shooting happened near the city's court house shortly before 1600 local (1500 GMT).  </p>
+<p>No further details were immediately available.</p>
+<p>&quot;We have first reports of a shooting incident. A woman officer has been injured,&quot; a police source said.</p>
+<p>The Irish Republican Army (IRA) has been fighting a 28-year war to end British rule of Northern Ireland and reunite the province with the Irish republic.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

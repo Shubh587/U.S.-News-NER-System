@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222230" id="root" date="1996-11-28" xml:lang="en">
+<title>SOUTH AFRICA: TTHREE MINERS DIE AT BUFFELSFONTEIN -- TV.</title>
+<headline>TTHREE MINERS DIE AT BUFFELSFONTEIN -- TV.</headline>
+<dateline>JOHANNESBURG 1996-11-28</dateline>
+<text>
+<p>Three miners were killed in an earthquake at Buffelsfontein gold mine in South Africa's Northwest Province, state television reported on Thursday.    </p>
+<p>Buffelsfontein, managed by Randgold Exploration Company Ltd, produced 1,471 kg of gold in the three months to end-September.</p>
+<p>The company was unavailable for immediate comment.</p>
+<p>-- Johannesburg newsroom, (27-11) 482-1003 --</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

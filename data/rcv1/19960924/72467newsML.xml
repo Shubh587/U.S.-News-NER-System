@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72467" id="root" date="1996-09-24" xml:lang="en">
+<title>BELARUS: Belarus unemployment rate rises to 3.8 pct in Aug.</title>
+<headline>Belarus unemployment rate rises to 3.8 pct in Aug.</headline>
+<dateline>MINSK 1996-09-24</dateline>
+<text>
+<p>The number of Belarus's officially recorded unemployed rose in August to 3.8 percent of the workforce from 3.24 percent in July, the Statistics Ministry said on Tuesday.</p>
+<p>    BELARUS UNEMPLOYMENT     Aug '96   July '96   Aug '95</p>
+<p>    Number unemployed	  183,400   180,400    118,500</p>
+<p>    As pct of the workforce    3.8	 3.24	 2.5</p>
+<p>--Larisa Sayenko, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

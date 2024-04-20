@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260601" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Consumers extends 67 MW Mich. nuke outage.</title>
+<headline>Consumers extends 67 MW Mich. nuke outage.</headline>
+<dateline>NEW YORK 1996-12-17</dateline>
+<text>
+<p>Consumers Power Co's 67 megawatt Big Rock Point nuclear power unit in Charlevoix, Mich., shut last Friday, will be down for about 30 to 45 days, the company said Tuesday.</p>
+<p>&quot;We discovered a piece of metal in the turbine,&quot; company spokesman Tim Petrosky said, adding that operators have to remove the turbine cover to assess the damage.</p>
+<p>Until then, he said, the restart of the unit is tentative.</p>
+<p>Last week, after the unit was shut due to turbine vibration, the company had said it would likely restart early this week.</p>
+<p>Consumers Power Co is a subsidiary of CMS Energy Corp.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

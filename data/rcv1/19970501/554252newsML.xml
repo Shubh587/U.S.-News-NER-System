@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554252" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: 3Com sees classes of Internet service soon.</title>
+<headline>3Com sees classes of Internet service soon.</headline>
+<dateline>SAN DIEGO, Calif. 1997-04-30</dateline>
+<text>
+<p>3Com Corp chief technology officer John Hart said use of push computing technologies will help it differentiate classes of service on the Internet and other networks in real time.</p>
+<p>Speaking at the Upside/David Coursey technology conference here, Hart compared traffic on the Internet to classes of service on an airline, saying in the future data will be able to travel at speeds ranging from standby and coach to business and first class.  </p>
+<p>Currently, he said, Internet traffic is subject to delays because service is not differentiated and virtually all traffic must travel in standby modes, where it can be subject to loss of data and traffic jams on the Internet.</p>
+<p>3Com, its larger rival Cisco Systems Inc, and the rest of the industry have been working to develop standards that will allow customers to create and bill for different levels of service in the future.  </p>
+<p>In an interview after speaking in a panel discussion here, Hart said 3Com is looking at ways of providing high level service directly between the peripheral parts of the network where its products are strongest, without having to pass through the Internet core which is Cisco's stronghold.</p>
+<p>Hart, who is also a senior vice president at 3Com, said the company's planned acquisition of modem maker U.S. Robotics Corp will enhance its ability to innovate at the access points to corporate networks and the Internet.  </p>
+<p>&quot;We have to own all edge technology,&quot; he said of 3Com's efforts to keep at the forefront of the technologies needed to hook up computers and computing devices to networks.</p>
+<p>3Com said earlier this week it will integrate Tibco Inc's push computing technology into 3Com's products, including networking cards for personal computers. 3Com has already deployed networking cards on 50 million computers.</p>
+<p>Push computing enables information to be distributed automatically over the internet, and 3Com said it can use the technology to reduce response time and control traffic across networks of diverse devices.</p>
+<p>Tibco is a unit of Reuters Holdings Plc. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209209" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: AFTER THE BELL - After-hours trading stays quiet.</title>
+<headline>AFTER THE BELL - After-hours trading stays quiet.</headline>
+<dateline>NEW YORK 1996-11-22</dateline>
+<text>
+<p>After-hours activity was quiet on Friday amid a dearth of late news ahead of the weekend.</p>
+<p>During market hours, the Nasdaq composite closed at a record high of 1274.24, up over 16 points. It was its third record close this month.</p>
+<p>The Dow industrials surged 53, or 0.83 percent, to about 6472.  </p>
+<p>The New York Stock Exchange said its session one volume was 10,300 shares compared with 2,800 shares the previous day. Session two volume was 2,998,600 shares. On Thursday, there was no trading during session two, the NYSE said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

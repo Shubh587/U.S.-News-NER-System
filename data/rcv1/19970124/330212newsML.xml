@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330212" id="root" date="1997-01-24" xml:lang="en">
+<title>RUSSIA: Moscow customs seize crocodiles, monkeys.</title>
+<headline>Moscow customs seize crocodiles, monkeys.</headline>
+<dateline>MOSCOW 1997-01-24</dateline>
+<text>
+<p>Customs officials seized a mysterious delivery of nine baby crocodiles, 20 monkeys and 119 parrots at Moscow's main international airport on Friday, Itar-Tass news agency said.</p>
+<p>Tass quoted customs officials as saying the birds and animals, drugged and loaded into wooden crates, had arrived at Sheremetevo airport on a flight from an African country without any documents identifying their destination.</p>
+<p>One parrot had already died and veterinary surgeons said some of the parrots and monkeys would probably not wake up from their drug-induced sleep.</p>
+<p>Tass said the animals would be put into quarantine while their fate was decided. Exotic birds and animals have become increasingly common pets in the new Russia.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="153489" id="root" date="1996-10-30" xml:lang="en">
+<title>JAPAN: Japan firms say will delay launch of DVD software.</title>
+<headline>Japan firms say will delay launch of DVD software.</headline>
+<dateline>TOKYO 1996-10-30</dateline>
+<text>
+<p>Two Japanese recording companies said on Wednesday they would delay the launch of digital video disc (DVD) software for one or two weeks because of possible incompatibility with some DVD players.</p>
+<p>Toshiba EMI, a recording studio owned by the Toshiba group, said its two DVD software titles will hit the market in the middle of November, instead of its originally planned November 1.</p>
+<p>&quot;We want to make doubly sure that all DVD players are compatible with each other,&quot; Toshiba EMI said in a statement.</p>
+<p>Toshiba Corp, Matsushita Electric Industrial Co and Pioneer Electronic Corp will launch the players in Japan on November 1.</p>
+<p>But some analysts said last-minute changes in copyright protection measures in prolonged negotiations between hardware and software makers delayed the production of some software titles.</p>
+<p>Another recording company, Pony Canyon Inc, will delay the launch of its software said.</p>
+<p>DVDs feature massive recording volume, and are expected to replace compact discs, CD-ROMs and videocassette recorders by 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

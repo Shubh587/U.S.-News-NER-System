@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114352" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Dow Jones closes above 6,000 points for first time ever.</title>
+<headline>Dow Jones closes above 6,000 points for first time ever.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The Dow Jones industrial average closed above the 6,000-point milestone for the first time ever Monday, less than a year after ending above the 5,000-point mark on Nov. 21, 1995.</p>
+<p>At the 4. p.m. EDT closing bell, the Dow closed up 41.74 points at 6,011.12.</p>
+<p>Last Monday, the index of 30 blue-chip stocks rallied for the first time through 6,000 but failed to close above that level.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

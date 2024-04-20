@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231099" id="root" date="1996-12-03" xml:lang="en">
+<title>HONG KONG: Lehman proposes Hongkong Land warrants.</title>
+<headline>Lehman proposes Hongkong Land warrants.</headline>
+<dateline>HONG KONG 1996-12-03</dateline>
+<text>
+<p>Lehman Brothers said on Tuesday it intended to issue 20 million call warrants on shares of Hongkong Land Holdings.</p>
+<p>One warrant control one share.</p>
+<p> STRIKE PRICE	US$2.772	  PREMIUM   13.1 PCT</p>
+<p> ISSUE PRICE	 US$0.712	  GEARING   4.33X</p>
+<p> EXPIRATION	  18 MTHS AFTER LAUNCH</p>
+<p> PAYDATE	     4 WKS AFTER LAUNCH</p>
+<p> LISTING	     SINGAPORE	 LISTING DATE   N/C</p>
+<p> SPOT REFERENCE    N/A</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

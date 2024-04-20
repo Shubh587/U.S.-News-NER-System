@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118066" id="root" date="1996-10-15" xml:lang="en">
+<title>ISRAEL: Jordan's King Hussein leaves Jericho.</title>
+<headline>Jordan's King Hussein leaves Jericho.</headline>
+<dateline>JERUSALEM 1996-10-15</dateline>
+<text>
+<p>Jordan's King Hussein ended his first visit to Palestinian-ruled areas on Tuesday, lifting off in a helicopter from the West Bank he controlled until 1967, witnesses said.</p>
+<p>The king had arrived in the Palestinian self-rule enclave of Jericho from Amman four hours earlier with Palestinian President Yasser Arafat. He was at the controls of the helicopter as it lifted off for Jordan, the witnesses said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

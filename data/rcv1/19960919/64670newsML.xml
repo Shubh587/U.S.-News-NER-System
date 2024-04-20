@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64670" id="root" date="1996-09-19" xml:lang="en">
+<title>FRANCE: Picasso's Riviera villa for sale.</title>
+<headline>Picasso's Riviera villa for sale.</headline>
+<dateline>MOUGINS, France 1996-09-19</dateline>
+<text>
+<p>The hilltop French Riviera villa where artist Pablo Picasso spent his last years is on sale for 26 million francs ($5 million), sources at the town hall of Mougins said.</p>
+<p>Picasso bought the 35-room Mougins villa in 1961 and lived there until he died in 1973.</p>
+<p>Some of his memorabilia are still stored there, including an old Hispano car which does not appear to have been driven since he died.</p>
+<p>Picasso's plumber said recently he believed the artist had built a cache in the villa where he deposited a briefcase and works by masters such as Goya and Van Gogh.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUGINS, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

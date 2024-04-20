@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173130" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Clinton, Christopher to speak at 1415 EST.</title>
+<headline>Clinton, Christopher to speak at 1415 EST.</headline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>President Bill Clinton and Secretary of State Warren Christopher will speak in the White House Rose Garden at 2:15 p.m. EST (1915 GMT), the White House said Thursday.</p>
+<p>Earlier, U.S. officials said that the two were expected to hold a news conference to confirm Christopher's resignation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

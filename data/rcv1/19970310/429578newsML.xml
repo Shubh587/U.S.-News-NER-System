@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429578" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: Checkfree, Reuters in Internet deal.</title>
+<headline>Checkfree, Reuters in Internet deal.</headline>
+<dateline>ATLANTA 1997-03-10</dateline>
+<text>
+<p>CheckFree Corp on Monday said it has entered into an agreement with Reuters America Inc to combine CheckFree's Internet services with Reuters information resources to deliver a World Wide Web product to brokerage firms, financial institutions and their customers.</p>
+<p>Financial terms of the deal were not disclosed.</p>
+<p>Checkfree said that under the agreement, Reuters America, a unit of Reuters Holdings Plc, will offer its Internet brokerage customers access to CheckFree's processing services which include transaction capabilities, portfolio management and online bill payment software.</p>
+<p>CheckFree will integrate Reuters news, stock quotes, content, brokerage transaction capabilities and Internet hosting services to its suite of services currently offered to customers at financial institutions and brokerage firms.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

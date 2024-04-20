@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="279272" id="root" date="1996-12-29" xml:lang="en">
+<title>AUSTRALIA: TENNIS-HOPMAN CUP RESULTS, DAY ONE.</title>
+<headline>TENNIS-HOPMAN CUP RESULTS, DAY ONE.</headline>
+<dateline>PERTH, Australia 1996-12-29</dateline>
+<text>
+<p>Results on the first day of the Hopman Cup mixed teams tennis tournament on Sunday (prefix number denotes seeding):</p>
+<p>Group A</p>
+<p>1-Croatia beat Australia 2-1</p>
+<p>Singles (Croatian names first)</p>
+<p>Iva Majoli beat Nicole Bradtke 6-4 6-3</p>
+<p>Goran Ivanisevic lost to Mark Philippoussis 2-6 3-6</p>
+<p>Doubles</p>
+<p>Ivanisevic/Majoli beat Philippoussis/Bradtke 7-5 7-5</p>
+<p>United States beat 4-France 2-1</p>
+<p>Singles (U.S. names first)</p>
+<p>Chanda Rubin beat Mary Pierce 6-4 6-1</p>
+<p>Justin Gimelstob lost to Guy Forget 6-2 3-6 3-6</p>
+<p>Doubles</p>
+<p>Gimelstob/Rubin beat Forget/Pierce 3-6 6-3 6-2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

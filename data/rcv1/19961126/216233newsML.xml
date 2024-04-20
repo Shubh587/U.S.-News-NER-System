@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="216233" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: US EPA to propose air quality standards Wednesday.</title>
+<headline>US EPA to propose air quality standards Wednesday.</headline>
+<dateline>WASHINGTON 1996-11-26</dateline>
+<text>
+<p>The U.S. Environmental Protection Agency will release a proposal Wednesday on setting national air quality standards for smog-producing ozone and airborne particles, the agency said Tuesday.</p>
+<p>The announcement, which will launch a public comment period before a final rule is set in June, is scheduled for 1200 EST/1700 GMT, the EPA said.</p>
+<p>The agency is expected to propose tightening the standards, a move backed by health and environmental advocates and opposed by many industry groups.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

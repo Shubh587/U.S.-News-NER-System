@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128869" id="root" date="1996-10-20" xml:lang="en">
+<title>UK: RUGBY UNION-EUROPEAN CLUB COMPETITION RESULTS.</title>
+<headline>RUGBY UNION-EUROPEAN CLUB COMPETITION RESULTS.</headline>
+<dateline>LONDON 1996-10-20</dateline>
+<text>
+<p>Results in European club rugby</p>
+<p>union competitions on Sunday:</p>
+<p>European Cup:</p>
+<p>Pool A</p>
+<p> Dax   69   Edinburgh  12</p>
+<p>European Cup:</p>
+<p>Pool C</p>
+<p> Caledonia	   30     Brive		 32</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

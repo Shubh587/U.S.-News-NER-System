@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335479" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Rollins Inc Q4 net income falls.</title>
+<headline>Rollins Inc Q4 net income falls.</headline>
+<dateline>ATLANTA 1997-01-27</dateline>
+<text>
+<p>Fourth Quarter     Twelve Months</p>
+<p>					1996     1995     1996     1995</p>
+<p> Revenues		     $144,568 $140,098 $627,431 $620,435</p>
+<p>Costs and Expenses</p>
+<p>  Cost of Services Provided 90,438   77,610  358,783  325,889</p>
+<p>  Depreciation &amp; Amort	 2,535    2,169    8,612    7,950</p>
+<p>   Special Charge		 --	 --	 --  12,000(a)</p>
+<p>   SG&amp;A			   52,845   50,569  229,237  216,234</p>
+<p>   Interest Income	   (1,670)  (1,402)  (5,967)  (4,988)</p>
+<p> Total Costs and Expenses  144,148  128,946  590,665  557,085</p>
+<p> Income Before Income Taxes    420   11,152   36,766   63,350</p>
+<p> Provision for Income Taxes    159    4,238   13,971   24,073</p>
+<p> Net Income			  261    6,914   22,795   39,277</p>
+<p> Earnings Per Share	     0.01     0.20     0.64     1.10</p>
+<p> Avg shrs Outstanding	 34,874   35,856   35,478   35,849</p>
+<p>		   (In Thousands, Except Per Share Data)</p>
+<p>NOTE: (a) $7,440,000 after tax benefit or $.21 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

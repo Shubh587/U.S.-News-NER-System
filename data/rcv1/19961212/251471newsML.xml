@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251471" id="root" date="1996-12-12" xml:lang="en">
+<title>FRANCE: SOCCER-ALGERIAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-ALGERIAN FIRST DIVISION RESULTS.</headline>
+<dateline>PARIS 1996-12-12</dateline>
+<text>
+<p>Results of Algerian first division</p>
+<p>soccer matches on Thursday:</p>
+<p> Sportif Constantine    4    Widad Mostaganem	 3</p>
+<p> Utihad Alger	     1    Jeunesse Kabylie	 0</p>
+<p> Nadit Hussein Dey	1    Mouloudia Club Alger   1</p>
+<p> Utihad Ain Beida	 3    Chabab Batna	     1</p>
+<p> Widad Boufarik	   1    Widad Tlemcen	    0</p>
+<p> Utihad Chaouia	   1    Association Ain M'lila 1</p>
+<p> Mouloudia Oran	   5    Chabab Belouizdad	1</p>
+<p> Utihad el Harrach	1    Mouloudia Constantine  0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

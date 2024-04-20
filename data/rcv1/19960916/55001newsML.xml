@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55001" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Tele-Comm buys some Jones assets.</title>
+<headline>Tele-Comm buys some Jones assets.</headline>
+<dateline>DENVER 1996-09-16</dateline>
+<text>
+<p>Tele-Communications Inc's domestic cable unit TCI Communications Inc said on Monday it agreed to buy the assets of Jones Intercable Inc's systems that serve 18,500 customers in the metropolitan Denver area.</p>
+<p>Under the agreement, a unit of TCI, Tele-Vue Systems Inc, will aquire the assets of Jones Cable Income Fund 1-B/C Venture.</p>
+<p>The additional customers from Broomfield, Brighton, Adams County and Boulder County in Colorado will bring TCI's customer base in the Denver metropolitan area to more than 410,000, TCI said.</p>
+<p>TCI has also agreed to acquire the assets of Jones Spacelink Fund 4 Ltd serving about 2,900 customers in the Houston suburb of Rosenberg, Texas.</p>
+<p>Terms of both transactions were not disclosed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

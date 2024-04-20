@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72263" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Fed denies it plans to adopt core CPI target.</title>
+<headline>Fed denies it plans to adopt core CPI target.</headline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>The Federal Reserve on Tuesday denied a Reuters report saying that it was close to adopting a core Consumer Price Index target as a guideline for setting monetary policy.</p>
+<p>&quot;We are not targeting core inflation formally or informally,&quot; said Bob Moore, a spokesman for the Fed.</p>
+<p>The Labor Department's core CPI, which excludes volatile food and energy prices, is closely watched by economists as a gauge of underlying inflation.</p>
+<p>In a story that ran on Sept. 23, a Fed source told Reuters that the central bank viewed a zero-to-two percent range on core CPI as price stability. The source added that targeting core CPI as a guideline for policy had been informally adopted within the Fed.</p>
+<p>However, Moore said, &quot;The story is incorrect.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

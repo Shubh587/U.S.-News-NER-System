@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271258" id="root" date="1996-12-20" xml:lang="en">
+<title>JAPAN: Japan Hokkaido electricity use hits record high.</title>
+<headline>Japan Hokkaido electricity use hits record high.</headline>
+<dateline>TOKYO 1996-12-20</dateline>
+<text>
+<p>Electricity consumption surged to a record high on Thursday on Japan's northern island of Hokkaido due to chilly weather, Hokkaido Electric Power Co Inc, which services the area, said on Friday.</p>
+<p>Electricity consumption amounted to 94.1 million kilowatt hours (kWh), a daily record, after a cold spell compounded by snow made Hokkaido residents turn heating and lighting up while machines to melt snow operated at full tilt, Hokkaido Electric said.</p>
+<p>The previous record high was 93.6 million kWh, marked on February 1 this year.</p>
+<p>On Thursday, temperatures in Hokkaido's main city of Sapporo dipped to as low as minus eight degrees Celsius. The high was minus 3.3 degrees C, Hokkaido Electric said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

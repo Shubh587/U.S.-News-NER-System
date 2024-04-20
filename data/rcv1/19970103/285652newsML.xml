@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="285652" id="root" date="1997-01-03" xml:lang="en">
+<title>USA: Honda sees higher 1996 sales.</title>
+<headline>Honda sees higher 1996 sales.</headline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>Honda Motor Co. Ltd. said Friday its Honda division had the best year in its history in 1996, selling between 730,000 and 740,000 vehicles in the United States.</p>
+<p>American Honda Executive Vice President Tom Elliott said 1996 sales rose about 9 percent from 1995 levels. Including sales from its upscale Acura Division, Elliott said Honda sold about 854,000 vehicles in the United States in 1996. Final sales figures are scheduled to be released on Monday.</p>
+<p>Elliott said Honda sold 2.1 million vehicles worldwide in 1996, the first time Honda has sold more than 2 million vehicles in one year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201898" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: NBA BASKETBALL-TUESDAY'S RESULTS.</title>
+<headline>NBA BASKETBALL-TUESDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>Results of National Basketball</p>
+<p>Association games Tuesday (home team in CAPS):</p>
+<p> Seattle	  106  TORONTO	    98</p>
+<p> CLEVELAND	 73  Atlanta	    63</p>
+<p> New York	  92  ORLANDO	    88</p>
+<p> HOUSTON	  122  Minnesota	  93</p>
+<p> MILWAUKEE	100  Dallas	     97</p>
+<p> Miami	    104  DENVER	     86</p>
+<p> PORTLAND	  92  Sacramento	 90 (OT)</p>
+<p> La Lakers	112  GOLDEN STATE   109</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

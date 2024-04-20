@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386896" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: Shaman says Provir Phase IIb trials begin.</title>
+<headline>Shaman says Provir Phase IIb trials begin.</headline>
+<dateline>SOUTH SAN FRANCISCO, Calif. 1997-02-19</dateline>
+<text>
+<p>Shaman Pharmaceuticals Inc on Wednesday said it has begun patient enrollment in Phase IIb studies of Provir, an oral treatment for watery diarrhea.</p>
+<p>This program of Phase II studies, which are double-blind, randomized and placebo controlled, is designed to obtain optimal dose information using around 700 patients.</p>
+<p>An earlier Phase II study showed 89 percent of 75 patients treated with Provir returned to normal after 48 hours. Of the 71 patients available for follow-up, no recurrence was experienced during the post-treatment period, Shaman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTH SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

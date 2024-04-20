@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13725" id="root" date="1996-08-26" xml:lang="en">
+<title>COSTA RICA: SOCCER-COSTA RICA AND CHILE DRAW 1-1 IN FRIENDLY.</title>
+<headline>SOCCER-COSTA RICA AND CHILE DRAW 1-1 IN FRIENDLY.</headline>
+<dateline>LIBERIA, Costa Rica 1996-08-26</dateline>
+<text>
+<p>Costa Rica and Chile</p>
+<p>drew 1-1 (halftime 1-0) in a friendly soccer international on</p>
+<p>Sunday.</p>
+<p>Scorers:</p>
+<p>Costa Rica - Ronaldo Gonzalez (10th minute, penalty</p>
+<p>Chile - Marcelo Salas (80th)</p>
+<p>Attendance: 8,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIBERIA, Costa Rica"/>
+<dc element="dc.creator.location.country.name" value="COSTA RICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

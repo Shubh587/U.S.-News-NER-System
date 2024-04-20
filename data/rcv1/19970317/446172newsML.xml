@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="446172" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Court ruling may boost Transamerica revenue.</title>
+<headline>Court ruling may boost Transamerica revenue.</headline>
+<dateline>HOUSTON 1997-03-17</dateline>
+<text>
+<p>TransAmerican Waste Industries Inc said Friday that annual revenues could rise by as much as $2 million as a result of a favorable ruling by the the Alabama Supreme Court.</p>
+<p>The court unanimously reversed a Jan 1996 ruling by the Circuit Court of Chilton County, Alabama which, said the company, effectively imposed a daily volume limit of approximately 300 tons per day at the company-owned Chilton County landfill located at Thorsby, Alabama.  The reversal allows TransAmerican to accept up to 1,500 tons per day as stated in the permit.</p>
+<p>Prior to the Circuit Court ruling, TransAmerican Waste was accepting approximately 800 tons per day at the landfill, it said.  At current disposal rates an increase in volume to this level would increase annual revenue by more than $2 million said TransAmerica.</p>
+<p>TransAmerican is a solid waste management company engaged in the transportation, processing and disposal of non-hazardous industrial and municipal solid waste.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

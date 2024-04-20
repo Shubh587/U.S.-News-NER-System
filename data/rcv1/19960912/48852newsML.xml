@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48852" id="root" date="1996-09-12" xml:lang="en">
+<title>CANADA: CWB details 1996/97 grain/oilseed yield forecasts.</title>
+<headline>CWB details 1996/97 grain/oilseed yield forecasts.</headline>
+<dateline>WINNIPEG 1996-09-12</dateline>
+<text>
+<p>The Canadian Wheat Board on Thursday issued yield forecasts on western Canada's six major grain and oilseed crops at an industry briefing here.</p>
+<p>CROP     StatsCan  CWB  Weather Model* UGG (bu/ac)</p>
+<p>s.wheat  34.5	33.4     32.3	 34.2</p>
+<p>durum    30.1	30.0     30.3	 ----</p>
+<p>oats     69.6	68.0     63.6	 71.2</p>
+<p>barley   58.9	58.0     55.3	 60.6</p>
+<p>rye	31.2	30.0     27.4	 30.7</p>
+<p>flax     22.1	21.0     19.9	 21.3</p>
+<p>canola   25.7	23.5     22.1	 24.2</p>
+<p>CWB 1996 summer crop tour spring wheat mean avg: 36.6 bu/ac *CWB weather model to forecast yields in use since 1989. --CWB yield column lists mid-range between weather model and crop tour yield estimates.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

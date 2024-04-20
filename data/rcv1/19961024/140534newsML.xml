@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140534" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: USDA to hold public meeting on animal vaccines.</title>
+<headline>USDA to hold public meeting on animal vaccines.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>The U.S. Department of Agriculture said Thursday it would hold a public meeting to discuss animal vaccines and other biological products on November 7.</p>
+<p>The meeting will discuss draft regulations that would require licensed manufacturers to record all adverse reactions to the vaccines and biological products, USDA said.</p>
+<p>The meeting, sponsored by USDA's Animal and Plant Health Inspection Service (APHIS), will be held at the Iowa State University's College of Veterinary Medicine in Ames, Iowa.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

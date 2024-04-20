@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228995" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Blue-chip stocks resume rise after Thanksgiving.</title>
+<headline>Blue-chip stocks resume rise after Thanksgiving.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Stocks ended little changed Monday after a session marked by early profit-taking and late buy programs.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended even with Friday's close of 6,521.70, after falling almost 49 points earlier in the session. In the broader market, advancing issues led declines by a narrow margin on active volume of 415 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

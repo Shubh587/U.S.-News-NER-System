@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196399" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for November 18, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks</p>
+<p>COMPANY		  ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>WISER OIL CO	     0.03     0.31	933.33%</p>
+<p>IEC ELECTRS NEW	 -0.10     0.27	370.00%</p>
+<p>ABRAXAS PETE/NV	 -0.05     0.02	140.00%</p>
+<p>PHILLIPS (RH)	    0.04     0.09	125.00%</p>
+<p>KELLY OIL&amp;G CP	  -0.04    -0.02	 50.00%</p>
+<p>PLEXUS CORP		0.33     0.45	 36.36%</p>
+<p>CELLULARVISION	  -0.21    -0.14	 33.33%</p>
+<p>ZOLTEK COS INC	   0.13     0.16	 23.08%</p>
+<p>ACTV INC		  -0.19    -0.15	 21.05%</p>
+<p>BWAY CORP		  0.34     0.40	 17.65%</p>
+<p>ROSS TECHNOLOGY	 -0.01    -0.27    -2600.00%</p>
+<p>KY ELEC STEEL	    0.01    -0.14    -1500.00%</p>
+<p>SCITEX CORP	    -0.08    -0.96    -1100.00%</p>
+<p>CRW FINANCIAL	    0.03    -0.15     -600.00%</p>
+<p>DATA SYS&amp;SOFTWR	 -0.03    -0.11     -266.67%</p>
+<p>FEI COMPANY		0.10    -0.02     -120.00%</p>
+<p>ROBERTS PHARMA	  -0.08    -0.16     -100.00%</p>
+<p>RAILAMERICA INC	  0.09     0.01	-88.89%</p>
+<p>MANHATTAN BAGEL	  0.08     0.01	-87.50%</p>
+<p>NATL ENRGY GRP	   0.04     0.02	-50.00%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I22300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I41900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

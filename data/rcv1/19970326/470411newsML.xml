@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470411" id="root" date="1997-03-26" xml:lang="en">
+<title>SWEDEN: Sweden sets auction of 6.5 bln skr in T-bills.</title>
+<headline>Sweden sets auction of 6.5 bln skr in T-bills.</headline>
+<dateline>STOCKHOLM 1997-03-26</dateline>
+<text>
+<p>Sweden's National Debt Office said on Wednesday it would auction 6.5 billion crowns of Treasury bills on April 2.</p>
+<p>It said bids are due by 1030 GMT on the day of the auction. Settlement date is April 4. Maturity date		Issue volume	    Number</p>
+<p>							    of days</p>
+<p>July 16, 1997		500 million Skr	 102</p>
+<p>October 15, 1997	   1.0 billion Skr	 191</p>
+<p>March 18, 1998	     5.0 billion Skr	 344</p>
+<p>-- Stockholm newsroom +46-8-700-1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

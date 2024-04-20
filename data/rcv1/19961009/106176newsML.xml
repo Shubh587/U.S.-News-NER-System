@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106176" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: EIA Monthly U.S. Propane Inventory Report.</title>
+<headline>EIA Monthly U.S. Propane Inventory Report.</headline>
+<text>
+<p>U.S. PROPANE STOCKS (IN MILLION BARRELS)</p>
+<p>		 09/30/96   08/31/96   09/95   08/95   Change/Mo</p>
+<p>East Coast	 5.3	 4.3	4.9	5.1	+ 1.0</p>
+<p>Midwest	   23.5	23.0     23.0     23.1	+ 0.5</p>
+<p>Gulf Coast	19.9	20.7     27.4     26.1	- 0.8</p>
+<p>U.S. Total	50.4	49.6     57.2     55.9	+ 0.8</p>
+<p>Source: Estimates by U.S. Department of Energy's Energy Information Administration. EIA will report propane stocks on a monthly basis from May to September. - Totals may not equal sum of regions due to rounding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

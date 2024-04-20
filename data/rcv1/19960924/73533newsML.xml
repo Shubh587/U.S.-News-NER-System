@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73533" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: IBM and partners develop trading system.</title>
+<headline>IBM and partners develop trading system.</headline>
+<dateline>NEW YORK 1996-09-24</dateline>
+<text>
+<p>International Business Machines Corp will provide the technological infrastructure in a new trading system that will allow buyers and sellers to specify a variety of trading prices and sizes while retaining anonymity, IBM and its partners in the project said Tuesday.</p>
+<p>Partners include Colorado-based  OptiMark Technologies Inc, which developed the technology, and Dow Jones &amp; Co, which is among those funding the project.  </p>
+<p>The Pacific Stock Exchange and the Chicago Board Options Exchange have agreed to be the first exchanges to make the system available.</p>
+<p>The system will be offered first in the equity markets and then in related options markets, the partners said.</p>
+<p>OptiMark said it intends to offer the system non-exclusively as an integrated transaction facility for all exchanges and distribute the service through existing vendors. The system also will be accessible over the IBM Global Network, a private and secure voice, data and video network, OptiMark said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

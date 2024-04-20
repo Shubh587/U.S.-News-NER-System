@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293469" id="root" date="1997-01-08" xml:lang="en">
+<title>BRAZIL: Brazilian coffee temperature and rain detailed.</title>
+<headline>Brazilian coffee temperature and rain detailed.</headline>
+<dateline>SAO PAULO 1997-01-08</dateline>
+<text>
+<p>Brazilian coffee region temperatures (centigrade) and rain (millimeters) in the 24 hours to 1100 GMT.</p>
+<p>Parana State: Londrina 21.2, Nil, Maringa 22.6, Nil, Umuarama 23.3, Nil, Paranavai 21.8, Nil.</p>
+<p>Sao Paulo State: Presidente Prudente 22.9, Nil, Franca 18.8, 0.8 mm, Votuporanga 22.5, 5.2 mm, Catanduva 23.0, Nil, Sao Carlos Not Available, Sao Simao 20.8, Nil.</p>
+<p>Minas Gerais State: Pocos de Caldas 17.0, Nil, Guaxupe 18.0, Nil.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

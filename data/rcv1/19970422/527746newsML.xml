@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="527746" id="root" date="1997-04-22" xml:lang="en">
+<title>PERU: Peru troops celebrate after storming Lima residence.</title>
+<headline>Peru troops celebrate after storming Lima residence.</headline>
+<dateline>LIMA 1997-04-22</dateline>
+<text>
+<p>Peruvian troops were seen celebrating on the roof and congratulating each other on Tuesday after they stormed the Japanese ambassador's residence in Lima and freed at least 60 hostages.</p>
+<p>The hostages freed after a battle between troops and Marxist rebels who had held 72 people in the building included Peruvian Foreign Minister Francisco Tudela and Japanese ambassador Morihisa Aoki.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263239" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Geron wins two patents.</title>
+<headline>Geron wins two patents.</headline>
+<dateline>MENLO PARK, Calif. 1996-12-18</dateline>
+<text>
+<p>Geron Corp said on Wednesday it has won two patents in the United States.</p>
+<p>The first relates to cloning of the RNA component of human telomerase. The patent protects Geron's cancer diagnostic methods and reagents, as well as therapeutic compounds targeting the RNA component for the treatment of cancer.</p>
+<p>The second covers Geron's proprietary Enhanced Differential Display (EDD) technology, which is useful for characterizing differences in gene expression between two or more cell types. These genes and gene products provide promising targets for drugs to treat age-related diseases.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

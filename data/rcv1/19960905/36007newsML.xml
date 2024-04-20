@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36007" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: US energy prices fall on ACCESS despite API draws.</title>
+<headline>US energy prices fall on ACCESS despite API draws.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>U.S. energy futures prices fell in early ACCESS trade despite reports of lower inventories, traders said.</p>
+<p>The trade group American Petroleum Institute showed crude stocks nationwide decreased by 5.7 million barrels to 313 million.</p>
+<p>&quot;Surprisingly, we've seen a bit of a sell-off in crude tonight,&quot; one trader said.</p>
+<p>October NYMEX crude traded $23.07 a barrel, off 17 cents from the settle. A heavy volume of 1,500 lots changed hands.  </p>
+<p>Traders said many players felt crude was overvalued following the U.S. bombing of Iraq and suspension of the country's 700,000 barrels per day export agreement with the United Nations.</p>
+<p>Iraq's contribution to world production was already discounted by the market, traders said, even before the conflict began this week.</p>
+<p>October gasoline lost 0.11 cent to reach 62.85 cents a gallon on ACCESS on a moderate 100 lots traded.</p>
+<p>October heating oil dropped 0.31 cent a gallon to trade at 63.90 cents on 500 lots traded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

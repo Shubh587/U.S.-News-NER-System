@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38077" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: U.S. to sell $19.25 bln of 52-wk bills Sept 12.</title>
+<headline>U.S. to sell $19.25 bln of 52-wk bills Sept 12.</headline>
+<dateline>WASHINGTON 1996-09-06</dateline>
+<text>
+<p>The U.S. Treasury said it will auction $19.25 billion of 52-week bills on Sept 12 to pay down $25 million as $19.275 billion of 52-week bills are maturing.</p>
+<p>The bills will be issued Sept 19 and mature Sept 18, 1997.</p>
+<p>The CUSIP number for the bills will be 9127942U7.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

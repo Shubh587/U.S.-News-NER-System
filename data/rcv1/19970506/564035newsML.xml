@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564035" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Scientists discover way to make universal blood type.</title>
+<headline>Scientists discover way to make universal blood type.</headline>
+<dateline>ALBANY, N.Y. 1997-05-05</dateline>
+<text>
+<p>Researchers on Monday unveiled a way of changing the surface of highly sensitive red blood cells that could eventually lead to a universal blood type, allowing blood transfusions between people of different blood groups.</p>
+<p>The research was presented at the annual meeting of Pediatric Academic Societies, which examines the latest in pediatric research. Many children with thalassemia, a potentially fatal blood disorder that requires repeated transfusions, have difficulty accepting donor blood.</p>
+<p>The research also may be useful in tissue and organ transplantation to prevent rejection as well as in veterinary medicine where blood banking is very difficult, researchers said.</p>
+<p>&quot;This technique is a very straightforward experiment and simple to do and is also important for Third World countries that don't have blood banks,&quot; said Mark Scott, Ph.D., associate professor of pathology and laboratory medicine at Albany Medical Centre in Albany, N.Y.</p>
+<p>Scott invented the method with John Eaton, Ph.D., a former Albany Medical Centre researcher who now works at Baylor College of Medicine in Houston, under a grant from the National Institutes of Health.</p>
+<p>Their work, which will be published in the Proceedings of the National Academy of Sciences, was conducted in test tubes with human, mouse, rat and sheep red blood cells and in live mice with mice cells.</p>
+<p>Scott and Eaton discovered the process while studying a group of inherited blood disorders known as thalassemia where there is a problem with the production of haemoglobin, which carries oxygen in red blood cells. Many of these disorders affect children, Scott said.</p>
+<p>As a result, the red blood cells -- which in a healthy person last 120 days -- die within 7-14 days and the patient needs repeated blood transfusions.</p>
+<p>With the new technique, the scientists coat the red blood cells with a chemical structure known as a bicompatible polymer called polyethylene glycol (PEG). Other polymers are nylon and linoleum.</p>
+<p>These PEG molecules attach themselves to the cell's surface and hide the parts of the red blood cells known as antigens which trigger an allergic reaction to a foreign blood type, creating antibodies.</p>
+<p>For example, a person who has type A blood will naturally have antibodies that attach to the antigens on the surface of type B blood cells and destroy the foreign blood. It is deadly to give someone the wrong blood type.</p>
+<p>Using the new method, the PEG permanently keeps the cell from reacting to the foreign blood and then modifies them to be &quot;antigenically silent,&quot; therefore allowing blood transfusions of people with different blood types and eventually could lead to a universal blood type, Scott said. &quot;These cells look normal, act normal and have normal structure and function,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBANY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

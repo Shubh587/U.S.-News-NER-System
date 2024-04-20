@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143752" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: U.S. returns to standard time on Sunday.</title>
+<headline>U.S. returns to standard time on Sunday.</headline>
+<dateline>WASHINGTON 1996-10-25</dateline>
+<text>
+<p>The United States returns to standard time Sunday for the next five months when clocks are turned back one hour at 2 a.m. (0600 GMT) in each time zone.</p>
+<p>Daylight savings time returns on April 6, 1997. Daylight time is in effect from the first Sunday in April until the last Sunday in October.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

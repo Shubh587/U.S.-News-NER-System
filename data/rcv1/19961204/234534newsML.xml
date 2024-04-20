@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234534" id="root" date="1996-12-04" xml:lang="en">
+<title>SPAIN: Armed men attack Italian viceconsulate in Spain.</title>
+<headline>Armed men attack Italian viceconsulate in Spain.</headline>
+<dateline>MALAGA, Spain 1996-12-04</dateline>
+<text>
+<p>Three armed men broke into the Italian vice-consulate in Malaga on Wednesday, tied up the employees and made them read a statement, an Italian embassy spokesman in Madrid said.</p>
+<p>&quot;Three men entered and immobilised the employees and made them read a statement written in Spanish which said...it was an action by a revolutionary group to protest against Italian justice and in favour of prisoners,&quot; the spokesman told Reuters.  </p>
+<p>The embassy said it did not know the identities of the men who broke into the vice-consulate in the southern Spanish resort or anything about the prisoners to whom they referred.</p>
+<p>The statement, which a vice-consulate employee was forced to read, said such attacks would be repeated in all countries where the justice system worked like Italy's.</p>
+<p>The armed men vandalised the vice-consulate and stole some money, which made the Italian embassy wonder about the motives for the attack.</p>
+<p>&quot;The impression we have is that it was done by common delinquents who tried to cover up their activities,&quot; the embassy spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MALAGA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

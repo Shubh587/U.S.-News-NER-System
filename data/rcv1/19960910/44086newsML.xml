@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44086" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: MCI starts local service in Portland, Ore.</title>
+<headline>MCI starts local service in Portland, Ore.</headline>
+<dateline>PORTLAND, Ore. 1996-09-10</dateline>
+<text>
+<p>MCI Communications Corp said it introduced local telephone service for businesses in and around Portland.</p>
+<p>In a statement, the company said the move represents MCI's first step in challenging US West Inc's control of the city's local telephone market.</p>
+<p>In addition to Portland, MCI's local service will be available in the following area communities -- Beaverton, Forest Grove, Gresham, Hillsboro, Lake Oswego, Milwaukie, Oregon City, Scholls, Sherwood, Stafford and Tigard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

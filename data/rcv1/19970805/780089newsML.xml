@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780089" id="root" date="1997-08-05" xml:lang="en">
+<title>GREECE: Table of Greek central bank fixing rates, Aug 5.</title>
+<headline>Table of Greek central bank fixing rates, Aug 5.</headline>
+<dateline>ATHENS 1997-08-05</dateline>
+<text>
+<p>The Bank of Greece's fixing rates for leading currencies on Tuesday were as follows.</p>
+<p>------------------------------------------------------------</p>
+<p> Currency:	Aug 05	Aug 04   Dec 31 96    CHANGE</p>
+<p>								 FROM YR-END</p>
+<p>------------------------------------------------------------</p>
+<p>- USD =	  293.050     291.430     247.020    18.63 %</p>
+<p>- ECU =	  307.940     307.900     306.830     0.36 %</p>
+<p>- DEM =	  155.870     155.985     158.970    -1.95 %</p>
+<p>- FRF =	   46.194	46.256	47.182    -2.09 %</p>
+<p>- GBP =	  476.720     474.820     419.180    13.73 %</p>
+<p>- NLG =	  138.400     138.480     141.685    -2.32 %</p>
+<p>- ITL (100) =   15.929	15.962	16.185    -1.58 %</p>
+<p>- JPY (100) =  247.630     245.980     212.430    16.57 %</p>
+<p>- ESP =	    1.845	 1.851	1.8880    -2.28 %</p>
+<p>- PTE =	    1.540	 1.545	1.5810    -2.59 %</p>
+<p>- CHF =	  191.155     190.240     183.135     4.38 %</p>
+<p>Note: The net change is calculated as the percentage difference between the most recent fixing rate and the December 31, 1996 rate.</p>
+<p>--Angelos Kiosklis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="759002" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: Dow Corning to expand Midland plant.</title>
+<headline>Dow Corning to expand Midland plant.</headline>
+<dateline>MIDLAND, Mich. 1997-07-28</dateline>
+<text>
+<p>Dow Corning Corp said Monday it would invest $50 million in its Midland, Mich., plant to increase production of trichlorosilane and to construct a new hydrogen chloride process.</p>
+<p>The expansion was expected to create 10 to 15 full-time jobs including operators, maintenance workers and engineers, the company said.  </p>
+<p>The hydrogen chloride plant was expected to begin operation in October.  The trichlorosilane expansion will continue into 1998, with start-up expected to take place in phases next year.</p>
+<p>Trichlorosilane is a basic chemical feedstock used to make silicone products.  It is the primary ingredient used in making polycrystalline silicon for the semiconductor industry. The plant expansion will support the growth of Hemlock Semiconductor Corp, a Dow Corning joint venture, which has announced nearly $200 million in expansion in the last two years, Dow Corning said.</p>
+<p>The new hydrogen chloride process will recover hydrogen chloride produced in other processes and be used to produce trichlorosilane. The new process will improve the plant's use of raw materials and reduce waste.</p>
+<p>	 -- ((Reuters Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDLAND, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

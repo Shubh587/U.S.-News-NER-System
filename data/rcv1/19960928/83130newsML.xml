@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83130" id="root" date="1996-09-28" xml:lang="en">
+<title>USA: G7 meeting ends, officials seen leaving.</title>
+<headline>G7 meeting ends, officials seen leaving.</headline>
+<dateline>WASHINGTON 1996-09-28</dateline>
+<text>
+<p>A meeting of finance ministers and central bankers from the Group of Seven wealthy nations ended here Saturday.</p>
+<p>Reporters outside Blair House, where the discussions were held, saw officials departing. U.S. Treasury Secretary Robert Rubin is scheduled to hold a press conference shortly.</p>
+<p>The G7, comprising Britain, Canada, France, Germany, Italy, Japan and the United States, was expected to express its pleasure with the global economic outlook and back expanded debt relief for the world's poorest countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GSEVEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

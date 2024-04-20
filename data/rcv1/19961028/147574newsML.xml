@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147574" id="root" date="1996-10-28" xml:lang="en">
+<title>JORDAN: King Hussein to meet Mubarak in Egypt on Tuesday.</title>
+<headline>King Hussein to meet Mubarak in Egypt on Tuesday.</headline>
+<dateline>AMMAN 1996-10-28</dateline>
+<text>
+<p>King Hussein of Jordan will hold talks with Egyptian President Hosni Mubarak in the Sinai resort of Sharm el-Sheikh on Tuesday to discuss the stalled Middle East peace process, a Jordanian official said on Monday.</p>
+<p>He said the decision to hold the previously unplanned meeting was made in a telephone call between the two leaders.</p>
+<p>King Hussein, regarded as Israel's strongest Arab ally since Jordan signed a peace treaty with the Jewish state in 1994, expressed anxiety about renewed violence in the region if Israel does not honour its peace accords with the Palestinians.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

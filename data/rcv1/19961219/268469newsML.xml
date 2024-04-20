@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268469" id="root" date="1996-12-19" xml:lang="en">
+<title>FRANCE: CompuServe has 75,000 French subscribers.</title>
+<headline>CompuServe has 75,000 French subscribers.</headline>
+<dateline>PARIS 1996-12-19</dateline>
+<text>
+<p>CompuServe said that it now had 75,000 subscribers in France, which was a rise of 130 percent in one year, and 850,000 in Europe.</p>
+<p>Bertrand Usunier, managing director of CompuServe France, declined to make a forecast for the 1997 subscriber level but said the company had the firm intention to remain market leader.</p>
+<p>Usunier said the CompuServe's newest software version and general internet standards would allow content providers a secure way of payment via the CompuServe monthly billing system.</p>
+<p>He declined to specify CompuServe France's financial results, saying they were part of CompuServe Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74748" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Fed adds reserves via $2.5 bln customer RPs.</title>
+<headline>Fed adds reserves via $2.5 bln customer RPs.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>The Federal Reserve added temporary reserves to the U.S. banking system on Wednesday via $2.5 billion customer repurchase agreements, a Fed spokesman said.</p>
+<p>At 1130 EDT/1530 GMT, the normal time for Fed open market operations, fed funds were trading at 5-7/16 percent, above the Fed's 5-1/4 percent target.</p>
+<p>-- N.A. Treasury Desk 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

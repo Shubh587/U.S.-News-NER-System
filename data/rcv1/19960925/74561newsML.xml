@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74561" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Ill. Superconductor testing CDMA filter.</title>
+<headline>Ill. Superconductor testing CDMA filter.</headline>
+<dateline>CHICAGO 1996-09-25</dateline>
+<text>
+<p>Illinois Superconductor Corp said Wednedsay it expects results in about six to eight weeks on field trials for its superconducting filter for CDMA (code division multiple access) digital cellular networks.</p>
+<p>ALLTEL Mobile Communications Inc, a unit of ALLTEL Corp, will begin four weeks of testing on Monday on its CDMA network in Little Rock, Arkansas. The filters were delivered Wednesday, ISC said.</p>
+<p>The filters, called SpectrumMaster, are expected to enhance call quality and reduce the implementation costs of CDMA networks, ISC said. ISC has already tested and sold filters for analog and other digital cell sites but not CDMA.</p>
+<p>&quot;Since the Illinois Superconductor product offers increased base station range, we will potentially require fewer sites with CDMA equipment to provide high-quality digital service to our customers,&quot; Clyde Smith, vice president for technology at ALLTEL Mobile, said in a recent release.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

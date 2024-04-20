@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237276" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: U.S. girl mauled by bear recovering from surgery.</title>
+<headline>U.S. girl mauled by bear recovering from surgery.</headline>
+<dateline>ST. LOUIS 1996-12-05</dateline>
+<text>
+<p>A teenaged girl mauled by a bear while camping last summer was reported in fair condition Thursday after surgery to replace a nerve in her right leg.</p>
+<p>Anna Knochel, 16, should regain sensation in her leg but it may take many months, Washington University School of Medicine said.</p>
+<p>In surgery Monday a portion of a nerve from her left leg was transplanted into the right limb. Surgeons had originally planned to transplant portions of the sciatic serve from two human cadavers but discovered during the operation that damage was too severe to allow that approach.</p>
+<p>The girl, who lives in Tucson, Ariz., was attacked in her sleep by a black bear July 25 while acting as a counsellor during a camping trip on Mount Lemmon in Arizona.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

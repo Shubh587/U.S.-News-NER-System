@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="158956" id="root" date="1996-11-01" xml:lang="en">
+<title>CANADA: Canada economic indicators survey Nov 4-8.</title>
+<headline>Canada economic indicators survey Nov 4-8.</headline>
+<text>
+<p>DATE   EST/GMT    INDICATOR	 PERIOD   AVG-FCAST   PREV</p>
+<p>11/04 0830/1330  Building permits   Sept  +3.6 pct    -8.9 pct</p>
+<p>11/07 0830/1330  Help wanted index  Oct   87.8	    87</p>
+<p>11/08 0700/1200  Unemployment	 Oct    9.7 pct     9.9 pct</p>
+<p>11/08 0700/1200  Employment Growth  Oct    +23	   -47</p>
+<p>11/08 0815/1315  Housing Starts     Oct   135,300	131,600</p>
+<p>11/08 0830/1330  New Housing Price  Sept  -2.1 pct    -2.2 pct</p>
+<p>Bank	  HELP-WANTED INDEX   UNEMPLOYMENT   EMPLOYMENT GROWTH</p>
+<p>NESBITT	     88		   9.7 pct	     +30</p>
+<p>TECH DATA	   88		   9.7 pct	     +18</p>
+<p>MMS		   88		   9.7 pct	     +25</p>
+<p>LEHMAN		87		   9.9 pct	     +12</p>
+<p>SCOTIA		88		   9.7 pct	     +30</p>
+<p>Bank    HOUSING STARTS     NEW HOUSING PRICE  BUILDING PERMITS</p>
+<p>Nesbitt	 138,000		-2.1 pct	    +3.5 pct</p>
+<p>Tech Data     135,000		-2.1 pct	    +3.0 pct</p>
+<p>MMS	     135,000		-2.2 pct	    +3.0 pct</p>
+<p>Lehman	  133,500		-2.0 pct	    +4.9 pct</p>
+<p>Scotia	  135,000		-2.1 pct		-</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

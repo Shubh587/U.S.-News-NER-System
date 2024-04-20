@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351623" id="root" date="1997-02-03" xml:lang="en">
+<title>INDIA: India RBI weekly statistics on banks.</title>
+<headline>India RBI weekly statistics on banks.</headline>
+<text>
+<p>(Amounts in billion rupees)</p>
+<p>					     1997	     1996</p>
+<p>				     Jan 17    Jan  3    Jan 19</p>
+<p>Item				 Amount    Amount    Amount</p>
+<p>Liabilities to others</p>
+<p>Aggregate deposits	    4,755.45  4,750.65  4,076.61</p>
+<p>Demand				779.61    777.59    666.70</p>
+<p>Time				3,975.83  3,973.06  3,409.91</p>
+<p>Borrowings			    7.73	8.44	5.69</p>
+<p>Other demand and time liab    309.06    312.20    262.32</p>
+<p>Investments		     1,876.50  1,849.85  1,621.76</p>
+<p>Government securities	 1,559.85  1,533.08  1,302.12</p>
+<p>Other approved securities     316.65    316.78    319.65</p>
+<p>Bank Credit		     2,655.26  2,632.40  2,410.50</p>
+<p>Loans cash-credit &amp; O.D     2,391.18  2,371.55  2,130.83</p>
+<p>Inland bills - purchased	 42.19     41.05     39.20</p>
+<p>		  discounted	 84.94     84.32     84.35</p>
+<p>Foreign bills - purchased	77.68     75.53     91.37</p>
+<p>		    discounted     59.27     59.95     64.74</p>
+<p>Note-Data sourced from the Reserve Bank of India's weekly statistical supplement dated February 1,1997.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

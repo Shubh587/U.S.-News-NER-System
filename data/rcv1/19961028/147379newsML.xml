@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147379" id="root" date="1996-10-28" xml:lang="en">
+<title>CHILE: Codelco's Chuquicamata boosts cathode output.</title>
+<headline>Codelco's Chuquicamata boosts cathode output.</headline>
+<dateline>SANTIAGO 1996-10-28</dateline>
+<text>
+<p>Chile's state copper company Codelco's Chuquicamata division said it will increase annual cathode output at its low-grade sulphides plant by 3,650 tonnes to 18,250 tonnes.</p>
+<p>The project will involve an investment of $4 million, said the division's Oasis magazine.</p>
+<p>The magazine did not say when the expansion will be completed.</p>
+<p>The project uses new heap-leaching technology to process the ore which has too little copper to treat profitably using the traditional concentrator and smelter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

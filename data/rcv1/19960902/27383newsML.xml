@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27383" id="root" date="1996-09-02" xml:lang="en">
+<title>FRANCE: French police seize 20 tonnes of cannabis.</title>
+<headline>French police seize 20 tonnes of cannabis.</headline>
+<dateline>ROUEN, France 1996-09-02</dateline>
+<text>
+<p>French police have seized 20 tonnes of cannabis in what authorities said was Europe's biggest-ever such haul and arrested four suspected traffickers, judicial sources said on Monday.</p>
+<p>Investigators said the drugs were found on Friday in a depot near the city of Rouen hidden in a container among a stack of jeans. A Frenchman, a Belgian and two Colombians were detained.</p>
+<p>The cannabis was reportedly shipped to France by Colombia's Cali cartel. Police acting on a tip-off from Colombian police had placed the depot under surveillance.</p>
+<p>Investigators said the owner of the depot knew nothing about the drugs in the container, which had been deposited there after it was unloaded from a ship in the port of Le Havre.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROUEN, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

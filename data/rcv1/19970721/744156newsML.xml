@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744156" id="root" date="1997-07-21" xml:lang="en">
+<title>UK: UK shares seen mixed-to-lower after Dow plunge.</title>
+<headline>UK shares seen mixed-to-lower after Dow plunge.</headline>
+<dateline>LONDON 1997-07-18</dateline>
+<text>
+<p>UK shares were seen opening mixed-to-lower on Monday, continuing their retreat from Friday's early record high after Wall Street extended its losses following the London market close, dealers said.</p>
+<p>&quot;We will probably be mixed-to-down at the starts, I get the feeling people would like to see the market a bit lower,&quot; said one dealer.</p>
+<p>Market attention later in the day was seen focused on a French budget statement, which could have a significant impact on European currencies and interest rates in the run-up to European monetary union.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

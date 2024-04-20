@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439383" id="root" date="1997-03-13" xml:lang="en">
+<title>AUSTRALIA: RTRS-Corrected trend shows Australian jobs flat.</title>
+<headline>RTRS-Corrected trend shows Australian jobs flat.</headline>
+<byline>Bradley Perrett</byline>
+<dateline>CANBERRA 1997-03-13</dateline>
+<text>
+<p>A reanalysis of Australian jobs data shows virtually no trend employment growth in February, a rock-steady unemployment rate near 8.6 percent and a labour market generally weaker than published data suggests.</p>
+<p>The Reuters recalculation of the data, prepared with the assistance of the Australian Bureau of Statistics, removes what the bureau describes as the transitional effect of its introduction of telephone interviewing.  </p>
+<p>The corrected data shows a peak in jobs growth -- near 20,000 a month from June to August -- steadily diminishing to just 1,000 or 2,000 in February.</p>
+<p>(The recalculated data since January 1996 is shown in a table at the foot of this report.)</p>
+<p>The new interview method was phased in between August and February and the bureau says the early months of the introduction depressed its estimates of employment levels, and therefore similarly depressed jobs growth.  </p>
+<p>A bureau official said it should be assumed the effect had its peak in the November data and has since faded away so that the February data, issued earlier on Wednesday, is unaffected.</p>
+<p>The fading away of the effect therefore exaggerated rates of jobs growth in December, January and February.</p>
+<p>&quot;On the basis of latest data and analysis, this implementation effect has dissipated over the final months of implementation and is no longer discernible,&quot; the bureau said in its February data release on Wednesday.</p>
+<p>The recalculation takes out the estimated effect.  </p>
+<p>The bureau says the effect depressed employment estimates by between 36,000 and 48,000 in November.</p>
+<p>Since the mid-point of that range is 42,000, the estimated effect implies an understatment of jobs growth of about 10,500 a month in August, September, October and November.</p>
+<p>After November, the bureau says, the effect unwound and its estimates returned to unaffected levels -- the employment data rose not just because of the economy but because the depressive effect of the new method was disappearing.</p>
+<p>This suggests that jobs growth in December, January and February was overstated by 14,000 a month.  </p>
+<p>The recalculation puts the 10,500 a month back in and then takes out the 14,000 a month.</p>
+<p>On advice from the bureau the extra jobs are shared between full and part-time workers in proportion to the jobs growth shown in the published data.</p>
+<p>However, that approach produces an unlikely 71,600 fall in seasonally adjusted full-time employment in February, creating a picture of falling trend full-time employment.</p>
+<p>More people in jobs implies fewer people out of jobs or fewer people not in the workforce, or both.  </p>
+<p>Bureau officials think the effect was reflected more in the numbers not-in-the-workforce than in unemployment, so the recalculaton puts two-thirds of them in the former and one-third in the latter.</p>
+<p>A bureau official said he saw no problem with that choice.  </p>
+<p>Trend estimates of Australian trend labour force data adjusted to remove ABS estimates of the effect of telephone interviewing:</p>
+<p>			 JOBS GROWTH   UNEMPLOYMENT  PARTICIPATION</p>
+<p>		   (monthly, 000s)	     rate	     rate</p>
+<p>		full   part  total	    (pct)	    (pct)</p>
+<p>		time   time</p>
+<p>1996</p>
+<p>    Jan	0.6    2.9    3.5		8.4	     63.8</p>
+<p>    Feb     -2.0    0.5   -1.5		8.5	     63.7</p>
+<p>    Mar     -2.5   -0.1   -2.7		8.5	     63.6</p>
+<p>    Apr     -0.8    1.2    0.3		8.5	     63.5</p>
+<p>    May	3.1    3.9    7.0		8.6	     63.5</p>
+<p>    Jun	8.6    6.4   14.9		8.6	     63.5</p>
+<p>    Jul     11.2    7.9   19.2		8.6	     63.6</p>
+<p>    Aug     12.1    9.0   21.1		8.6	     63.7</p>
+<p>    Sep	8.1   11.4   19.5		8.6	     63.7</p>
+<p>    Oct	1.4   13.7   15.2		8.6	     63.7</p>
+<p>    Nov     -4.9   16.5   11.6		8.5	     63.7</p>
+<p>    Dec     -9.3   17.5    8.2		8.5	     63.7</p>
+<p>1997</p>
+<p>    Jan    -11.8   17.1    5.3		8.6	     63.7</p>
+<p>    Feb    -12.6   14.0    1.4		8.6	     63.7</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

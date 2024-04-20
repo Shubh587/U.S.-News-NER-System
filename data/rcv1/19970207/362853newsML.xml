@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="362853" id="root" date="1997-02-07" xml:lang="en">
+<title>ZAIRE: U.N. refugee chief arrives in Zaire.</title>
+<headline>U.N. refugee chief arrives in Zaire.</headline>
+<dateline>KINSHASA 1997-02-07</dateline>
+<text>
+<p>U.N. High Commissioner for Refugees Sadako Ogata arrived in Zaire on Friday at the start of a visit to Central Africa's conflict-ridden Great Lakes region.</p>
+<p>Ogata, who has called for a political aand security solution to the Tutsi-led revolt in east Zaire, was due to meet the Zairean authorities and relief agency representatives, relief officials said.</p>
+<p>Her visit coincided with an escalation of fighting in the east which has trapped several hundred thousand refugees in different parts of the war zone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

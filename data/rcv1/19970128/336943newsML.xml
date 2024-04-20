@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336943" id="root" date="1997-01-28" xml:lang="en">
+<title>BARBADOS: CRICKET-RED STRIPE CUP RESULT.</title>
+<headline>CRICKET-RED STRIPE CUP RESULT.</headline>
+<dateline>BRIDGETOWN, Barbados 1997-01-28</dateline>
+<text>
+<p>Result on the final</p>
+<p>day of a four-day Red Stripe Cup match on Monday:</p>
+<p>In Anguilla: Jamaica v Leeward Islands match drawn. Jamaica</p>
+<p>332 and 199-5 Leeward Islands 234 (B.Murphy 5-85).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGUIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="BARB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGETOWN, Barbados"/>
+<dc element="dc.creator.location.country.name" value="BARBADOS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

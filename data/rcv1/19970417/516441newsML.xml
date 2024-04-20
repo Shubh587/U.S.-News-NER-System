@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516441" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Carolina Southern Bank Q1 net rises.</title>
+<headline>Carolina Southern Bank Q1 net rises.</headline>
+<dateline>SPARTANBURG, S.C. 1997-04-16</dateline>
+<text>
+<p>Qtr Ended	 Qtr Ended</p>
+<p>						 3/31/97	    3/31/96</p>
+<p> Interest Income			 $2,896,273	$2,598,361</p>
+<p> Interest Expense			 1,450,104	 1,302,800</p>
+<p> Provision for Loan Loss		   35,000	    15,000</p>
+<p> Net Interest Income		    1,411,169	 1,280,561</p>
+<p> Non Interest Income			109,196	    85,686</p>
+<p> Non Interest Expense		     862,456	   759,132</p>
+<p> Net Income				   473,497	   418,261</p>
+<p> Primary EPS				    0.224	     0.209</p>
+<p> Fully Diluted EPS			    0.224	     0.209</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPARTANBURG, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

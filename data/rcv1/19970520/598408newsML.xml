@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598408" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Washington Mutual files for securities.</title>
+<headline>Washington Mutual files for securities.</headline>
+<dateline>WASHINGTON 1997-05-20</dateline>
+<text>
+<p>A business trust formed by Washington Mutual Inc filed Tuesday with the Securities and Exchange Commission to up to $300 million in subordinated capital income securities.</p>
+<p>The trust, known as Washington Mutual Capital I, will use the proceeds from the offering to invest in junior subordinated debentures of Washington Mutual Inc.</p>
+<p>The company intends to use the proceeds for general corporate purposes.</p>
+<p>The offering will be made through Lehman Brothers, Chase Securities Inc, Salomon Brothers Inc and UBS Securities, the Seattle, Wash.,-based company said in the filing.</p>
+<p>The securities have a liquidation amount of $1,000 per capital security, the filing said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

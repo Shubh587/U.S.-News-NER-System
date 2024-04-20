@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207770" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Texaco California crude pipeline remains shut.</title>
+<headline>Texaco California crude pipeline remains shut.</headline>
+<dateline>LOS ANGELES 1996-11-20</dateline>
+<text>
+<p>Texaco Inc said on Wednesday a portion of its California crude oil pipeline between Bakersfield and San Francisco remained under repair after rupturing Tuesday.</p>
+<p>&quot;24 hours is what we expected (for repairs) and I haven't heard any new reports,&quot; a company spokeswoman said.</p>
+<p>Early Tuesday, a 50-mile portion of the line shut automatically and spilled about 1,000 barrels of heavy crude oil from San Joaquin Valley oilfields in California.</p>
+<p>Clean up on the spill was nearly complete, the spokeswoman said.</p>
+<p>The pipeline has a 20-inch diamater and a daily throughput of 340,000 barrels. The shut portion carries 120,000 barrels a day.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

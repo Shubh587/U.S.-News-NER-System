@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49616" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: El Paso sees N.M. Chaco plant back Friday.</title>
+<headline>El Paso sees N.M. Chaco plant back Friday.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>El Paso Natural Gas Co said Thursday it will return to service its Chaco gas processing plant in New Mexico on Friday morning as scheduled.</p>
+<p>The maintenance outage affected about 300-500 million cubic feet per day of supply.</p>
+<p>In addition, the pipeline is doing maintenance at several downstream locations, a company spokeswoman said.</p>
+<p>At the Belen station in New Mexico, production will continue to be cut by about 70 mmcfd through Sunday, she said.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

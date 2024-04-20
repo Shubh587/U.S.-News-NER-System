@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137156" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: S.Carolina police break narcotics rings.</title>
+<headline>S.Carolina police break narcotics rings.</headline>
+<dateline>SPARTANBURG, S.C. 1996-10-23</dateline>
+<text>
+<p>Law enforcement officials have seized about $1.5 million in cash as well as cars, boats and weapons in one of South Carolina's biggest drug busts, police said Wednesday.</p>
+<p>A state grand jury indicted 41 people in connection with what authorities say are four drug rings operating in South Carolina, Florida, Texas and New York.</p>
+<p>By Wednesday, 25 suspects had been arrested. Authorities also confiscated 22 pounds (10 kg) of cocaine and a cache of weapons, including a machinegun, assault rifles and handguns. Eleven vehicles were seized.</p>
+<p>Called &quot;Operation Cueball&quot; because some of the suspects played pool, the undercover operation began in February.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPARTANBURG, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

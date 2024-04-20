@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67911" id="root" date="1996-09-20" xml:lang="en">
+<title>GERMANY: GERMAN DATA DUE NEXT WEEK - Imp prices, inflation.</title>
+<headline>GERMAN DATA DUE NEXT WEEK - Imp prices, inflation.</headline>
+<dateline>BONN 1996-09-20</dateline>
+<text>
+<p>The following German economic indicators are expected to be released next week:</p>
+<p>    INDICATOR     PERIOD	 PREVIOUS		 EXPECTED</p>
+<p>					   DATA		   DATE</p>
+<p> Import prices     Aug	-0.3 m/m, +0.5 y/y	 Sept 23</p>
+<p> Inflation, prelim Sept     -0.1 m/m, +1.4 y/y	 Sept 26-27</p>
+<p>NOTE - The Federal Statistics Office said the expected release dates were targets.</p>
+<p>-- Bonn newsroom, 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

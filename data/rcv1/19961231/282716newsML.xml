@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="282716" id="root" date="1996-12-31" xml:lang="en">
+<title>SOUTH KOREA: S.Korea to set up OTC stock index in January.</title>
+<headline>S.Korea to set up OTC stock index in January.</headline>
+<dateline>SEOUL 1996-12-31</dateline>
+<text>
+<p>A composite stock index for South Korea's over-the-counter shares will debut on January 3, the Ministry of Finance and Economy said on Tuesday.</p>
+<p>The KOSDAQ Index, made up of 438 counters, will be updated every minute.</p>
+<p>The weighted average of stock prices on July 1, 1996, will be the base period, for which the index is set at 100.</p>
+<p>-- Seoul Newsroom (822) 727 5644</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

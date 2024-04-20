@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130046" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: Two arrested at London protest against Zairean PM.</title>
+<headline>Two arrested at London protest against Zairean PM.</headline>
+<dateline>LONDON 1996-10-21</dateline>
+<text>
+<p>Two people were arrested for throwing tomatoes at the motorcade of Zairean Prime Minister Kengo wa Dondo in London on Monday, police said.</p>
+<p>They were among about 30 demonstrators who greeted Kengo outside the Foreign Office, where he held talks during a four-day official visit. No one was hurt and a Foreign Office spokesman said the talks were not affected.</p>
+<p>Kengo's visit comes against a background of growing conflict in eastern Zaire, where ethnic Tutsis from Zaire's Masisi region have been battling the Zairean army.</p>
+<p>Diplomats say the violence has serious implications for Zaire, a vast nation of 45 million people which has looked increasingly on the brink of political and economic collapse.</p>
+<p>President Mobutu Sese Seko, who has held power for more than 30 years, is convalescing in Europe after cancer surgery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

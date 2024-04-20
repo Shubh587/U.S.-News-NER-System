@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365837" id="root" date="1997-02-09" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 09-FEB.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 09-FEB.</headline>
+<text>
+<p>Tropical Cyclone 23S is about to make landfall in northeastern Madagascar. Heavy rains will produce flooding and possible mudslides. Local wind and property damage is likely along with a strong coastal storm surge along the east-central coast. TC 23S will cross over Madagascar bringing flooding rains to inland locations as well before moving into the Mozambique Channel and regenerating. At this time, shipping in the Mozambique Channel will be under risk from this system.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS  </p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

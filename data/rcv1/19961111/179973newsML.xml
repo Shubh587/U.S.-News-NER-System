@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179973" id="root" date="1996-11-11" xml:lang="en">
+<title>GEORGIA: Seven die in bus crash in former Soviet Georgia.</title>
+<headline>Seven die in bus crash in former Soviet Georgia.</headline>
+<dateline>TBILISI 1996-11-11</dateline>
+<text>
+<p>At least seven people were killed and 20 were injured in Georgia when a bus plunged 60 metres (180 feet) from a cliff and crashed into a mountain river, the Interior Ministry said on Monday.</p>
+<p>The accident happened on Sunday in a remote region 200 km (125 miles) northwest of the capital Tbilisi.</p>
+<p>Rescue workers expected up to 10 more bodies to be retrieved from the wreckage, a ministry spokesman said. Investigators were examining the possibility that the driver might have suffered a heart attack.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TBILISI"/>
+<dc element="dc.creator.location.country.name" value="GEORGIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500623" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Synovus Financial Corp Q1 net rises.</title>
+<headline>Synovus Financial Corp Q1 net rises.</headline>
+<dateline>COLUMBUS, Ga. 1997-04-10</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr			   $0.21		    $0.17</p>
+<p> Net			  35,807		   29,627</p>
+<p> Net int income	   98,155		   89,129</p>
+<p> Non-int income	  112,231		   96,447</p>
+<p> Loan loss prov	    7,001		    6,433</p>
+<p> Avg shrs		  174,560		  173,852</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Assets at 1997 Q1 end were $8.65 bln.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

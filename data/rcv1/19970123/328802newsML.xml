@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328802" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Duty free millionaire donated $600 mln - NYT.</title>
+<headline>Duty free millionaire donated $600 mln - NYT.</headline>
+<dateline>NEW YORK 1997-01-22</dateline>
+<text>
+<p>Duty free millionaire Charles Feeney quietly gave away more than $600 million to hospitals, universities, Sinn Fein and others over the last 15 years, the New York Times reported on Thursday.</p>
+<p>Feeney, whose personal fortune has been estimated in the billions, has given most of his assets to his two charitable foundations and is worth less than $5 million, the paper said.</p>
+<p>Feeney's decision to disclose his gifts came after he sold his empire to France's LVMH Moet Hennessy Louis Vuitton this month.</p>
+<p>The New York Times said Feeney agreed to discuss his donations because a lawsuit over the sale would have revealed his anonymous gifts.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I44000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

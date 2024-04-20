@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65732" id="root" date="1996-09-19" xml:lang="en">
+<title>JAPAN: Japan Oct-Dec rainfall expected to be average.</title>
+<headline>Japan Oct-Dec rainfall expected to be average.</headline>
+<dateline>TOKYO 1996-09-19</dateline>
+<text>
+<p>Japan should see average amounts of rainfall over the next three months, the Meteorological Agency said on Thursday.</p>
+<p>The agency said October was expected to see many sunny days, with temperatures likely to be higher than average in northern and eastern Japan and average in western Japan.</p>
+<p>In November, temperatures are expected to be lower than average in northern Japan, but average in other areas. Rainfall is forecast to be average.</p>
+<p>In December, coastal areas facing the Pacific are expected to see plenty of sunshine, however, areas facing the Sea of Japan will see many cloudy, rainy or snowy days, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

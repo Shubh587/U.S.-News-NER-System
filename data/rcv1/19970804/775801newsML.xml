@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775801" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Two reported dead in Wisconsin plane crash.</title>
+<headline>Two reported dead in Wisconsin plane crash.</headline>
+<dateline>OSHKOSH, Wis. 1997-08-04</dateline>
+<text>
+<p>Two people were killed on Monday when a single-engine plane crashed in a hay field, the Winnebago County Sheriff's Office said.</p>
+<p>The plane burned on impact and no other aircraft appeared to have been involved in the incident, investigators said.</p>
+<p>The accident occurred not far from the annual Experimental Aircraft Association meeting which draws thousands of flight enthusiasts from around the globe.</p>
+<p>The plane that crashed may have been a home-built craft, investigators said, but it was not known if it was in the area because of the aircraft meeting.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSHKOSH, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

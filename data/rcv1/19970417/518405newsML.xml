@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="518405" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: U.S. exports of major commodities.</title>
+<headline>U.S. exports of major commodities.</headline>
+<dateline>WASHINGTON 1997-04-17</dateline>
+<text>
+<p>U.S. Commerce Department report of exports of major commodities (tonnes):</p>
+<p> -		 February97   January97   February96</p>
+<p> -     Soybean  2,868,183   2,886,099   2,255,881</p>
+<p> -	 Wheat  1,549,437   1,661,868   2,946,727</p>
+<p> - Wheat Flour     38,212	26,557	50,334</p>
+<p> -	  Corn  3,887,440   4,555,654   4,143,736</p>
+<p> -     Sorghum    399,647     584,192     376,809</p>
+<p> -	Barley     57,816	21,717	21,197</p>
+<p> Other Cereals	  284	   316	   346</p>
+<p>Note-Wheat includes durum/durum seed for sowing, white except seed, and other wheats; excludes cereals. Corn includes yellow dent corn, excludes seed and popcorn. Sorghum excludes seed. Barley includes seed, excludes barley for malting.  </p>
+<p>Cake/Meals and Cottonseed Oil, in tonnes</p>
+<p> Cake/Meals:     Feb 97   Jan 97   Feb 96</p>
+<p> -  Soybean     752,589  775,688  594,568</p>
+<p> -  Cottonseed    9,227    3,997    6,300</p>
+<p> -  Linseed	 1,611    5,521	987</p>
+<p> Cottonseed Oil  12,172   11,667    3,676</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

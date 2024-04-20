@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291027" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Calif. flood damage estimate doubles to $1.5 billion.</title>
+<headline>Calif. flood damage estimate doubles to $1.5 billion.</headline>
+<dateline>SAN FRANCISCO 1997-01-07</dateline>
+<text>
+<p>Estimates of damage caused by California floods almost doubled on Tuesday to more than $1.5 billion, the state said.</p>
+<p>The California Office of Emergency Services said the figure included damage from less than half of the counties hit by New Year's storms and floods. It said the floods would almost certainly become the most damaging in the state's history, exceeding the $1.8 billion of losses suffered in 1995 floods.  </p>
+<p>The state Office of Emergency Services said 19 counties and one city had reported initial damage estimates from the floods. Losses included $661 of damage to homes and businesses and $902 of damage to infrastructure such as roads and bridges.</p>
+<p>The total doubled from the $775 million in damage reported by nine counties and one city on Monday.</p>
+<p>California Gov. Pete Wilson has declared states of emergency in 42 counties, 23 of which have yet to report damage.</p>
+<p>A spokesman for the Office of Emergency Services said losses from this year's floods would almost certainly overtake 1995's $1.8 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

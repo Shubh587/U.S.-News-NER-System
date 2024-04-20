@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652019" id="root" date="1997-06-10" xml:lang="en">
+<title>FRANCE: French household sentiment down in May.</title>
+<headline>French household sentiment down in May.</headline>
+<dateline>PARIS 1997-06-10</dateline>
+<text>
+<p>French households were more pessimistic in May than in April, but more households expected their future standards of living to improve than in the previous month, national statistics office INSEE said in its May monthly survey.</p>
+<p>INSEE said their opinion of their personal future financial situation remained stable.</p>
+<p>INSEE gave the following data on household opinions. A positive figure shows the percentage points by which the percentage of respondents saying things had improved or risen outnumbered the percentage saying things had worsened.</p>
+<p>				     May  April March Feb Jan Dec Nov</p>
+<p> Overall			   -34   -32   -32  -30 -30 -32 -33</p>
+<p> Past living standards	 -66   -62   -65  -64 -67 -66 -69</p>
+<p> Future living standards     -38   -42   -39  -36 -35 -38 -39</p>
+<p> Future unemployment	    62    65    63   51  61  56  67</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="E141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

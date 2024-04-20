@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276423" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: Industry says FCC passes digital TV standard.</title>
+<headline>Industry says FCC passes digital TV standard.</headline>
+<dateline>WASHINGTON 1996-12-26</dateline>
+<text>
+<p>The Federal Communications Commission voted to approve a technology standard for a new generation of high-definition digital television, industry groups and companies said.</p>
+<p>An official annoucement of the vote, which was reported in Wednesday's New York Times, was expected later in the day. A spokeswoman for the commission declined to comment.</p>
+<p>Digital TV offers crystal-clear pictures and CD-quality sound. It is expected to promote a &quot;computer friendly&quot; TV system that allows viewers to watch programs while surfing the Internet over the same &quot;smart box.&quot;  </p>
+<p>Some market participants immediately praised the commission's vote, which had been widely expected following a compromise agreed upon last month by the broadcast, consumer electronics and computer industries.</p>
+<p>The vote is &quot;a major victory for American television viewers,&quot; the Digital HDTV Grand Alliance said.</p>
+<p>The group said the new standard was based on a system developed by its members, including General Instrument Corp, Lucent Technologies and the Massachusetts Institute of Technology.  </p>
+<p>The standard, among other things, covers how voice and video material will be attached to digital signals, how the signals will be &quot;compressed&quot; for transmission, and how they will be &quot;reopened&quot; at the TV receiver.</p>
+<p>But not every detail is spelled out. Under the industry compromise, the standard does not specify the video format by which images will be put onto the screen, or &quot;scanned.&quot;</p>
+<p>Broadcasters and TV manufacturers sought to require a format known as &quot;interlace&quot; scanning. Computer companies argued that this format would stifle the convergence of TV and computer technologies.  </p>
+<p>Computer companies wanted to mandate &quot;progressive&quot; scanning, which is better suited to computers, or no format at all.</p>
+<p>Progressive scanning, used by most computers, updates every line of the TV picture at each pass. Interlaced scanning, used in exisiting television sets, updates every other line.</p>
+<p>Because no scanning format was specified, the computer industry will be free to manufacture computers that use just progressive scanning. And TV manufacturers are ready to make sets that offer both interlace and progressive technology.  </p>
+<p>This sets up a competition between the two industries over how consumers will want to watch TV -- over a TV set or over a computer.</p>
+<p>TV manufacuters expect to begin bringing digital receivers to market in 1998. The new sets are expected to cost from $1,500 to $3,000. Prices are forecast to drop as broadcasters offer more digitally transmitted programs, presumably boosting demand for digital TV.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

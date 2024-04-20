@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143563" id="root" date="1996-10-25" xml:lang="en">
+<title>LEBANON: French President Chirac leaves Beirut for Cairo.</title>
+<headline>French President Chirac leaves Beirut for Cairo.</headline>
+<dateline>BEIRUT 1996-10-25</dateline>
+<text>
+<p>French President Jacques Chirac left Beirut on Friday for Cairo, the last stop on his Middle East tour.</p>
+<p>Lebanese President Elias Hrawi saw Chirac off at Beirut airport. His 21-hour stay in Beirut was the fifth leg of a regional tour to seek a bigger European role in the Middle East peace process.  </p>
+<p>Chirac visited Israel, Lebanon, the Palestinian territories, Jordan and Syria and has used his trip to demand Israel recognise a Palestinian state and withdraw from occupied Arab lands.</p>
+<p>He also called for greater understanding between Islam and the West and urged the speedy implementation of an oil-for-food deal for Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

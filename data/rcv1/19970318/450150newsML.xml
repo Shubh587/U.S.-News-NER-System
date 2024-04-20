@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450150" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: AT&amp;T chooses Lucent for big network upgrade.</title>
+<headline>AT&amp;T chooses Lucent for big network upgrade.</headline>
+<byline>Nick Louth</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>AT&amp;T Corp., despite a recent policy to broaden its base of suppliers, is to buy hundreds of millions of dollars of equipment from former unit Lucent Technologies Inc. without giving a slice of the business to Lucent's rivals.</p>
+<p>AT&amp;T, in response to Reuter inquiries, said it will contract with Lucent for the high-technology gear, which is great news for Lucent but a major setback to equipment manufacturers Northern Telecom Ltd. (NorTel) of Canada, France's Alcatel Alsthom and Ericsson of Sweden.</p>
+<p>Lucent is to supply all 50 Sonet rings -- high-capacity data networks that are more reliable than existing systems -- that AT&amp;T plans to have in service by the end of 1998 and is expected to supply all its new high-speed switches as well.</p>
+<p>&quot;It will be a 4ESS-based switch, so we anticipate that it would come from Lucent,&quot; said AT&amp;T spokesman David Johnson.</p>
+<p>AT&amp;T's existing network uses only Lucent's 4ESS switches -- automated successors to telephone exchanges -- but analysts had expected rivals to get a chance to supply a new system which can handle four times the capacity.</p>
+<p>AT&amp;T instituted a new competitive procurement policy after Lucent was spun off last September.</p>
+<p>AT&amp;T said it had not publicly announced the Sonet decision though Lucent had been notified. The formal choice of switch vendor has not been made either as the request for proposals had not been finalised, AT&amp;T said.</p>
+<p>&quot;The switch decision was probably not that much of a surprise,&quot; said Christine Heckart, an analyst at consultancy TeleChoice. She said that the decision on Sonet ran against a recent trend of splitting orders between two suppliers.</p>
+<p>&quot;AT&amp;T probably got the pricing leverage they needed with Lucent by saying they were considering other vendors, and after all it does cost more to operate a Sonet network with more than one vendor,&quot; Heckart said.</p>
+<p>AT&amp;T told analysts this month that network investment was a major part of its capital spending plans of $8 billion to $9 billion in 1997.</p>
+<p>&quot;AT&amp;T is at this point willing to talk to any or all suppliers,&quot; Johnson said.</p>
+<p>He declined to identify how much the Sonet rings and switch elements would be worth, but said the entire network upgrade would be more than half of the total 1997 investment.</p>
+<p>AT&amp;T has already installed 11 Sonet rings, which offer better reliability and data capacity than existing networks, and was looking for another 39. So far all have been supplied by Lucent.</p>
+<p>AT&amp;T said at the analysts meeting on March 3 that the substantial spending on equipment would cut into profits in the short run.</p>
+<p>Although AT&amp;T had told the investment community months ago to look for an impact from Lucent charging retail prices after the spin-off in September, it had not anticipated how much equipment it would need to buy.</p>
+<p>Lucent's rivals have assumed that they would get a toehold in AT&amp;T with the new competitive policy, which was reiterated in a statement on Monday outlining the network building plans.</p>
+<p>&quot;This infrastructure will be based on open standards and supported by multiple vendors,&quot; Frank Ianna, vice president for AT&amp;T network and computing services, was quoted as telling a customer group in Seattle.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

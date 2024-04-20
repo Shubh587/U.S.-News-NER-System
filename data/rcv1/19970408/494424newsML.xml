@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494424" id="root" date="1997-04-08" xml:lang="en">
+<title>PAKISTAN: Pakistani rupee closing rates in kerb market.</title>
+<headline>Pakistani rupee closing rates in kerb market.</headline>
+<dateline>KARACHI, Pakistan 1997-04-08</dateline>
+<text>
+<p>Tuesday's spot rupee rates in the kerb market from Khanani &amp; Kalia Int'l (Pvt) Ltd:</p>
+<p>				Buying rate	 Selling rate</p>
+<p>    U.S. dollar	   41.10		 41.15</p>
+<p>    Pound sterling	66.80		 66.90</p>
+<p>    Deutsche mark	 24.80		 24.85</p>
+<p>    Japanese yen	   0.325		 0.327</p>
+<p>    Saudi riyal	   10.95		 10.97</p>
+<p>    UAE dirham	    11.19		 11.21</p>
+<p>    Indian rupee	   1.08		  1.10</p>
+<p>    F.E.B.C.		 2.40 pct	    2.60 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

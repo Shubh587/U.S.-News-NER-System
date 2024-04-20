@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144116" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Targeted Genetics says trial shows safety.</title>
+<headline>Targeted Genetics says trial shows safety.</headline>
+<dateline>SEATTLE 1996-10-25</dateline>
+<text>
+<p>Targeted Genetics Corp said preliminary results of two Phase I clinical trials of its AAV-CFTR gene product in patients with cystic fibrosis demonstrated safety, efficient gene transfer and long-term gene persistence.</p>
+<p>The results of the Phase I trials will be presented by investigators at the 10th Annual North American Cystic Fibrosis Conference Friday and Sunday in Orlando, Fla.</p>
+<p>Cystic fibrosis is an inherited disease characterized by thick mucus secretions that clog patients' airways and digestive system and lead to serious lung infections and ultimately death in young adults.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

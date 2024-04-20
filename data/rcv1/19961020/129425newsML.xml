@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129425" id="root" date="1996-10-20" xml:lang="en">
+<title>USA: COLUMN - Why Reuters poll shows closer U.S. election?.</title>
+<headline>COLUMN - Why Reuters poll shows closer U.S. election?.</headline>
+<dateline>NEW HARTFORD, New York 1996-10-20</dateline>
+<text>
+<p>(The following is an opinion column by John Zogby, president of Zogby Group International. He explains the methodology behind the daily Reuters/Zogby tracking poll of the U.S. presidential election.)</p>
+<p>By John Zogby</p>
+<p>For much of the election campaign our opinion polls for Reuters have shown a narrower lead than others for President Bill Clinton over Republican challenger Bob Dole.</p>
+<p>We are consistently showing a single digit or low double digit race as most other polls show double digits, some over 20 percentage points. Even though most polls are clearly showing a tightening of the race, our margin remains the smallest. The Reuters/Zogby tracking poll showed an 8.3 percentage point Clinton lead on Sunday.</p>
+<p>Why is this? Here are some possible explanations.</p>
+<p>-- The issue of &quot;likely&quot; voters. Some polls sample &quot;adults&quot; and  &quot;registered voters&quot;. Neither will suffice in an election poll. In the United States, which has one of the lowest voter turnout rates in the world, we must look at the actual electorate -- those people who go to the polls on election day. Only a sample of &quot;likely voters&quot; will do.</p>
+<p>Polls of adults or registered voters include more people who tend to the Democrats but often do not turn out to vote on election day. Thus, the results may be skewed toward the Democrats.</p>
+<p>While we are never absolutely sure from telephone sampling that a a person surveyed will actually vote, Reuters/Zogby asks respondents if they are registered to vote, and if they are likely to cast a ballot. If the answer to either question is &quot;no&quot;, the interview is ended. Polling those not likely to vote really does not tell us what we need to know.</p>
+<p>-- The issue of &quot;undecideds.&quot; Reuters/Zogby does not push voters who say they are undecided until the final days of the campaign. Most other pollsters do what is known as a &quot;hard push.&quot; That is, they prod undecided voters to make a candidate choice.</p>
+<p>This is why the level of undecided voters in the Reuters/ Zogby tracking poll has stayed at between 11 and 13 percent of the sample for the last few weeks. Many voters still have not focused on the campaign. Those unsure who they will vote for tend to be genuinely uncommitted. Pushing them to make a choice well ahead of the election does not tell us anything useful and may lead to inaccuracies.</p>
+<p>-- The issue of &quot;weighting&quot; for party identification. All telephone samples are adjusted at the end of the interviewing to ensure a proper representation for age, gender, race, and other demographic characteristics. This is called weighting.</p>
+<p>The Reuters/Zogby poll has generated some controversy because we also weight to reflect party identification. We do this because we believe that party identification is a very important indicator of how people filter their news and make their choices of candidates. It is as important as age, gender, race, and others indicators. For example, we know from the National Election Study surveys that of people who vote in two successive presidential elections, about 80 percent vote for the same party. The percentage of voters who stay with their party's nominee is even higher for Congressional and state or local races.</p>
+<p>Some other pollsters do not believe party identification is as important to the results and do not adjust the raw samples for party.</p>
+<p>We adjust our raw sample to reflect a fair representation of Democrats, Republicans, and Independents. We do this by taking a close look at exit polls, party registration figures, and a compilation of polls to get a sense of the proportion of Democrats, Republicans, and independents in the national electorate. We also look for factors that may increase or dampen turnout for one party.</p>
+<p>This is not an exact science. But what we do is to adjust our sample to reflect about 34 percent each for the two parties (with a slight edge of a few tenths of a percentage point for the Democrats) and 32 percent independents. We think this is a fair representation of the actual electorate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW HARTFORD, New York"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

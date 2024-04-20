@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88389" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Clinton lead stretches again in polls.</title>
+<headline>Clinton lead stretches again in polls.</headline>
+<dateline>WASHINGTON 1996-09-30</dateline>
+<text>
+<p>President Bill Clinton has again stretched his lead over Republican Bob Dole in public opinion polls on the race for the White House released on Monday.</p>
+<p>A CNN/USA Today daily tracking poll of likely voters showed Clinton leading Dole by 22 percentage points, 56 percent to 34 percent. Reform Party candidate Ross Perot trailed with 5 percent.</p>
+<p>Only three days ago, the same poll had Clinton's lead down to nine points.</p>
+<p>An ABC poll put Clinton's lead at 15 points. The president led 52 percent to 37 percent, with Perot on 5 percent.</p>
+<p>A Washington Post poll two days ago produced an identical result.</p>
+<p>Clinton appears to have benefitted from his signing of a popular bill guaranteeing new mothers 48 hours in the hospital last week. Dole has taken himself off the campaign trail in recent days to prepare for the first presidential debate next Sunday.</p>
+<p>Reuters will begin publishing its own tracking poll Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

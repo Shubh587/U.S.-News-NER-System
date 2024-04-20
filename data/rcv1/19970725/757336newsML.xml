@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="757336" id="root" date="1997-07-25" xml:lang="en">
+<title>USA: N.Y. EURO DEPOSITS CLOSE - July 25.</title>
+<headline>N.Y. EURO DEPOSITS CLOSE - July 25.</headline>
+<text>
+<p>U.S. DOLLAR</p>
+<p>		   BID	 ASK</p>
+<p> 1MO	     5.47     5.59</p>
+<p> 2MO	     5.65     5.71</p>
+<p> 3MO	     5.56     5.68</p>
+<p> 4MO	     5.56     5.68</p>
+<p> 5MO	     5.56     5.68</p>
+<p> 6MO	     5.65     5.77</p>
+<p> 9MO	     5.75     5.87</p>
+<p> 1YR	     5.81     5.93</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

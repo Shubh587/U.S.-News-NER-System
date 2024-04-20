@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233122" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: PanEnergy enters natgas plant agreement.</title>
+<headline>PanEnergy enters natgas plant agreement.</headline>
+<dateline>HOUSTON 1996-12-04</dateline>
+<text>
+<p>PanEnergy Corp said on Wednesday that it signed definitive agreements with the Associated Electric Cooperative Inc to share the construction cost of a 250-MegaWatt, gas-fired, combined cycle power generation plant in southeastern Missouri.</p>
+<p>The plant's production will be jointly marketed, PanEnergy said.</p>
+<p>Siemens AG's Siemens Power Corp will build, operate and maintain the power plant at a site on Associated Electric's transmission system near St. Francis, Missouri, the company said.</p>
+<p>The power generation project, which was first announced in August, is scheduled to be operational in 1999.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

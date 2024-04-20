@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212340" id="root" date="1996-11-23" xml:lang="en">
+<title>NEW ZEALAND: NZ's capital city shaken by small earthquake.</title>
+<headline>NZ's capital city shaken by small earthquake.</headline>
+<dateline>WELLINGTON 1996-11-24</dateline>
+<text>
+<p>An earthquake shook Wellington on Sunday morning but was too minor to cause any damage, Radio New Zealand reported.</p>
+<p>Seismologists said the quake measured 4.5 on the Richter scale and was recorded at 8.53 a.m. (1953 GMT).</p>
+<p>They said the quake was centred 35 km (23 miles) north of Wellington out to sea and was reasonably shallow.</p>
+<p>Wellington resident John Hathoway told Radio New Zealand the quake began sharply.</p>
+<p>&quot;The whole place shuddered and then it rolled, and the rolling business was really quite noticeable. It was the sort of earthquake that you couldn't ignore,&quot; he said. It lasted about five seconds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

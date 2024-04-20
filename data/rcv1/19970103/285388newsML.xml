@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="285388" id="root" date="1997-01-03" xml:lang="en">
+<title>USA: Federal Reserve report 3 (H.4.1) - January 2.</title>
+<headline>Federal Reserve report 3 (H.4.1) - January 2.</headline>
+<text>
+<p>ONE WEEK ENDED January 1 - daily avgs-millions</p>
+<p> Govts bought outright....392,382 down......272</p>
+<p> Govts repurchases.........16,590 up......4,682</p>
+<p> Agencies bought outright...2,225 .........unch</p>
+<p> Agencies repurchases.......1,354 up........399</p>
+<p> Acceptances repurchases......nil .........unch</p>
+<p> Matched sales.............13,231 vs.....12,959</p>
+<p> Matched sales with cust...13,231 vs.....12,959</p>
+<p> Other Fed assets..........32,399 up........148</p>
+<p> Other Fed liabilities.....14,341 down......229</p>
+<p> Other deposits with Fed......435 up........136</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

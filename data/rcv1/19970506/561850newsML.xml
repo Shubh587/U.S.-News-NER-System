@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561850" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Check Technology completes sale in China.</title>
+<headline>Check Technology completes sale in China.</headline>
+<dateline>MINNEAPOLIS 1997-05-06</dateline>
+<text>
+<p>Check Technology Corp said Tuesday it completed a sale of its check printing equipment to Beijing Banknote Printing Co, a subsidiary of the state-owned China Banknote Printing and Minting Co.</p>
+<p>The value of the sale was not disclosed.</p>
+<p>Beijing Banknote Printing will begin producing with the new equipment encoded checks for Beijing and other commercial centers including Tianjin, Dalian, and Shenyang.</p>
+<p>China recently installed an automated check clearing system which requires that all checks bear machine-readable encoding for processing. Check Technology's automated equipment provides this encoding.</p>
+<p>Check Technology makes and markets print production systems for financial and forms printers worldwide.</p>
+<p>		    ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

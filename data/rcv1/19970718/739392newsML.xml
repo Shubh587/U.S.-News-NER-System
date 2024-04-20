@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739392" id="root" date="1997-07-18" xml:lang="en">
+<title>BELGIUM: EMI, SWIFT deal on TARGET leaves EMU questions open.</title>
+<headline>EMI, SWIFT deal on TARGET leaves EMU questions open.</headline>
+<byline>Nick Antonovics</byline>
+<dateline>BRUSSELS 1997-07-18</dateline>
+<text>
+<p>Last week's deal between the European Monetary Institute (EMI) and bank transfer company SWIFT on sending payment messages within a future single currency area leaves just as many questions open as it answers, officials from both sides said.</p>
+<p>The contract ends a dilemma for the EMI, solving a potentially costly and time-demanding information technology problem ahead of European economic and monetary union (EMU), while not tying the hands of the planned European Central Bank (ECB) to any one solution.</p>
+<p>However, it brings no nearer a decision on whether banks outside the EMU area will get access to liquidity in the form of euros through the European System of Central Bank's planned interlinked settlement system, known as TARGET, officials said.</p>
+<p>The EMI intends TARGET, or Trans-European Automated Real-Time Gross Settlement Express Transfer, to be both a vehicle for real-time clearing and for transmitting monetary policy signals to the markets by varying the amount of liquidity in the system.</p>
+<p>Although officially the EMI has no position on whether banks in countries, like Britain, that look set to stay out of EMU at the start have access to euros through TARGET, continental European central bankers say it is unlikely.</p>
+<p>&quot;British banks will be part of the TARGET system, have full membership, but won't get intra- or end-of-day credits in euro,&quot; one central banker said. &quot;We have to make a difference between participation in payments and...getting credits.&quot;</p>
+<p>Under the agreement, which was announced formally on July 10, SWIFT will supply its technology for TARGET messages sent between the central banks.</p>
+<p>What it won't do, according to Lazaro Campos, SWIFT's director of market infrastructures, is replace existing national clearing and settlement systems, nor does it answer the question of access to euros by banks outside the EMU area.</p>
+<p>&quot;TARGET interlinks the central banks. That is where SWIFT will help,&quot; Campos said. &quot;How those central banks get instructions from banks in their countries is up to them.&quot;</p>
+<p>&quot;We could cater for three, 15 or 100 central banks,&quot; he said. It did not matter to SWIFT whether they were in or out of EMU.</p>
+<p>SWIFT's message processing technology is at present used in Spain and Sweden.</p>
+<p>SWIFT is discussing extending its technology to Denmark, Finland and Luxembourg.</p>
+<p>It is talking to the U.K. clearing house CHAPS, which is developing a euro clearing system to run alongside the existing sterling system if the U.K. does opt out of EMU.</p>
+<p>Whether SWIFT could, once EMU started, extend its reach to the national real-time gross settlement systems which at present do not use its technology remained to be seen.</p>
+<p>&quot;It's very difficult to say what percentage of payments will go through TARGET or private clearing systems, such as that offered by the Ecu Banking Association,&quot; Campos said.</p>
+<p>&quot;At this point, pricing structures are not clear and that will dictate which system commercial banks will use. It is also not clear, from a regulatory point of view, which payments will have to go through TARGET,&quot; Campos added.</p>
+<p>The EMI agreement with SWIFT runs initially for three years and is renewable. Officials said it was possible however the ECB, once set up with the launch of EMU, would decide to develop its own messaging system.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

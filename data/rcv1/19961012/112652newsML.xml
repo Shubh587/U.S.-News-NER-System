@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112652" id="root" date="1996-10-12" xml:lang="en">
+<title>DUBAI: UAE cen bank foreign reserves dip in September.</title>
+<headline>UAE cen bank foreign reserves dip in September.</headline>
+<dateline>DUBAI 1996-10-12</dateline>
+<text>
+<p>The United Arab Emirates foreign currency reserves dipped in September to 27.7 billion dirhams from August's 30.2 billion, Central Bank figures show.</p>
+<p>(Millions of dirhams, rounded)</p>
+<p>			     Sept 96	   Aug 96</p>
+<p> Assets: Gold		  700		700</p>
+<p> Foreign		    27,700	   30,200</p>
+<p> Other assets		  700		400</p>
+<p> Total assets	     29,100	   31,300</p>
+<p> Liabilities: CDs	  6,300	    6,200</p>
+<p> Other liabilities	 1,200	    3,800</p>
+<p>-- Dubai newsroom +9714 6071-222</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

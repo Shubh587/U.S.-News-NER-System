@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186399" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: World rice situation projections--USDA.</title>
+<headline>World rice situation projections--USDA.</headline>
+<dateline>WASHINGTON 1996-11-13</dateline>
+<text>
+<p>USDA rice production, trade, stocks and consumption estimates in major countries (production on rough basis, all other data on milled basis).</p>
+<p>PRODUCTION (million tonnes) --</p>
+<p> -	96/97:  Nov96   Oct96   95/96:  Nov96    Oct96</p>
+<p> - Bangladesh    27.0    27.0		26.5    26.5</p>
+<p> -	China   188.6   185.7	     185.2   185.2</p>
+<p> -	India   123.0   123.0	     119.2   121.5</p>
+<p> -  Indonesia    51.5    52.3		50.3    51.1</p>
+<p> -	Japan    12.9    12.6		13.4    13.4</p>
+<p> -    Vietnam    27.0    27.0		26.4    26.4</p>
+<p> -	96/97:  Nov96   Oct96   95/96:  Nov96    Oct96</p>
+<p> -	 U.S.     7.9     8.0		 7.9     7.9</p>
+<p> -World Total   561.5   557.9	     549.3   551.0</p>
+<p>-  CONSUMPTION (million tonnes) --</p>
+<p> - Bangladesh    18.5    18.5		18.3    18.3</p>
+<p> -	China   132.0   132.0	     130.0   130.0</p>
+<p> -	India    80.0    80.0		78.2    79.7</p>
+<p> -  Indonesia    34.8    35.3		34.5    35.0</p>
+<p> -	Japan     9.3     9.3		 9.3     9.3</p>
+<p> -    Vietnam    15.0    15.0		14.4    14.6</p>
+<p> -World Total   377.9   377.4	     371.1   372.3</p>
+<p>ENDING STOCKS (million tonnes) --</p>
+<p> -	96/97:  Nov96   Oct96   95/96:  Nov96    Oct96</p>
+<p> -World Total    49.5    47.5		48.7    48.8</p>
+<p>EXPORTS (million tonnes) --</p>
+<p> Calendar Year  Nov96   Oct96	     Nov96    Oct96</p>
+<p> -	India     3.0     3.0		 3.3     3.3</p>
+<p> -   Pakistan     1.4     1.4		 1.4     1.4</p>
+<p> -   Thailand     5.5     5.5		 5.3     5.3</p>
+<p> -    Vietnam     2.8     2.8		 3.0     2.8</p>
+<p> -	 U.S.     2.3     2.3		 2.7     2.7</p>
+<p> -World Total    18.4    18.3		19.1    18.8</p>
+<p>IMPORTS (million tonnes) --</p>
+<p> Calendar Year  Nov96   Oct96	     Nov96    Oct96</p>
+<p> -     Brazil     1.3     1.3		 1.0     0.9</p>
+<p> -	China     1.0     1.3		 0.9     0.9</p>
+<p> -  Indonesia     1.5     1.5		 1.3     1.3</p>
+<p> -	 Iran     1.0     1.0		 1.2     1.2</p>
+<p> -World Total    18.4    18.3		19.1    18.8</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="WORLD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

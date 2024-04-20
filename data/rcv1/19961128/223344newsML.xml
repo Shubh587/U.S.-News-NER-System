@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223344" id="root" date="1996-11-28" xml:lang="en">
+<title>EGYPT: German tourists rescued from boat in Egypt.</title>
+<headline>German tourists rescued from boat in Egypt.</headline>
+<dateline>CAIRO 1996-11-28</dateline>
+<text>
+<p>Egyptian police on Thursday rescued 25 German tourists unhurt after their cruise boat ran aground in the Nile in southern Egypt, security sources said.</p>
+<p>&quot;All the tourists and the 20-man crew aboard the boat Rosa Blanca were rescued,&quot; one of them told Reuters. &quot;The tourists continued their journey to Cairo in buses.&quot;</p>
+<p>He said the cause of the accident near Minya, 240 km (150 miles) south of Cairo, was pilot error.</p>
+<p>Earlier this month nine foreign tourists and Egyptians died and 11 were missing after their tourist boat, Princess Jihan, capsized in the Nile in a freak storm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

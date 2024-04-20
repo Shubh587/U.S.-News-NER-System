@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750275" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: TABLE - Sipex Corp Q2 net falls.</title>
+<headline>TABLE - Sipex Corp Q2 net falls.</headline>
+<dateline>BILLERICA, Mass. 1997-07-22</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			   (Unaudited)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>				    Jun 29,  Jun 28,  Jun 29, Jun 28,</p>
+<p>					1996	1997     1996    1997</p>
+<p> Net sales			 $9,117  $12,005  $17,640 $22,985</p>
+<p> Cost of sales		    5,313    6,382   10,475  12,333</p>
+<p>   Gross profit		   3,804    5,623    7,165  10,652</p>
+<p>Operating expenses:</p>
+<p>   Research and development   1,136    1,344    2,154   2,653</p>
+<p>   Marketing and selling	1,121    1,279    2,233   2,497</p>
+<p>   General and administrative   512	772	994   1,423</p>
+<p>    Total operating expenses  2,769    3,395    5,381   6,573</p>
+<p> Income from operations	 1,035    2,228    1,784   4,079</p>
+<p> Other income (expense)	  (79)	323    (330)     611</p>
+<p> Income before income taxes     956    2,551    1,454   4,690</p>
+<p> Income tax expense		  33	178	 49     501</p>
+<p> Net income			   923    2,373    1,405   4,189</p>
+<p>Net income per common and</p>
+<p>  common equivalent share	0.12     0.26     0.21    0.46</p>
+<p>Weighted average common</p>
+<p>and common equivalent</p>
+<p>  shares outstanding	    7,649    9,189    6,552   9,192</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILLERICA, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

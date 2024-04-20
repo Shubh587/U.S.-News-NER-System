@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88609" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Son charged with killing parents in New Jersey.</title>
+<headline>Son charged with killing parents in New Jersey.</headline>
+<dateline>HACKENSACK, N.J. 1996-10-01</dateline>
+<text>
+<p>A Las Vegas computer scientist was charged with murder in the brutal stabbing of his parents, a couple devoted to psychiatry and the care of troubled children, officials said Tuesday.</p>
+<p>Police, responding to an emergency call from a family friend, found the bodies of retired psychiatrist De Witt Crandell, 66, and his social worker wife Marion, 63, in their posh Englewood, New Jersey, home Monday morning.</p>
+<p>Bergen County prosecutor Charles Buckley said 30-year-old De Witt Crandell Jr. was accused of two counts of murder and was being held in the county jail awaiting arraignment.</p>
+<p>Buckley said there were signs of a struggle, but not of a forced entry into the house. The son fled the scene and was found in a nearby wooded area two hours later by police.</p>
+<p>Authorities said De Witt Crandell, Jr, lived in Las Vegas, Nevada, and that the couple also had a daughter Jeannette, 24, who lived with her parents but was in Florida at the time of the killings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HACKENSACK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

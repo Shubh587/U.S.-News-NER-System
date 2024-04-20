@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="448513" id="root" date="1997-03-17" xml:lang="en">
+<title>INDONESIA: Jakarta rocked by earthquake, no damage reported.</title>
+<headline>Jakarta rocked by earthquake, no damage reported.</headline>
+<dateline>JAKARTA 1997-03-17</dateline>
+<text>
+<p>The Indonesian capital Jakarta was rocked by an earthquake on Monday afternoon, sending people scurrying out of high-rise buildings.</p>
+<p>Office workers gathered on the streets after the tremor shook the city at about 3:10 p.m. (0810 GMT). There were no immediate reports of casualties or damage.</p>
+<p>&quot;Things were really swaying out here,&quot; said a guest staying in an upper floor of the Mandarin Oriental Hotel.</p>
+<p>He said people rushed out of the hotel building but there was no damage.</p>
+<p>There was no word on the intensity of the earthquake, with officials at the meteorological department not immediately available for comment.</p>
+<p>The Indonesian archipelago is regularly hit by earthquakes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

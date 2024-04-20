@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66501" id="root" date="1996-09-20" xml:lang="en">
+<title>TAIWAN: TENNIS-TAIWAN LEAD INDONESIA 2-0 IN DAVIS CUP TIE.</title>
+<headline>TENNIS-TAIWAN LEAD INDONESIA 2-0 IN DAVIS CUP TIE.</headline>
+<dateline>TAIPEI 1996-09-20</dateline>
+<text>
+<p>Taiwan lead Indonesia 2-0 in</p>
+<p>their Davis Cup Asia/Oceania zone group one play-off tie after</p>
+<p>winning both singles matches on Friday.</p>
+<p>Results:</p>
+<p>Tsai Chia-yen beat Bonit Wiryawan 7-5 6-4 6-3</p>
+<p>Chen Chih-jung beat Andrian Raturandang 6-4 6-0 6-3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

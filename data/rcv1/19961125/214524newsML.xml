@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214524" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: U.S. soybean inspection destinations - USDA.</title>
+<headline>U.S. soybean inspection destinations - USDA.</headline>
+<dateline>WASHINGTON 1996-11-25</dateline>
+<text>
+<p>Soybeans Inspected And/or Weighed for Export By Port Area and Country of Destination Reported in Week Ending Nov 21, 1996 - 1,000 Bushels -- USDA.</p>
+<p>-------------------------------------------------------------------------------</p>
+<p>Toledo</p>
+<p>Canada		    629	    Japan		     616</p>
+<p>S. Atlantic</p>
+<p>Brazil		  1,398</p>
+<p>Mississippi R.</p>
+<p>Belgium		 2,265	    China Main	    7,846</p>
+<p>China T		 2,083	    Costa Rica		388</p>
+<p>Greece		  1,278	    Israel		  3,298</p>
+<p>Japan		   1,787	    Netherlands	   3,740</p>
+<p>Portugal		  479</p>
+<p>N. Texas</p>
+<p>Malaysia		1,307	    Mexico		    557</p>
+<p>Puget Sound</p>
+<p>Malaysia		1,995</p>
+<p>Interior</p>
+<p>Mexico		  2,580</p>
+<p>     Total									32,246</p>
+<p>Includes Shipments to Canada.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

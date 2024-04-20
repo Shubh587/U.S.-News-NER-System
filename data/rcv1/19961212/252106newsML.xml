@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252106" id="root" date="1996-12-12" xml:lang="en">
+<title>CHINA: China's Xinjiang oil output to top 14 mln T in '96.</title>
+<headline>China's Xinjiang oil output to top 14 mln T in '96.</headline>
+<dateline>BEIJING 1996-12-12</dateline>
+<text>
+<p>China's northwestern region of Xinjiang is expected to produce 14.15 million tonnes of crude oil this year, up 12 percent from 1995, the Xinhua news agency said on Thursday.</p>
+<p>Increased production in the region helped make up for declining output of ageing oilfields in the eastern part of the country, the news agency said.</p>
+<p>Xinjiang still accounts for only a small portion of China's total oil output which is expected to reach 141 million tonnes this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

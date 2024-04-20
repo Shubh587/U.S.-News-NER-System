@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220276" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: IMF approves $118 million loan for Madagascar.</title>
+<headline>IMF approves $118 million loan for Madagascar.</headline>
+<dateline>WASHINGTON 1996-11-27</dateline>
+<text>
+<p>The International Monetary Fund on Wednesday approved a $118 million loan for Madagascar to help support the country's economic reform program over the next three years.</p>
+<p>Under the program, the country will seek to create the conditions needed to bring about a sustained recovery of private investment along with a reduction in poverty, the IMF said in a statement.</p>
+<p>In the first year of the three-year enhanced structural adjustment loan, the country will seek to increase annual growth to three percent from two percent this year and to reduce inflation to seven percent from 10 percent.</p>
+<p>To these ends, the government intends to reduce the overall fiscal deficit, excluding grants, to 6.9 percent of gross domestic product in 1997 from 8.5 percent in 1996.</p>
+<p>More broadly, the program seeks annual growth of 4.5 percent by 1999 and a cut in inflation to three percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

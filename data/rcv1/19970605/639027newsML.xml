@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="639027" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Global chip sales rose slightly in April - SIA.</title>
+<headline>Global chip sales rose slightly in April - SIA.</headline>
+<dateline>SAN JOSE, Calif. 1997-06-05</dateline>
+<text>
+<p>Worldwide sales of computer chips rose 1.9 percent in April to $11.12 billion from $10.9 billion in March, according to the Semiconductor Industry Association's monthly report released Thursday.</p>
+<p>The trade group said sales in North and South America rose 3.7 percent to $3.8 billion from $3.7 billion in March. Asia Pacific sales rose 3.2 percent to $2.38 billion and European sales rose 1.1 percent to $2.37 billion.</p>
+<p>Japan was the only market to show a decline in chip sales last month, falling 1.1 percent to $2.55 billion.</p>
+<p>Worldwide, sales of semiconductors were off 5.3 percent from the same period a year ago.  The global sales figures are based on a three month rolling average of sales in the world's major markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="423262" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: TENNIS-RESULTS FROM ARIZONA.</title>
+<headline>TENNIS-RESULTS FROM ARIZONA.</headline>
+<dateline>SCOTTSDALE, Arizona 1997-03-05</dateline>
+<text>
+<p>Results at the</p>
+<p>$328,000 Arizona tennis tournament on Wednesday (prefix number</p>
+<p>denotes seeding):</p>
+<p>Second round</p>
+<p>8-Richey Reneberg (U.S.) beat Hernan Gumy (Argentina) 2-6 6-1</p>
+<p>6-2</p>
+<p>Byron Black (Zimbabwe) beat Sandon Stolle (Australia) 6-4 5-7</p>
+<p>7-5</p>
+<p>Jerome Golmard (France) beat Andrei Medvedev (Ukraine) 7-6</p>
+<p>(8-6) 3-6 6-4</p>
+<p>Mark Philippoussis (Australia) beat Bryan Shelton (U.S.) 6-4</p>
+<p>6-1</p>
+<p>First round:</p>
+<p>Sergi Bruguera (Spain) beat Jason Stoltenberg (Australia) 0-6</p>
+<p>6-4 6-1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTSDALE, Arizona"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

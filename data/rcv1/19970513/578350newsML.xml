@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578350" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: BASEBALL-MONDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-MONDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1997-05-12</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games on Monday (home team in CAPS):</p>
+<p>		American League</p>
+<p> MILWAUKEE	   9  Seattle		8</p>
+<p> MINNESOTA	  12  Toronto		2</p>
+<p> TEXAS		 4  Cleveland	    2</p>
+<p> ANAHEIM	    16  Chi White Sox	8</p>
+<p> Baltimore	   5  OAKLAND		1</p>
+<p>		National League</p>
+<p> FLORIDA	    11  Houston		4</p>
+<p> Colorado	    9  PHILADELPHIA	 2</p>
+<p> Atlanta	    10  PITTSBURGH	   2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

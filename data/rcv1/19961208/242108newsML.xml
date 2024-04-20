@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242108" id="root" date="1996-12-08" xml:lang="en">
+<title>ZAIRE: Stampede at Zaire soccer ground kills at least two.</title>
+<headline>Stampede at Zaire soccer ground kills at least two.</headline>
+<dateline>KINSHASA 1996-12-08</dateline>
+<text>
+<p>At least two people died in a stampede during a soccer match on Sunday at the national stadium in the Zairean capital, witnesses said.</p>
+<p>Red Cross officials said at least 50 injured fans were taken to hospital in Kinshasa but they had no immediate details on deaths.</p>
+<p>Witnesses said at least five ambulances rushed to the Chinese-built stadium, which was built to take 80,000 spectators and was full at the time.</p>
+<p>Witnesses said the stampede followed a disputed goal during a match between Zairean rivals Vita Club and DCMP.</p>
+<p>Soldiers fired teargas into the crowd after a pitch invasion when DCMP disputed a goal that gave Vita Club a 2-0 lead, they added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

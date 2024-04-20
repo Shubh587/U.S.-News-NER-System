@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709882" id="root" date="1997-07-07" xml:lang="en">
+<title>UK: Base metals end sluggish LME mostly lower.</title>
+<headline>Base metals end sluggish LME mostly lower.</headline>
+<text>
+<p>COPPER - Ends slightly lower, manages to hold near $2,400. Spreads stay tight.</p>
+<p>ALUMINIUM - Extends break under $1,600, ends lower.</p>
+<p>NICKEL - Tails back to lower close.</p>
+<p>LEAD - Ends easier, off three-month peak.</p>
+<p>ZINC - Finishes lower, tracks others.</p>
+<p>TIN - Ends stable. ALLOY - Closes quiet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45592" id="root" date="1996-09-11" xml:lang="en">
+<title>UK: TENNIS-BOURNEMOUTH INTERNATIONAL OPEN RESULTS.</title>
+<headline>TENNIS-BOURNEMOUTH INTERNATIONAL OPEN RESULTS.</headline>
+<dateline>BOURNEMOUTH, England 1996-09-11</dateline>
+<text>
+<p>Results of second round matches at the Bournemouth International Open men's tennis tournament on Wednesday (prefix number denotes seeding):</p>
+<p>Mariano Zabaleta (Argentina) beat 2-Felix Mantilla (Spain) 6-2</p>
+<p>2-6 6-4</p>
+<p>8-Marc-Kevin Goellner (Germany) beat Lars Jonsson (Sweden) 6-7</p>
+<p>(5-7) 7-5 6-0.  </p>
+<p>Magnus Norman (Sweden) beat Tom Kempers (Netherlands) 7-6 6-4 5-Sergi Bruguera (Spain) beat Patrik Fredriksson (Sweden) 6-4 6-3.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOURNEMOUTH, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

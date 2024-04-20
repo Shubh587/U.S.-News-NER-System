@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131105" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Stocks end lower on profit-taking after last week's run.</title>
+<headline>Stocks end lower on profit-taking after last week's run.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The Dow Jones industrial average ended slightly lower Monday, hit by profit-taking as the market paused after racking up four record highs last week on good corporate earnings.</p>
+<p>Based on early and unofficial data, the Dow closed 3.36 points lower at 6,090.87 after Friday's record high close of 6,094.23. In the broader market, declining issues led advances 13-9 on active volume of 418 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

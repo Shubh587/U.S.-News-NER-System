@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227088" id="root" date="1996-12-01" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Dec 1.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Dec 1.</headline>
+<dateline>LONDON 1996-12-01</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Yemen officially requests to join Gulf Cooperation Council (GCC).</p>
+<p>- Qatar is expected to launch an initiative to convince Bahrain to attend next week's GCC summit. Bahrain has accused Qatar of having an &quot;unfriendly attitude&quot; and said it would not take part in any GCC meetings held in Qatar.</p>
+<p>- Kuwaiti General Investment Co is to organise a seminar about privatisation programmes.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Gulf Arab states' oil income is expected to reach $90 billion in 1996 from $78 billion in 1995, according to a study by the Emirates Industrial Bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

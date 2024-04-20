@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107977" id="root" date="1996-10-10" xml:lang="en">
+<title>COLOMBIA: Bogota's airport shut twice in 24 hours.</title>
+<headline>Bogota's airport shut twice in 24 hours.</headline>
+<dateline>BOGOTA 1996-10-10</dateline>
+<text>
+<p>Passengers at Bogota's El Dorado international airport faced serious delays on Thursday after air traffic was halted twice in less than 24 hours.</p>
+<p>The airport shut at 7:30 p.m. (0030 GMT) Wednesday after mechanical problems left an airliner stranded across a runway, airport authorities said.</p>
+<p>By the time it had been moved, a blanket of fog had come down, reducing visibility and forcing the airport to stay closed until 8 a.m. (1300 GMT) Thursday.</p>
+<p>Local radio reported that 10 international flights and about 40 domestic flights had to be redirected to airports in Colombia's second and third largest cities, Cali and Medellin. Civil aviation authorities were unable to confirm this.</p>
+<p>The airport briefly reopened but was then closed for routine radar recalibration work. It was scheduled to reopen at 1:30 p.m. (1830 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

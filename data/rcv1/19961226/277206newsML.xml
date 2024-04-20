@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277206" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: U.S. population rises less than 1 percent in year.</title>
+<headline>U.S. population rises less than 1 percent in year.</headline>
+<dateline>WASHINGTON 1996-12-26</dateline>
+<text>
+<p>About 2.3 million, or 0.9 percent, more people will be on hand to ring in the New Year in the United States than there were a year ago, Census Bureau calculations released Thursday showed.</p>
+<p>The bureau projected the U.S. population at 266,499,365 on Jan. 1, 1997, based on its estimates of 3.8 million births, 2.3 million deaths, 809,000 entries of immigrants and the net return of 27,000 American citizens from abroad during 1996.</p>
+<p>The head counters said in a statement they expected about the same rate of growth in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

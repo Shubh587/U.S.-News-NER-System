@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782394" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Ancor Communications gets order.</title>
+<headline>Ancor Communications gets order.</headline>
+<dateline>MINNEAPOLIS 1997-08-06</dateline>
+<text>
+<p>Ancor Communications Inc said it received an initial $500,000 order from Boeing Co for GigWorks Fibre Channel switches.</p>
+<p>The switches will be used for Boeing's 707 Airborne Warning and Command System (AWACS) Extend Sentry Program, an AWACS upgrade program currently being developed by the company's Defense and Space Group.</p>
+<p>Separately, Ancor said it received new orders for 34 GigWorks Fibre Channel switches from Japanese distributor Hucom Inc as part of a $7.4 million project announced in November, 1996.</p>
+<p>The Hucom orders were received in late June and July, and revenues will be booked in the second and third quarters.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

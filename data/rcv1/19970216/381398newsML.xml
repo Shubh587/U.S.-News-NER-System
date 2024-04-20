@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381398" id="root" date="1997-02-16" xml:lang="en">
+<title>FRANCE: Five skiers killed in French avalanches.</title>
+<headline>Five skiers killed in French avalanches.</headline>
+<dateline>GRENOBLE, France 1997-02-16</dateline>
+<text>
+<p>Five skiers were killed in a series of avalanches in the French Alps and Pyrenees mountains on Sunday, rescue services said.</p>
+<p>Nine people accompanying an Italian ski instructor were swept away while skiing off piste near La Plagne in the Alps.</p>
+<p>Rescuers located them quickly through their special emergency beacons but two skiers were dead and a third died afterwards in hospital. Radio France Info said at least two of the dead were German women.</p>
+<p>A fourth person, a Frenchman, was killed earlier in the same area and a fifth person was killed in the Pyrenees near the Spanish border, rescue services said. No further details were immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRENOBLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

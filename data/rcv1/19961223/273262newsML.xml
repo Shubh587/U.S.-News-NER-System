@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273262" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: U.S. weekly agriculture loan report.</title>
+<headline>U.S. weekly agriculture loan report.</headline>
+<dateline>WASHINGTON 1996-12-23</dateline>
+<text>
+<p>USDA reported grain loan activity in week ended Dec 17 (million bu):</p>
+<p>   1996 CROPS -- Wheat     Corn   Soybeans</p>
+<p>	Under Loan  149.9   483.0    130.7</p>
+<p>	  Redeemed   15.7     3.4	1.4</p>
+<p>  Acquired by CCC   Nil     Nil	Nil</p>
+<p>9-Mo. Outstanding 134.2   479.6    129.3</p>
+<p>activity in week ended Dec 10 (million bu):</p>
+<p>   1996 CROPS -- Wheat     Corn   Soybeans</p>
+<p>	Under Loan  146.3   415.9    120.3</p>
+<p>	  Redeemed   13.1     2.0	0.8</p>
+<p>  Acquired by CCC   Nil     Nil	Nil</p>
+<p>9-Mo. Outstanding 133.2   413.9    119.5</p>
+<p>     1995 CROPS -- Wheat   Corn   Soybeans</p>
+<p>	Under Loan  114.0    675.8    181.8</p>
+<p>	  Redeemed  113.7    675.0    181.8</p>
+<p>  Acquired by CCC   Nil	Nil	Nil</p>
+<p>9-Mo. Outstanding   0.3	0.8	Nil</p>
+<p>    1996 CROPS -- Barley   Oats    Rye   Sorghum     Rice</p>
+<p>	Under Loan   20.7    1.2     N/A     5.3	 60.5</p>
+<p>	  Redeemed    2.0    0.2     N/A     Nil	  4.2</p>
+<p> Acquired by CCC    Nil    Nil     N/A     Nil	  Nil</p>
+<p> 9-mo Outstanding  18.7    1.0     N/A     5.3	 56.3</p>
+<p>    1995 CROPS -- Barley   Oats    Rye   Sorghum     Rice</p>
+<p>	Under Loan   18.0    0.7     0.1     4.0	100.9</p>
+<p>	  Redeemed   18.0    0.7     0.1     4.0	100.8</p>
+<p> Acquired by CCC    Nil    Nil     Nil     Nil	  Nil</p>
+<p> 9-mo Outstanding   Nil    Nil     Nil     Nil	  0.1</p>
+<p>1996 CROPS -- (1,000 480-lb running bales):</p>
+<p>		    Up.Cotton   ELS Cotton</p>
+<p>     Total Loans  2,705.0	8.2</p>
+<p>	  Redeemed    541.0	1.6</p>
+<p> Acquired by CCC	Nil	N/A</p>
+<p> 9-mo Outstanding 2,164.0	6.6</p>
+<p>1995 CROPS -- (1,000 480-lb running bales):</p>
+<p>		    Up.Cotton   ELS Cotton</p>
+<p>     Total Loans  3,478.1	12.6</p>
+<p>	  Redeemed  3,427.3	12.6</p>
+<p> Acquired by CCC	0.3	 Nil</p>
+<p> 9-mo Outstanding    50.5	 Nil</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

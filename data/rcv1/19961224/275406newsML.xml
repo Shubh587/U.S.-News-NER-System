@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275406" id="root" date="1996-12-24" xml:lang="en">
+<title>INDIA: India produced 45,390 tonnes aluminium in November.</title>
+<headline>India produced 45,390 tonnes aluminium in November.</headline>
+<dateline>NEW DELHI 1996-12-24</dateline>
+<text>
+<p>India produced 45,390 tonnes of aluminium in November against a target of 46,024 tonnes, a government statement said on Tuesday.</p>
+<p>The country produced 341,404 tonnes of aluminium during April-November compared with 340,480 tonnes in the same period last year, the statement said.</p>
+<p>It said the state-run National Aluminium Company Ltd exported 58,315 tonnes of alumina and 3,663 tonnes of aluminium in November.</p>
+<p>----------------------------------------------------------------</p>
+<p>	    Installed     Nov 96	    Cumulative output</p>
+<p>	    capacity   --------------------- ---------------------</p>
+<p>	    (annual)   Target	 Actual   Apr-Nov 96 Apr-Nov 95</p>
+<p>----------------------------------------------------------------</p>
+<p> BALCO    110,000     7,720	  7,885     61,056	61,194</p>
+<p> INDAL    117,000     3,799	  3,873     25,646	42,814</p>
+<p> HINDALCO 210,000    16,000	 15,125    105,404     112,924</p>
+<p> NALCO    218,000    16,440	 16,653    133,667     123,548</p>
+<p> MALCO     25,000     2,065	  1,854     15,631	   nil</p>
+<p>----------------------------------------------------------------</p>
+<p> Total    670,000    46,024	 45,390    341,404     340,480</p>
+<p>----------------------------------------------------------------</p>
+<p>NOTE: Figures in tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

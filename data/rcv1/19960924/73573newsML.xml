@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73573" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: U.S. Northwest spot products steady in thin trade.</title>
+<headline>U.S. Northwest spot products steady in thin trade.</headline>
+<dateline>SEATTLE 1996-09-23</dateline>
+<text>
+<p>U.S. Northwest product prices were steady in thin trade on Monday, reacting to relatively quiet Californian markets.</p>
+<p>Regular unleaded gasoline was assessed at 69.00 to 70.00 cents a gallon.</p>
+<p>Premium was seen 7.50 cents a gallon higher.</p>
+<p>In distillates, jet fuel was notionally stable from late last week at 79/80 cents a gallon.</p>
+<p>Low sulphur diesel remained steady at 79/80 cents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

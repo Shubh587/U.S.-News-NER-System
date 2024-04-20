@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="408667" id="root" date="1997-02-27" xml:lang="en">
+<title>BELGIUM: Belgian yr/yr inflation 1.98 pct in February.</title>
+<headline>Belgian yr/yr inflation 1.98 pct in February.</headline>
+<dateline>BRUSSELS 1997-02-27</dateline>
+<text>
+<p>The Belgian Economics Ministry released the following data on inflation on Thursday.</p>
+<p>    BELGIAN CONSUMER PRICES     Feb	  Jan	  Feb 1996</p>
+<p>    Index (base 100=1988)	 124.50     124.65     121.84</p>
+<p>    Mth/mth change (in pct)	-0.12	 0.69	 0.91</p>
+<p>    Yr/yr change (in pct)	  +1.98	 2.31	 1.96</p>
+<p>The ministry said price rises were mainly seen for flowers and plants and rent, while for fresh vegetables, liquid fuel and fresh fruit lower prices were recorded.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

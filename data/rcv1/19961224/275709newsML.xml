@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275709" id="root" date="1996-12-24" xml:lang="en">
+<title>JAPAN: Japan Nov domestic vehicle output up 8.2% yr/yr.</title>
+<headline>Japan Nov domestic vehicle output up 8.2% yr/yr.</headline>
+<dateline>TOKYO 1996-12-24</dateline>
+<text>
+<p>Japan's domestic vehicle production in November rose 8.2 percent from a year earlier to 932,241 vehicles, the Japan Automobile Manufacturers' Association (JAMA) said on Tuesday.</p>
+<p>It was the third successive month in which output rose on a year-on-year basis.</p>
+<p>The following is a breakdown of the figures with percentage changes:</p>
+<p>					 NOV		 YR/YR PCT</p>
+<p> Cars				719,641		+10.2</p>
+<p> Trucks			    208,770		 +2.3</p>
+<p> Buses				 3,830		-11.9</p>
+<p> TOTAL			     932,241		 +8.2</p>
+<p>October production by major manufacturers:</p>
+<p>			    NOV		 YR/YR PCT</p>
+<p> Toyota Motor	 325,021		+17.3</p>
+<p> Nissan Motor	 137,558		 -4.1</p>
+<p> Mitsubishi Motors   96,398		 -9.6</p>
+<p> Honda Motor	  102,441		+29.2</p>
+<p> Mazda Motor	   67,600		 +2.8</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

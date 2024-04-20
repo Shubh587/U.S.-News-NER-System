@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335021" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: New Jersey police investigate seven deaths.</title>
+<headline>New Jersey police investigate seven deaths.</headline>
+<dateline>VINELAND, N.J. 1997-01-27</dateline>
+<text>
+<p>Seven people were killed in two incidents of violence that erupted in New Jersey over the weekend, police said.</p>
+<p>Stephen Romano, 42, was suspected of shooting his mother, Grace, 66, father Carmen, 68, and 21-year-old daughter, Michelle, before committing suicide Sunday.</p>
+<p>Police Chief Mario Brunetta said the victims' bodies were found in their house on tree-lined Glen Terrace in a middle-class neighbourhood near downtown in this sprawling city. He said Romano had a history of mental health problems.</p>
+<p>In Fieldsboro, 30 miles northwest, the bodies of Jewel and Racine Siler, an elderly couple who had recently divorced, were found Saturday night in the smouldering ruins of their house. Also found was the unidentified body of a third victim.</p>
+<p>Police said the fire began with an explosion that had the characteristics of a natural gas blast. They suspected arson. Relatives said the former husband was living across the street from the house they had occupied together for nearly 50 years.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VINELAND, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

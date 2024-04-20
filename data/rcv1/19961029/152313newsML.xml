@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152313" id="root" date="1996-10-29" xml:lang="en">
+<title>GERMANY: German institutes detail economic forecasts.</title>
+<headline>German institutes detail economic forecasts.</headline>
+<dateline>BONN 1996-10-29</dateline>
+<text>
+<p>The six leading German economic research institutes made the following forecasts for pan-German economic indicators in their semiannual report, which was obtained by Reuters early on Tuesday: (real change in percent)</p>
+<p>					 1997	 1996	 1995</p>
+<p>    GDP				2.5	  1.5	  1.9</p>
+<p>    GNP				2.5	  1.0	  1.8</p>
+<p>    Private consumption	  1.5	  1.5	  1.8</p>
+<p>    Public consumption	   1.0	  2.5	  2.0</p>
+<p>    Capital investment	   1.0	 -2.0	  1.5</p>
+<p>    Domestic demand		2.0	  1.0	  2.1</p>
+<p>    Exports			  6.0	  4.5	  5.9</p>
+<p>    Imports			  4.0	  2.5	  6.4</p>
+<p>	  -- Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

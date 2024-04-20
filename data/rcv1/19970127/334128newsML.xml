@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="334128" id="root" date="1997-01-27" xml:lang="en">
+<title>AUSTRALIA: CRICKET-WESTERN AUSTRALIA BEAT TASMANIA.</title>
+<headline>CRICKET-WESTERN AUSTRALIA BEAT TASMANIA.</headline>
+<dateline>SYDNEY 1997-01-27</dateline>
+<text>
+<p>Western Australia beat Tasmania by seven wickets on the fourth and final day of their Sheffield Shield match at Bellerive Oval in Hobart on Monday.</p>
+<p>Scores - Tasmania 314 (Jamie Cox 96) and 175 (Tom Moody seven for 41); Western Australia 312 (Mike Hussey 83) and 180 for three (Mike Hussey 87)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

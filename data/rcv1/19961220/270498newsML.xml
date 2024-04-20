@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270498" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: LIDAK develops drug-identifying method.</title>
+<headline>LIDAK develops drug-identifying method.</headline>
+<dateline>LA JOLLA, Calif 1996-12-19</dateline>
+<text>
+<p>LIDAK Pharmaceuticals on Thursday said it developed a rapid method to identify novel drugs for the treatment of allergic diseases and asthma.</p>
+<p>LIDAK's method is based on manipulating a naturally occurring regulator of the IgE antibody that causes allergies.</p>
+<p>Scientists at LIDAK and the Medical Biology Institute -- with which the company has an exclusive technology license agreement -- discovered the importance of a protein molecule produced by many lymphocytes in controlling the production of IgE antibodies, it said.</p>
+<p>The protein, known as CD23, is an IgE-binding molecule on the surface of B lymphocytes and macrophages.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA JOLLA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

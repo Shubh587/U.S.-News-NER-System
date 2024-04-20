@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40008" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Ameritech, IBM pick Illinois service center.</title>
+<headline>Ameritech, IBM pick Illinois service center.</headline>
+<dateline>CHICAGO</dateline>
+<text>
+<p>Ameritech Corp. and International Business Machines Corp. said Monday they have chosen the Chicago suburb of Arlington Heights for a customer service centre that will support their desktop business.</p>
+<p>The companies said the centre may employ as many as 800 people. Some 600 of the jobs created will be new positions in their alliance that will sell voice, data and video-managed desktop communications and computing services for businesses.</p>
+<p>&quot;The centre will be the first-of-its kind in providing customers with round-the-clock, single phone call support for the integrated voice, data and video services line marketed by the two technology leaders,&quot; they said.</p>
+<p>The companies will spend $10 million for initial renovations, furnishings and equipment at the 130,000-square foot facility, which is set for mid-October occupancy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

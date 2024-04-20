@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578312" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: IBM licenses Voxware technology.</title>
+<headline>IBM licenses Voxware technology.</headline>
+<dateline>PRINCETON, N.J. 1997-05-13</dateline>
+<text>
+<p>Voxware Inc said Tuesday that International Business Machines Corp has licensed its MetaSound audio compression technologies (codecs) for an undisclosed amount.</p>
+<p>Voxware, a developer of speech and audio compression technologies, said its MetaSound technology is designed to deliver high quality audio over bandwidth-constrained environments.</p>
+<p>IBM said it plans to incorporate Voxware's solution into its Internet technology portfolio to help customers achieve more &quot;natural&quot; human interaction on the World Wide Web.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

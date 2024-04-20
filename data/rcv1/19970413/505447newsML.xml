@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="505447" id="root" date="1997-04-13" xml:lang="en">
+<title>USA: Conn. firm stomps on insurers' millennium bugs.</title>
+<headline>Conn. firm stomps on insurers' millennium bugs.</headline>
+<byline>Matthew Lewis</byline>
+<dateline>FARMINGTON, Conn.</dateline>
+<text>
+<p>With less than 1,000 days to go until the year 2000 threatens to make computer systems around the world go berserk, Command Systems Inc. has spawned an international service helping big insurance companies wipe out their so-called &quot;millennium bugs.&quot;</p>
+<p>The information systems and technology company has seen the &quot;year 2000 problem&quot; side of its business, handled by its Command 2000 division, explode in the last few months, Command Systems President Ed Caputo said.</p>
+<p>Caputo said in an interview that the 12-year-old firm plans an initial public offering by the end of this year. About 25 percent of the company will be sold to the public in a move to raise about $20 million, he said.</p>
+<p>Caputo said Command Systems' revenues will grow by 60 percent to $35 million in 1997, and that by next year more than 50 percent of its total business will come from Command 2000.</p>
+<p>Business has surged as the clock ticks down and more large corporations realise the urgency of the problem, Caputo said.</p>
+<p>Simply stated, the problem is that computer programmes were not designed to hold century indicators in date fields. That means that computer systems and software programmes around the world will view Jan. 1, 2000 as &quot;00&quot; and think they are operating in the year 1900.</p>
+<p>&quot;For some companies, if they don't get going very quickly, it could (already) be too late,&quot; Caputo said. &quot;It depends on the size of their problem.&quot;</p>
+<p>Some analysts have estimated that killing the millennium bug could cost businesses around the world up to $1 trillion.</p>
+<p>&quot;If companies do not (address the problem), their data is going to be erroneous, they'll be subject to lawsuits and there will even be situations where they are subject to bankruptcy,&quot; Caputo said.</p>
+<p>Insurance companies are especially vulnerable.</p>
+<p>&quot;Financial services companies in general have the biggest problem, because really what they do is keep track of data,&quot; he said.</p>
+<p>&quot;There's a lot of date dependencies in their processing. Take a five-year (life insurance) term policy. If in 1997 you can't project out a five-year term policy, you can't sell it.&quot;</p>
+<p>Command Systems realised the market potential of the year 2000 problem when it was helping Hartford-based Phoenix Home Life Mutual Insurance Company to eradicate the bug.</p>
+<p>Last year, Command Systems and Phoenix formed a joint-venture company in Bangalore, India, Command International Software, to offer &quot;year 2000&quot; solutions.</p>
+<p>The 100-employee Indian company serves as exclusive subcontractor to Command Systems, which has 250 employees in the United States.</p>
+<p>In addition to Phoenix, Command Systems' year 2000 clients are: Boston Mutual Life Insurance Company, Aetna Inc., Liberty Mutual, New York Life, Mutual of New York, The Hartford, United Health Care and Sun Life.</p>
+<p>&quot;We're trying to get everything done for our customers by the end of 1998, so that they can run a full year with our code in production, just in case there are any missing pieces,&quot; Caputo said.</p>
+<p>Command Systems employs a five-step process to solve the problem, including management awareness, inventory development, portfolio assessment, change strategy development and application conversion.</p>
+<p>Caputo sees the potential nightmare growing worse, with more companies waking up to the urgency and fewer qualified technicians available.</p>
+<p>&quot;That's why India will be such a haven for us,&quot; he said. &quot;There will be less and less people to do this, there will be more panic, there will be extreme price escalations in terms of the capabilities to do this.&quot;</p>
+<p>The irony is that in retrospect, the millennium bug crisis was avoidable. &quot;Everybody knew that ultimately this would be a problem,&quot; Caputo said. &quot;(But) people procrastinate.&quot;</p>
+<p>&quot;We've all known about it. It's been in the back of all our minds. It's just that it hasn't gotten to the crisis point. Until now.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

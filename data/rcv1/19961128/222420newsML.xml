@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222420" id="root" date="1996-11-28" xml:lang="en">
+<title>SOUTH AFRICA: Four die, 15 missing in S.African diamond mine.</title>
+<headline>Four die, 15 missing in S.African diamond mine.</headline>
+<dateline>JOHANNESBURG 1996-11-28</dateline>
+<text>
+<p>Four miners were killed and 15 were feared dead after a mudslide at a diamond mine in South Africa's Free State province late on Wednesday, state radio reported.</p>
+<p>Mine officials told the radio on Thursday that continued rain had halted resuce operations and there was little hope that 15 missing miners would be found alive.  </p>
+<p>&quot;With all the examinations that were done underground it was found that no possibility exists that any of these people survived the mud inundation into the mine,&quot; mine manager Peter Smith told the radio.</p>
+<p>He did not say how deep underground the miners were.</p>
+<p>Rescue attempts had been halted because of fears that more mud could flow into the diamond mine and there was no word on when the hunt for the missing miners might resume.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

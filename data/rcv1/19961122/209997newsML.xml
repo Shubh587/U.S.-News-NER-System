@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209997" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: CME traders say USDA storage data neutral bellies.</title>
+<headline>CME traders say USDA storage data neutral bellies.</headline>
+<dateline>CHICAGO 1996-11-22</dateline>
+<text>
+<p>Chicago Mercantile Exchange traders said the U.S. Department of Agriculture's monthly Cold Storage Report was neutral for CME pork belly futures.</p>
+<p>The report put frozen pork belly stocks, as of October 31, at 16.206 million lbs. The total was well within the range of 13.7 million to 21.0 million lbs predicted in a Reuter survey of analysts and close to the average projection of 16.0 million.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

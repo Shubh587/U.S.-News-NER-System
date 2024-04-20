@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106459" id="root" date="1996-10-09" xml:lang="en">
+<title>ITALY: Torrential rains cause flooding in northern Italy.</title>
+<headline>Torrential rains cause flooding in northern Italy.</headline>
+<dateline>CUNEO, Italy 1996-10-09</dateline>
+<text>
+<p>Heavy rains have caused several rivers in northern Italy to break their banks, flooding roads and forcing the evacuation of dozens of people from their homes, civil authorities said on Wednesday.</p>
+<p>They said about 200 residents from a small community near the town of Cuneo in the northern Piedmont region were isolated because the bridge connecting the village to the main road had been washed away.</p>
+<p>Firefighters also evacuated 30 patients from a private clinic in the nearby town of Robilante as well as several families after a stream there broke its banks.</p>
+<p>The same area was devastated by severe floods in 1994 which killed more than 60 people.</p>
+<p>Further flooding occurred on Wednesday near Bologna in north-central Italy, where some 150 residents from the village of San Giovanni in Persiceto had to be evacuated.</p>
+<p>Weather forecasters have predicted, however, that the torrential rain which has lashed Italy for the past two days should now ease.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUNEO, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

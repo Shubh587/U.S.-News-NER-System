@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202708" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: AT&amp;T says Ohio report could cause delays.</title>
+<headline>AT&amp;T says Ohio report could cause delays.</headline>
+<dateline>COLUMBUS, Ohio 1996-11-20</dateline>
+<text>
+<p>AT&amp;T Corp said on Wednesday a preliminary report from the arbitration panel of the Public Utilities Commission of Ohio could significantly delay efforts to bring local service competition to areas in Ohio serviced by GTE Corp.</p>
+<p>The company said portions of the panel's report are &quot;reasonable compromises,&quot; but other parts are not consistent with the Telecommunications Act of 1996 or with the Federal Communications Commission's rules issued earlier this year.</p>
+<p>AT&amp;T said PUCO issued a preliminary report on Tuesday outlining prices, terms and conditions under which AT&amp;T will interconnect with GTE's network in Ohio to provide local phone service.</p>
+<p>The full commission will consider the panel's report and issue a final decision in mid-December, AT&amp;T said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

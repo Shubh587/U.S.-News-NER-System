@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="804520" id="root" date="1997-08-17" xml:lang="en">
+<title>CHILE: Severe weather forces Chile to close ports.</title>
+<headline>Severe weather forces Chile to close ports.</headline>
+<dateline>SANTIAGO 1997-08-17</dateline>
+<text>
+<p>Severe rain storms and high winds forced authorities to close five of the largest ports in Chile's central region, the Chilean Office of National Emergencies (ONEMI) said on Sunday.</p>
+<p>The ports of Valparaiso, San Antonio, Quinteros, Talcahuano and Lirquen were closed late on Saturday and may remain so until Tuesday or Wednesday, when the weather is expected to improve, ONEMI radio operator Raul Nunez said.</p>
+<p>Nunez said the storms have not disrupted the northern ports that service Chile's biggest copper mines.</p>
+<p>Up in the Andes mountains, heavy snow storms led to the closing of two border crossings to Argentina: Jama in the north and Los Libertadores in the central region.</p>
+<p>In Santiago's metropolitan region the downpour flooded streets and 14 houses, but Nunez said ONEMI so far had no reports of people rescued.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

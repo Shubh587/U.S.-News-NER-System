@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="723604" id="root" date="1997-07-11" xml:lang="en">
+<title>GERMANY: EMI choses SWIFT for payment system under EMU.</title>
+<headline>EMI choses SWIFT for payment system under EMU.</headline>
+<dateline>FRANKFURT 1997-07-11</dateline>
+<text>
+<p>The European Monetary Institute (EMI) said on Friday it had chosen SWIFT, the international payment systems co-operative, as the network for the TARGET payment system under the European single currency.</p>
+<p>&quot;Our working group on international payments looked at the (SWIFT) system, tested it and reached a final agreement that this was the right software to use,&quot; a spokeswoman for the EMI said.</p>
+<p>She said representatives from all European Union central banks were part of the payments working group.</p>
+<p>In a statement released in Frankfurt, Brussels-based SWIFT confirmed it had signed a deal with the EMI to provide a communication net on which to run Trans-European Automated Real Time Gross Settlement Express Transfer (TARGET).</p>
+<p>The EMI is the forerunner to the European Central Bank (ECB).</p>
+<p>-- Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

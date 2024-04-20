@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118233" id="root" date="1996-10-15" xml:lang="en">
+<title>SPAIN: Spain Sept M4 rose provisional 9.3 pct.</title>
+<headline>Spain Sept M4 rose provisional 9.3 pct.</headline>
+<dateline>MADRID 1996-10-15</dateline>
+<text>
+<p>The Bank of Spain gave the following figures:</p>
+<p> MONEY SUPPLY		   AUG 96	JULY 96	AUG 95</p>
+<p> M4 pct rise		     9.3	   2.6	   14.1</p>
+<p> Domestic credit pct rise   12.6	   3.0	    3.5</p>
+<p>NOTE - Percentage monthly rises are on annualised basis. Revised figures for previous months will follow later.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

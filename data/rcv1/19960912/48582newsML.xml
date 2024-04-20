@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48582" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Websecure files for stock, warrant IPO.</title>
+<headline>Websecure files for stock, warrant IPO.</headline>
+<dateline>SAUGUS, Mass. 1996-09-12</dateline>
+<text>
+<p>Company Name		    WebSecure Inc</p>
+<p>Estimated price range		    $6-8</p>
+<p>Number of Shares		  1.0 million</p>
+<p>Warrants to be issued	   1.0 million</p>
+<p>Shrs offered by company	 1.0 million</p>
+<p>Underwriters	  Coburn &amp; Meredith, Shamrock Partners</p>
+<p>Business: A development stage company offering Internet access and support services for secure commercial transactions and communications over the Internet.</p>
+<p>Underwriters over-allotment option: 150,000 shares</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAUGUS, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

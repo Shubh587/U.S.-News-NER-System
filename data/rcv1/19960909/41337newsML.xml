@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41337" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: PRESALE - West Point, Miss.</title>
+<headline>PRESALE - West Point, Miss.</headline>
+<text>
+<p>AMT: 1,500,000	DATE: 09/10/96	NYC Time: 1500    CUSIP: 955397</p>
+<p>ISSUER: West Point						    ST: MS</p>
+<p>ISSUE: G.O. street improvement Series 1996		    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								   BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None						    BANK QUAL: Y</p>
+<p>DTD: 11/01/96							   SURE BID: N</p>
+<p>DUE: 11/1/97-06					     SR MGR:</p>
+<p>1ST CPN: 11/01/97</p>
+<p>CALL: 11/1/03 @ par					 NIC</p>
+<p>DELIVERY: 11/1/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: To be agreed upon</p>
+<p>L.O.: Watkins Ludlam &amp; Stennis, Jackson</p>
+<p>F.A.:</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    120,000</p>
+<p>1998		    125,000</p>
+<p>1999		    130,000</p>
+<p>2000		    135,000</p>
+<p>2001		    145,000</p>
+<p>2002		    150,000</p>
+<p>2003		    160,000</p>
+<p>2004		    170,000</p>
+<p>2005		    180,000</p>
+<p>2006		    185,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

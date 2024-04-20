@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="650314" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: U.S. bank robber nabbed after waiting in line.</title>
+<headline>U.S. bank robber nabbed after waiting in line.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1997-06-10</dateline>
+<text>
+<p>Patience may be a virtue, but it was the downfall of a would-be bank robber in Fort Lauderdale, Florida.</p>
+<p>David Hindmarsh walked into a bank Monday and handed the teller a note demanding money and threatening to set off a pipe bomb, police said on Tuesday.</p>
+<p>The teller asked him to wait. So he returned to the line and waited -- for 20 minutes.</p>
+<p>When she eventually handed him a bag stuffed with $1,500, he ran out the door and into the arms of a posse of policemen summoned by the bank.</p>
+<p>&quot;He was asked to wait and he waited,&quot; Detective Clinton Ward said.</p>
+<p>The pipe bomb turned out to be a toilet roll tube.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

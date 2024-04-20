@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195420" id="root" date="1996-11-17" xml:lang="en">
+<title>LEBANON: Lebanese police kill wanted Palestinian.</title>
+<headline>Lebanese police kill wanted Palestinian.</headline>
+<dateline>BEIRUT 1996-11-17</dateline>
+<text>
+<p>Lebanese police shot dead on Sunday a Palestinian accused of belonging to a gang charged with making up to 15 billion Lebanese pounds ($10 million) by selling forged and genuine finance ministry revenue stamps.</p>
+<p>Farid Mousalli was killed in an exchange of fire with police trying to arrest him in the Keserwan mountains northeast of Beirut, police said.</p>
+<p>He was one of six people charged by a magistrate last month with forging revenue stamps and also selling for private gain genuine stamps supplied by a finance ministry official for a total of 15 billion pounds.</p>
+<p>Acting finance minister Fouad Siniora denied on Friday that the embezzlement totalled 15 billion pounds and said it totalled 3.8 billion.</p>
+<p>($1 = 1,555 Lebanese pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

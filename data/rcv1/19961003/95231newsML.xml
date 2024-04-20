@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95231" id="root" date="1996-10-03" xml:lang="en">
+<title>AUSTRALIA: RTRS-Esso Australia sails for Bass Strait.</title>
+<headline>RTRS-Esso Australia sails for Bass Strait.</headline>
+<dateline>SYDNEY 1996-10-03</dateline>
+<text>
+<p>Esso Australia Ltd said on Thursday the first of two oil and gas platforms is set to make its 600 kilometre journey to the Bass Strait fields off the coast of Victoria.</p>
+<p>The wholly-owned unit of Exxon Corp said the 45,000-tonne Bream B will take about a week to arrive from Port Kembla, south of Sydney in the state of New South Wales, and would be followed in a month by the 104,000-tonne West Tuna platform.</p>
+<p>The two vessels are designed to develop about 108 million barrels of oil and 76 billion cubic feet of gas, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

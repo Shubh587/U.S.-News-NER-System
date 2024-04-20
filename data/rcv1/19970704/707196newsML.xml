@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="707196" id="root" date="1997-07-04" xml:lang="en">
+<title>RUSSIA: Two die, power plant halted in Azeri downpour.</title>
+<headline>Two die, power plant halted in Azeri downpour.</headline>
+<dateline>MOSCOW 1997-07-04</dateline>
+<text>
+<p>Torrential rains in Azerbaijan killed two people and cut electricity supplies from the former Soviet Republic's main generating plant, Interfax news agency said on Friday.</p>
+<p>It did not indicate how the two people died but it quoted a government source in the capital Baku as saying regions in the north and northwest of the country had received the equivalent of a month's rain on Thursday night and Friday morning.</p>
+<p>The downpour badly damaged buildings, vehicles and communications and washed away livestock and sections of railway track, Interfax said.</p>
+<p>The Caucasus republic's government has set up a special commission to help tackle the disaster, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AZERB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

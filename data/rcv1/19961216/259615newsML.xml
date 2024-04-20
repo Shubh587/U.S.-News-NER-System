@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259615" id="root" date="1996-12-16" xml:lang="en">
+<title>UK: Copper concentrate ship refloated off Nova Scotia.</title>
+<headline>Copper concentrate ship refloated off Nova Scotia.</headline>
+<dateline>LONDON 1996-12-16</dateline>
+<text>
+<p>The Panama-flagged bulker Ypapadi has been refloated off Nova Scotia, Lloyds Shipping Intelligence Service said on Monday.</p>
+<p>The 30,330 dwt vessel, carrying 2,500 tonnes of copper concentrate, grounded on December 7 on sand around Latitude 48 51N, Longtitude 64 25.2W.</p>
+<p>It was not thought to have not sustained any damage but an inspection is to be performed on December 16, after which it is expected to head for Gaspe, Nova Scotia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

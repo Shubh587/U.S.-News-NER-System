@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406000" id="root" date="1997-02-26" xml:lang="en">
+<title>GERMANY: Fire breaks out at German ICI plant.</title>
+<headline>Fire breaks out at German ICI plant.</headline>
+<dateline>MUNICH 1997-02-26</dateline>
+<text>
+<p>A fire causing millions of marks in damage broke out on Wednesday morning at a German plant of Imperial Chemical Industries Plc (ICI), police said.</p>
+<p>Nobody was hurt in the blaze which began at 9.15 a.m. local time (0815 GMT) during demolition work at the plant in the Bavarian town of Deggendorf. The fire was brought under control within an hour, a spokesman for local police said.</p>
+<p>Police noted that the fire began in an empty storage tower and thus did not trigger leaks of poisonous gases. A brief warning issued to the local population was quickly withdrawn.</p>
+<p>The ICI plant manufactures soles for sports shoes.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

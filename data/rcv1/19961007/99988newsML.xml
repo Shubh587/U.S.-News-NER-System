@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99988" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: U.S. drugs investigator charged with bribery.</title>
+<headline>U.S. drugs investigator charged with bribery.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>A Drug Enforcement Administration (DEA) agent has been arrested for allegedly seeking a bribe from a doctor under investigation for diverting controlled substances for his personal use, prosecutors said on Monday.</p>
+<p>Neal Ebrus, 33, a diversion/compliance investigator with the DEA, is charged in a complaint filed in White Plains, New York federal court, alleging he demanded the $25,000 bribe in return for ending the investigation of the doctor.</p>
+<p>The one-count complaint alleges Ebrus told the doctor the $25,000 would be a charitable donation to a fund established for a friend who was paralysed in a sporting accident.</p>
+<p>Ebrus allegedly told the doctor to make the payment in cash so it could not be traced and in return Ebrus allegedly promised to send the doctor official government documents showing the case against him had been dropped.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

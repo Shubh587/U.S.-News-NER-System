@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191497" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Motorola introduces secure PC card modem.</title>
+<headline>Motorola introduces secure PC card modem.</headline>
+<dateline>SCHAUMBURG, Ill. 1996-11-15</dateline>
+<text>
+<p>Motorola's Mobile Computing Products Division introduced Friday its SecureSURFR PC Card modem, combining 33.6 kilobit per second computer connection speeds with network security systems.</p>
+<p>The modem automatically detects a request for authentication, requests the user's personal identification number, and automatically responds with corresponding authentication information. The modem can also be connected to Motorola cellular phones, the company said.</p>
+<p>With more workers accessing company networks from home or on the road, unauthorized user access is a growing concern, Motorola said. Motorola said the SecureSURFR helps monitor and control dial-in access to networks.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCHAUMBURG, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

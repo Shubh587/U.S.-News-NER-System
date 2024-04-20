@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="440788" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: America Online unveils search site.</title>
+<headline>America Online unveils search site.</headline>
+<dateline>DULLES, Va 1997-03-13</dateline>
+<text>
+<p>America Online Inc on Thursday unveiled a directory service to help computer users find information on the Internet.</p>
+<p>At the Internet World trade show, the nation's biggest online service also unveiled the newest version of its software, which features better messaging software and easier searching capabilities.</p>
+<p>America Online's search site, called AOL NetFind, lets computer users look up phone numbers and addresses and search for specific text within sites on the World Wide Web.</p>
+<p>The site would compete with Yahoo Inc's search sites.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DULLES, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

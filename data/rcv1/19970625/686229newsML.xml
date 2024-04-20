@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="686229" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: U.S. relaxes computer export curbs to Israel.</title>
+<headline>U.S. relaxes computer export curbs to Israel.</headline>
+<dateline>WASHINGTON 1997-06-25</dateline>
+<text>
+<p>The United States has relaxed curbs on the export of advanced computers to Israel, the State Department said on Wednesday.</p>
+<p>Under the new rules, export licenses are no longer required for computers performing up to 2,000 million theoretical operations per second, or MTOPS, a department spokesman, John Dinger, told a regular news briefing.</p>
+<p>For more powerful units up to 7,000 MTOPS used on interuniveristy networks, &quot;we would go into the (export) approval process presuming it would be approved,&quot; but a case-by-case review would be required, he said.</p>
+<p>Under a policy updated by President Bill Clinton in 1995, the sale of advanced U.S.-built computers with possible military applications was restricted to countries that have not signed the treaty aimed at curbing the spread of nuclear weapons, including Israel.</p>
+<p>The October 1995 policy provided for periodic inter-agency U.S. reviews to determine whether the restrictions on a given country were &quot;appropriate,&quot; Dinger said.</p>
+<p>He said said Israel was the first country to be reviewed, although he could not immediately say why. The review took place last year, he said, clearing the way for the &quot;significantly improved&quot; Israeli access.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

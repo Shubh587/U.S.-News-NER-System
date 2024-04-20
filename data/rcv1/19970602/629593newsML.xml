@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629593" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: United Cities Gas Co granted rate increase.</title>
+<headline>United Cities Gas Co granted rate increase.</headline>
+<dateline>BRENTWOOD, Tenn. 1997-06-02</dateline>
+<text>
+<p>United Cities Gas Co said on Monday that the Virginia State Corporate Commission had granted the company a rate increase amounting to $102,838 in annual revenues.</p>
+<p>An overall rate increase of less than one percent was granted for roughly 18,000 current regulated customers, the company said in a statement, which provides United Cities with a 10 percent return on rate base and an 11 percent return on common equity.</p>
+<p>United Cities' last rate increase in Virginia was granted in 1989.  Since that time, rate reductions were implemented in 1991 and 1994, the company said.</p>
+<p>United Cities Gas Co distributes natural and propane gas to 350,000 customers in 10 states.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRENTWOOD, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

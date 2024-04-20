@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="285315" id="root" date="1997-01-03" xml:lang="en">
+<title>COLOMBIA: Colombian peso plummets 15.55 by close.</title>
+<headline>Colombian peso plummets 15.55 by close.</headline>
+<dateline>BOGOTA 1997-01-03</dateline>
+<text>
+<p>Colombia's peso plummeted 15.55 to close at 1,025 to the dollar, its lowest level since Oct 1, interbank traders said Friday.</p>
+<p>The crash came after a long period when only central bank intervention managed to offset the underlying strength of the peso.</p>
+<p>Dealers blamed the fall on limited quantities of dollars flowing into the markets, coupled with heavy demand from the public sector and speculation by banks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

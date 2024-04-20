@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178189" id="root" date="1996-11-09" xml:lang="en">
+<title>UK: BOXING-NASEEM HAMED RETAINS WBO FEATHERWEIGHT TITLE.</title>
+<headline>BOXING-NASEEM HAMED RETAINS WBO FEATHERWEIGHT TITLE.</headline>
+<dateline>MANCHESTER, England 1996-11-09</dateline>
+<text>
+<p>Britain's Naseem Hamed retained his World Boxing Organisation (WBO) featherweight title when he stopped Argentina's Remigio Molina in the second round of their scheduled 10-round fight on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

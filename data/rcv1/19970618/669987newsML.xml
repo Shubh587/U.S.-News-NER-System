@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669987" id="root" date="1997-06-18" xml:lang="en">
+<title>JAPAN: Japan city converts sewage into electricity.</title>
+<headline>Japan city converts sewage into electricity.</headline>
+<dateline>TOKYO 1997-06-18</dateline>
+<text>
+<p>Japan, tired of its huge dependency on oil, has looked high and low for a cleaner source of energy.</p>
+<p>Now the city of Yokohama claims to have found it in the least likely of places -- sewage.</p>
+<p>&quot;We've succeeded in turning sludge into clean energy,&quot; an official for the Yokohama municipal government said on Wednesday.</p>
+<p>The city's sewerage department, which purifies sewage water for the sprawling urban community near Tokyo, ends up with large quantities of a by-product composed of human, domestic, and industrial waste.</p>
+<p>This sludge, officials say, produces &quot;digestive gases&quot; comprised of 65 percent methane and 35 percent carbon dioxide.</p>
+<p>The sewerage department uses the methane to produce hydrogen, which can then serve as feed for a fuel cell.</p>
+<p>Fuel cells generate electricity via the chemical reaction between hydrogen and oxygen.</p>
+<p>&quot;It's the world's first fuel cell using methane extracted from sewage sludge,&quot; said the Yokohama official.</p>
+<p>The department, which has been experimenting with the technology for more than a year, has devised a system some 3.5 metres (11 feet) tall and seven metres (23 feet) wide.</p>
+<p>The system has been been running stably over the last 30 days with a generation capacity of 200 kilowatts, enough to provide power for 100 average households, the official said.</p>
+<p>Officials say the sludge-powered fuel cell system provides a cleaner alternative to hydrocarbon technologies, producing about one-fifteenth the nitrogen that would come from burning coal and one-sixth the nitrogen from burning oil.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="I92120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

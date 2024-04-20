@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90637" id="root" date="1996-10-02" xml:lang="en">
+<title>SOUTH AFRICA: Dutch Queen Beatrix visits S.African township.</title>
+<headline>Dutch Queen Beatrix visits S.African township.</headline>
+<dateline>JOHANNESBURG 1996-10-02</dateline>
+<text>
+<p>Queen Beatrix of the Netherlands went for a walkabout on Wednesday in a deprived black South African township and was shown what locals hope is a sign of a brighter future for apartheid's victims.</p>
+<p>The queen of one of South Africa's former colonial powers toured a housing project hoping to bring new low-cost homes to hundreds of residents of Vosloorus, a rough satellite town near Johannesburg.</p>
+<p>She was on the third day of a four-day state visit, the first by a Dutch head of state, which puts the royal seal of approval on the two countries' reconciliation after four decades of apartheid. She heads to Cape Town on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

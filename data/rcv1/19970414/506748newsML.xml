@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506748" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: Hudson, Wis., $1.975 mln won by Dain.</title>
+<headline>Hudson, Wis., $1.975 mln won by Dain.</headline>
+<text>
+<p>AMT: 1,975,000	DATE: 04/14/97	NYC Time: 1200	CUSIP: 444186</p>
+<p>ISSUER: Hudson							    ST: WI</p>
+<p>ISSUE: G.O. promissory notes, Series 1997A		     TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: AMBAC Aaa/NR/AAA					BANK QUAL: Y</p>
+<p>DTD: 06/01/97							     SURE BID: Y</p>
+<p>DUE: See Notes						SR MGR: Dain Bosworth</p>
+<p>1ST CPN: 12/01/97					   DOLLAR BID: 99.21</p>
+<p>CALL: 12/1/04 @ par					 TIC 5.24</p>
+<p>DELIVERY: 6/3/97 approx				   ORDERS: 12:00 NOON CDST</p>
+<p>PAYING AGENT: City Treasurer's Office, Hudson</p>
+<p>L.O.: Qualres &amp; Brady, Milwaukee</p>
+<p>F.A.: Ehlers and Associates, Inc., Minneapolis</p>
+<p>LAST SALE: $1,740,000 12/11/95 @ 4.437% NIC; 7yrs 11mos Avg; BBI-5.35%</p>
+<p>NOTES: Due: 12/1/98-00 &amp; 02 &amp; 6/1/07</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    225,000     5.000     4.450		  NET</p>
+<p>1999		    100,000     5.000     4.650		  NET</p>
+<p>2000		    100,000     5.000     4.750		  NET</p>
+<p>2002		    275,000     5.100     4.950		  NET</p>
+<p>2003		    175,000     5.100     5.000		  NET</p>
+<p>2004		    200,000     5.100     5.050		  NET</p>
+<p>2005		    225,000     5.100     5.100		  NET</p>
+<p>2006		    230,000     5.125     5.150		  NET</p>
+<p>06/01/07		445,000     5.125     5.200		  NET</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

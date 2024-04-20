@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321830" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Democrats announce new limits on political fundraising.</title>
+<headline>Democrats announce new limits on political fundraising.</headline>
+<dateline>WASHINGTON 1997-01-21</dateline>
+<text>
+<p>The Democratic Party Tuesday said it would no longer accept political donations from foreigners or from U.S. subsidiaries of foreign companies and would limit all donations to $100,000 per person per year.</p>
+<p>The voluntary provisions, announced at a meeting of the Democratic National Committee, came in response to disclosures last year that the party illegally raised large sums from foreigners and individuals who could not substantiate the true source of the money they gave.  </p>
+<p>Newly elected Democratic Party general chairman, Colorado Gov. Roy Romer, told Reuters he was determined to clean up the party's fundraising procedures and prevent any recurrence of last year's problems.</p>
+<p>&quot;We invite the Republican Party to join us. Come join us, we honestly need to have the cooperation of both parties,&quot; he said.</p>
+<p>The party said it would check all contributions to ensure its rules were not evaded and had created a new compliance division for that purpose.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

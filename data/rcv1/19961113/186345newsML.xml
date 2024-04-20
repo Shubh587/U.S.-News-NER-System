@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186345" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: U.S. weekly stocks of grain report -- USDA.</title>
+<headline>U.S. weekly stocks of grain report -- USDA.</headline>
+<dateline>PORTLAND 1996-11-13</dateline>
+<text>
+<p>Total grain stocks at</p>
+<p>selected terminals/elevators, in 1,000 bushels.</p>
+<p>	    This Week  Last Week   Change   Year Ago</p>
+<p> Wheat     111,308    117,204    - 5896   215,149</p>
+<p> Corn	 81,173     65,502    +15671    77,979</p>
+<p> Soybeans   55,287     55,195    +   92    59,121</p>
+<p> Sorghum    41,080     27,010    +14070    27,713</p>
+<p> Oats	 15,050     14,383    +  667    25,734</p>
+<p> Barley     13,886     12,728    + 1158    12,809</p>
+<p> Rye	     468	  424    +   44	 745</p>
+<p> Sunseeds	  8	    8	   0	1966</p>
+<p>--Chicago newsdesk 312-983-7278--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

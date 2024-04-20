@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477001" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: Former health care employee settles SEC charges.</title>
+<headline>Former health care employee settles SEC charges.</headline>
+<dateline>WASHINGTON 1997-03-31</dateline>
+<text>
+<p>A doctor who worked for Intergroup Healthcare Corp., a managed health care firm that merged with Foundation Health Corp. in 1994, agreed to pay more than $200,000 in connection with an insider trading case, the government said Monday.</p>
+<p>Raeburn Evans, 49, of Chatham, N.J., did not admit or deny any wrongdoing in the case, the Securities and Exchange Commission said.</p>
+<p>In a complaint filed in U.S. District Court in Washington, the SEC alleged that Evans learned about Intergroup Healthcare's merger negotiations in his post as medical director for the company's southern region.</p>
+<p>The agency said Evans, before any public announcements about the pending deal, bought common stock and purchased and sold Intergroup options leading to illegal gains of $109,003.</p>
+<p>The $200,000 payment includes the alleged illegal profits and a civil penalty, the agency said. An attorney representing Evans declined to comment on the settlement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

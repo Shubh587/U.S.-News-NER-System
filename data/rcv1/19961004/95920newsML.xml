@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95920" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Dialogic, Syntellect agreement.</title>
+<headline>Dialogic, Syntellect agreement.</headline>
+<dateline>NEW YORK 1996-10-04</dateline>
+<text>
+<p>Dialogic Corp and Syntellect Inc detailed a licensing and distribution agreement on Friday.</p>
+<p>Under the agreement Dialogic will offer its customers a portfolio of computer telephony patents from Syntellect subsidiary Syntellect Technology Corp.</p>
+<p>Dialogic manufactures high-performance, standard-based computer telephony components and Syntellect Inc provides interactive communication solutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

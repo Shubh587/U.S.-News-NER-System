@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456960" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: National Medical names president, CEO.</title>
+<headline>National Medical names president, CEO.</headline>
+<dateline>SPARKS, Nev. 1997-03-20</dateline>
+<text>
+<p>National Medical Financial Services Corp said Thursday that effective February 1 Alan Carr-Locke resigned as president, chief executive and director to pursue other business ventures.</p>
+<p>Effective March 14, the company said it appointed Douglas Colkitt, chairman and principal stockholder, to serve as the president and chief executive.</p>
+<p>Colkitt also serves as the chairman, chief executive and director of EquiMed Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPARKS, Nev."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

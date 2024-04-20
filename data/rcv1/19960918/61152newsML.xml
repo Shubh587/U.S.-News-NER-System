@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61152" id="root" date="1996-09-18" xml:lang="en">
+<title>BRAZIL: At least 14 people die in Brazil train crash.</title>
+<headline>At least 14 people die in Brazil train crash.</headline>
+<dateline>RIO DE JANEIRO 1996-09-18</dateline>
+<text>
+<p>At least 14 people were killed and 40 injured when two trains collided in Brazil's Rio de Janeiro state on Wednesday morning, a spokeswoman for the federal railway network (RFFSA) said.</p>
+<p>RFFSA spokeswoman Regina Digna said a train carrying copper crashed with a commuter train between Barra de Pirai and Japeri at 8:20 (1120 GMT) local time. The crash appeared to have been caused by faulty brakes on the copper train, which derailed and slammed into the passenger train, according to Joao Carlos, a disaster relief official.</p>
+<p>He said several injured passengers were in life threatening condition in a local hospital. Rescue workers were at the scene but no more people were thought trapped in the train wreckage, he added.</p>
+<p>The copper train consisted of 18 freight cars and a locomotive, while the commuter train had three cars and a locomotive, Digna said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

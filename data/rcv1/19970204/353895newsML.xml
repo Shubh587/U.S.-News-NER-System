@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353895" id="root" date="1997-02-04" xml:lang="en">
+<title>COLOMBIA: Quake rocks Colombia's northwest jungle.</title>
+<headline>Quake rocks Colombia's northwest jungle.</headline>
+<dateline>BOGOTA 1997-02-04</dateline>
+<text>
+<p>An earthquake rocked northwest Colombia on Tuesday in a jungle-covered area near the border with Panama, authorities said.</p>
+<p>There were no immediate reports of damage or injury from the quake, which measured 5.1 on the Richter scale and was capable of causing considerable damage in a populated area, a spokesman for the national seismological institute said.</p>
+<p>The epicentre of the temblor, which occurred at 12:31 p.m. (1731 GMT), was located near the town of Jurado in Choco province about 280 miles (450 km) northwest of Bogota.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196672" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Prudential starts emerging growth fund.</title>
+<headline>Prudential starts emerging growth fund.</headline>
+<dateline>NEWARK, N.J. 1996-11-18</dateline>
+<text>
+<p>Prudential Investments said it launched the Prudential Emerging Growth Fund.</p>
+<p>The U.S. growth stock fund, managed by Susan Hirsch, will invest in small and medium-sized companies with market capitalizations ranging from $500 million to $4.5 billion.</p>
+<p>Before joining Prudential this year, Hirsch was with Lehman Brothers Holdings Inc's Global Asset Management unit.</p>
+<p>Prudential, a unit of Prudential Insurance Co of America, has more than $175 billion in assets under management.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWARK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

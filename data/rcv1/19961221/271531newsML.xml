@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271531" id="root" date="1996-12-21" xml:lang="en">
+<title>UK: SOCCER SHOWCASE-RANGERS BEAT HEARTS 4-1.</title>
+<headline>SOCCER SHOWCASE-RANGERS BEAT HEARTS 4-1.</headline>
+<dateline>EDINBURGH 1996-12-21</dateline>
+<text>
+<p>Result of a Scottish premier</p>
+<p>division match played on Saturday:</p>
+<p>Hearts 1 (John Robertson 57)</p>
+<p>Rangers 4 (David Robertson 23, Brian Laudrup 48, Jorg</p>
+<p>Albertz 67 pen, Paul Gascoigne 84)</p>
+<p>Halftime 0-1</p>
+<p>Red card: Neil Pointon (Hearts, 45)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDINBURGH"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

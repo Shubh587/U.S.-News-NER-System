@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256984" id="root" date="1996-12-14" xml:lang="en">
+<title>TAIWAN: Six killed in Taiwan car crash after party.</title>
+<headline>Six killed in Taiwan car crash after party.</headline>
+<dateline>TAIPEI 1996-12-14</dateline>
+<text>
+<p>Six people travelling home from a 19th birthday party for the car's driver were killed when the vehicle crashed early on Saturday, state radio reported.</p>
+<p>The four men and two women were killed when the car hit a wall in the southwestern county of Yulin, the radio said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220811" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: U.S. Q3 corporate profits fell 2.6 pct.</title>
+<headline>U.S. Q3 corporate profits fell 2.6 pct.</headline>
+<dateline>WASHINGTON 1996-11-27</dateline>
+<text>
+<p>Commerce Department preliminary estimates of third quarter profits by U.S. corporations, with comparisons. Profits before tax include inventory valuation and capital consumption adjustments.</p>
+<p>Data are chain weighted and expressed in seasonally adjusted annual rates of billions of dollars, with third quarter percent changes from the second quarter.</p>
+<p> -		  Pct--Q3'96-P  Q2'96--Rev from---1995</p>
+<p> -  After Tax  -2.6  397.5    408.1    408.1   380.2</p>
+<p> -  Before Tax -0.2  654.7    655.8    655.8   586.6</p>
+<p> Tax Liability -2.1  231.4    236.4    236.4   218.7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

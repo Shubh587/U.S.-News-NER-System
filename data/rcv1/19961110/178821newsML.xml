@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178821" id="root" date="1996-11-10" xml:lang="en">
+<title>USA: SOCCER-UNITED STATES BEAT TRINIDAD 2-0. [CORRECTED 23:09 GMT]</title>
+<headline>SOCCER-UNITED STATES BEAT TRINIDAD 2-0. [CORRECTED 23:09 GMT]</headline>
+<dateline>RICHMOND, Virginia 1996-11-10</dateline>
+<text>
+<p>The United States</p>
+<p>took sole possession of first place in its World Cup CONCACAF</p>
+<p>qualifying group, defeating Trinidad &amp; Tobago 2-0 on Sunday.</p>
+<p>Scorers:</p>
+<p>United States - Thomas Dooley (52nd minute), Eric Wynalda</p>
+<p>(84th)</p>
+<p>Attendance: 19,312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TRTO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Virginia"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

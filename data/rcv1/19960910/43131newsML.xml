@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43131" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 10-SEP.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 10-SEP.</headline>
+<text>
+<p>The remnants of former Typhoon Sally will continue to produce heavy rains and possible flooding and mudslides over northern Indochina and far southwestern China for the next few hours.  </p>
+<p>Hurricane Hortense remains as a strong risk to shipping this period as it moves from between Puerto Rico and Dominican Republic to the southeast Bahamas islands during today and Wednesday. Top winds near the center of Hortense continue at about 80 mph during this time. Shipping is at risk due to strong winds and rough seas. Very heavy rains causes flooding and mudslides in Puerto Rico. Winds diminish later today as the system moves away. Damage due to floods, mudslides and strong winds may become severe in some areas. Dominican Republic should also heavy flooding and mudslides caused by heavy rains. Strong winds also are forecast in the east and northeast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

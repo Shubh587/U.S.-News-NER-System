@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="762013" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: DSP Technology wins $1.2 mln contract.</title>
+<headline>DSP Technology wins $1.2 mln contract.</headline>
+<dateline>FREMONT, Calif. 1997-07-29</dateline>
+<text>
+<p>DSP Technology Inc Tuesday said it has received a $1.2 million contract to supply General Motors Corp division Saturn Corp with eight turnkey RedLine ADAPT dynamometer control systems.</p>
+<p>Saturn will use the products for engine and transmission development and durability testing. DSP will substantially ship the order in the current year.</p>
+<p>The RedLine ADAPT powertrain testing product is a real-time control and data acquisition system used for research, development and durability testing of new engines, transmissions and associated drive train components.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

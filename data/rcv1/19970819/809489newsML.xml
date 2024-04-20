@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809489" id="root" date="1997-08-19" xml:lang="en">
+<title>CANADA: Saskatchewan Agriculture details harvest progress.</title>
+<headline>Saskatchewan Agriculture details harvest progress.</headline>
+<dateline>WINNIPEG 1997-08-19</dateline>
+<text>
+<p>Saskatchewan Agriculture on Tuesday detailed the level of harvest progress to Sunday.</p>
+<p>CROP	    PCT SWATHED    PCT COMBINED</p>
+<p>	   Aug 17/97 92/96 Avg Aug 17/97 92/96 Avg</p>
+<p>W. Wheat   16 pct   26 pct    51 pct    22 pct</p>
+<p>S. Wheat    8 pct    2 pct     1 pct     0 pct</p>
+<p>Durum Wheat 7 pct    2 pct     1 pct     0 pct</p>
+<p>Oats	  6 pct    3 pct     1 pct     0 pct</p>
+<p>Barley     13 pct    3 pct     2 pct     0 pct</p>
+<p>Fall Rye   16 pct   36 pct    77 pct    45 pct</p>
+<p>Spring Rye 14 pct   11 pct     5 pct     4 pct</p>
+<p>Flax	  2 pct    0 pct     0 pct     0 pct</p>
+<p>Canola     39 pct    8 pct     2 pct     0 pct</p>
+<p>((Gilbert Le Gras, Winnipeg Reuters Bureau 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

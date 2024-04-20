@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159898" id="root" date="1996-11-01" xml:lang="en">
+<title>COLOMBIA: Human rights lawyer killed in northern Colombia.</title>
+<headline>Human rights lawyer killed in northern Colombia.</headline>
+<dateline>BOGOTA 1996-11-01</dateline>
+<text>
+<p>A prominent human rights lawyer who disappeared earlier this week in northern Colombia was the victim of a gangland-style killing, authorities said on Friday.</p>
+<p>Police said the bullet-riddled body of Jose Eduardo Velandia was discovered on Thursday night on the outskirts of Cucuta, capital of Norte de Santander province.</p>
+<p>Velandia, who served as an advisor to the state government on human rights issues, had been missing since Monday when he failed to report for work.</p>
+<p>There was no immediate claim of responsibility for the killing.</p>
+<p>Jose Giraldo Cardona, another human rights lawyer, was killed two weeks ago by an unidentified guman in Villavicencio, the capital of eastern Meta province.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

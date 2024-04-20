@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54686" id="root" date="1996-09-15" xml:lang="en">
+<title>KUWAIT: Perry arrives in Kuwait from Saudi-agency.</title>
+<headline>Perry arrives in Kuwait from Saudi-agency.</headline>
+<dateline>KUWAIT 1996-09-15</dateline>
+<text>
+<p>U.S. Defence Secretary William Perry arrived in Kuwait from Saudi Arabia on Sunday to discuss the situation in the Gulf region, state-owned Kuwait News Agency reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

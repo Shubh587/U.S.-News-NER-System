@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130401" id="root" date="1996-10-21" xml:lang="en">
+<title>CUBA: Hurricane Lili likely to affect Cuba sugar harvest.</title>
+<headline>Hurricane Lili likely to affect Cuba sugar harvest.</headline>
+<dateline>HAVANA 1996-10-21</dateline>
+<text>
+<p>Hurricane Lili flattened or flooded large areas of Cuban sugar cane and the damage may well affect the forthcoming 1996-97 sugar harvest, Cuban state media said Monday.</p>
+<p>Until the hurricane, sugar experts had thought Cuba could produce a harvest of around 5.2 million-5.3 million tonnes of sugar, compared with a 1995-96 harvest of 4.5 million tonnes.</p>
+<p>Hurricane Lili swept over western and central areas of the country Thursday night and Friday, causing damage to cane and other crops, as well as property.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

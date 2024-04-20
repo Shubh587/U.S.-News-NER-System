@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782357" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Exxon in China petrochemical joint venture.</title>
+<headline>Exxon in China petrochemical joint venture.</headline>
+<dateline>IRVING, Texas 1997-08-06</dateline>
+<text>
+<p>Exxon Corp said Wednesday it is participating in a multi-billion dollar joint venture to expand a refinery and build a petrochemical complex in the Chinese Fujian province.</p>
+<p>A spokeswoman said the oil company had been selected as the only foreign company in the joint venture with Fujian Petrochemical Co Ltd, which itself is a joint venture of China Petrochemical Corp and the Fujian province.</p>
+<p>She added the joint venture partners are now studying the feasability of the project.  </p>
+<p>The project calls for expanding an existing refinery's capacity to 240,000 barrels a day from 80,000 barrels a day and building a ethylene steam cracker with a capacity of 600,000 tons per year and chemical derivatives plants in Xiaocuo, Fujian province.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

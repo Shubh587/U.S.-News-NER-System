@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="778899" id="root" date="1997-08-05" xml:lang="en">
+<title>CYPRUS: Cyprus releases Iraqi political refugees.</title>
+<headline>Cyprus releases Iraqi political refugees.</headline>
+<dateline>NICOSIA 1997-08-05</dateline>
+<text>
+<p>Eighteen Iraqis walked free in Cyprus on Tuesday after five months waiting in custody for a country willing to accept them as political refugees, officials said.</p>
+<p>The Iraqis were given three-month temporary permits to live and work on the island, and will receive an allowance from the local welfare department after a ruling by the Cyprus attorney-general.</p>
+<p>They were jailed for six months last year for entering Cyprus illegally. Once their jail sentence was up they remained in detention pending deportation, but that failed because they did not have any passports.</p>
+<p>They said they did not want to return to Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

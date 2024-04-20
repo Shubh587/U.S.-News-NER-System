@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213757" id="root" date="1996-11-25" xml:lang="en">
+<title>ETHIOPIA: Two die from injuries after Comoro crash.</title>
+<headline>Two die from injuries after Comoro crash.</headline>
+<dateline>ADDIS ABABA 1996-11-25</dateline>
+<text>
+<p>Two people who survived the crash of a hijacked Ethiopian Airlines plane into the sea off the Comoro Islands have died of their injuries, airline officials in the Ethiopian capital said on Monday.</p>
+<p>They said this took the presumed death toll from the crash of the Boeing 767 to 125. Fifty people, out of a total 175. are now believed to have survived when the plane ran out of fuel and ditched into the Indian Ocean on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COMOR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48465" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Medwave Inc Q1 July 31 full results.</title>
+<headline>Medwave Inc Q1 July 31 full results.</headline>
+<dateline>ARDEN HILLS, Minn. 1996-09-12</dateline>
+<text>
+<p>Quarter Ended July 31</p>
+<p>							  1996	  1995</p>
+<p>							Dollars     Dollars</p>
+<p>Operating expenses:</p>
+<p> Research and development, and clinical  $176,020     $39,912</p>
+<p> General and administrative		   108,414     106,855</p>
+<p> Sales and Marketing			     73,400	    --</p>
+<p> Operating loss				 (357,834)   (146,767)</p>
+<p> Interest income				   86,780	 4,609</p>
+<p> Net loss					 (271,054)   (142,158)</p>
+<p> Net loss per share				(0.06)	(0.29)</p>
+<p> Weighted average number of shares	4,721,706     487,875</p>
+<p>outstanding</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDEN HILLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

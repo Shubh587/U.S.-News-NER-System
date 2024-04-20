@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65298" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Passengers delayed hours after Amtrak train accident.</title>
+<headline>Passengers delayed hours after Amtrak train accident.</headline>
+<dateline>AMITE, La 1996-09-18</dateline>
+<text>
+<p>Chicago-bound Amtrak passengers were delayed for almost three hours on Wednesday after their train hit a dump truck at a rural private railroad crossing north of New Orleans killing the driver, authorities said.</p>
+<p>No injuries were reported among the 101 passengers or the crew, but the train's lead locomotive was damaged, Amtrak spokesman Marc Magliari said. The 63-year-old truck driver was killed instantly, local sheriff's deputies said.</p>
+<p>According to witnesses, the dump truck exploded in flames when the train, travelling at about 70 mph, hit it.</p>
+<p>Magliari said the &quot;City of New Orleans&quot; train runs between New Orleans and Chicago six times a week. The tracks are owned and maintained by the Illinois Central Railroad, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMITE, La"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

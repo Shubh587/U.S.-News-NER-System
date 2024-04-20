@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="454705" id="root" date="1997-03-19" xml:lang="en">
+<title>JAPAN: TSE to revise margin rules on futures and options.</title>
+<headline>TSE to revise margin rules on futures and options.</headline>
+<dateline>TOKYO 1997-03-19</dateline>
+<text>
+<p>The Tokyo Stock Exchange (TSE) said on Wednesday it plans to require its members to calculate and deposit margins for customer accounts and their own accounts separately starting from October.</p>
+<p>The new rule will apply to Japanese government bond (JGB) futures, options on JGB futures, stock index futures and options traded on the exchange.</p>
+<p>The current rule, which allows exchange members to calculate the required margins after netting their customers' and own accounts, has been criticised as risky because if a member broker defaults its customer might not be able to collect the deposited margin.</p>
+<p>The TSE also said the method of calculating customer margins will be changed in October from the current gross method to a net method.</p>
+<p>Currently, a customer margin is calculated based on a gross of long and short positions. Under the new method, the deposit will be required for the difference between long and short positions.</p>
+<p>-- Tokyo Treasury Desk +81-3-3432-9780</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

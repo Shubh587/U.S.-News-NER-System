@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275008" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Alumax unit raises sheet prices.</title>
+<headline>Alumax unit raises sheet prices.</headline>
+<dateline>NORCROSS, Ga. 1996-12-23</dateline>
+<text>
+<p>Alumax Inc's Alumax Mill Products Inc Tuesday said it is raising common alloy sheet transaction prices by $0.03 per pound from previous levels.</p>
+<p>The increase applies to OEM (original equipment manufacturer) and distributor production orders as well as distributor depot sales.</p>
+<p>The new prices apply to orders as of December 23, 1996, and shipments on or after December 30, 1996, regardless of order entry date.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORCROSS, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

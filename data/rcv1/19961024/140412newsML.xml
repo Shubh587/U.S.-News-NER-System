@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140412" id="root" date="1996-10-24" xml:lang="en">
+<title>LEBANON: Chirac arrives in Lebanon.</title>
+<headline>Chirac arrives in Lebanon.</headline>
+<dateline>BEIRUT 1996-10-24</dateline>
+<text>
+<p>French President Jacques Chirac arrived in Beirut on Thursday for talks with Lebanese leaders on the faltering Middle East peace process.</p>
+<p>Chirac was on the fifth leg of a Middle East tour that will conclude with a visit to Egypt on Friday.  </p>
+<p>The visit was his second to Lebanon this year and was intended to reaffirm French support for the country's sovereignty following his visit to Damascus last weekend.</p>
+<p>Chirac will hold talks with President Elias Hrawi and Prime Minister Rafik al-Hariri.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168861" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Data Dimensions in pact with Unisys.</title>
+<headline>Data Dimensions in pact with Unisys.</headline>
+<dateline>MCLEAN, Va. 1996-11-06</dateline>
+<text>
+<p>Unisys Corp's Federal Systems unit and Data Dimensions Inc said late Tuesday they have signed an agreement to jointly pursue Year 2000 software conversion contracts within the U.S. federal government.</p>
+<p>The Year 2000 problem, or &quot;Millenium Bug,&quot; refers to the failure of software programs to properly interpret date codes. Due to a long-standing programming oversight, software may misinterpret &quot;00&quot; as &quot;1900,&quot; instead of &quot;2000.&quot;</p>
+<p>Unisys said it is now providing Year 2000 services to the Navy and General Services Administration, and is discussing the millennium problem with many other federal agencies.  </p>
+<p>Data Dimensions said it has provided Year 2000 consulting services for more than 120 organizations worldwide, including a number of state and local government agencies and more than two dozen of the U.S. Fortune 500 companies.</p>
+<p>Industry analysts and the General Accounting Office have estimated that the Year 2000 conversion could cost the U.S. government between $20 billion and $30 billion.</p>
+<p>A recent report by the House Government Reform and Oversight Subcommittee on Government Management, Information and Technology stated that most federal agencies have not yet started to address the millennium issues, the companies said.</p>
+<p>The Year 2000 problem arises from the widespread use of computer programs that rely on two-digit date codes to perform certain computations and decision making functions.</p>
+<p>It is estimated that several hundred billions of lines of computer code are affected by the problem and that businesses and governments will need to spend billions of dollars and considerable time and human resources to convert programs and data to prepare for the turn of the century.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MCLEAN, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

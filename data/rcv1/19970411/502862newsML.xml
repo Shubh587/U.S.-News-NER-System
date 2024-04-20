@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="502862" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: FINAL PRICING - Richmond, Calif..</title>
+<headline>FINAL PRICING - Richmond, Calif..</headline>
+<text>
+<p>AMT: 15,705,000     DATE: 04/11/97	 CUSIP: 754436</p>
+<p>ISSUER: Richmond							  ST: CA</p>
+<p>ISSUE: Limited Obligation Refunding				 TAX STAT: Exempt</p>
+<p>M/SP/F: NR/NR/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 04/23/97							     SURE BID: N</p>
+<p>DUE: 9/2/97-10, 19					  SR MGR: Stone &amp; Youngberg</p>
+<p>1ST CPN: 09/02/97</p>
+<p>CALL: 9/2/97 @ 103</p>
+<p>DELIVERY: 4/23/97 firm</p>
+<p>MGRS: Seibert Brandford</p>
+<p>Year		     Amount    Coupon     Yield     Price</p>
+<p>1997		    575,000     4.000     4.000   100.000</p>
+<p>1998		    400,000     4.400     4.400   100.000</p>
+<p>1999		    420,000     4.700     4.700   100.000</p>
+<p>2000		    435,000     5.000     5.000   100.000</p>
+<p>2001		    460,000     5.250     5.250   100.000</p>
+<p>2002		    480,000     5.500     5.500   100.000</p>
+<p>2003		    510,000     5.650     5.650   100.000</p>
+<p>2004		    530,000     5.800     5.800   100.000</p>
+<p>2005		    570,000     5.900     5.900   100.000</p>
+<p>2006		    600,000     6.000     6.000   100.000</p>
+<p>2007		    640,000     6.100     6.100   100.000</p>
+<p>2008		    675,000     6.200     6.200   100.000</p>
+<p>2009		    720,000     6.250     6.250   100.000</p>
+<p>2010		    765,000     6.300     6.300   100.000</p>
+<p>2019		  7,925,000     6.600     6.600   100.000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

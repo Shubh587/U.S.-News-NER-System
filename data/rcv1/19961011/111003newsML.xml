@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111003" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Perkin in SmithKline research pact.</title>
+<headline>Perkin in SmithKline research pact.</headline>
+<dateline>NORWALK, Conn. 1996-10-11</dateline>
+<text>
+<p>The Perkin-Elmer Corp said on Friday it signed a research pact with SmithKline Beecham Plc.</p>
+<p>The collaboration is to develop automated data management and analysis systems that will speed the drug discovery process for the pharmaceutical industry, Perkin-Elmer said.</p>
+<p>Under the terms of the agreement, SmithKline Beecham will receive access to analysis and development tools for Perkin-Elmer's ABI PRISM BioLIMS laboratory infon management system, Perkin-Elmer said.  </p>
+<p>SmithKline Beecham will provide development support for the BioLIMS and will aid in developing functional specifications for future products.</p>
+<p>Perkin-Elmer said that as a result of the pact it hopes to develop systems for data collection, analysis, and management that it can market to the pharmaceutical industry.</p>
+<p>--New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I37100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

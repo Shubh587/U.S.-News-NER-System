@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247594" id="root" date="1996-12-10" xml:lang="en">
+<title>UK: Le Shuttle resume's traffic.</title>
+<headline>Le Shuttle resume's traffic.</headline>
+<dateline>CHERITON, England 1996-12-10</dateline>
+<text>
+<p>Eurotunnel Plc SA's Le Shuttle passenger car service resumed on Tuesday morning as planned, three weeks after a fire partially closed down the fixed link, according to a Reuters reporter travelling with the the first train to go through the tunnel.</p>
+<p>The first train, carrying 61 vehicles, left Coquelles terminal, near Calais, at 0630 GMT and arrived at the Cheriton terminal 50 minutes later, the reporter said.</p>
+<p>The trip through the tunnel was about five to 15 minutes longer than a normal crossing due to damage from the November 18 fire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHERITON, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

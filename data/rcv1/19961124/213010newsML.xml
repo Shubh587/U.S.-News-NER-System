@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213010" id="root" date="1996-11-24" xml:lang="en">
+<title>SOUTH KOREA: S.Korean diplomat killed in hijacked plane crash.</title>
+<headline>S.Korean diplomat killed in hijacked plane crash.</headline>
+<dateline>SEOUL 1996-11-24</dateline>
+<text>
+<p>A South Korean diplomat was among those killed when a hijacked Ethiopian Airlines Boeing 767 crashed into the Indian Ocean, the South Korean foreign ministry said on Sunday.</p>
+<p>Lee Hon-jong, 49, a diplomat at the South Korean embassy in Kenya, was returning to his base after an official trip to Ethiopia, a ministry statement said.</p>
+<p>It said Lee was the only South Korean passenger aboard the Ethiopian Airlines jet that carried 175 passengers and crew when it went down on Saturday off the Comoro Islands.</p>
+<p>Lee was identified by the passport that was found from his body, it added.</p>
+<p>The pilot and co-pilot, who suffered head injuries, indentified two of the 54 survivors as the hijackers and the pair were arrested by police, security sources on the island said.</p>
+<p>The plane was hijacked between Addis Ababa and the Kenyan capital Nairobi, ran out of fuel and crashed into the sea as it tried to land at Moroni Airport in the Comoro Islands.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

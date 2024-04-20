@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203281" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Wisconsin Bell sets $125 mln in notes.</title>
+<headline>Wisconsin Bell sets $125 mln in notes.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>The following debt issue from Wisconsin Bell was priced on Wednesday, according to sole manager Lehman Brothers.</p>
+<p>BORROWER WISCONSIN BELL</p>
+<p>AMT $125 MLN	 COUPON 6.35 PCT   MATURITY 12/01/2026</p>
+<p>TYPE NOTES	   ISS PRICE 99.991  FIRST PAY DATE 06/01/1997</p>
+<p>LAST MOODY'S AAA   YIELD 6.351 PCT   PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P AAA	 SPREAD 17 BP	PUTABLE IN THE 10TH YEAR</p>
+<p>U.S. corporate bond unit, 212 859-1678</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

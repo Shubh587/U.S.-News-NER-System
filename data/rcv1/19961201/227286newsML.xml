@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227286" id="root" date="1996-12-01" xml:lang="en">
+<title>DUBAI: Iraqi refugees leave Iran for home.</title>
+<headline>Iraqi refugees leave Iran for home.</headline>
+<dateline>DUBAI 1996-12-01</dateline>
+<text>
+<p>Some 2,500 Iraqi Kurdish refugees living in an Iranian refugee camp have left for northern Iraq in recent days, the official Iranian news agency IRNA reported on Sunday.</p>
+<p>It quoted Ahmad Safavi, director-general for foreign national and expatriate affairs, as saying the number of refugees at the Tappeh Rash camp now had dropped to 5,500.</p>
+<p>The refugees fled fighting between rival Kurdish factions in northern Iraq that erupted in late August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192266" id="root" date="1996-11-15" xml:lang="en">
+<title>EL SALVADOR: El Salvador sets date for midterm elections.</title>
+<headline>El Salvador sets date for midterm elections.</headline>
+<dateline>SAN SALVADOR, El Salvador 1996-11-15</dateline>
+<text>
+<p>The Supreme Electoral Tribunal of El Salvador said on Friday the Central American country will hold midterm legislative and municipal elections on March 16, 1997.</p>
+<p>Voters will pick 84 deputies for the Legislative Assembly and mayors and city councilors in 262 municipalities. The winners will serve three-year terms starting May 1, 1997.</p>
+<p>El Salvador has 2.86 million people of voting age.</p>
+<p>The next presidential elections are set for 1999.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR, El Salvador"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

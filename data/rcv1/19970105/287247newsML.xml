@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287247" id="root" date="1997-01-05" xml:lang="en">
+<title>CHILE: SOCCER-CHILE BEAT ARMENIA 7-0 IN FRIENDLY.</title>
+<headline>SOCCER-CHILE BEAT ARMENIA 7-0 IN FRIENDLY.</headline>
+<dateline>VINA DEL MAR, Chile 1997-01-05</dateline>
+<text>
+<p>Result of a international friendly played on Sunday:</p>
+<p>Chile     7     Armenia	0 (halftime 3-0)</p>
+<p>Scorers: Fernando Vergara 5 and 43, Jaime Riveros 68 and 73, Cristian Castaneda 20, Fernando Cornejo 80, Pedro Gonzalez 86.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARMEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VINA DEL MAR, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

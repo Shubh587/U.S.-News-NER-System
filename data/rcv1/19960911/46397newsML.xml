@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46397" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: IBM to unveil speech system for radiologists.</title>
+<headline>IBM to unveil speech system for radiologists.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>International Business Machines Corp. said it will introduce Thursday a speech recognition system that will let radiologists dictate and edit patient reports directly into their personal computer.</p>
+<p>The system, called MedSpeak/Radiology, has a vocabulary of 25,000 words an accuracy rate of over 95 percent. It is the first real-time continuous speech product in IBM's new VoiceType family of speech recognition products.</p>
+<p>IBM said by using the system, which is made up of software and a noise cancellation microphone, radiologists can work more efficiently and cut healthcare costs.</p>
+<p>Typically, a radiologist, who interprets X-rays, Magnetic Resonance Images (MRI) and CAT scans, dictates patient information into a tape recorder that is later transcribed by a typist, and then reviewed again by the radiologist, a process that can take several hours to days. The MedSpeak system reduces the turnaround time and transcription costs and increases patient confidetiality.</p>
+<p>IBM researchers developed the MedSpeak/Radiology system by working with radiologists from the Memorial Sloan-Kettering Cancer Centre in New York and Massachusetts General in Boston.</p>
+<p>The system is made up of software and a special noise cancellation microphone, handheld or headset.</p>
+<p>The system requires a personal computer with a PentiumPro microprocessor with a speed of 200 megahertz and runs on Microsoft Corp.'s Windows NT operating system. No special training of the software is required for most native North American English speakers.</p>
+<p>The Medpseak/Radiology system with a handheld microphone costs $4,495 and with a headset microphone for $4,395. The systems will be available from IBM or its business partners in the United States and Canada, starting Sept. 17.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

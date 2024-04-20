@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699527" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: U.S. May leading indicators +0.3 pct-Conference Bd.</title>
+<headline>U.S. May leading indicators +0.3 pct-Conference Bd.</headline>
+<dateline>WASHINGTON 1997-07-01</dateline>
+<text>
+<p>The Conference Board index of leading, coincident and lagging indicators (1992=100) and percent changes from previous months, seasonally adjusted.</p>
+<p> Indicators: Index-- May   Apr (Prev)  Mar (Prev)  Feb (Prev)</p>
+<p> -Leading    103.8   0.3  -0.1  -0.1   0.2   0.2   0.4   0.5</p>
+<p> -Coincident 115.7   0.2   0.3   0.1   0.2   0.3   0.5   0.5</p>
+<p> -Lagging    105.2   0.2   0.1   0.2   0.3   0.2  -0.2  -0.2</p>
+<p>Following are components of the index of leading indicators with net contributions to monthly changes.</p>
+<p>    -			   May    Apr (Prev)   Mar (Prev)   Feb</p>
+<p> Average Workweek	 -0.03   Unch  0.03   0.07  0.07   0.03</p>
+<p> Initial Jobless Claims  0.06  -0.13 -0.13   Unch  Unch   0.10</p>
+<p> Consumer Goods Orders  -0.01   0.05  0.04  -0.03 -0.02   0.04</p>
+<p> Slower Deliveries	 0.06  -0.01 -0.01   0.07  0.07   0.10</p>
+<p> Capital Goods Orders    0.01  -0.01 -0.01  -0.03 -0.02   0.02</p>
+<p> Building Permits	 -0.01  -0.01 -0.01   0.01  0.01   0.03</p>
+<p> Stock Prices		0.18  -0.07 -0.07  -0.02 -0.02   0.08</p>
+<p> Money Supply		0.01   0.08  0.08   0.07  0.07   0.03</p>
+<p> Treasury Yield Curve   -0.03   0.02  0.02   0.01  0.01  -0.02</p>
+<p> Consumer Expectations   0.05  -0.01 -0.01  -0.02 -0.02   0.04</p>
+<p>Wall Street economists had expected May leading indicators to rise 0.2 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

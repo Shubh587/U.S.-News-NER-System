@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253802" id="root" date="1996-12-12" xml:lang="en">
+<title>JAPAN: Optic fibre loop to connect U.S., Japan.</title>
+<headline>Optic fibre loop to connect U.S., Japan.</headline>
+<dateline>TOKYO 1996-12-12</dateline>
+<text>
+<p>Japan and the United States will be connected by a 25,000 km-long submarine optic fibre cable system on December 31, international phone operator Kokusai Denshin Denwa Co said on Thursday.</p>
+<p>Earlier this year, KDD and 78 global operators completed the construction of the northern route of the cable.</p>
+<p>The firms will connect the northern route with the southern route -- which has been in use since December 1995 -- in December, KDD said.</p>
+<p>The network, called Trans-Pacific Cable 5, will have a capacity of 10 giga bps, equivalent to about 120,000 telephone lines, KDD said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

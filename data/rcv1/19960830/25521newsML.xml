@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25521" id="root" date="1996-08-30" xml:lang="en">
+<title>JAPAN: Japan July construction orders up 1.7%.</title>
+<headline>Japan July construction orders up 1.7%.</headline>
+<dateline>TOKYO 1996-08-30</dateline>
+<text>
+<p>Japan's construction orders in July rose 1.7 percent from a year earlier to 1.45 trillion yen, the Construction Ministry said on Friday (in billions of yen unless specified):</p>
+<p> Domestic private sector orders		943.96  +14.7</p>
+<p> Domestic public sector orders		 403.10  -23.1</p>
+<p>Foreign government facilities in Japan</p>
+<p>   and orders of less than 10 million yen   55.29  +48.8</p>
+<p> Orders received abroad			   46.83  +14.2</p>
+<p> Total						1.45 trln +1.7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

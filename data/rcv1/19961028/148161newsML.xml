@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148161" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: TWA sets five-day systemwide ticket sale.</title>
+<headline>TWA sets five-day systemwide ticket sale.</headline>
+<dateline>ST. LOUIS, Mo. 1996-10-28</dateline>
+<text>
+<p>Trans World Airlines Inc said Monday it set a five-day systemwide sale, reducing domestic fares by up to 55 percent and international ticket prices by up to 44 percent.</p>
+<p>TWA said its domestic sale is based on its structural 21-day advance purchase, with additional savings for students and seniors. The domestic locations include Toronto, Canada, but exclude Honolulu and San Juan, Puerto Rico.</p>
+<p>Internationally, the sale fares are available in trans-Atlantic markets, except Lisbon, Tel Aviv and Riyadh.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59982" id="root" date="1996-09-17" xml:lang="en">
+<title>JAPAN: Hitachi to start making FRAM chips - paper.</title>
+<headline>Hitachi to start making FRAM chips - paper.</headline>
+<dateline>TOKYO 1996-09-17</dateline>
+<text>
+<p>Hitachi Ltd will start commercial production of ferroelectric random-access memory (FRAM) chips by the end of March 1997 to lower the ratio of dynamic random access memory (DRAM) chips in its total semiconductor output, a Japanese newspaper said on Tuesday.</p>
+<p>The industrial daily Nikkan Kogyo Shimbun said Hitachi would initially make 20,000 to 30,000 256 kilobit FRAMs a month, increasing the amount to 200,000 to 300,000 chips monthly by the end of calendar 1997.</p>
+<p>The paper said Hitachi would also make one megabit and four megabit FRAMs.</p>
+<p>Hitachi spokesmen were not immediately available for comment.</p>
+<p>FRAM chips can retain memory without electricity and the memory can be rewritten up to one trillion times.</p>
+<p>Prices of DRAM chips have been falling sharply due to excessive production by chip makers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

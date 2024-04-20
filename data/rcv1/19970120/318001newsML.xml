@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="318001" id="root" date="1997-01-20" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE TABLE STANDINGS.</title>
+<headline>SOCCER-ENGLISH LEAGUE TABLE STANDINGS.</headline>
+<dateline>LONDON 1997-01-20</dateline>
+<text>
+<p>English Premier league table</p>
+<p>standings after Monday's match:</p>
+<p>				    P  W  D  L F  A   PTS</p>
+<p> 1. Liverpool		  24 13  7  4 41 20   46</p>
+<p> 2. Manchester United	23 12  8  3 46 26   44</p>
+<p> 3. Arsenal		    23 12  7  4 42 22   43</p>
+<p> 4. Newcastle		  23 11  6  6 42 26   39</p>
+<p> 5. Wimbledon		  21 11  5  5 34 25   38</p>
+<p> 6. Chelsea		    23 10  8  5 36 32   38</p>
+<p> 7. Aston Villa		23 10  6  7 31 24   36</p>
+<p> 8. Sheffield Wednesday    22  7 10  5 25 27   31</p>
+<p> 9. Everton		    23  7  7  9 31 34   28</p>
+<p> 10.Tottenham		  22  8  4 10 24 30   28</p>
+<p> 11.Leeds			23  8  4 11 21 27   28</p>
+<p> 12.Sunderland		 23  7  7  9 22 30   28</p>
+<p> 13.Leicester		  22  7  5 10 21 30   26</p>
+<p> 14.Blackburn		  22  5  9  8 23 22   24</p>
+<p> 15.Derby			22  5  9  8 22 29   24</p>
+<p> 16.Coventry		   23  5  8 10 22 33   23</p>
+<p> 17.Nottingham Forest	23  5  8 10 23 37   23</p>
+<p> 18.West Ham		   22  5  7 10 18 28   22</p>
+<p> 18.Southampton		22  5  5 12 31 39   20</p>
+<p> 20.Middlesbrough	    23  5  6 12 29 43   18</p>
+<p>Note: Middlesbrough deducted 3 points Football League</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="774360" id="root" date="1997-08-03" xml:lang="en">
+<title>UK: CRICKET-RAIN PREVENTS PLAY IN AUSTRALIA V SOMERSET MATCH.</title>
+<headline>CRICKET-RAIN PREVENTS PLAY IN AUSTRALIA V SOMERSET MATCH.</headline>
+<dateline>TAUNTON, England 1997-08-03</dateline>
+<text>
+<p>Rain prevented play on the third day of a four-day match between Somerset and the touring Australians on Sunday.</p>
+<p>Scores: Somerset 284 and 147-3 (R.Turner 65 not out), Australia 323 (B.Julian 71, S.Waugh 62; A.Caddick 5-54).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAUNTON, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

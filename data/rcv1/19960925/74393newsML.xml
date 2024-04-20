@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74393" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE CUP SECOND ROUND RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE CUP SECOND ROUND RESULTS.</headline>
+<dateline>LONDON 1996-09-25</dateline>
+<text>
+<p>Results of English League Cup</p>
+<p>second round, second leg matches on Wednesday (with aggregate</p>
+<p>scores):</p>
+<p> Chelsea		   1   Blackpool	   3 (agg: 5-4)</p>
+<p> Derby		     2   Luton		 2 (agg: 2-3)</p>
+<p> Leicester		 2   Scarborough	 1 (agg: 4-1)</p>
+<p> Peterborough	    1   Southampton	 4 (agg: 1-6)</p>
+<p> Portsmouth		1   Wimbledon	   1 (agg: 1-2)</p>
+<p> Queens Park Rangers   1   Swindon	     3 (agg: 3-4)</p>
+<p> Tottenham		 3   Preston	     0 (agg: 4-1)</p>
+<p> West Ham		  1   Barnet		0 (agg: 2-1)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

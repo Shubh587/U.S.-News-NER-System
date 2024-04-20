@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55304" id="root" date="1996-09-16" xml:lang="en">
+<title>NEW ZEALAND: NZ SPORT - New Zealand ski report for Sept 17.</title>
+<headline>NZ SPORT - New Zealand ski report for Sept 17.</headline>
+<text>
+<p>CENTRE	 BASE	NEW SNOW	     WEATHER	  ROAD</p>
+<p>Whakapapa    2.32m UPPER SLOPES ONLY OPEN clear	    clear</p>
+<p>Turoa	  1.0m  UPPER SLOPES ONLY OPEN overcast	 clear</p>
+<p>Rainbo	 1.10-1.20m			 clear	    clear</p>
+<p>Mt Lyford    2.0-2.5m			   clear    carry chains</p>
+<p>Porter Heights 1.8m			     clear	    clear</p>
+<p>Mt Hutt	2.1m				 clear    carry chains</p>
+<p>Mt Dobson    1.3m				 overcast	 chains</p>
+<p>Ohau	   90cms				clear	    clear</p>
+<p>Cardrona     95-1.50m			   overcast	 clear</p>
+<p>Treble Cone  80-1.20m upper		   overcast carry chains</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

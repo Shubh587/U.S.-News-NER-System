@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196688" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: New Brunswick 630 MW nuclear plant at full output.</title>
+<headline>New Brunswick 630 MW nuclear plant at full output.</headline>
+<dateline>NEW YORK 1996-11-18</dateline>
+<text>
+<p>New Brunswick Power Co said Monday its 630 megawatt (MW) nuclear power station resumed full output after tripping off line Nov 15 during maintenance on its control computers.</p>
+<p>&quot;The Point Lepreau generating staion returned to service Sunday and was generating at near full power by yesterday afternoon,&quot; the utility said in a statement.</p>
+<p>The Lepreau facility has two control computers which allow for back-up and maintenance. As technicians were returning control to the lead computer following maintenance work, a component failed, and the plant shut automatically.</p>
+<p>The Lepreau nuclear station is 45 kilometres south of the city of St John.</p>
+<p>Headquartered in Fredericton, New Brunswick Power has a total installed capacity of 4,000 MW.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

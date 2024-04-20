@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16001" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Swiss Bank Corp sets $450 mln in debt.</title>
+<headline>Swiss Bank Corp sets $450 mln in debt.</headline>
+<dateline>NEW YORK 1996-08-27</dateline>
+<text>
+<p>The following debt issue was</p>
+<p>priced on Tuesday in two parts, according to co-lead manager</p>
+<p>Merrill Lynch &amp; Co Inc. The deal was co-led by Swiss Bank</p>
+<p>Corp, New York branch.</p>
+<p>BORROWER: SWISS BANK CORP-NY</p>
+<p>AMT $150 MLN	   COUPON  7.25 PCT  MATURITY 09/01/2006</p>
+<p>TYPE SUB NOTES	 ISS PRICE 99.648  PAY DATE 03/01/97</p>
+<p>LAST MOODY Aa2	 REOFFER 99.648    PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P AA	    YIELD  7.30 PCT   FULL FEES $6.50</p>
+<p>INDUSTRY BANKING     SPREAD +53 BP     CALLABLE NO</p>
+<p>BORROWER: SWISS BANK CORP-NY</p>
+<p>AMT $300 MLN	   COUPON  7.75 PCT  MATURITY 09/01/2026</p>
+<p>TYPE SUB NOTES	 ISS PRICE 99.606  PAY DATE 03/01/97</p>
+<p>LAST MOODY Aa2	 REOFFER 99.606    PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P AA	    YIELD  7.784 PCT  FULL FEES $8.75</p>
+<p>INDUSTRY BANKING     SPREAD +77 BP     CALLABLE NO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411017" id="root" date="1997-02-28" xml:lang="en">
+<title>CANADA: Canadian Gas Association storage survey - Feb 21.</title>
+<headline>Canadian Gas Association storage survey - Feb 21.</headline>
+<dateline>CALGARY 1997-02-28</dateline>
+<text>
+<p>Canadian Gas Association (CGA) weekly survey of Canadian natural gas in storage in billion cubic feet (bcf):</p>
+<p>							 Pct Full  Pct Full</p>
+<p>		 02/21/97  02/14/97  Pct Full  Week Ago  Year Ago</p>
+<p>East	     47.60     58.81    20.47	25.29     12.7</p>
+<p>West	     69.15     73.73    26.69	28.45     33.5</p>
+<p>Total Canada  116.75    132.54    23.75	26.96     23.7</p>
+<p>East-West division is the Manitoba/Saskatchewan and North Dakota/Minnesota borders.</p>
+<p>East capacity 02/21/97: 232.55 bcf, 02/14/97: 232.55 bcf.  </p>
+<p>West capacity 02/21/97: 259.11 bcf, 02/14/96: 259.11 bcf.</p>
+<p>The Canadian Gas Association survey includes liquefied petroleum gas, all Canadian operators of gas storage and Canadian companies contracting gas storage in the U.S.</p>
+<p>((--Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

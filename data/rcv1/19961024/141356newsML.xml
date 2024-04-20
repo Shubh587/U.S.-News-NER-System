@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141356" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Calif. water agencies seek supplier for 300 MW.</title>
+<headline>Calif. water agencies seek supplier for 300 MW.</headline>
+<dateline>LOS ANGELES 1996-10-23</dateline>
+<text>
+<p>The Association of California Water Agencies-Utility Service Agency has requested proposals from companies interested in supplying up to 300 megawatts (MW) of power starting in 1998.</p>
+<p>The 70 members participating in the joint request use power to pump and treat water.</p>
+<p>In a statement, the Sacramento-based agency said it is also looking for proposals to supply transmission and other services.</p>
+<p>The volume of the contract is expected to grow depending on how many of the agency's 430 water district members eventually choose to join the purchasing pool.</p>
+<p>Suppliers' proposals are due by December 18.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118601" id="root" date="1996-10-15" xml:lang="en">
+<title>JAPAN: Daishinku to issue 100 mln Sfr warrant.</title>
+<headline>Daishinku to issue 100 mln Sfr warrant.</headline>
+<dateline>TOKYO 1996-10-15</dateline>
+<text>
+<p>BORROWER - Daishinku Corp</p>
+<p>LEAD MGR - Swiss Bank Corp</p>
+<p>JOINT LEAD - Daiwa Securities Bank Switzerland</p>
+<p>GUARANTOR - Tokyo-Mitsubishi Bank Ltd</p>
+<p> TYPE warrant	   ISSUE NO		AMT   100 million Sfr</p>
+<p> COUPON		   ISS PRICE	     MATURITY 31.Oct.00</p>
+<p> EXER PRICE	     CURR RATE</p>
+<p> EXER FROM 14.Nov.96  EXER TO 17.Oct.00</p>
+<p> LAST MOODY'S	   PAY DATE 31.Oct.96  INT PAY 31.Oct</p>
+<p> LAST S&amp;P		 SIGN DATE 22.Oct.96 SUB DATE</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS</p>
+<p>The conversion price and currency rate will be decided on October 18 and the coupon on October 22.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

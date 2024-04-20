@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468465" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Cisco buys Telesend.</title>
+<headline>Cisco buys Telesend.</headline>
+<dateline>SAN JOSE, Calif. 1997-03-26</dateline>
+<text>
+<p>Cisco Systems Inc said Wednesday it acquired Silicon Valley start-up Telesend Inc in a stock swap in which Cisco shares were exchanged for all of Telesend's outstanding stock and options.</p>
+<p>Cisco said the Cupertino, Calif.-based company's employees and management, including Sayuri Sharper, Telesend's president and chief executive, and the company's product line will be incorporated into Cisco's Wide Area Network business unit.</p>
+<p>Additional terms and conditions of the Telesend acquisition are not being released, the company said.</p>
+<p>The deal was completed in early March, Cisco said.  </p>
+<p>The announcement of the acquisition confirms a report by Reuters Tuesday evening.</p>
+<p>Telesend has developed a new telecommunications technology known as ISDN DSL, or IDSL for short.  The full name is Integrated Services Digital Network Digital Subscriber Line.</p>
+<p>Cisco said acqusition of the IDSL technology marks Cisco's entry into the Digital Subscriber Line (DSL) market.</p>
+<p>DSL, or xDSL as it is generically known, refers to a promising set of high-speed Internet access technologies that can help relieve congestion on telphone voice networks caused by rising Internet use.  </p>
+<p>Cisco said it planned to integrate the IDSL technology into its 90i wide area network access product.</p>
+<p>It said the 90i would provide telco carriers with a more cost-effective way to deliver high-speed data services for Internet and intranet access applications.</p>
+<p>The IDSL technology will allow phone companies to offer Internet access connections from central office switches to local customers at speeds of up to 128,000 bits per second, or about four times the speed of standard phone lines.</p>
+<p>The resulting service is ideal for small business users, telecommuters and residential Internet access, Cisco said.  </p>
+<p>Cisco said its 90i is unique because it turns existing equipment in nearly all 10,000 North American telephone company central offices into high-capacity frame multiplexers that are designed to handle large volumes of Internet traffic.</p>
+<p>The approach provides telephone companies the lowest cost method now available for offering high-capacity digital Internet access by preserving existing capital investments and reducing overall operating cost, Cisco said.</p>
+<p>&quot;Only the Cisco 90i makes use of already installed equipment,&quot; said Kieran Taylor, a consultant at TeleChoice Inc, a leading telecommunications industry consulting firm.</p>
+<p>Taylor said the acquisition of Telesend's IDSL technology is a strategic move by Cisco to counter similar products announced a month and a half ago by rival equipment maker Ascend Communications Inc.</p>
+<p>The Cisco 90i channel unit is available at a list price of $995 and is currently in trial with several carriers.</p>
+<p>The price could fall below $150 per connection in quantities of 10,000 connection ports or more, Cisco said.</p>
+<p>((-- Eric Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

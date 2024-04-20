@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46663" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: NYMEX electricity trade dampened by Intertie curbs.</title>
+<headline>NYMEX electricity trade dampened by Intertie curbs.</headline>
+<byline>Deena Beasley</byline>
+<dateline>LOS ANGELES 1996-09-11</dateline>
+<text>
+<p>New York Mercantile Exchange (NYMEX) electricity futures trade volume has been subdued for several weeks, due in part to transmission curbs put in place after Western U.S. power outages in July and August, industry sources said.</p>
+<p>The impact is especially apparent on the contract with delivery at the California-Oregon border, where transmission access has been sharply limited.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

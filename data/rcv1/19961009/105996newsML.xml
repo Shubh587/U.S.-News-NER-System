@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105996" id="root" date="1996-10-09" xml:lang="en">
+<title>UK: SBC sets call, put warrants on the S&amp;P 500 index.</title>
+<headline>SBC sets call, put warrants on the S&amp;P 500 index.</headline>
+<dateline>LONDON 1996-10-09</dateline>
+<text>
+<p>Swiss Bank Corp has issued 18 million American-style call and put warrants, in six equal tranches, on the S&amp;P 500 index, lead manager SBC Warburg said.</p>
+<p>Ten warrants control one index.</p>
+<p> MATURITY DATE   15.JAN.98		 PAYDATE	23.OCT.96</p>
+<p> LISTING	   =			   MIN EXER LOT 100</p>
+<p>SPOT REFERENCE  $700.64</p>
+<p> WARRANTS	 STRIKE     ISS PRICE    PREMIUM	  GEARING</p>
+<p> CALL A	   $700.00    8.10 SFR	 9.13 PCT     10.85 X</p>
+<p> CALL B	   $720.00    6.64 SFR	10.31 PCT     13.24 X</p>
+<p> CALL C	   $740.00    5.33 SFR	11.70 PCT     16.45 X</p>
+<p> PUT D	    $700.00    4.69 SFR     - 5.43 PCT     18.73 X</p>
+<p> PUT E	    $720.00    5.72 SFR     - 3.73 PCT     15.40 X</p>
+<p> PUT F	    $740.00    6.98 SFR     - 2.33 PCT     12.58 X</p>
+<p>-- Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

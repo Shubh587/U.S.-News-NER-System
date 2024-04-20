@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220147" id="root" date="1996-11-27" xml:lang="en">
+<title>CYPRUS: Cyprus politician rushed to hospital.</title>
+<headline>Cyprus politician rushed to hospital.</headline>
+<dateline>NICOSIA 1996-11-27</dateline>
+<text>
+<p>Greek Cypriot politician Yiannakis Matsis, chairman of the largest Cyprus party, was rushed to hospital on Wednesday night after suffering a heart attack, doctors said.</p>
+<p>Matsis, 63, president of the right-wing Democratic Rally party, was taken to a hospital in the western coastal town of Paphos, where doctors said he had suffered a mild heart attack.</p>
+<p>He collapsed immediately after a party conference in the town, witnesses said.</p>
+<p>Matsis assumed the leadership of the Rally party in 1993 after its founder, Glafcos Clerides, was elected president of the republic.</p>
+<p>He recently weathered a storm in his party after several members insisted on standing as independent candidates in forthcoming municipal elections without the party's consent.</p>
+<p>Health Minister Manolis Christofides and Cypriot heart surgeon Costakis Zambartas flew to Paphos from the capital Nicosia in a police helicopter to be briefed on Matsis' conditon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

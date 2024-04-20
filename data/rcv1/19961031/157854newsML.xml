@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157854" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: EIA weekly report - Latest U.S. Oil Demand.</title>
+<headline>EIA weekly report - Latest U.S. Oil Demand.</headline>
+<text>
+<p>Averages (1,000 bbls/day) for four-week period ending:</p>
+<p>				10/25/96  10/25/95   Pct Chg</p>
+<p> Gasoline..................7,925.....7,782......1.8</p>
+<p> Distillate Fuel...........3,455.....3,130.....10.4</p>
+<p> Residual Fuel...............723.......828....-12.7</p>
+<p> Jet Fuel..................1,666.....1,527......9.1</p>
+<p> Other Oils................4,809.....4,439......8.3</p>
+<p> All Products Supplied....18,579....17,705......4.9</p>
+<p> Domestic Crude Output.....6,498.....6,420......1.2</p>
+<p> Crude Imports (Exc SPR)...8,204.....7,208.....13.8</p>
+<p> Refinery Crude Runs......14,276....13,713......4.1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

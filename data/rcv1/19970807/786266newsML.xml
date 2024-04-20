@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786266" id="root" date="1997-08-07" xml:lang="en">
+<title>UK: Researchers find the door that lets drugs in.</title>
+<headline>Researchers find the door that lets drugs in.</headline>
+<dateline>LONDON 1997-08-06</dateline>
+<text>
+<p>Researchers in France said they had homed in on a possible way to fight drug addiction.</p>
+<p>They said they had confirmed the role of a tiny cell opening known as a receptor in the &quot;reward&quot; effects of opiate drugs such as morphine, heroin and cocaine.</p>
+<p>Emiliana Borelli of France's national research institute INSERM in Strasbourg and colleagues studied mice that lack one of the receptors used by the neurotransmitter dopamine.</p>
+<p>Dopamine carries messages between brain cells and is associated with pleasure, among other things. It uses several receptors, a kind of chemical doorway, to enter cells, including one called D2.</p>
+<p>When mice lacking this D2 receptor are given morphine, they do not seem to get the usual pleasure from the drug, although they go through physical withdrawal when it is stopped.</p>
+<p>The mice are trained to associate morphine with a particular compartment -- they get morphine when they go into that compartment. Mice usually like the morphine and spend a lot of time there, but those lacking the D2 receptor did not spend more time than usual there.</p>
+<p>&quot;This effect is specific to the drug, as mice lacking D2 receptors behaved the same as wild-type mice when food is used as a reward,&quot; they wrote in a report in the science journal Nature.</p>
+<p>Other researchers have also targeted D2 and another receptor, D1, in drug addiction. U.S. scientists think D1 triggers feelings of satisfaction, like the sense of having finished a good meal. They think D2 stimulates craving.</p>
+<p>Drugs like cocaine stimulate the brain to produce too much dopamine, and sometimes stop the &quot;re-uptake&quot; or absorption of the chemical, so that too much is circulating.</p>
+<p>The effect is euphoria.</p>
+<p>Earlier drugs meant to fight addiction simply stopped dopamine from entering cells. But this had serious side-effects, many like Parkinson's disease, which is caused by a lack of dopamine production.</p>
+<p>A drug that simply blocked D2 while leaving other routes open to dopamine could work as an anti-addiction medicine, but more research would be needed, Borrelli's group said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

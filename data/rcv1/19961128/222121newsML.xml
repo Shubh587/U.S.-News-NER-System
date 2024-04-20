@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222121" id="root" date="1996-11-28" xml:lang="en">
+<title>CANADA: Tembec Q4 Sept 30 profit turns to loss.</title>
+<headline>Tembec Q4 Sept 30 profit turns to loss.</headline>
+<dateline>MONTREAL 1996-11-28</dateline>
+<text>
+<p>1996			   1995</p>
+<p> Shr   Loss		  C$0.21   Profit	C$0.91</p>
+<p> Net   Loss		   9,567   Profit	40,022</p>
+<p> Revs			 268,096		  329,397</p>
+<p>	    12 MONTHS</p>
+<p> Shr    Loss		 C$0.05   Profit	C$2.96</p>
+<p> Net    Loss		    281   Profit     120,016</p>
+<p> Revs			 990,939		  993,277</p>
+<p> Avg shrs		    46,816		   40,198</p>
+<p>		(All data above 000s except per share numbers)</p>
+<p>Note: Full company name is Tembec Inc. Fully diluted earnings per share have not been reported for 1996 as they result in a decrease in loss per share. In 1995, fully diluted profit per share was C$0.81 in the fourth quarter and C$2.55 for the full year.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

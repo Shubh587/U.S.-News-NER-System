@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113434" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Hilton acquires southern Calif. hotel.</title>
+<headline>Hilton acquires southern Calif. hotel.</headline>
+<dateline>BEVERLY HILLS, Calif. 1996-10-14</dateline>
+<text>
+<p>Hilton Hotels Corp said Monday it has acquired the 371-room Torrance Hilton at South Bay in Torrance, Calif., a suburb of Los Angeles.</p>
+<p>Financial details were undisclosed.</p>
+<p>The 12-story hotel had been an independently owned franchise. It has 15,000 square feet of meeting space that can hold up to 500 people.</p>
+<p>A $10 million renovation on all guest rooms, 34 suites, the lobby and meeting space was completed in September.</p>
+<p>Hilton now has 34 hotels in California with roughly 14,300 rooms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEVERLY HILLS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

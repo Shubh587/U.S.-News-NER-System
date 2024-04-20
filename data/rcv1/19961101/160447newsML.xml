@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160447" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: United States Enrichment Corp Q1 net rises.</title>
+<headline>United States Enrichment Corp Q1 net rises.</headline>
+<dateline>BETHESDA, Md. 1996-11-01</dateline>
+<text>
+<p>(millions)</p>
+<p>					   Three Months</p>
+<p>					  1996	  1995</p>
+<p>Revenue				$422.9	$227.2</p>
+<p>Cost of sales			 307.9	 139.9</p>
+<p>Gross profit			  115.0	  87.3</p>
+<p>Other operating expenses:</p>
+<p> Project develop.costs(a)	  35.7	  13.6</p>
+<p> SG&amp;A				     8.6	  10.2</p>
+<p> Other (income) and expense, net (2.3)	 (0.5)</p>
+<p>    Net income (b)		  $73.0	 $64.0</p>
+<p>(a)  Project development costs primarily represent research and development spending for the future commercialization of AVLIS uranium enrichment technology.</p>
+<p>(b)  As a U.S. government corporation, USEC is exempt from federal, state and local income taxes.</p>
+<p>NOTE: It said the significant increase in revenue was attributable to the timing of customer nuclear reactor fuel requirements.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BETHESDA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

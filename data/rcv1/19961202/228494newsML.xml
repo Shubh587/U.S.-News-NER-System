@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228494" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Chicago Board of Trade 10-day moving averages.</title>
+<headline>Chicago Board of Trade 10-day moving averages.</headline>
+<dateline>CHICAGO 1996-12-02</dateline>
+<text>
+<p>The following figures are moving averages calculated as an average of futures settlement prices for the past 10 business days on the Chicago Board of Trade.</p>
+<p>	2-Dec   29-Nov	    2-Dec   29-Nov</p>
+<p>  Wheat - cts/bu	    Corn - cts/bu</p>
+<p>  DEC6 403	403 1/4   DEC6 270	270 1/2</p>
+<p>  MAR7 386 1/4  387 1/2   MAR7 271 1/4  272</p>
+<p>  Soybeans - cts/bu</p>
+<p>  JAN7 706	704 1/2</p>
+<p>  MAR7 704 1/4  703 1/2   Soybean Oil - cts/bu    Soybean Meal - dollars/ton</p>
+<p>  DEC6   23.26    23.30   DEC6  237.82   237.16</p>
+<p>  JAN7   23.53    23.57   JAN7  228.20   227.74</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

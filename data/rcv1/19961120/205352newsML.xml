@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205352" id="root" date="1996-11-20" xml:lang="en">
+<title>GERMANY: German IFO business climate index jumps in October.</title>
+<headline>German IFO business climate index jumps in October.</headline>
+<dateline>MUNICH, Germany 1996-11-20</dateline>
+<text>
+<p>The German IFO economics institute gave the following data from its October business climate survey:</p>
+<p>    West Germany		     Oct 1996	 Sept 1996</p>
+<p>     Business climate		  97.4		 95.7</p>
+<p>     Business conditions	     91.7		 90.4</p>
+<p>     Business expectations	  103.1		101.1</p>
+<p>    East Germany		     Oct 1996	 Sept 1996</p>
+<p>     Business climate		  102.4		103.9</p>
+<p>     Business conditions	     121.1		121.8</p>
+<p>     Business expectations	   86.5		 88.3</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

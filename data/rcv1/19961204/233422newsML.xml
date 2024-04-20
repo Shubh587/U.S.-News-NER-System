@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233422" id="root" date="1996-12-04" xml:lang="en">
+<title>ITALY: SOCCER-ROSENBORG BEAT AC MILAN 2-1.</title>
+<headline>SOCCER-ROSENBORG BEAT AC MILAN 2-1.</headline>
+<dateline>MILAN, Italy 1996-12-04</dateline>
+<text>
+<p>Rosenborg beat AC Milan 2-1</p>
+<p>(halftime 1-1) in their European Cup Champions' League group D</p>
+<p>match on Wednesday:</p>
+<p>Scorers:</p>
+<p>Milan - Christophe Dugarry, 45</p>
+<p>Rosenborg - Harald Brattbakk 29, Vegard Heggem 69</p>
+<p>Attendance: 29,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185401" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Petroleum Development Corp Q3 net rises.</title>
+<headline>Petroleum Development Corp Q3 net rises.</headline>
+<dateline>BRIDGEPORT, W. Va. 1996-11-12</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p> September 30	 1996	1995	  1996	  1995</p>
+<p> Revenues	$11,317,000 $3,582,500 $33,092,000 $17,552,300</p>
+<p> Net Income	  410,500    110,000   2,350,400     999,400</p>
+<p>Earnings per common and common</p>
+<p>equivalent share outstanding</p>
+<p>			     .04	  .01	   .21	   .09</p>
+<p>Weighted average common and</p>
+<p>common equivalent shares</p>
+<p>outstanding  11,497,179 11,519,653  11,367,140  11,557,565</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGEPORT, W. Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

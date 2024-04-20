@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="427913" id="root" date="1997-03-07" xml:lang="en">
+<title>USA: Exxon restarts 88,000 bpd craker at Baytown, Texas.</title>
+<headline>Exxon restarts 88,000 bpd craker at Baytown, Texas.</headline>
+<dateline>NEW YORK 1997-03-07</dateline>
+<text>
+<p>Exxon Corp restarted the 88,000 barrel per day (bpd) catalytic cracker at its Baytown, Texas, refinery, according to the company.</p>
+<p>The cracker was taken out of service on Jan 23 for routine maintenance, according Bruce Tackett, company spokesman.</p>
+<p>Total capacity for the refinery is 396,000 barrels per day.</p>
+<p>--Matt Daily, New York Energy Desk +1 212 859 1626</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120375" id="root" date="1996-10-16" xml:lang="en">
+<title>TUNISIA: Tunisian news agency TAP has a new chief.</title>
+<headline>Tunisian news agency TAP has a new chief.</headline>
+<dateline>TUNIS 1996-10-16</dateline>
+<text>
+<p>The Tunisian Information Ministry on Wednesday announced that Brahim Fridhi was named as new chairman of the state-run Tunisian news agency Tunis Afrique Presse (TAP).</p>
+<p>Fridhi, who was director of the French language daily newspaper Le Renouveau owned by the ruling party the Constitutional Democratic Rally (RCD), replaces Mohamed Mahfoudh.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

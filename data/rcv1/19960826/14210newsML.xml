@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14210" id="root" date="1996-08-26" xml:lang="en">
+<title>POLAND: All Polish min T-bill prices rise at tender.</title>
+<headline>All Polish min T-bill prices rise at tender.</headline>
+<dateline>WARSAW 1996-08-26</dateline>
+<text>
+<p>Minimum prices of all Polish T-bills rose at Monday's primary auction on total demand of 3.1 billion zlotys against a 600 million zloty offer, the finance ministry said.  </p>
+<p>			 8-week  13-week  26-week  39-week  52-week</p>
+<p>   new min price   97.17    95.41    91.07     --	 83.53</p>
+<p>   (pvs auction)  (97.11)    --     (90.93)    --     (83.35)</p>
+<p>   new max price   97.21    95.63    91.14     --	 83.64</p>
+<p>   (pvs auction)  (97.13)    --     (91.02)    --     (83.50)</p>
+<p>   offer	     100.0    100.0    100.0     --	 300.0</p>
+<p>   bids recorded   639.4    631.2    463.9     --     1,366.6</p>
+<p>   bids accepted   100.0    100.0    100.0     --	 300.0</p>
+<p>   next auction     --	150.0    100.0     --	 450.0</p>
+<p>NOTE: Offer and all bids in million zlotys.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

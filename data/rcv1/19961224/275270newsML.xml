@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275270" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Storms threaten shipping off Philippines, Solomons.</title>
+<headline>Storms threaten shipping off Philippines, Solomons.</headline>
+<dateline>LEXINGTON, Mass. 1996-12-24</dateline>
+<text>
+<p>Tropical storm Fern is threatening shipping in the Philippine Sea but is forecast to remain well to the east of the Philippines, independent forecaster Weather Services Corp said on Tuesday.</p>
+<p>The storm, situated at 9.8 north, 138.9 east, is expected to track west-northwestward and slowly intensify over the next 24-36 hours before weakening, turning northeasterly and becoming extratropical by 48-72 hours time.</p>
+<p>WSC said Tropical Cyclone 13P (Fergus) has developed south of the Solomon Islands near 13.6s/159.4e and will steadily intensify while tracking southwestward this period, becoming an increasing risk to shipping. Top winds could be near 90 mph within 48 hours.</p>
+<p>Tropical Cyclone 12P has formed in the Gulf of Carpentaria off the coast of Queensland, Australia. Top winds are near 40 mph. The cyclone will move inland over northern Australia in the next 36-48 hours, spreading heavy rains and gusty winds to northern portions of the Northern Territory.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="SOLIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

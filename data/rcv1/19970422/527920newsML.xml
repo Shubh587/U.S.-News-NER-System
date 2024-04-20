@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="527920" id="root" date="1997-04-22" xml:lang="en">
+<title>HONG KONG: HK weather - cloudy, bright periods, max 25 C.</title>
+<headline>HK weather - cloudy, bright periods, max 25 C.</headline>
+<dateline>HONG KONG 1996-04-23</dateline>
+<text>
+<p>It will be cloudy but with bright periods during the day, the Royal Observatory said on Wednesday.</p>
+<p>The maximum temperature will reach 25 C.</p>
+<p>At 7 a.m. the temperature was 22 C and the relative humidity 78 per cent.</p>
+<p>-- HONG KONG NEWSROOM (852) 2843-6369</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129698" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: New Hampshire governor declares state of emergency.</title>
+<headline>New Hampshire governor declares state of emergency.</headline>
+<dateline>CONCORD, N.H. 1996-10-21</dateline>
+<text>
+<p>New Hampshire Governor Stephen Merrill late Monday declared a state of emergency for the entire state after a fierce storm dumped record amounts of rain.</p>
+<p>The storm, which has lashed the Northeast for three days, caused rivers and lakes to overflow their banks, flooding homes and highways.</p>
+<p>While the storm continues to pound Maine and is expected to move into Canada, flash flood warnings remain in effect throughout much of New England.</p>
+<p>Both Massachusetts and Maine have declared limited states of emergency for their flood-ravaged coastal counties.</p>
+<p>--Boston bureau, 617-367-4106</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONCORD, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68788" id="root" date="1996-09-21" xml:lang="en">
+<title>TURKEY: Turkey says 35 rebel Kurds killed in clashes.</title>
+<headline>Turkey says 35 rebel Kurds killed in clashes.</headline>
+<dateline>DIYARBAKIR, Turkey 1996-09-21</dateline>
+<text>
+<p>Turkish security forces have killed 35 Kurdish separatist militants in several clashes in the past two days in southeast Turkey, officials said on Saturday.</p>
+<p>They said troops killed 20 members of the Kurdistan Workers Party (PKK) in Beytussebap, eight in Cukurca, five in Catak and two in Karakocan towns.</p>
+<p>Three civilian village guards were also killed in the clashes, they said. They did not give other details.</p>
+<p>More than 20,000 people have been killed in the PKK's 12-year-old fight for independence or autonomy in Turkey.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIYARBAKIR, Turkey"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

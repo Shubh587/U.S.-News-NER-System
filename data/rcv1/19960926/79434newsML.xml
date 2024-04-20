@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79434" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 26-SEP.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 26-SEP.</headline>
+<text>
+<p>Typhoon Yates, with 140 mph winds, is centered near 16.7n/143.6e in the western Pacific, west of the Mariana Islands, moving west northwest at 8 mph. Yates will remain very powerful but may weaken slightly during the next 24-36 hours as it turns more to the north. Yates is an extreme threat to shipping.  </p>
+<p>Typhoon Zane, with 85 mph winds, is centered east of Luzon, Philippines, in the Philippine Sea, near 19.4n/129.0e, moving northwest at 13 mph. Zane is expected to slow down this period while intensifying steadily. Zane remains a threat only to shipping at this time.  </p>
+<p>Tropical Storm Isidore is mainly a risk to shipping in the southern Atlantic during the next 72 hours. Maximum sustained winds are currently about 70 mph but they may increase to near 80 mph as the storm becomes a hurricane during the next 12 hours. Isidore is currently centered about 650 miles west southwest of the Cape Verde Islands, moving west at 14 mph.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

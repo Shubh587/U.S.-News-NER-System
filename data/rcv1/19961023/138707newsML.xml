@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138707" id="root" date="1996-10-23" xml:lang="en">
+<title>SOUTH KOREA: Samick trading halted on default talk.</title>
+<headline>Samick trading halted on default talk.</headline>
+<dateline>SEOUL 1996-10-23</dateline>
+<text>
+<p>Trading in shares of South Korea's Samick Musical Instruments Co was halted on talk the company had defaulted on promissory notes, the Korea Stock Exchange said.</p>
+<p>Trading was halted at 10:05 a.m. (0105 GMT).  </p>
+<p>A Samick spokesman confirmed that it missed a 2.7 billion won payment on Tuesday, but said it would pay back the sum by the legal deadline on Wednesday.</p>
+<p>Samick's shares last traded at 6,140 won, down 390 from Tuesday.</p>
+<p>-- Seoul Newsroom (822) 727 5644</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

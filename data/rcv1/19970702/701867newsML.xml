@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701867" id="root" date="1997-07-02" xml:lang="en">
+<title>JAPAN: Oil spill tanker berths at Japan's Kawasaki.</title>
+<headline>Oil spill tanker berths at Japan's Kawasaki.</headline>
+<dateline>YOKOHAMA, Japan 1997-07-02</dateline>
+<text>
+<p>The supertanker Diamond Grace, which ruptured two of its oil storage holds against an undersea reef and spilled crude oil into Tokyo Bay, docked at the Kawasaki Sea Berth on Wednesday evening, a coastguard spokesman said.</p>
+<p>Coastguard spokesman Kenji Koyanago said he believed the the Panamanian-registered supertanker was no longer leaking crude oil.</p>
+<p>The 259,999-deadweight tonne tanker struck the undersea Nakanose reef off Yokohama, one of the best-known undersea hazards in Tokyo Bay, on Wednesday morning.</p>
+<p>The ship leaked an estimated 13,400 tonnes of crude oil, making it the worst ever oil spill accident in Japan.</p>
+<p>The Diamond Grace was carrying 257,000 tonnes of crude oil from the United Arab Emirates to a refinery in Kawasaki, between Yokohama and Tokyo.</p>
+<p>The single-hull tanker, built in 1994, was chartered by Mitsubishi Oil and operated by a subsidiary of Japan's largest shipping company, Nihon Yusen KK.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YOKOHAMA, Japan"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

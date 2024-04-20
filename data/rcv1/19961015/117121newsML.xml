@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117121" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: San Francisco deal won by First Albany.</title>
+<headline>San Francisco deal won by First Albany.</headline>
+<text>
+<p>AMT: 110,000,000    DATE: 10/15/96	NYC Time: 1100	CUSIP: 797652</p>
+<p>ISSUER: San Francisco City &amp; Co Airports Commission	   ST: CA</p>
+<p>ISSUE: San Francisco intl arprt, sec ser. Issue 12B	  TAX STAT: Exempt-REV</p>
+<p>M/SP/F: A1/A+/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: FGIC AAA/AAA/NR					 BANK QUAL: N</p>
+<p>DTD: 10/01/96							     SURE BID: Y</p>
+<p>DUE: 5/1/05-26						SR MGR: First Albany</p>
+<p>1ST CPN: 05/01/97					   DOLLAR BID: 98.5113</p>
+<p>CALL: 5/1/06 @ 101, dtp 5/1/07			  TIC 5.7321</p>
+<p>DELIVERY: 10/30/96 approx				 ORDERS: 1 HR</p>
+<p>PAYING AGENT: Wells Fargo Bank, San Francisco</p>
+<p>L.O.: Orrick, Herrington &amp; Sutcliffe &amp; Pamela S. Jue</p>
+<p>F.A.: Lazard Freres &amp; Co., New York City</p>
+<p>LAST SALE: $25,000,000 (MBIA) 3/5/96 @ 5.5312% TIC; 22yrs 2mos Avg; BBI-5.57%</p>
+<p>NOTES: NA</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2005		  2,110,000     5.500	 NRO		  NRO</p>
+<p>2006		  2,265,000     5.500	 NRO		  NRO</p>
+<p>2007		  2,400,000     5.500	 NRO		  NRO</p>
+<p>2008		  2,550,000     5.500     5.200		  net</p>
+<p>2009		  2,705,000     5.500     5.300		  net</p>
+<p>2010		  2,880,000     5.500	 NRO		  NRO</p>
+<p>2011		  3,080,000     5.500	 NRO		  NRO</p>
+<p>2012		  3,280,000     5.500     5.500		 .250</p>
+<p>2013		  3,655,000     5.500     5.550		 .250</p>
+<p>2016		 14,055,000     5.500	 NRO		  NRO</p>
+<p>2021		 29,705,000     5.625     5.680		 .125</p>
+<p>2024		 22,725,000     5.650     5.710		 .125</p>
+<p>2026		 18,590,000     5.700     5.730		 .125</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

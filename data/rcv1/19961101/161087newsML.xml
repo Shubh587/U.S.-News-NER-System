@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161087" id="root" date="1996-11-01" xml:lang="en">
+<title>PHILIPPINES: Quake rocks southern Philippines, no damage.</title>
+<headline>Quake rocks southern Philippines, no damage.</headline>
+<dateline>MANILA 1996-11-01</dateline>
+<text>
+<p>An earthquake estimated at 4.7 on the Richter scale rocked a remote part of the southern Philippine island of Mindanao early on Friday, the Philippine Institute of Volcanology and Seismology said.</p>
+<p>&quot;It did not cause any damage even though there were six aftershocks,&quot; Ishmael Narag, a researcher at the Institute, told Reuters.</p>
+<p>&quot;Our preliminary estimate is that the earthquake was of 4.7 intensity,&quot; she said.</p>
+<p>An earlier report from Hong Kong's Royal Observatory had estimated the quake at 5.8 on the Richter scale.</p>
+<p>Narag said the centre of the quake was located 180 km (112 miles) southeast of Surigao city on the northern tip of Mindanao. Surigao is about 725 km (450 miles) southeast of Manila.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

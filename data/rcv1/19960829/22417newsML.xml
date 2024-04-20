@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22417" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: London shipsales.</title>
+<headline>London shipsales.</headline>
+<dateline>LONDON 1996-08-29</dateline>
+<text>
+<p>Secondhand tonnage brokers reported the sale of the following vessels.</p>
+<p>SOLD FOR DEMOLITION - Iapetos - (built 1973) 119,500 dwt sold to Indian breakers for $195 per ldt.</p>
+<p>Feax - (built 1976) 116,281 dwt sold to Indian breakers for $197.50 per ldt.</p>
+<p>Vakis T - (built 1971) 49,998 dwt sold to Indian breakers for $201.50 per ldt.</p>
+<p>Venturer - (built 1972) 29,081 dwt sold to Indian breakers for $221 per ldt.  </p>
+<p>Some of these sales may not be final as they maybe subject to inspection, survey or other conditions before completion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

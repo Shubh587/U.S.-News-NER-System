@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110602" id="root" date="1996-10-11" xml:lang="en">
+<title>ECUADOR: Ecuador net reserves rise to $1.742 bln on Oct 4.</title>
+<headline>Ecuador net reserves rise to $1.742 bln on Oct 4.</headline>
+<dateline>QUITO 1996-10-11</dateline>
+<text>
+<p>Ecuador's Central Bank said Friday its net international reserves stood at $1.742 billion on October 4, up $52 million from the week before.</p>
+<p>In the previous week to September 30, international reserves grew $164 million.</p>
+<p>The Central Bank gave no reason for the growth in reserves.</p>
+<p>International reserves ended 1995 at $1.556 billion.</p>
+<p>-- Gustavo Oviedo, Quito newsroom, 5932 258433</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

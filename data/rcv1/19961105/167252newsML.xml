@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167252" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: USDA accepts DEIP dry milk bid to Latin America.</title>
+<headline>USDA accepts DEIP dry milk bid to Latin America.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>The U.S. Agriculture Department said Tuesday it accepted a bid from Ronald A Chisholm (U.S.A.) Inc to sell 128 tonnes of nonfat dry milk to Caribbean, Central and South American nations.</p>
+<p>Bonus was $844 per tonne and delivery was set for November 5-December 31.</p>
+<p>Remaining DEIP balance for the region was 49,434 tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

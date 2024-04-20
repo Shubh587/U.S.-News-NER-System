@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72028" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Tuesday Morning Q3 sales increase.</title>
+<headline>Tuesday Morning Q3 sales increase.</headline>
+<dateline>DALLAS 1996-09-24</dateline>
+<text>
+<p>Tuesday Morning Corp said Tuesday morning it posted record sales in the third quarter of $48.5 million compared with $38.2 million in the same period last year.</p>
+<p>Same-store sales increased 18 percent for the quarter and rose 12 percent for the nine months to date, the discount retail chain said.</p>
+<p>Sales for the nine months ended September 22 increased 19 percent, to $138.5 million, compared with $116.2 milion for the same period in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

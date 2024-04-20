@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543579" id="root" date="1997-04-28" xml:lang="en">
+<title>PANAMA: Panama grants asylum to Ecuador's deposed leader.</title>
+<headline>Panama grants asylum to Ecuador's deposed leader.</headline>
+<dateline>PANAMA CITY 1997-04-28</dateline>
+<text>
+<p>Panama has granted political asylum to Ecuador's deposed President Abdala Bucaram, the Foreign Ministry said on Monday.</p>
+<p>&quot;The government of Panama has given political asylum to Bucaram, his wife, children and brother, effective last Thursday,&quot; spokesman Erich Rodriguez said.</p>
+<p>Bucaram was deposed by Ecuador's Congress on Feb. 6 on grounds of &quot;mental incompetence&quot;, after only six months in power, and came to Panama a few days later.</p>
+<p>He had lived in Panama from 1985 to 1990 afer fleeing charges of corruption as mayor of his home city Guayaquil.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

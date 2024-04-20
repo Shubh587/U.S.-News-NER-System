@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444919" id="root" date="1997-03-15" xml:lang="en">
+<title>UK: RUGBY UNION-FIVE NATIONS' CHAMPIONSHIP FINAL STANDINGS.</title>
+<headline>RUGBY UNION-FIVE NATIONS' CHAMPIONSHIP FINAL STANDINGS.</headline>
+<dateline>LONDON 1997-03-15</dateline>
+<text>
+<p>Final standings in the Five</p>
+<p>Nations' championship on Saturday (tabulate under - played, won,</p>
+<p>drawn, lost, points for, against, points):</p>
+<p> France     4    4     0    0   129    77   8</p>
+<p> England    4    3     0    1   141    55   6</p>
+<p> Wales	4    1     0    2    94   106   2</p>
+<p> Scotland   4    1     0    3    90   132   2</p>
+<p> Ireland    4    1     0    3    57   141   2</p>
+<p>Results: Jan 18; Ireland 15 France 32, Scotland 19 Wales 34.</p>
+<p>Feb 1; England 41 Scotland 13, Wales 25 Ireland 26. Feb 15;</p>
+<p>Ireland 6 England 46, France 27 Wales 22. Mar 1; England 20</p>
+<p>France 23, Scotland 38 Ireland 10; Mar 15; Wales 13 England 34,</p>
+<p>France 47 Scotland 20.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

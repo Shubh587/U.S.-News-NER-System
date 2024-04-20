@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170718" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Colorado Republican wins Senate contest--TV.</title>
+<headline>Colorado Republican wins Senate contest--TV.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Republican Wayne Allard won Colorado's Senate seat over Democrat Tom Strickland in one of the most hotly contested of this year's 34 Senate races, the ABC television network reported Tuesday.</p>
+<p>Allard, a veterinarian, bested Strickland, a corporate lawyer. The Colorado seat was one Democrats had hoped to win when Republican Sen. Hank Brown retired this year after one term. The win helped Republicans to hold onto control of the Senate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217440" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Fire forces evacuation of NYC buildings.</title>
+<headline>Fire forces evacuation of NYC buildings.</headline>
+<dateline>NEW YORK 1996-11-26</dateline>
+<text>
+<p>Fire in manholes below the streets of New York City filled several buildings with thick smoke Tuesday and forced the evacuation of more than 100 children from a daycare centre, the Fire Department said.</p>
+<p>There were no reports of injuries. The fire was reported at 10:20 a.m. EST, spewing smoke from manholes below 74th Street and York Avenue on Manhattan's Upper East Side.</p>
+<p>Three commercial buildings were evacuated, including the daycare centre. The children were taken to a nearby church.</p>
+<p>Members of the Fire Department were conducting tests to determine whether the smoke contained hazardous materials, officials said. The cause of the blaze was unknown.</p>
+<p>The fire broke out near a Consolidated Edison generating plant, which also was partly evacuated, a Con Ed spokeswoman said. The fire did not appear to involve the Con Ed plant, she said.</p>
+<p>Traffic was snarled for several blocks around the site of the fire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="758860" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: Ariad buys patent rights from Mitotix.</title>
+<headline>Ariad buys patent rights from Mitotix.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-07-28</dateline>
+<text>
+<p>ARIAD Pharmaceuticals Inc said Monday it acquired a portfolio of pending patent applications and related intellectual property rights to an protein called FRAP from Mitotix Inc.</p>
+<p>ARIAD said it will pay Mitotix, a privately-held company, an undisclosed amount for the FRAP patent portfolio, and has granted back to Mitotix a license for diagnostic applications.</p>
+<p>The transaction does not involve royalties or milestone payments.</p>
+<p>FRAP is the biological target of an orally administered drug called rapamycin.</p>
+<p>Ariad said it is using the rapamycin-dependent interaction between FRAP and another molecule called FKBP for regulating gene expression using orally administered drugs.</p>
+<p>Ariad said it is developing this system as a means of controlling the dose of therapeutic proteins delivered by gene therapy.</p>
+<p>This system is being designed to provide more convenient and potentially more effective protein therapy than current methods, which require frequent injections.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

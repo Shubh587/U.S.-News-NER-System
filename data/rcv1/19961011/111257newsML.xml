@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111257" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Dow surges more than 50 points.</title>
+<headline>Dow surges more than 50 points.</headline>
+<dateline>NEW YORK 1996-10-11</dateline>
+<text>
+<p>The Dow Jones industrial average surged more than 50 points Friday, boosted by a report that September wholesale prices rose only moderately.</p>
+<p>The Dow rose 50.32 points to 5,971.99 shortly after 11 a.m. EDT after the Labor Department said modest increases in food and energy prices helped to restrain the overall rate of inflation at the wholesale level. The rise activated the New York Stock Exchange's limit on program trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

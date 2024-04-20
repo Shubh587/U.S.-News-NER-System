@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228893" id="root" date="1996-12-02" xml:lang="en">
+<title>INDIA: India RBI weekly economic statistics.</title>
+<headline>India RBI weekly economic statistics.</headline>
+<text>
+<p>(Amounts in billion rupees)</p>
+<p>Item				 Amount	 Date</p>
+<p>Ad hoc treasury bills	  369.55	Nov  16</p>
+<p>Bank advances for food	  89.60	Nov   8</p>
+<p>procurement operations</p>
+<p>Foreign currency assets	$19.53 bln  Nov  22</p>
+<p>M3 money supply		6,547.11	Nov   8</p>
+<p>Currency with public	 1,291.91	Nov   8</p>
+<p>Demand deposits with banks   905.47	Nov   8</p>
+<p>Time deposits with banks   4,296.24	Nov   8</p>
+<p>Bank credit (other banks)  3,435.09	Nov   8</p>
+<p>to commercial sector</p>
+<p>Reserve money		  1,899.74	Nov   8</p>
+<p>Net RBI credit to govt     1,251.19	Nov   8</p>
+<p>(of which to centre)</p>
+<p>Net forex assets of RBI	847.85	Nov   8</p>
+<p>Note-Data sourced from Weekly Statistical Supplement issued by the Reserve Bank of India (RBI) on November 30,1996.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

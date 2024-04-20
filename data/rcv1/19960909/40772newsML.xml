@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40772" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: TI to launch digital signal microprocessor.</title>
+<headline>TI to launch digital signal microprocessor.</headline>
+<dateline>NEW YORK 1996-09-09</dateline>
+<text>
+<p>Texas Instruments Inc said Monday it was preparing to launch a digital signal microprocessor that would control the motors in consumer products like dishwashers, washing machines and automobiles.  </p>
+<p>Texas Instrument said it planned to work with applicance and automobile manufacturers to design the microprocessor for the systems in their products in 1997.</p>
+<p>The chip could enter the market in 1998, it added.</p>
+<p>Texas said the microprocessor was designed to do advanced motor control functions like power steering and hydraulics in automobiles.</p>
+<p>It also said the microprocessor eliminated mechanical parts, making it possible for applicances and other products to become smaller, cheaper, quieter and more energy efficient.</p>
+<p>Texas said the microprocessor is already being used in modems, hard-disk drives and cellular phones.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

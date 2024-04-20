@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326768" id="root" date="1997-01-22" xml:lang="en">
+<title>EGYPT: Four killed in family dispute in south Egypt.</title>
+<headline>Four killed in family dispute in south Egypt.</headline>
+<dateline>ASSIUT, Egypt 1997-01-22</dateline>
+<text>
+<p>Four Egyptian farmers were killed and nine wounded in a gunfight between two families over a boundary between fields, security sources said on Wednesday.</p>
+<p>The fighting took place in Minya province south of Cairo on Tuesday between the Shehabiya and Azaziya families.</p>
+<p>Police brought in armoured cars to stop the fighting, arrested 40 people and confiscated some weapons, they said.</p>
+<p>The Shehabiyas lost four men killed and five wounded, while four of the Azaziyas were wounded, they added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASSIUT, Egypt"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

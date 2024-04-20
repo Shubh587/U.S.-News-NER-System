@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17571" id="root" date="1996-08-27" xml:lang="en">
+<title>SPAIN: Spain's June trade deficit 215 bln ptas.</title>
+<headline>Spain's June trade deficit 215 bln ptas.</headline>
+<dateline>MADRID 1996-08-27</dateline>
+<text>
+<p>The customs department of the economy ministry gave the following figures (billions of pesetas):</p>
+<p> TRADE BALANCE	     JUN 96	 MAY 96	 JUN 95</p>
+<p> Exports		    1,100.7	1,164.1	  988.2</p>
+<p> Imports		    1,315.7	1,433.4	1,236.5</p>
+<p> Deficit/surplus	   -215.0	 -269.3	 -248.3</p>
+<p> Deficit yr to date    -1,334.0     -1,119.0     -1,420.9</p>
+<p>NOTE - The figures are customs-cleared data.  </p>
+<p> TRADE BALANCE (EU)	JUN 96	 MAY 96	 JUN 95</p>
+<p> Exports			790.0	  851.0	  721.2</p>
+<p> Imports			879.3	  946.5	  831.6</p>
+<p> Deficit/surplus	    -89.3	 -95.5	 -110.4</p>
+<p> Def/surplus yr to date  -399.0	 -309.7	 -493.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

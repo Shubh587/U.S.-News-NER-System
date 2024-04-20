@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234768" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: MCI largest holder in Pan Am Cable System.</title>
+<headline>MCI largest holder in Pan Am Cable System.</headline>
+<dateline>RYE BROOK, N.Y. 1996-12-04</dateline>
+<text>
+<p>MCI Communications Corp said Wednesday that it is the largest U.S. shareholder of the new Pan American Cable System connecting the United States with Central and South America.  </p>
+<p>The cable will be about 4,354 miles long, and cost about $214 million, MCI said. It will allow MCI to provide broadband switched services and broadband access to such services as the Internet, MCI said.</p>
+<p>MCI said the cable would begin service in mid-1998.</p>
+<p>Other investors in the cable are Telefonica del Peru SA, Telecom Italia, Emetel Ecuador, CANTV of Venezuela, Telecom Colombia and MCII de Venezuela.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RYE BROOK, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

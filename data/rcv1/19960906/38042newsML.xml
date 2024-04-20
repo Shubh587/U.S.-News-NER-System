@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38042" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: U.S. West spot power mostly weaker amid cool-down.</title>
+<headline>U.S. West spot power mostly weaker amid cool-down.</headline>
+<dateline>LOS ANGELES 1996-09-06</dateline>
+<text>
+<p>Spot power prices in the western U.S. were flat to lower Friday, ending a week marked by the start of slower autumn power usage for most of the region.</p>
+<p>&quot;There is not a lot of interest out there,&quot; said one physical power trader.</p>
+<p>&quot;Temperatures are starting to come down.&quot;</p>
+<p>Monday schedulings at the Palo Verde substation in Arizona were seen at $21.00 per megawatt hour (MWh), down from $25.00 for next-day schedulings on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

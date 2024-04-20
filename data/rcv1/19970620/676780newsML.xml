@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="676780" id="root" date="1997-06-20" xml:lang="en">
+<title>UK: UK delivered grain trades - June 20.</title>
+<headline>UK delivered grain trades - June 20.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1440 gmt, in Sterling a tonne.</p>
+<p>Feed wheat to Norfolk/Suffolk Oct/Dec 90.00/89.50.</p>
+<p>Southampton Jun 82.00 Jul 82.50 asa 83.50 Sep 85.50.</p>
+<p>West Norfolk Jul 83.50/83.00 Jan/Jun 94.00.</p>
+<p>Suffolk Jan/Jun 94.50/94.00.</p>
+<p>Cambridge Jan/Jun 93.50.</p>
+<p>Nottinghamshire/Lincolnshire Oct/Dec 88.00 Jan/Mar 91.00.</p>
+<p>Hampshire Jun 82.50/82.00 Jul 83.50/83.00.</p>
+<p>Bedfordshire, Buckinghamshire, Northamptonshire and Oxfordshire Jul 81.00.</p>
+<p>Herefordshire Jun 81.00.</p>
+<p>Feed barley Southampton asa 80.50.</p>
+<p>There was no fresh milling wheat trade reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

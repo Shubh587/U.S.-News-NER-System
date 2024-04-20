@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302352" id="root" date="1997-01-13" xml:lang="en">
+<title>UK: British forces unhurt in Northern Irish incident.</title>
+<headline>British forces unhurt in Northern Irish incident.</headline>
+<dateline>BELFAST 1997-01-13</dateline>
+<text>
+<p>British forces escaped injury in a suspected mortar attack by IRA guerrillas on a vehicle patrol in the Northern Ireland capital Belfast on Monday, security sources said.</p>
+<p>Police said they were investigating an explosion in a stronghold of the pro-Irish Roman Catholic community in the west of the city as British armoured vehicles were on patrol. No one was hurt and security vehicles were not hit.</p>
+<p>Security has been tightened across Northern Ireland after an upsurge in IRA (Irish Republican Army) activity which provoked two retaliatory attacks by pro-British Loyalist extremists.</p>
+<p>The IRA, fighting to unite the province with the Irish republic, abandoned a 17-month truce in February last year and set off a string of bombs in London.</p>
+<p>It extended the campaign to Northern Ireland last October, killing a soldier in a double carbomb attack at British Army headquarters at Lisburn, 10 miles (15 km) south of Belfast.</p>
+<p>Britain says the IRA must declare a new ceasefire before its political wing Sinn Fein can secure a seat in the current multi-party talks on the divided province's future.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

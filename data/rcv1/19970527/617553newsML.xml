@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617553" id="root" date="1997-05-27" xml:lang="en">
+<title>UK: LME aluminium holds above $1,650 in ring.</title>
+<headline>LME aluminium holds above $1,650 in ring.</headline>
+<text>
+<p>ALUMINIUM - Firmer, holds above $1,650. Cash/threes comes around to $8 contango from $12/$10 on Friday.</p>
+<p>COPPER - Slightly easier, hovering above $2,500 in thin activity. Cash/threes backwardation slightly narrower at $75/$77.</p>
+<p>NICKEL - Softer, mired at lows just around $7,440.</p>
+<p>OTHERS - Little changed, quiet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

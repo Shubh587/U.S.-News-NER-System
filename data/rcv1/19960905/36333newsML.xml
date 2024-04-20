@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36333" id="root" date="1996-09-05" xml:lang="en">
+<title>GERMANY: East German August adjusted unemployment falls.</title>
+<headline>East German August adjusted unemployment falls.</headline>
+<dateline>NUREMBERG, Germany 1996-09-05</dateline>
+<text>
+<p>The Federal Labour Office reported the following economic indicator:</p>
+<p> E.GERMAN UNEMPLOYMENT   Aug 96	 Jul 96	   Aug 95</p>
+<p> Number (unadj)	    1.123 million    1.147 million	1.035</p>
+<p> Number (adj)		1.133 million    1.145 million	1.033</p>
+<p> Change (adj)	     -12,000	-10,000	   n/a</p>
+<p> Rate (unadj)		15.0 pct     15.4 pct	 13.9 pct</p>
+<p> Short-time workers	47,501	 45,633	   55,713</p>
+<p> Vacancies		   57,524	 57,253	   53,688</p>
+<p> Change in number in wrk Jun 96	 May 96</p>
+<p>				 +4,000	+12,000</p>
+<p>NOTE - Previously announced data in brackets. Numbers in work data refer to change from previous month. Details on numbers in work to be released later today.</p>
+<p>--Bonn newsroom, 49-228-609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NUREMBERG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

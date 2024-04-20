@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777951" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: FDA okays Bristol-Myers Squibb's TAXOL.</title>
+<headline>FDA okays Bristol-Myers Squibb's TAXOL.</headline>
+<dateline>PRINCETON, N.J. 1997-08-05</dateline>
+<text>
+<p>Bristol-Myers Squibb Co said Tuesday that the U.S. Food and Drug Administration has cleared TAXOL (paclitaxel) Injection for use in second-line treatment of AIDS- related Kaposi's sarcoma.</p>
+<p>In clinical studies, a majority of patients treated with TAXOL, all of whom had failed prior therapy, benefited from treatment with TAXOL, said the company.</p>
+<p>Current estimates are that 202,000 people in the U.S. are living with AIDS, with about 20 percent, or 40,000 of them, affected by KS at some time during their illness, according to the Centers for Disease Control and Prevention.</p>
+<p>The company said it applied for, and the FDA granted, orphan drug status for paclitaxel for this indication.</p>
+<p>It also said it is currently developing two new protease inhibitors for the treatment of HIV/AIDS.</p>
+<p>Bristol-Myers Squibb is a diversified company whose principal businesses are pharmaceuticals, consumer products, nutritionals, and medical devices.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

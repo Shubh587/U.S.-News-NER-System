@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138181" id="root" date="1996-10-23" xml:lang="en">
+<title>SWITZERLAND: Swiss police disperse angry farmers.</title>
+<headline>Swiss police disperse angry farmers.</headline>
+<dateline>BERNE, Switzerland 1996-10-23</dateline>
+<text>
+<p>Police used teargas and water cannon on Wednesday to disperse thousands of angry Swiss farmers protesting against plans to cut agriculture subsidies to offset a programme against mad cow disease.</p>
+<p>The police moved in after demonstrators threw apples, wine bottles and firecrackers at Swiss federal parliament buildings in Berne and drove tractors around the capital.</p>
+<p>A police spokesman said the crowd, estimated at 10,000, tried to storm government buildings.</p>
+<p>Farmers are adamantly opposed to paying for a planned restructuring of the domestic meat market.</p>
+<p>In a bid to wipe out mad cow disease, the cabinet has proposed the slaughter of 230,000 of the nation's 1.7 million cattle in the next three years at a cost of 320 million Swiss franc ($256 million).</p>
+<p>But the programme against the disease, Bovine Spongiform Encephalopathy (BSE), could also help to raise beef prices.</p>
+<p>The cost of the programme would partly offset by cuts in milk subsidies.</p>
+<p>Farmers estimate the plans would cost dairy farmers two centimes (1.6 cents) per litre of milk.</p>
+<p>Switzerland, with 225 cases of BSE so far reported, is second only to Britain in the number of infected cattle.</p>
+<p>Scientists have found evidence that BSE can be transmitted to humans. Some countries have banned imports of beef from Switzerland and the Swiss themselves are eating less beef. ($1 = 1.2520 Swiss francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

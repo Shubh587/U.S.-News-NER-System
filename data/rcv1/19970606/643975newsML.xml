@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="643975" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: CUSIPS -- State of Ohio.</title>
+<headline>CUSIPS -- State of Ohio.</headline>
+<text>
+<p>STATE OF OHIO</p>
+<p>RE: $35,000,000</p>
+<p>Education Loan Revenue Bonds, Series 1997A</p>
+<p>(Supplemental Student Loan Program)</p>
+<p>Series 1997A-1 (Fixed Rate Bonds)</p>
+<p>This issue is book entry through DTC.</p>
+<p>     Award:		  06/06/1997</p>
+<p>     Delivery:	     06/10/1997 (Firm)</p>
+<p>     Initial trade:	06/06/1997</p>
+<p>Date of Execution:  06/06/1997</p>
+<p>Time of Execution:  10:00AM Eastern</p>
+<p>	     MATURITY			     CUSIP</p>
+<p>	     --------			     -----</p>
+<p>	    12/01/2009			  67755RAJ5</p>
+<p>	    12/01/2010			  67755RAK2</p>
+<p>	    12/01/2011			  67755RAL0</p>
+<p>	    12/01/2019			  67755RAM8</p>
+<p>PaineWebber Incorporated</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

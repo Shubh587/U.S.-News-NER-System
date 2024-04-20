@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="737188" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: Phil. Fed business activity index 28.1 in July.</title>
+<headline>Phil. Fed business activity index 28.1 in July.</headline>
+<dateline>NEW YORK 1997-07-17</dateline>
+<text>
+<p>The Federal Reserve Bank of Philadelphia on Thursday said its index of business activity in the manufacturing sector rose to 28.1 in July from 25.2 in June.</p>
+<p>			     July   Drop   Unch   Rise    June</p>
+<p>Business Conditions    28.1   12.6   46.7   40.7    25.2</p>
+<p>New orders		 29.3   16.9   36.8   46.3    24.8</p>
+<p>Shipments		  30.4   16.1   37.3   46.5    12.4</p>
+<p>Unfilled orders	   9.2   18.2   54.4   27.4     6.3</p>
+<p>Delivery time	   - 3.2   13.8   75.5   10.7     4.6</p>
+<p>Inventories	     - 7.7   26.8   54.1   19.1   - 4.6</p>
+<p>Prices paid		19.6    1.2   77.9   20.9    15.0</p>
+<p>Prices received	   4.8    4.6   85.9    9.4     3.1</p>
+<p>Number of employees     7.7   11.4   69.4   19.2    12.7</p>
+<p>(( -- N.A. Treasury Desk, 212-869-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

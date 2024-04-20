@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76629" id="root" date="1996-09-25" xml:lang="en">
+<title>NETHERLANDS: Dutch closing share market report.</title>
+<headline>Dutch closing share market report.</headline>
+<dateline>AMSTERDAM 1996-09-25</dateline>
+<text>
+<p>Dutch shares closed back from mid-afternoon highs, but posted sharp gains after the U.S. Federal Reserve's decision not to raise interest rates.</p>
+<p>Certain stocks also provided extra impetus for the Dutch market, notably chemicals company Akzo Nobel, electronics giant Philips, the financials and brewer Heineken.</p>
+<p>The AEX index ended up 6.64 points at 570.61.</p>
+<p>Individually, Akzo Nobel was one of the market leaders, gaining 5.20 guilders to 204.10. The company announced that its Oganon Teknika unit had signed an agreement with China's Health Ministry to work closely on health technology research.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

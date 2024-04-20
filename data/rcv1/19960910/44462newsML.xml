@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44462" id="root" date="1996-09-10" xml:lang="en">
+<title>UK: Advan sets $100 million 4-year bond with warrants.</title>
+<headline>Advan sets $100 million 4-year bond with warrants.</headline>
+<dateline>LONDON 1996-09-10</dateline>
+<text>
+<p>The following equity-linked issue was announced by lead manager Nomura International.</p>
+<p> BORROWER   ADVAN CO LTD</p>
+<p>GUARANTOR  LONG TERM CREDIT BANK OF JAPAN</p>
+<p> AMT    $100 MLN	COUPON     3.50	MATURITY    03.OCT.00</p>
+<p> TYPE     WARRANTS    ISS PRICE  100.0     PAY DATE    03.OCT.96</p>
+<p> FULL FEES  2.25	IND PREM   =</p>
+<p> LISTING    LUX	 DENOMS (K) 10*	 SALE LIMITS =</p>
+<p> NEG PLG    NO	  CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   =</p>
+<p> MGT/UND    0.75	SELL CONC  1.50     PRAECIPUUM  =</p>
+<p> NOTES	*PLUS 2 WARRANTS</p>
+<p>		EXERCISE PERIOD   - 17.OCT.96-20.SEP.00</p>
+<p>-- LONDON NEWSROOM +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

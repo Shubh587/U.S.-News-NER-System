@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="355290" id="root" date="1997-02-04" xml:lang="en">
+<title>SWEDEN: Volvo Car '96 invoices by model, market.</title>
+<headline>Volvo Car '96 invoices by model, market.</headline>
+<dateline>STOCKHOLM 1997-02-04</dateline>
+<text>
+<p>Swedish vehicle maker AB Volvo on Tuesday released the following data about its 1996 car sales and production.</p>
+<p> INVOICED CARS BY MODEL    1996     1995     Change in pct</p>
+<p> Volvo 960		    34,000   42,100     -19</p>
+<p> Volvo 940		    38,600   64,500     -40</p>
+<p> Volvo 850		   196,600  186,900	 5.2</p>
+<p> Volvo S40/V40		65,300     -	    -</p>
+<p> Volvo 400		    33,800   81,100     -58</p>
+<p> Total			 368,300  374,600     -1.7</p>
+<p>INVOICED CARS BY MARKET</p>
+<p> Europe			216,100   219,800    -1.7</p>
+<p> North America		93,900    97,700    -3.9</p>
+<p> Other markets		58,300    57,100     2.1</p>
+<p> Total			 368,300   374,600    -1.7</p>
+<p>-- Abigail Schmelz, Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

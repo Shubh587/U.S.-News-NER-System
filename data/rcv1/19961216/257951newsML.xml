@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257951" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Dow falls 50 points, NYSE sets curbs again.</title>
+<headline>Dow falls 50 points, NYSE sets curbs again.</headline>
+<dateline>NEW YORK 1996-12-16</dateline>
+<text>
+<p>Wall Street stocks tumbled in the final moments of trading, as a late sell program helped pull the Dow industrials sharply lower.</p>
+<p>The Dow fell 51 to 6254, triggering index-arbitrage trading curbs on the New York Stock Exchange for the second time. Earlier, curbs were imposed when the Dow rose 50 points.</p>
+<p>Birinyi Associates, which tracks program trading activity, said a sell program was currently underway on the NYSE. The firm could not calculate the impact of the program.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260019" id="root" date="1996-12-16" xml:lang="en">
+<title>ITALY: Italian October industrial output rises 0.2 pct.</title>
+<headline>Italian October industrial output rises 0.2 pct.</headline>
+<dateline>ROME 1996-12-16</dateline>
+<text>
+<p>National Statistics Institute ISTAT gave the following provisional figures for industrial</p>
+<p>production, year-on-year, in October.</p>
+<p> INDUSTRIAL PRODUCTION	     Oct 96   Sept 96   Oct 95</p>
+<p> Production index (unadjusted)    118.0   110.7    117.8</p>
+<p> Yr/yr pct change (unadjusted)    +0.2    -3.0     +7.9</p>
+<p> Mnth/mnth pct change (adjusted)  -0.9    +0.4     -0.8</p>
+<p> Working days in month		 23	21	 22</p>
+<p>Note: (The industrial production index was rebased in January 1994 on 1990 levels, replacing a 1985-based index.)</p>
+<p>ISTAT said that taking into account the extra working day in October 1996, industrial production had dropped 3.4 percent year on year in unadjusted terms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

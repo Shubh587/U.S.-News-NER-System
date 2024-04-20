@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403278" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Chrysler Corp sells $600 mln in debentures.</title>
+<headline>Chrysler Corp sells $600 mln in debentures.</headline>
+<dateline>NEW YORK 1997-02-26</dateline>
+<text>
+<p>The following issue from Chrysler Corp was priced on Wednesday via lead manager Salomon Brothers, according to market sources.</p>
+<p>BORROWER CHRYSLER CORP</p>
+<p>AMT $600 MLN	 COUPON 7.45 PCT   MATURITY 3/1/2027</p>
+<p>TYPE DEBENTURES    ISS PRICE 99.514  FIRST PAY DATE 9/1/1997</p>
+<p>LAST MOODY'S A3    YIELD 7.491 PCT   PAY FREQ  SEMI-ANNUAL</p>
+<p>LAST S&amp;P A-MINUS   SPREAD 69 BPS     MAKE-WHOLE-CALL AT 18</p>
+<p>							 BASIS POINTS</p>
+<p>((U.S. corporate bond unit, 212 859-1678))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

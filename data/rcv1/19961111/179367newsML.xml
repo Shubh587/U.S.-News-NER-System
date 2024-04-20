@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179367" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Cygnus sees delay in GlucoWatch.</title>
+<headline>Cygnus sees delay in GlucoWatch.</headline>
+<dateline>REDWOOD CITY, Calif. 1996-11-11</dateline>
+<text>
+<p>Cygnus Inc said the latest prototype of its GlucoWatch monitoring device will be delayed because of a change in its application specific integrated circuit (ASIC) component.</p>
+<p>It said the ASIC serves as the brains of GlucoWatch by issuing operating instructions for sample collection, measurement and storage of data.</p>
+<p>It said it expects to receive the new shipment of prototype GlucoWatches with the modified ASIC by early 1997, but added &quot;actual timing will depend on the supplier's ability to complete the task swiftly.&quot;  </p>
+<p>The prototypes are being targeted for use in advanced development activities.</p>
+<p>&quot;The good news is this problem is not difficult to resolve; however, it is a time consuming process which will delay the start of our planned development efforts and clinical testing activities,&quot; said Gregory Lawless, Cygnus president and chief executive officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

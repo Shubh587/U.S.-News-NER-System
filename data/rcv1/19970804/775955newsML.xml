@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775955" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: TABLE-Volkswagen July US car sales fall.</title>
+<headline>TABLE-Volkswagen July US car sales fall.</headline>
+<dateline>DETROIT 1997-08-04</dateline>
+<text>
+<p>Volkswagen AG</p>
+<p>			Jul 1-31, 1997     Jul 1-31, 1996 *Pct Chng</p>
+<p> Domestic Car		   0		   0	     N.A.</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		11,138	    13,141	    -15.2</p>
+<p> Import Truck		 163		  63	   +158.7</p>
+<p>		  Jan 1-Jul 31, 1997 Jan 1-Jul 31, 1996 *Pct Chng</p>
+<p> Domestic Car		   0		   0	     N.A.</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		79,511	    78,474	     +1.9</p>
+<p> Import Truck	     1,084		 611	    +78.4</p>
+<p>* Pct change based on daily selling rate. Sale days 26 in latest month vs 26, 179 for year to date vs 180 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

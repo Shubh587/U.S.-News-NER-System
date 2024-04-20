@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96533" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: CBOT estimated futures/options volume - Oct 4.</title>
+<headline>CBOT estimated futures/options volume - Oct 4.</headline>
+<text>
+<p>Futures	Options</p>
+<p> Wheat	17,000	  8,000</p>
+<p> Corn	 60,000	 24,000</p>
+<p> Oats	  1,200	    100</p>
+<p> Soybeans   70,000	 32,000</p>
+<p> Soymeal    29,000	  1,600</p>
+<p> Soyoil     24,000	    600</p>
+<p> Rice	    400	    150</p>
+<p> T-Bonds   500,000	250,000</p>
+<p> 10yrTNote 123,456	 35,000   Note: volume in</p>
+<p> 5yrTNote   59,500	 10,000   contracts.</p>
+<p>Source: Chicago Board of Trade</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

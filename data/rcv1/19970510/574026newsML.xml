@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574026" id="root" date="1997-05-10" xml:lang="en">
+<title>USA: NBA BASKETBALL-FRIDAY'S SECOND-ROUND PLAYOFF RESULTS.</title>
+<headline>NBA BASKETBALL-FRIDAY'S SECOND-ROUND PLAYOFF RESULTS.</headline>
+<dateline>NEW YORK 1997-05-09</dateline>
+<text>
+<p>Results of second-round</p>
+<p>National Basketball Association playoff games on Friday (home</p>
+<p>team in CAPS):</p>
+<p>Eastern Conference semifinals</p>
+<p> MIAMI		88  New York	     84</p>
+<p>(Best-of-seven series tied 1-1)</p>
+<p>Western Conference semifinals</p>
+<p> Houston	    at  SEATTLE		 </p>
+<p>(Best-of-seven series tied 1-1)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

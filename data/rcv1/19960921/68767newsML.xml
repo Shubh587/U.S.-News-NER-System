@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68767" id="root" date="1996-09-21" xml:lang="en">
+<title>CHINA: BASF starts production at Shanghai plant.</title>
+<headline>BASF starts production at Shanghai plant.</headline>
+<dateline>SHANGHAI 1996-09-20</dateline>
+<text>
+<p>Production has begun at a major dye chemicals joint venture of BASF AG in Shanghai, the Xinhua news agency reported on Saturday.</p>
+<p>Shanghai BASF Dye Chemicals Co Ltd involves total investment of 1.64 billion yuan and will be able to produce 9,000 tonnes of chemical dyes and 6,700 tons of additives a year, it said.</p>
+<p>BASF holds 75 percent of the shares in the venture, with the balance held by the Shanghai Dye Company, it said.</p>
+<p>The venture will use technology and equipment from BASF to make it the most advanced dye and additive producer in China, with products up to international standards, it said but gave no more details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

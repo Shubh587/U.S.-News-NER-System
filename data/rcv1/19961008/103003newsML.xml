@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103003" id="root" date="1996-10-08" xml:lang="en">
+<title>GERMANY: Germans allow aide of ex-Afghan president to stay.</title>
+<headline>Germans allow aide of ex-Afghan president to stay.</headline>
+<dateline>MUNICH, Germany 1996-10-08</dateline>
+<text>
+<p>An associate of former Afghan president Najibullah was granted political asylum by Germany on Tuesday after a Bavarian court ruled the man's life would be in danger if he were deported.</p>
+<p>The court had originally rejected the unidentified man's petition for asylum. But the administrative court in Munich overturned its initial ruling after hearing expert testimony on the conditions in Afghanistan.</p>
+<p>The court said that the man, who a court spokesman said was not a member of Najibullah's cabinet, was indeed endangered because of his political views and, if deported, could become the victim of a political attack.</p>
+<p>Former president Najibullah, who took refuge in a United Nations office in Kabul after being deposed in 1992, was hanged by the Taleban militia after they seized the Afghan capital last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

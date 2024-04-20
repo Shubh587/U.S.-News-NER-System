@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="735183" id="root" date="1997-07-17" xml:lang="en">
+<title>UK: CONSUMERS' STOCKS OF GREEN COFFEE.</title>
+<headline>CONSUMERS' STOCKS OF GREEN COFFEE.</headline>
+<text>
+<p>('000 bags; Change on year earlier)</p>
+<p>	     FEB    MAR	  APR  MAY     Change</p>
+<p>EUROPE</p>
+<p>Antwerp     564   678	  799 1,063     425</p>
+<p>Rotterdam   520   546	  584   617     249</p>
+<p>Bremen	620   770	  995 1,115     315</p>
+<p>Hamburg     580   770	1,045 1,185     375</p>
+<p>Le Harve    283   317	  368   442     188</p>
+<p>Trieste     661   699	  715   853     -82</p>
+<p>Other reported</p>
+<p>	    2,266 2,165	2,295   2,301   280</p>
+<p>Certified   221   286	  299	51  -176</p>
+<p>Non Certified</p>
+<p>	    5,279 5,614	6,501   7,549  1,950</p>
+<p>Sub-Total 5,500 5,900	6,800   7,600  1,800</p>
+<p>U.S.</p>
+<p>Exchange    17     84	   42	48    -55</p>
+<p>Non Exchange</p>
+<p>	    1 529  1 573	1 813   1 929   -239</p>
+<p>Sub-Total 1,546  1,657	1,855   1,977   -294</p>
+<p>Japan     1,122  1,145	1,149   1,240    319</p>
+<p>Other	 100    100	  100     100	0</p>
+<p>TOTAL     8,300  8,800	9,900  10,900  1,800</p>
+<p>Note: US stocks reported in bags of origin weight; all other stocks in 60 kg bags. Numbers may not sum because of rounding -- Jalil Hamid, London newsroom +44 171 542 4985</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

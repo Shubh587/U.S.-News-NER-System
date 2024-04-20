@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="540475" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: Banco Wiese Q1 net rises.</title>
+<headline>Banco Wiese Q1 net rises.</headline>
+<dateline>NEW YORK 1997-04-24</dateline>
+<text>
+<p>1997			1996</p>
+<p> ADS			  $0.18		    $0.16</p>
+<p> Shr			   0.12		     0.10</p>
+<p> Net			 28,564		   21,649</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Company has 251,867,497 shares outstanding.</p>
+<p>Share and net figure in Peruvian soles. Per ADS figure is in dollars. $1.00 = 2.64 nuevos soles, as of March 31, 1997.</p>
+<p>Net income per ADS is equal to Net income per share multiplied by four.</p>
+<p>Net interest income: 93.9 million nuevo soles vs 75.3 million nuevos soles.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

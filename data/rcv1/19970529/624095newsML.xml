@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624095" id="root" date="1997-05-29" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS - WSC - 28-MAY.</title>
+<headline>EMERGENCY WEATHER CONDITIONS - WSC - 28-MAY.</headline>
+<text>
+<p>Tropical storm Levi is located well south of Okinawa in the latest report but it is moving towards the north-northeast. It is expected to have winds up to 50 mph as it tracks just southeast of Okinawa during the next 24-36 hours. The island can expect locally heavy rainshowers, gusty winds and strong seas during the period. This could lead to beach errosion during this period.  </p>
+<p>Tropical depression 6w will mostly threaten shipping during the next 48-72 hours. It tracks from near 14n/158e to 24n/156e during the period. Top winds increase from 30 mph to 55 mph during the next 48 hours.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

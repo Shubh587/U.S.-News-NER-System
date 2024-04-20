@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523817" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: AT&amp;T Corp Q1 earnings summary.</title>
+<headline>AT&amp;T Corp Q1 earnings summary.</headline>
+<dateline>NEW YORK 1997-04-21</dateline>
+<text>
+<p>1997		     1996</p>
+<p> Shr			  $0.69		    $0.85</p>
+<p> Net		    1,126,000		1,362,000</p>
+<p> Revs		  13,048,000	     12,850,000</p>
+<p> Avg shrs	     1,628,000		1,608,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: For quarters ended March 31.</p>
+<p>The 1996 Q1 net includes a charge of $107 million, or $0.07 a share, from discontinued operations. Operating earnings without this charge were $0.92 a share.</p>
+<p>First Call Q1 1997 estimate was $0.69.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

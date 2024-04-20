@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27046" id="root" date="1996-09-02" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Sept 2.</title>
+<headline>Direct bond trades on the Czech PSE - Sept 2.</headline>
+<dateline>PRAGUE 1996-09-02</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> CEZ 11,0625/08	     94.80     94.80	1000    9688.960</p>
+<p> CEZ 11,3/05		  95.70     95.95     10000   98676.602</p>
+<p> CEZ 14 3/8 /01	    103.03    104.37	1079   12066.482</p>
+<p> CSOB 11,00/00		96.87     96.87	 135    1340.744</p>
+<p> CSOB 11,125/97	     98.89     98.99	2000   39683.240</p>
+<p> KB 11,1/98		  100.24    100.24	  44     450.292</p>
+<p> ST.DLUHOP. 8,7/00	  96.39     96.39	2400   24242.833</p>
+<p> ST.DLUHOP.9,4/97	   97.35     97.40	5000   52436.475</p>
+<p> ST.DLUHOP.9,45/01	  92.75     92.75	1000    9794.750</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

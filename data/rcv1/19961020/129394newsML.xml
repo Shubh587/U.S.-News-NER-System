@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129394" id="root" date="1996-10-20" xml:lang="en">
+<title>BANGLADESH: Three die in Bangladesh as bus rolls into river.</title>
+<headline>Three die in Bangladesh as bus rolls into river.</headline>
+<dateline>DHAKA 1996-10-20</dateline>
+<text>
+<p>At least three people were killed and 10 others injured on Sunday when a bus rolled into the river at Aricha ferry terminal, 100 km (60 miles) northwest of Dhaka, officials said.</p>
+<p>The accident occurred as the bus, carrying 40 passengers, was trying to give way to an incoming bus while disembarking at the terminal.</p>
+<p>The bus was only partially submerged but three people suffocated and 10 others were hurt as they tried to get out.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235868" id="root" date="1996-12-04" xml:lang="en">
+<title>GERMANY: German Econ Ministry details pan-German Q3 GDP.</title>
+<headline>German Econ Ministry details pan-German Q3 GDP.</headline>
+<dateline>BONN 1996-12-04</dateline>
+<text>
+<p>The Economics Ministry gave the following qtr/qtr details for Q3 pan-German GDP. The Federal Statistics Office had earlier given the year/year figures:</p>
+<p>PAN-GERMANY:		 Q3 96	 Q2 96</p>
+<p> Private consumption     +1.0	  +1.0(+1.5)</p>
+<p> Public consumption	+1.0	  +0.5(+1.0)</p>
+<p> Capital investment	unch	  +1.5(unch)</p>
+<p> Construction		+1.0	 +10.0(+10.5)</p>
+<p> Inventories		 -0.5	  -1.0(-1.5)</p>
+<p> Exports		     +3.5	  unch(+1.0)</p>
+<p> Imports		     +0.5	  unch(-1.5)</p>
+<p>NOTE - Quarter-on-quarter figures are adjusted for inflation (1991 prices) and for seasonal and calendar factors. They are rounded to the nearest half pct point. The inventory figures show the amount of GDP accounted for by stock changes, not the change in stocks from the previous quarter. Previously announced data in brackets.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

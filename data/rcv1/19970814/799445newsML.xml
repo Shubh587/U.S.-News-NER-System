@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799445" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE - Federal Reserve money supply report-Aug 14.</title>
+<headline>TABLE - Federal Reserve money supply report-Aug 14.</headline>
+<text>
+<p>One week ended August 4 (billions dollars)</p>
+<p>	 Latest   Change     Prev week  Rvsd from</p>
+<p>M-1...1,071.3.up....9.4 vs 1,061.9......1,061.8</p>
+<p>M-2...3,945.8 up....8.5 vs 3,937.3......3,936.1</p>
+<p>M-3...5,153.8 up....8.6 vs 5,145.2......5,143.5</p>
+<p>M2 Avg 4 wks (Vs Wk Ago)...3,935.5..vs..3,933.3</p>
+<p>Monthly aggregates (Adjusted avgs in billions)</p>
+<p>M-1 (July vs June).........1,062.1..vs..1,063.2</p>
+<p>M-2 (July vs June).........3,934.2..vs..3,919.8</p>
+<p>M-3 (July vs June).........5,141.4..vs..5,095.9</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

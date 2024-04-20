@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124138" id="root" date="1996-10-17" xml:lang="en">
+<title>FRANCE: EU grants free-market, intervention grains.</title>
+<headline>EU grants free-market, intervention grains.</headline>
+<dateline>PARIS 1996-10-17</dateline>
+<text>
+<p>The European Union on Thursday granted the following exports of free market and intervention grains, traders said.</p>
+<p>			   Tonnage	   Maximum refund (Ecus/tonne)</p>
+<p>MAIN TENDER</p>
+<p>    Soft wheat	 332,500		 6.90</p>
+<p>    Barley		63,500		31.00</p>
+<p>    Rye		    5,150		30.09</p>
+<p>    Oats		  22,000		30.59</p>
+<p>TENDER FOR EXPORT TO ACP COUNTRIES</p>
+<p>    Soft wheat	  21,000		12.00</p>
+<p>INTERVENTION TENDER</p>
+<p>			   TONNAGE	   MINIMUM PRICE (Ecus/tonne)</p>
+<p>    German barley     24,776	     104.53 Ecus minimum price</p>
+<p>    German rye	  25,392	     100.52 Ecus minimum price</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

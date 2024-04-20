@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87066" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: US spot prods gain in ACCESS following API data.</title>
+<headline>US spot prods gain in ACCESS following API data.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>U.S. spot products prices moved moderately higher in after-hours ACCESS trading Tuesday, players said, following API weekly data showing a surprising draw on distillates at a time of worrisomely low stocks.</p>
+<p>The API said total U.S. distillate stocks fell last week by 17,000 barrels to 112.3 million, 18.7 million below last year, amid views stocks would grow by one to two million.</p>
+<p>While heating oil stocks on the East Coast, the largest heating oil market in the world, did rise by a slight 226,000 barrels to 23.7 million, sources said the build was too small to make a difference.</p>
+<p>Although U.S. gasoline stocks grew by a seemingly bearish 2.3 million barrels, according to the API data, November futures prices jumped about a half cent on ACCESS late Tuesday.</p>
+<p>Conoco momentarily grabbed the market spotlight earlier Tuesday by confirming that a fire had broken out at its 180,000 barrel per day plant late Monday afternoon and that three employees were injured. But it said the incident had &quot;no output impact.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

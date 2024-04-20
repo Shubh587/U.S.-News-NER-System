@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575092" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Kentucky Electric Steel restarts melt shop.</title>
+<headline>Kentucky Electric Steel restarts melt shop.</headline>
+<dateline>ASHLAND, Ky. 1997-05-12</dateline>
+<text>
+<p>Kentucky Electric Steel Inc said Monday that it has restarted its melt shop operations this week after being shut down for twelve days, but that while productivity has been negatively impacted, it expects no material impact on its financial position or results of operations.</p>
+<p>The shutdown, said the company, occurred when monitors detected a radioactive substance in baghouse dust, a by-product of the melting process.</p>
+<p>Kentucky Electric added, however, that since the shutdown may affect future orders, the impact on earnings is still being assessed. It said it is working with its insurance carrier to document and process its claim for the cost of the clean-up and disposal of the contaminated baghouse dust and the amount of recovery for business interruption.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASHLAND, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

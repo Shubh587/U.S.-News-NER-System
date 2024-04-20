@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="791017" id="root" date="1997-08-11" xml:lang="en">
+<title>UKRAINE: Newspaper editor shot dead in Ukraine.</title>
+<headline>Newspaper editor shot dead in Ukraine.</headline>
+<dateline>ODESSA, Ukraine 1997-08-11</dateline>
+<text>
+<p>A Ukrainian newspaper editor was shot dead in the Black Sea port of Odessa in an apparent contract killing, regional prosecutor said on Monday.</p>
+<p>Vasily Ivanov, chief regional prosecutor, told Reuters that Borys Derevyanko, editor-in-chief of the Vechernyaya Odessa daily, was killed on Monday morning near the newspaper's office.</p>
+<p>&quot;Derevyanko died instantly after being shot twice with a pistol on his way to work,&quot; Ivanov said. &quot;We suppose that it is a contract killing because no shells were found at the site. There were no witnesses.&quot;</p>
+<p>He gave no possible reasons for the attack and added that an official investigation had been launched.</p>
+<p>Vechernyaya Odessa is the most influential newspaper in the city of one million and has the biggest circulation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ODESSA, Ukraine"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

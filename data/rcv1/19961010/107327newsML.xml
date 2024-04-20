@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107327" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Silicon Graphics gets $110.5 mln DOE award.</title>
+<headline>Silicon Graphics gets $110.5 mln DOE award.</headline>
+<dateline>WASHINGTON 1996-10-10</dateline>
+<text>
+<p>The U.S. Energy Department said on Thursday that it awarded Cray Research, a subsidiary of Silicon Graphics Inc, a $110.5 million contract to provide a supercomputer for the Los Alamos National Laboratory.</p>
+<p>The multi-year collaboration with Los Alamos is part of the nation's program to develop a reliable substitute for underground nuclear testing.</p>
+<p>The final Cray Research-Silicon Graphics system is to provide an aggregate peak performance of more than three teraflops, or three trillion calculations per second.  </p>
+<p>A second system providing an additional teraflop of computing power will be added at the Los Alamos Advanced Computing Laboratory. When integrated, the department said the systems will have combined peak performance of more than four teraflops, making it the fastest system in the world.</p>
+<p>The system is part of the department's $1 billion Accelerated Strategic Computing Initiative to maintain the nuclear stockpile without underground nuclear testing.</p>
+<p>The Cray Research-Silicon Graphics contract requires an initial delivery system with 256 processors to be installed at Los Alamos by December 1996 and the final system with 3,072 processors, by December 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

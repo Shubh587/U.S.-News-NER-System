@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366823" id="root" date="1997-02-10" xml:lang="en">
+<title>EL SALVADOR: El Salvador sugar crop seen up 40,000 T to 350,000.</title>
+<headline>El Salvador sugar crop seen up 40,000 T to 350,000.</headline>
+<dateline>SAN SALVADOR 1997-02-10</dateline>
+<text>
+<p>El Salvador's 1996-1997 sugar harvest is expected to produce 40,000 tonnes more than the 310,000-tonne output in 1995-1996, reaching a total of 350,000 tonnes, the National Sugar Association said Monday.</p>
+<p>Mario Salaverria, the manager of the association, said the favorable outlook came in spite of recent losses incurred because of fire damage in cane fields.</p>
+<p>Salaverria said the association had asked for army and police protection for crops which have been the target of random vandalism and accidents.</p>
+<p>((--Alberto Barrera, San Salvador bureau +503 223-4746))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

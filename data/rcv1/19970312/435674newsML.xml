@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435674" id="root" date="1997-03-12" xml:lang="en">
+<title>UK: Lnd precious metals end mixed, palladium leads.</title>
+<headline>Lnd precious metals end mixed, palladium leads.</headline>
+<text>
+<p>PALLADIUM- Closed at $155.50/$156.50, down $2.00 but above low hit on unconfirmed report suggested Russia could start palladium exports to Japan this month. Volatile.</p>
+<p>GOLD - Finished at $352.40/$352.90, up $1.25. Off bottom hit with palladium. Stuck in $351.00-$355.00 range.</p>
+<p>PLATINUM - Ended down $0.60 at $381.40/$382.40.</p>
+<p>SILVER - Closed at $5.24/$5.26, up six cents. Quiet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

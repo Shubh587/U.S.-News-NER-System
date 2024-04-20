@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192013" id="root" date="1996-11-15" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.African company results.</title>
+<headline>FORECAST - S.African company results.</headline>
+<dateline>JOHANNESBURG 1996-11-15</dateline>
+<text>
+<p>Analysts estimates of major South African company results expected next week include the following (all figures cents per share):</p>
+<p>DAY--COMPANY----PERIOD--CONSENSUS----RANGE---------PVS--</p>
+<p>MON  Barlow     YR EPS  326.7	  325-330	 259.7</p>
+<p>MON  Barlow     YR DIV  105.0	  105	     84.0</p>
+<p>MON  Adcock     YR EPS  104.5	  100-112	 96.0</p>
+<p>MON  Adcock     YR DIV  39.75	  38-42	   36.0</p>
+<p>MON  Dorbyl     H1 EPS  240.7	  234.2-246.0   233.6</p>
+<p>MON  Dorbyl     H1 DIV  35.5	   31.5-42.0     30</p>
+<p>TUE  Tiger Oats YR EPS  348.3	  344-351	 310.0</p>
+<p>TUE  Tiger Oats YR DIV  123.0	  122-124	 108.0</p>
+<p>WED  Tongaat    H1 EPS  179.7	  176.2-185.0   150.6</p>
+<p>WED  Tongaat    H1 DIV  47.6	   46.8-49.0     40.0</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

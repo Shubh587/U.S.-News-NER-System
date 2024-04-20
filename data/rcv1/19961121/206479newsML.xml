@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206479" id="root" date="1996-11-21" xml:lang="en">
+<title>PUERTO RICO: Six dead in Puerto Rico blast.</title>
+<headline>Six dead in Puerto Rico blast.</headline>
+<dateline>SAN JUAN, Puerto Rico 1996-11-21</dateline>
+<text>
+<p>Six people were killed and 20 were injured early on Thursday in an explosion at a shoe store in the Rio Piedras neighbourhood of San Juan, police said.</p>
+<p>Police spokesman Ramon Rodriguez said the cause of the blast was not known. There were unconfirmed reports that work crews had been working on gas lines in the neighbourhood.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JUAN, Puerto Rico"/>
+<dc element="dc.creator.location.country.name" value="PUERTO RICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

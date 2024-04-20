@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207488" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Washington Water Power still fixing lines.</title>
+<headline>Washington Water Power still fixing lines.</headline>
+<dateline>LOS ANGELES 1996-11-20</dateline>
+<text>
+<p>Washington Water Power Co was still working to repair power lines downed by an ice storm on Tuesday, the Spokane, Wash.-based company said Wednesday afternoon.</p>
+<p>About 70,000 customers were still without power, down from 100,000 late Tuesday, company officials said during a teleconference call. The work is expected to take three or four more days.</p>
+<p>WWP said the storm caused extensive and widespread damage to its electrical distribution systems. Outages had extended throughout the company's 30,000-square-mile service area in eastern Washington and northern Idaho.</p>
+<p>Officials said the work was going slowly because foot patrols were needed to check distribution lines, and storm conditions were still disrupting service.</p>
+<p>&quot;We've got one feeder back up out of the 37 we had down to begin with,&quot; one WWP executive said.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

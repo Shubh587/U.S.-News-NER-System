@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140901" id="root" date="1996-10-24" xml:lang="en">
+<title>ITALY: Reuters and Italy's Ipsoa launch new service.</title>
+<headline>Reuters and Italy's Ipsoa launch new service.</headline>
+<dateline>MILAN 1996-10-24</dateline>
+<text>
+<p>Reuters Italia said it was launching a news data transmission service for Italian companies with technical publishing group Ipsoa Editore following the initialling of an accord between the two companies.</p>
+<p>The new service will be available on Reuters. Ipsoa, which is controlled by Dutch publishing house Wolters Kluwer NV, will provide real time coverage of Italian financial law, while Reuters will provide financial and economic information from its database, Reuters Business Briefing.</p>
+<p>Reuters Italia is a unit of Reuters Holdings Plc, the international news and information group.</p>
+<p>A Reuters statement announcing the accord said that the new service is aimed at small and medium-sized Italian companies that need real time information on financial, legal, fiscal and administrative law. No financial details were given.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

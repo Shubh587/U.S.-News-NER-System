@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191292" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: KOCH cuts U.S. posted crude prices 25 cts/bbl.</title>
+<headline>KOCH cuts U.S. posted crude prices 25 cts/bbl.</headline>
+<dateline>NEW YORK 1996-11-15</dateline>
+<text>
+<p>Koch Oil said it cut the price it will pay for U.S. crude oil by 25 cents a barrel, effective today.</p>
+<p>The decrease brings the new price for U.S. benchmark grade West Texas Intermediate to $22.50 a barrel, and West Texas Sour to $20.25 a barrel.</p>
+<p>Light Louisiana Sweet crude is now $22.50 a barrel, and Oklahoma Sweet is $22.50.</p>
+<p>-- New York Energy Desk, +1 212 859-1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

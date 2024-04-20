@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250012" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Dupont sets $4 billion alliance, employee transfers.</title>
+<headline>Dupont sets $4 billion alliance, employee transfers.</headline>
+<dateline>WILMINGTON, Del.</dateline>
+<text>
+<p>DuPont Co. said Wednesday it agreed to form technology and consulting alliances with Computer Sciences Corp. and Anderson Consulting expected to be worth more than $4 billion over 10 years.</p>
+<p>The nation's largest chemical company said that assuming final agreements are reached, about 3,100 employees would be offered jobs with CSC and Anderson while DuPont will retain 1,100 of the 4,200 employees in its information systems operation.</p>
+<p>The Wilmington, Del.-based company said the alliances were meant to support its growth strategies and helped boost value for shareholders.</p>
+<p>Under the agreement, El Segundo, Calif.-based CSC would manage DuPont's global mainframe and personal computer networks and its telecommunications system.</p>
+<p>Anderson Consulting will provide DuPont with business solutions in manufacturing, marketing, distribution and other areas for the company's chemicals and energy businesses.</p>
+<p>In addition to producing commodity chemicals and brand-name products such as Teflon cookware coatings and Lycra stretch fabrics, DuPont owns Conoco, a major oil producer.</p>
+<p>DuPont stock fell $2 to $93.125, and Computer Sciences added 12.5 cents to $84.625, both on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

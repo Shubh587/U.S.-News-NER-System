@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217471" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: US Commerce Dpt encryption export rules out soon.</title>
+<headline>US Commerce Dpt encryption export rules out soon.</headline>
+<dateline>WASHINGTON 1996-11-26</dateline>
+<text>
+<p>The U.S. Department of Commerce, working to complete rules implementing a new encryption export policy, will begin consulting with affected parties as early as Wednesday, an administration official said.</p>
+<p>&quot;We are nearly finished drafting the regulation,&quot; under secretary of Commerce William Reinsch said at a briefing here. &quot;We hope to begin the consultation process with members of industry tomorrow. If we don't quite make that, it will have to kick over to Monday.&quot;  </p>
+<p>Under an executive order signed by President Bill Clinton Nov. 15, export restrictions will be relaxed on encryption technology -- computer programs that scramble information so it cannot be read without a password or software &quot;key.&quot;</p>
+<p>Encryption has become widely used, for example to safeguard a company's electronic mail messages or to keep credit card numbers transmitted over the Internet away from criminals.  </p>
+<p>Currently, U.S. companies are prohibited from exporting products with strong encryption. Under the new policy, companies could export strong products if the products also had a feature known as &quot;key recovery,&quot; which allows the government easily to break the coding.</p>
+<p>Also, companies could export slightly stronger encryption immediately if they committed to incorporating key recovery features within two years. Use of encryption within the United States remains unrestricted.</p>
+<p>But no company can take advantage of the new policy until the Commerce Department promulgates rules spelling out details such as what will qualify as a &quot;key escrow&quot; enabled feature.</p>
+<p>Reinsch, speaking at a briefing sponsored by the House Science Committee's Subcommittee on Technology, said his office is &quot;on track&quot; to issue the final rules on January 1, 1997.</p>
+<p>Several companies, including International Business Machines Corp and Hewlett-Packard Co, have said they will have products on the market soon that will meet the government's to-be-announced rules.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

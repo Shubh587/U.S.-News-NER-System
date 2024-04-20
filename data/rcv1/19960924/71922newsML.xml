@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71922" id="root" date="1996-09-24" xml:lang="en">
+<title>ROMANIA: SOCCER-F.C. NATIONAL BEAT 2-0 ODESSA.</title>
+<headline>SOCCER-F.C. NATIONAL BEAT 2-0 ODESSA.</headline>
+<dateline>BUCHAREST 1996-09-24</dateline>
+<text>
+<p>F.C. National Bucharest (Romania) beat 2-0 (halftime 0-0) Cernomoret Odessa (Ukraine) in their first round, second leg match of UEFA Cup on Tuesday.</p>
+<p>Scorers:</p>
+<p>F.C. National Bucharest - Danut Moisescu 48th, Radu Niculescu 57th</p>
+<p>Attendance: 7,000</p>
+<p>F.C. National won 2-0 on aggregate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

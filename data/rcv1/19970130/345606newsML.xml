@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345606" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Two dead in Houston wall collapse.</title>
+<headline>Two dead in Houston wall collapse.</headline>
+<dateline>HOUSTON 1997-01-30</dateline>
+<text>
+<p>Two people died and two were injured when a wall collapsed on Thursday at a shopping center where a renovation project was under way, a Houston Fire Department spokesman said.</p>
+<p>Spokesman Rick Flanigan told reporters it was not yet known why the wall fell over. He said rescuers were sifting through the rubble to see if there were any more victims.  </p>
+<p>&quot;We have located four persons, two are deceased, one (of the injured) is critical and one is stable,&quot; he said.</p>
+<p>Fire Chief Eddie Corral told reporters &quot;we have reports that there are other people in there, but we have to confirm that.&quot;</p>
+<p>He said dogs and detection equipment would be used to comb through the site.</p>
+<p>News reports said the collapse occurred at a construction site where former basketball player Earvin &quot;Magic&quot; Johnson was building a movie theater.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

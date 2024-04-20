@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612480" id="root" date="1997-05-24" xml:lang="en">
+<title>FRANCE: Bomb wounds two in Algerian capital.</title>
+<headline>Bomb wounds two in Algerian capital.</headline>
+<dateline>PARIS 1997-05-24</dateline>
+<text>
+<p>A parcel bomb exploded on Saturday in the centre of the Algerian capital Algiers, wounding two people, Algerian security services said.</p>
+<p>The attack, the fourth in three days, occurred midway through campaigning for the June 5 parliamentary election.</p>
+<p>The bomb went off at 11.25 a.m. in Asselah Hocine Street, a statement carried by the official Algerian news agency APS said.</p>
+<p>Two car bombs killed seven people and wounded 12 in the western town of Tlemcen on Friday, and at least 12 people were killed on Thursday when a car bomb rocked the town of Boufarik south of Algiers.</p>
+<p>About 60,000 people have been killed in violence since early 1992 when the authorities cancelled a general election in which radical Islamists had taken a huge lead.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

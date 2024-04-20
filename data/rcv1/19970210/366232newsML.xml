@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366232" id="root" date="1997-02-10" xml:lang="en">
+<title>MEXICO: BASEBALL-FINAL CARIBBEAN SERIES STANDINGS.</title>
+<headline>BASEBALL-FINAL CARIBBEAN SERIES STANDINGS.</headline>
+<dateline>HERMOSILLO, Mexico 1997-02-09</dateline>
+<text>
+<p>Final standings of the Caribbean Series of baseball after Sunday's games (tabulate under won, lost and games behind):</p>
+<p>				W    L    GB</p>
+<p> Dominican Republic     4    2    --</p>
+<p> Mexico		     3    3    1</p>
+<p> enezuela		   3    3    1</p>
+<p> Puerto Rico		2    4    2</p>
+<p>Linescores on final day:</p>
+<p>Venezuela 11, Puerto Rico 9</p>
+<p>					     R  H  E</p>
+<p> Puerto Rico	   135 000 000   9 12  0</p>
+<p> Venezuela	     200 004 05x  11 13  0</p>
+<p>Batteries: Rosado, Montalvo (6), Miranda (8, LP 0-1), Perez (8) and Spehr. Castillo, Avila (3), Ramos (7, WP 1-0), Enriquez (9, S 1) and Chavez, Alvarez (9)</p>
+<p>Dominican Republic 4, Mexico 3</p>
+<p>					     R  H  E</p>
+<p> Mexico		  000 000 120   3  6  2</p>
+<p> Dominican Republic  300 001 00x   4  8  0</p>
+<p>Martin Hernandez (LP, 1-1), Rodriguez (5) and Amezcua. Parra, Y. Perez (5, WP 1-0), Lima (7), Heredia (7), Veras (8, S 2) and Garcia</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERMOSILLO, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

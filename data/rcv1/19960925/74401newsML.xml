@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74401" id="root" date="1996-09-25" xml:lang="en">
+<title>UK: SOCCER-GLASGOW RANGERS V AUXERRE LATEST.</title>
+<headline>SOCCER-GLASGOW RANGERS V AUXERRE LATEST.</headline>
+<dateline>GLASGOW 1996-09-25</dateline>
+<text>
+<p>Thomas Deniaud scored in the 54th minute to give Auxerre of France a 1-0 lead over Glasgow Rangers of Scotland in their group A match in the European Cup Champions' League on Wednesday.  </p>
+<p>Deniaud scored his second goal in the 68th minute to give Auxerre a 2-0 lead over Glasgow Rangers.  </p>
+<p>Paul Gascoigne scored for Glasgow Rangers in the 71st minute to make the score 2-1 to Auxerre.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

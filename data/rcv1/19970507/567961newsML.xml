@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567961" id="root" date="1997-05-07" xml:lang="en">
+<title>JAPAN: Hitachi to make car parts in Britain.</title>
+<headline>Hitachi to make car parts in Britain.</headline>
+<dateline>TOKYO 1997-05-07</dateline>
+<text>
+<p>Hitachi Ltd said on Wednesday that it set up a subsidiary in Britain last month to manufacture car parts.</p>
+<p>The new firm, Hitachi Automotive Products Europe Ltd, is capitalised at eight million sterling. Hitachi owns 75 percent in the firm while Hitachi Europe Ltd owns the rest.</p>
+<p>The new firm plans to make air flow sensors and other parts for Japanese car makers operating in Britain.</p>
+<p>The new company aims for annual sales of 30 million sterling in 2000/2001, Hitachi said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161707" id="root" date="1996-11-02" xml:lang="en">
+<title>FRANCE: TENNIS-PARIS OPEN SEMIFINAL RESULTS.</title>
+<headline>TENNIS-PARIS OPEN SEMIFINAL RESULTS.</headline>
+<dateline>PARIS 1996-11-02</dateline>
+<text>
+<p>Paris Open semifinal results on</p>
+<p>Saturday (prexix number denotes seeding):</p>
+<p>4-Yevgeny Kafelnikov (Russia) beat Petr Korda (Czech Republic)</p>
+<p>3-6 6-4 6-2</p>
+<p>12-Thomas Enqvist (Sweden) beat Magnus Gustafsson (Sweden) 6-3</p>
+<p>6-2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

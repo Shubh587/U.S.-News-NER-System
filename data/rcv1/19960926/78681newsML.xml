@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78681" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: WEEKLY U.S. MORTGAGE RATE SURVEY - FREDDIE MAC.</title>
+<headline>WEEKLY U.S. MORTGAGE RATE SURVEY - FREDDIE MAC.</headline>
+<text>
+<p>Week ending Sept 27, 1996</p>
+<p>------------------30-Yr Fixed-Rate Mortgages------------------</p>
+<p>	     U.S	North-    South-   North-   South-  the</p>
+<p>	     AVG.     East	East     Central  West    West</p>
+<p>AVERAGE    8.16     8.10	8.13	8.26     8.17    8.14</p>
+<p>FEES/PTS   1.7	2.0	 1.8	 1.4	1.7     1.8</p>
+<p>------------------15-Yr Fixed-Rate Mortgages------------------</p>
+<p>	     U.S	North-    South-   North-   South-  the</p>
+<p>	     AVG.     East	East     Central  West    West</p>
+<p>AVERAGE    7.68     7.64	7.67	7.77     7.70    7.67</p>
+<p>FEES/PTS   1.7	1.9	 1.7	 1.4	1.7     1.8</p>
+<p>			Week ending Sept 27, 1996</p>
+<p>------------------Adjustable-Rate Mortgages------------------</p>
+<p>	     U.S	North-    South-   North-   South-  the</p>
+<p>	     AVG.     East	East     Central  West    West</p>
+<p>AVERAGE    5.82     5.63	5.89     6.06     5.81    5.80</p>
+<p>FEES/PTS   1.4	1.8	 1.5	1.1	1.5     1.4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

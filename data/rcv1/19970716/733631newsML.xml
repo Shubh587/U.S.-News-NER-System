@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733631" id="root" date="1997-07-16" xml:lang="en">
+<title>TURKEY: Turkish military plane crashes, three injured.</title>
+<headline>Turkish military plane crashes, three injured.</headline>
+<dateline>ANKARA 1997-07-16</dateline>
+<text>
+<p>A Turkish military plane crashed in western Turkey on Wednesday, injuring three military personnel, Anatolian news agency reported.</p>
+<p>It said the plane, the type of which was not  identified, crashed into a hill near the popular Aegean Sea holiday resort of Kusadasi around midday (0900 GMT).</p>
+<p>The crash occured during a training flight and its cause was unknown, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

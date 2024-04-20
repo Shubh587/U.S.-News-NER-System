@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22639" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: CME live cattle certificates for Aug 29.</title>
+<headline>CME live cattle certificates for Aug 29.</headline>
+<dateline>CHICAGO 1996-08-29</dateline>
+<text>
+<p>The Chicago Mercantile Exchange reported the following certificates tendered for August 29 against the August Live Cattle contract.</p>
+<p>Tenders 1, retenders 0, demands 0, reclaims 0. Total to date tenders and retenders 943 (tenders 691, retenders 252), demands 242, reclaims 0.</p>
+<p>No contracts open.</p>
+<p>Tendered at 0 cents - Omaha 1.</p>
+<p>Delivered - RJ O'Brien 1.</p>
+<p>Received - RJ O'Brien 1.</p>
+<p>Live deliveries for August 29 - Amarillo 2, Guymon 10.</p>
+<p>Carcass deliveries for August 29 - Guymon 4.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

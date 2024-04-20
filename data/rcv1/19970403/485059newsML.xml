@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485059" id="root" date="1997-04-03" xml:lang="en">
+<title>CANADA: Alcan reroll sheet plant evacuated for fire.</title>
+<headline>Alcan reroll sheet plant evacuated for fire.</headline>
+<dateline>MONTREAL 1997-04-03</dateline>
+<text>
+<p>Alcan Aluminium Ltd said on Thursday that a continuous casting plant that makes reroll sheet at its Saguenay works in Jonquiere, Quebec was evacuated at midday because of a chimney fire.</p>
+<p>Alcan spokesman Charles Belbin told Reuters there were no injuries in the fire and workers were evacuated from the plant as a precaution as firefighters fought the fire, which appeared to be localized in a chimney.</p>
+<p>The plant accepts molten material from a smelter and makes reroll aluminum sheet, which is then shipped to other Alcan facilites for further processing.</p>
+<p>((Reuters Montreal bureau 514-985-2434))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

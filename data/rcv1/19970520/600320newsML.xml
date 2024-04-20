@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="600320" id="root" date="1997-05-20" xml:lang="en">
+<title>GERMANY: Lucent wins contract with D.Telekom.</title>
+<headline>Lucent wins contract with D.Telekom.</headline>
+<dateline>NUREMBERG, Germany 1997-05-20</dateline>
+<text>
+<p>U.S. telecommunications equipment supplier Lucent Technologies Inc said on Tuesday it won a $30 million contract to provide mobile phone base stations to Deutsche Telekom AG.</p>
+<p>Telekom, the former monopoly phone company, would use Lucent base stations and receivers to expand its D1 cellular network over the next 18 months.</p>
+<p>Lucent, the former equipment arm of AT&amp;T Corp that was spun off last year, has already supplied 3,000 base stations for Telekom's T-Mobile unit.</p>
+<p>The D1 network, with 2.5 million subscribers, is the second largest in Germany behind the D2 service of Mannesmann Mobilfunk GmbH, a unit of Mannesmann AG.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NUREMBERG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

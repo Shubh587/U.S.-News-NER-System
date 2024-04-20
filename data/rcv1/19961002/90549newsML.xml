@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90549" id="root" date="1996-10-02" xml:lang="en">
+<title>UK: London shipsales.</title>
+<headline>London shipsales.</headline>
+<dateline>LONDON 1996-10-02</dateline>
+<text>
+<p>Secondhand tonnage brokers reported the sale of the following vessels.</p>
+<p>TANKERS - Iron Gippsland - (built 1989) 87,241 dwt sold to Singaporean buyers for $28.5 million with subjects outstanding.</p>
+<p>CONTAINERS - Oocl Honour - (built 1989) 46,100 dwt plus sistership:</p>
+<p>Oocl Hope - (built 1989) 45,750 dwt sold to Greek buyers for $35 million each including twelve to eighteen months timecharter back at $27,500 per day.</p>
+<p>Some of these sales may not be final as they may be subject to inspection, survey or other conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131461" id="root" date="1996-10-21" xml:lang="en">
+<title>LEBANON: Lebanese treasury bill yields steady.</title>
+<headline>Lebanese treasury bill yields steady.</headline>
+<dateline>BEIRUT 1996-10-21</dateline>
+<text>
+<p>Yields were unchanged on Lebanese treasury bills, according to weekly rates issued by the Bank of Lebanon on Monday.</p>
+<p>It announced the following interest rates for its October 24 issues (previous week in brackets):</p>
+<p>    Term		    Discount		     Yield</p>
+<p>				(percent)		   (percent)</p>
+<p>    Three months	  14.10 (14.10)	     14.61  (14.61)</p>
+<p>    Six months	    15.60 (15.60)	     16.92  (16.92)</p>
+<p>    12 months	     15.10 (15.10)	     17.78  (17.78)</p>
+<p>    24 months   (Interest payable twice yearly) 21.62  (21.62)</p>
+<p>-Beirut editorial (961 1) 864148 602057 645456</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100041" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Regis Corp buys three hair salons.</title>
+<headline>Regis Corp buys three hair salons.</headline>
+<dateline>MINNEAPOLIS 1996-10-07</dateline>
+<text>
+<p>Regis Corp said Monday it acquired three hair salons, which generate about $900,000 in annual sales.</p>
+<p>The salons previously were operated by two Trade Secret franchisees and will continue to operate in the Trade Secret division. Of the three, one is in Omaha, one in Council Bluffs, Iowa and one in Freehold, N.J.</p>
+<p>Including these additions, Regis has completed 48 acquisitions in the past 32 months, adding 476 salons and about $119 million in annual sales.</p>
+<p>It now operates 1,977 salons.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

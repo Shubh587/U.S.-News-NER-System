@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457388" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Flaw found in privacy technology in cell phones.</title>
+<headline>Flaw found in privacy technology in cell phones.</headline>
+<byline>Roger Fillion</byline>
+<dateline>WASHINGTON 1997-03-19</dateline>
+<text>
+<p>The newest breed of cellular telephones is less secure than previously thought, a researcher said Wednesday.</p>
+<p>Researchers have uncovered a flaw used in the technology designed to ensure a caller's privacy over advanced digital cellular phones. The results are expected to be announced Thursday.</p>
+<p>The problem allows a sophisticated eavesdropper to figure out the number a caller dials on a cellular handset -- be it the phone number itself; a personal identification number, or PIN number, used to access a bank account or activate a calling card; or a credit card number.</p>
+<p>&quot;The digital cellular safeguards are still stronger than the analogue safeguards. But they are not as strong as previously thought,&quot; David Wagner, a graduate student at the University of California at Berkley, said in an interview.</p>
+<p>The system was meant to guard the privacy of the dialed digits. But the encryption technology used to scramble information and render it unreadable is weak enough that the digits are accessible to eavesdroppers with a digital scanner, according to the researchers.</p>
+<p>The researchers -- at Berkley and Counterpane Systems, a Minneapolis counsulting firm -- said their findings are a setback to the U.S. cellular phone industry.</p>
+<p>These are not the first problems uncovered with the new digital phones. Researchers already have uncovered flaws in the safeguards meant to ensure that what a caller says over the phone is not heard by others.</p>
+<p>Some experts argue that the flaws reflect shortcomings in the &quot;closed-door&quot; process used to develop privacy measures.</p>
+<p>They point to the U.S. government's efforts to control cryptography, out of national security concerns. These critics single out the National Security Agency, saying that the U.S. agency in charge of monitoring foreign powers is holding back efforts to develop cellular security technology.</p>
+<p>That flaws that have been uncovered &quot;are symptomatic of broad underlying problems in the design process,&quot; said Wagner.</p>
+<p>The findings come as the debate over cellular phone privacy has picked up in Washington.</p>
+<p>Lawmakers and law-enforcement officials have called for tougher laws to bar eavesdropping on cellular calls, following the uproar over a recently intercepted call by House Speaker Newt Gingrich.</p>
+<p>What's more, lawmakers and the Clinton administration are sparring over encryption export policy. The administration has a new policy in place allowing freer export of encryption products.</p>
+<p>The policy, enacted through executive order in November and in effect since Jan. 1, allows export of stronger encryption than previously allowed. But it requires companies to incorporate features within two years allowing the government to crack the codes by getting access to the software &quot;keys.&quot;</p>
+<p>The government says it needs the ability to crack strong encryption to catch criminals and terrorists.</p>
+<p>However, some lawmakers -- with the backing of high-tech companies -- want to remove nearly all export curbs.</p>
+<p>A senior Commerce Department official said Wednesday the Clinton administration plans to introduce a bill soon that would clearly affirm that encryption users in this country can use any type or strength of encryption technology.</p>
+<p>But such a bill is unlikely to calm critics.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

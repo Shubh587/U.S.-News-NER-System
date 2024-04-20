@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53922" id="root" date="1996-09-14" xml:lang="en">
+<title>USA: BASEBALL-FRIDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-FRIDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Results of Major League Baseball games</p>
+<p>played Friday (home team in CAPS):</p>
+<p>		  American League</p>
+<p> BOSTON	   9  Chicago	    5</p>
+<p> Baltimore	7  DETROIT	    4</p>
+<p> New York	 4  TORONTO	    1</p>
+<p> KANSAS CITY    8  California	 2</p>
+<p> Seattle	 13  MINNESOTA	  7</p>
+<p> Milwaukee	6  TEXAS		3</p>
+<p>    (PPD)    Oakland AT CLEVELAND</p>
+<p>		  National League</p>
+<p> CHICAGO	  4  Philadelphia     2</p>
+<p> MONTREAL	 3  Florida	    2</p>
+<p> NEW YORK	 6  Atlanta	    4</p>
+<p> COLORADO	 6  Houston	    3</p>
+<p> St Louis	 2  LOS ANGELES	0</p>
+<p> Cincinnati     3  SAN DIEGO	  1</p>
+<p> Pittsburgh     9  SAN FRANCISCO    0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

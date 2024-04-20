@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="158962" id="root" date="1996-11-01" xml:lang="en">
+<title>CANADA: GM Canada sales rose 8.6 pct in October.</title>
+<headline>GM Canada sales rose 8.6 pct in October.</headline>
+<dateline>OSHAWA, Ontario 1996-11-01</dateline>
+<text>
+<p>General Motors of Canada Ltd, a wholly owned unit of General Motors Corp, said on Friday its sales for October were as follows:</p>
+<p>		     PCT CHANGE	    1996	     1995</p>
+<p>   Total	    +8.6		   32,464	   29,891</p>
+<p>   Cars	     -0.2		   17,673	   17,705</p>
+<p>   Trucks	  +21.4		   14,791	   12,186</p>
+<p>   YEAR-TO-DATE  PCT CHANGE	    1996	     1995</p>
+<p>   Total	   -2.4		   322,342	  330,909</p>
+<p>   Cars	    -6.0		   187,514	  199,563</p>
+<p>   Trucks	  +3.0		   135,342	  131,346</p>
+<p>-- Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSHAWA, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44006" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: USDA says Jordan gets $8 mln in PL480 to buy rice.</title>
+<headline>USDA says Jordan gets $8 mln in PL480 to buy rice.</headline>
+<dateline>WASHINGTON 1996-09-10</dateline>
+<text>
+<p>The U.S. Agriculture Department Tuesday said an authorization to buy $8 million worth of U.S. rice under Public Law 480, Title I was issued to Jordan.</p>
+<p>It said the authorization provides for the purchase of about 19,000 tonnes of long, medium or short-grain milled rice or brown rice for processing.</p>
+<p>The contracting period is Sept. 13-30 and the delivery period is Oct. 4 through Dec. 31.</p>
+<p>Title 1, also know as the Food for Peace program, is a loan program for the purchase of U.S. farm goods with low interest rates and long-term payback periods.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

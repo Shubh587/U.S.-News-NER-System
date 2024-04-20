@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84101" id="root" date="1996-09-30" xml:lang="en">
+<title>SPAIN: TENNIS-MARBELLA FIRST ROUND RESULTS.</title>
+<headline>TENNIS-MARBELLA FIRST ROUND RESULTS.</headline>
+<dateline>MARBELLA, Spain 1996-09-30</dateline>
+<text>
+<p>First round results in the Marbella men's tennis tournament on Monday:</p>
+<p>Javier Sanchez (Spain) beat Gilbert Schaller (Austria) 2-6 6-1 6-2</p>
+<p>Jordi Burillo (Spain) beat Hicham Arazi (Morocco) 6-3 6-3</p>
+<p>Fernando Vicente (Spain) beat Roberto Carretero (Spain) 6-0 6-4</p>
+<p>Felix Mantilla (Spain) beat Albert Portas (Spain) 6-3 7-5</p>
+<p>Kevin Goellner (Germany) beat Tomas Carbonell (Spain) 6-3 6-2</p>
+<p>Francisco Clavet (Spain) beat Juan Albert Viloca (Spain) 6-3 7-6 (7-2).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARBELLA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466210" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Tuesday.</p>
+<p>  Cisco Systems     16,543,400	 47 7/8     up     3/4</p>
+<p>  Intel Corp	  14,427,200	 133 1/4    up     2 5/8</p>
+<p>  Microsoft Cp	11,187,600	 90 5/16    up     3/16</p>
+<p>  Idexx Labs	  10,230,100	 12 1/8     up     1/8</p>
+<p>  Applied Matl	6,510,600	 49 1/4     up     1 1/4</p>
+<p>  Oracle Corp	 5,852,100	 39	   off    7/8</p>
+<p>  Medic Comp Sys    5,621,400	 14	   up     7/8</p>
+<p>  Cascade Comm	5,142,800	 26 7/8     up     2 1/16</p>
+<p>  Fore Systems	5,003,700	 17 5/8     off    3/4</p>
+<p>  Dell Computer     4,934,500	 67 1/2     up     2 1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

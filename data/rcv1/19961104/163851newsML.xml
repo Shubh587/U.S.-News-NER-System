@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163851" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Salt River Project Ariz. coal units down for work.</title>
+<headline>Salt River Project Ariz. coal units down for work.</headline>
+<dateline>LOS ANGELES 1996-11-04</dateline>
+<text>
+<p>Salt River Project's (SRP) 350 megawatt (MW) unit 2 at the Coronado coal-fired power plant in eastern Arizona is expected to restart November 12 after being shut October 26 for maintenance, a company spokesman said Monday.</p>
+<p>The Coronado plant also has a second 350 MW unit.</p>
+<p>Another regular maintenance outage is scheduled to start Saturday at SRP's Navajo coal-fired unit 1, located in Page, Ariz.</p>
+<p>The 720 MW unit is scheduled to be out of service until December 18. The Navajo plant has two other 720 MW units.</p>
+<p>SRP, a state government agency, is the owner and operator of Coronado. It holds a 27 percent interest in the Navajo plant, which is also owned by the U.S. Bureau of Reclamation and various public power companies.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

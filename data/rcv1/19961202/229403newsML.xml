@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229403" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Dec 2.</title>
+<headline>PRESS DIGEST - New York Times front page - Dec 2.</headline>
+<dateline>NEW YORK 1996-12-02</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Monday:</p>
+<p>- Congress' Republican leadership is reducing its estimate of the growth of the deficit, bringing it closer to the White House's figures.</p>
+<p>- Revenues at a sampling of 24 malls across the nation were up 11 percent over last year's post-Thanksgiving weekend.</p>
+<p>- Unhappy workers in the mining region of Bor, Serbia, may be positioned to decide the fate of President Slobodan Milosevic.</p>
+<p>- The average contribution to the re-election effort of New York Mayor Rudolph W. Giuliani is an unusually high $1,122.</p>
+<p>- Internet technology is making it more difficult to enforce copyright laws intended to ensure financial return to those who create everything from poetry to computer software.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15021" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: U.S. soybean inspection destinations - USDA.</title>
+<headline>U.S. soybean inspection destinations - USDA.</headline>
+<dateline>WASHINGTON 1996-08-26</dateline>
+<text>
+<p>The 10.710 million bushels of U.S. soybeans inspected for export in the week ended Aug 22 were for the following destinations (1,000 bushels):</p>
+<p>Chicago to Canada 928.</p>
+<p>Duluth-Superior to Canada 141.</p>
+<p>South Atlantic to Japan 2,116.</p>
+<p>Mississippi River to Barbados 55; China 1,870; Taiwan 1,955; Colombia 129; Costa Rica 501; Japan 1,384; Portugal 161.</p>
+<p>Interior to Mexico 1,012.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

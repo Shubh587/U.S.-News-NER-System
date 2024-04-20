@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180222" id="root" date="1996-11-11" xml:lang="en">
+<title>TUNISIA: Tunis bourse closes lower, volume rises.</title>
+<headline>Tunis bourse closes lower, volume rises.</headline>
+<dateline>TUNIS 1996-11-11</dateline>
+<text>
+<p>The Tunis Stock Exchange closed slightly lower on Monday but volume rose, bourse sources said.</p>
+<p>The 30-share index closed at 601.32, down from 603.12 on Friday.</p>
+<p>Traded volume was 2.29 million dinars against 1.36 million dinars. Exchanges of 20,706 shares over the counter amounted to 2.51 million dinars.</p>
+<p>Banque de Tunisie fell 2.31 dinars to 76.69. BIAT bank was up 0.76 dinar at 61.92.</p>
+<p>($1=0.98 dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473214" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: U.S. wheat weekly export sales highlights -- USDA.</title>
+<headline>U.S. wheat weekly export sales highlights -- USDA.</headline>
+<dateline>WASHINGTON 1997-03-27</dateline>
+<text>
+<p>USDA wheat export sales highlights in latest reporting week:</p>
+<p>Net sales of 497,000 metric tons (MT) were 11 percent above the previous week and 6 percent over the 4-week average.</p>
+<p>Major increases reported for the Philippines (109,700 MT), Japan (104,800 MT), Iraq (50,000 MT--the first activity since the 1989/90 marketing year), and Thailand (35,000 MT). In addition, changes in destinations for 31,000 MT of white wheat were reported from the United Kingdom to Yemen.</p>
+<p>Sales activity of 49,000 MT for the 1997/98 marketing year were primarily for Israel (41,000 MT).</p>
+<p>Exports of 307,700 MT were off 24 percent from the week earlier and 21 percent from the 4-week average.  The principal recipients were Japan (72,800 MT), Pakistan (63,000 MT), Mexico (48,100 MT), and the Philippines (45,300 MT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

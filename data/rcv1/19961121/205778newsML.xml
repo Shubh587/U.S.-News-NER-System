@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205778" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Philadelphia Fed index 6.4 November vs 5.3 Oct.</title>
+<headline>Philadelphia Fed index 6.4 November vs 5.3 Oct.</headline>
+<dateline>NEW YORK 1996-11-21</dateline>
+<text>
+<p>The Federal Reserve Bank of Philadelphia said on Thursday its diffusion index of business activity in the manufacturing sector rose to 6.4 in November from 5.3 in October.</p>
+<p>				Nov   Drop   Unch   Rise    Oct</p>
+<p>Business Conditions     6.4   16.4   60.7   22.8     5.3</p>
+<p>New orders		  5.8   21.8   50.2   27.6     9.9</p>
+<p>Shipments		  11.8   20.9   46.5   32.6    11.9</p>
+<p>Unfilled orders	 - 8.2   26.3   53.8   18.1   - 9.8</p>
+<p>Delivery time	   -10.0   20.4   66.5   10.5   -13.7</p>
+<p>Inventories	     -14.8   31.7   50.2   16.8   - 2.7</p>
+<p>Prices paid		14.6    1.6   82.0   16.1    21.9</p>
+<p>Prices received	   1.6    7.7   82.8    9.3     5.4</p>
+<p>Number of employees     1.0   14.3   70.4   15.3   - 4.7</p>
+<p>-- N.A. Treasury Desk, 212-869-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

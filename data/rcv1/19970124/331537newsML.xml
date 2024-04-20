@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331537" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: FCC chief asks if policy should focus on Internet.</title>
+<headline>FCC chief asks if policy should focus on Internet.</headline>
+<dateline>WASHINGTON 1997-01-23</dateline>
+<text>
+<p>The nation's top communications regulator raised the question Thursday of whether government policy should begin focusing on the smooth and reliabile operation of the Internet computer network.</p>
+<p>&quot;One of the things we'd like to find out is whether or not reliability is in fact an appropriate policy issue with respect to the packet-switched network,&quot; Federal Communications Commission Chairman Reed Hundt told industry officials at the start of an FCC forum on &quot;bandwidth.&quot;</p>
+<p>&quot;Or would you say to us, no, that is not of any particular importance, and if I happen to rely on packet-switched technology to get my sports, news, or make stock market trades, well it's not terribily important if that doesn't work for several hours or days.&quot;</p>
+<p>A packet-switched network refers to the type of network over which the Internet operates.</p>
+<p>The FCC convened the meeting of industry officials -- who shared their views with the agency -- at a time when the local phone and Internet industries are debating whether traffic in cyberspace is clogging the nation's local phone network.</p>
+<p>A coalition of Internet and computer companies on Wednesday said in a study that the growing mass of Internet users have paid their fair share to local phone cmopanies and pose little threat to the phone system.</p>
+<p>Local carriers have issued their own studies seeking to justify new acess fees on Internet usage, saying such usage threatens to overwhelm the phone system.</p>
+<p>The FCC already focuses on ensuring the reliability of the phone network so that in the event of a crisis -- such as a hurricane or a flood -- there is adequate capacity to ensure continuous service.</p>
+<p>Late last year Hundt urged a high-level industry advisory group -- the Network Reliability Council -- to keep an eye on the impact of surging Internet use on the local phone network.</p>
+<p>In his remarks Thursday, Hundt asked whether ensuring the reliability of the Internet also should be a mission of the council -- just like the group now seeks to ensure the reliability of the traditional phone network.</p>
+<p>&quot;Or in fact should it be the case that it isn't as important that the Internet be reliabile in the same way as the circuit-switched network,&quot; Hundt added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

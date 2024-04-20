@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171196" id="root" date="1996-11-06" xml:lang="en">
+<title>THAILAND: Surveyors report Thai November ship discharges.</title>
+<headline>Surveyors report Thai November ship discharges.</headline>
+<dateline>BANGKOK 1996-11-06</dateline>
+<text>
+<p>The following ships are scheduled to arrive at Thai ports to unload their cargoes in November, according to independent surveyors on Wednesday.</p>
+<p>  Vessel	     Arrival	  Commodity	Quantity (tns)</p>
+<p> Northern Light    8/11/96	  ARG soymeal	25,193</p>
+<p> Kavo Kaliakra    10/11/96	  BRZ soy pellets  53,789</p>
+<p> Vega T	     23/11/96	  BRZ soymeal	20,000</p>
+<p> Toscana	    25/11/96	  ARG/BRZ soymeal  45,000</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

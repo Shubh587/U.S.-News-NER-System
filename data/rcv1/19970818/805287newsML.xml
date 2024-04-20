@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="805287" id="root" date="1997-08-18" xml:lang="en">
+<title>RUSSIA: Space cargo module redocks with Russia's Mir.</title>
+<headline>Space cargo module redocks with Russia's Mir.</headline>
+<dateline>KOROLYOV, Russia 1997-08-18</dateline>
+<text>
+<p>A Progress supply craft redocked with Russia's Mir space station on Monday after a day's delay caused by a computer programming error, Mission Control officials said.</p>
+<p>The redocking repeated a procedure which resulted in a collision between a previous Progress craft and Mir on June 25. The redocking, which took place five minutes earlier than expected, was done on manual pilot during the last few minutes rather than automatic as planned, officials said.  </p>
+<p>Mission Control officials said the automatic pilot system failed 13 minutes before the docking, forcing Mir's commander Anatoly Solovyov, one of Rusia's most experienced cosmonauts, to take control of the docking. The docking was completed at 4:53 p.m. Moscow time (1253 GMT).</p>
+<p>It was not immediately clear why the automatic pilot system failed, but it was the latest in a series of technical failures that have plagued the space station in recent months.</p>
+<p>There appeared to be a tense atmosphere at Mission Control, and groups of officials were discussing the situation after the docking.</p>
+<p>The Progress, which undocked from Mir earlier this month, is now filled mostly with garbage but will provide the station with needed balance and also covers a hatch from excessive exposure to the sun.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KOROLYOV, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

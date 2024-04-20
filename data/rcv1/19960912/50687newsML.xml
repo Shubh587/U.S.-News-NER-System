@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50687" id="root" date="1996-09-12" xml:lang="en">
+<title>GERMANY: Bundesbank data show rise in net reserves in week.</title>
+<headline>Bundesbank data show rise in net reserves in week.</headline>
+<dateline>FRANKFURT 1996-09-12</dateline>
+<text>
+<p>Bundesbank data released on Thursday show that net currency reserves rose to about 104.3 billion marks in the week ending September 7 from about 103.2 billion in the week ending August 31.</p>
+<p>The Bundesbank provided the following reserve data: (in billion marks)</p>
+<p> Banking week ended		    Sept 7	  Aug 31</p>
+<p> Gross currency reserves	     120.9	   120.1</p>
+<p> Foreign liabilities		   16.6	    16.7</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

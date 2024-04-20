@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245739" id="root" date="1996-12-10" xml:lang="en">
+<title>UK: London doctor finds gentler way to fight cancer.</title>
+<headline>London doctor finds gentler way to fight cancer.</headline>
+<dateline>LONDON 1996-12-10</dateline>
+<text>
+<p>Researchers working in London said on Tuesday they may have found a way to make more widely available an immune system treatment touted as a more natural way to fight cancer.</p>
+<p>They said they could mass-produce killer T-cells, which have been pre-programmed to seek out and destroy cancer cells. The procedure has only been tested in mice, but if it worked in people, it could offer a gentler alternative to chemotherapy.</p>
+<p>Killer T-cells are immune system cells that eliminate invaders like bacteria and viruses, or defective cells such as cancer cells.</p>
+<p>Hans Stauss and colleagues of the Royal Postgraduate Medical School at London's Hammersmith Hospital said a single healthy person may be able to produce enough such cells to help dozens of cancer patients.</p>
+<p>Stauss, who presented his findings to a joint meeting of the British Society for Immunology and the Biochemical Society, said his research centred on a protein known as mdm-2 that is often produced in large amounts by cancer cells.</p>
+<p>Scientists have already been able to separate T-cells from the blood of cancer patients as well as choose those that will attack the the tumour, grow them in a laboratory and re-inject them into the patient to fight the cancer.</p>
+<p>But the procedure must be carried out for each individual patient, which is time-consuming and expensive. T-cells from one person will attack all kinds of cells in a stranger's body, not just cancer cells.</p>
+<p>Stauss looked for a way to make the process a little less personal, and found if the T-cells could be programmed against one specific protein seen only in cancer cells, they would not be a danger to healthy cells.</p>
+<p>The idea worked in mice, he told delegates at the meeting. &quot;The (T-cells) were injected into mice with tumours and showed anti-cancer activity,&quot; conference organisers said in a statement.</p>
+<p>&quot;Dr Stauss' studies suggest that it may be possible to produce cancer fighting CTL to treat a large number of cancer patients from the blood of a single, healthy person, promising to make this gentle form of treatment easier and cheaper.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

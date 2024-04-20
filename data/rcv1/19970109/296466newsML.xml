@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296466" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Ameritech cuts telephone rates in Ohio.</title>
+<headline>Ameritech cuts telephone rates in Ohio.</headline>
+<dateline>COLUMBUS, Ohio 1997-01-09</dateline>
+<text>
+<p>Ameritech Corp said Thursday it would reduce rates for its Ohio customers and make its touch-tone service free for local telephone users as part of its &quot;Advantage Ohio&quot; program.</p>
+<p>The company said the rate reduction would save customers about $14 million in 1997.</p>
+<p>Earlier in the day, Ameritech launched a dial-up Internet access service called Ameritech.net in Chicago, Detroit and Cleveland.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36237" id="root" date="1996-09-05" xml:lang="en">
+<title>DUBAI: Quake shakes Kurdish area in Iran.</title>
+<headline>Quake shakes Kurdish area in Iran.</headline>
+<dateline>DUBAI 1996-09-05</dateline>
+<text>
+<p>An earthquake measuring 4.2 on the Richter scale shook Iran's western Kurdestan province on Thursday, the official news agency IRNA reported.</p>
+<p>The quake, powerful enough to cause heavy damage in a populated area, shook the cities of Sanandaj and Marivan at 0110 a.m. (2040 GMT Wednesday).</p>
+<p>It said the seismological base of Kermanshah, which is affiliated to Tehran university's geophysics centre, registered the quake's epicentre at 140 km (87 miles) northwest of the base in the suburbs of Marivan.</p>
+<p>IRNA said no report had been received on possible loss of life or damage to property.</p>
+<p>Quakes hit Iran regularly. The worst recorded one measured 7.3 on the Richter scale and killed 35,000 people in a densely populated region near the Caspian coast in 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

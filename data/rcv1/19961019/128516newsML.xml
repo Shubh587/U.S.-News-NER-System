@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128516" id="root" date="1996-10-19" xml:lang="en">
+<title>UK: FEATURE - Computers set to shake up drug research world.</title>
+<headline>FEATURE - Computers set to shake up drug research world.</headline>
+<dateline>LONDON 1996-10-20</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Drug researchers wear white coats, shake up noxious looking concoctions in test tubes, and work in laboratories.</p>
+<p>But not for much longer.</p>
+<p>Like almost every other industry in the world, pharmaceutical research is being taken over by computers.</p>
+<p>According to the Computational Chemistry Unit at Warwick University in central England, researchers will spend less and less time working with messy, hazardous and costly real chemicals.</p>
+<p>Instead they will be peering at computer screens, which will help them quickly and safely identify the most profitable areas for study.</p>
+<p>The pharmaceutical industry's move to the computer hardly puts it in the industrial forefront.</p>
+<p>&quot;The aerospace industry has cut product development time to about four years from 10 using computers,&quot; Professor Paolo Zanella, director of the European Bioinformatics Institute at Cambridge, eastern England, told Reuters.</p>
+<p>On average it takes about 10 years for a drug to progress from an idea to the marketplace.</p>
+<p>Zanella said Boeing designed its new 777 airliner almost completely on computers. The car industry has embraced the computer for design and even crash simulation.</p>
+<p>As the pharmaceuticals business becomes ever more data intensive, it is in danger of being overwhelmed by an information overload, Zanella said.</p>
+<p>&quot;We need biologists with computer experience -- information scientists -- multi-disciplinary groups that can approach problems in different ways as in other industries. Life sciences seems to be the last one jumping on the bandwagon,&quot; said Zanella.</p>
+<p>The drugs industry spends vast sums on research, but has huge problems pinpointing potentially successful products.</p>
+<p>The world's pharmaceuticals companies spent just over $40 billion in 1995 on research and development, according to London's Centre for Medicines Research.</p>
+<p>Britain's Glaxo Wellcome spent $1.89 billion on research in 1995, more than any other company in the world. The world's top 10 pharmaceuticals companies in terms of sales all spent more than $1 billion on research last year.</p>
+<p>But despite this huge use of resources, the quest for efficacious drugs is almost a random event.</p>
+<p>The industry tests around 10,000 possible compounds for each one reaching the pharmacists' shelves, according to Professor Stuart Walker, the Centre's director.</p>
+<p>Walker said the 10,000 possible products become 1,000 after being screened in animals, and 100 after being tested for toxicology. After more tests only about 10 are left for human tests, and only one gets to market. One in 10 of these products is a therapeutic and economic winner, Walker says.</p>
+<p>The computer will be an essential tool to examine all the possible combinations of compounds, and eliminate research blind alleys, according to Warwick University's Dr Robert Deeth.</p>
+<p>&quot;At the moment bunches of chemists come together periodically and say &quot;let's make these molecules'. Using their experience, intuition, a series of compounds would be drawn up to synthesize and test. This is an extremely labour intensive business and at best hit and miss,&quot; Deeth said.</p>
+<p>Computers could revolutionise this process.</p>
+<p>&quot;You can use little gizmos (gadgets) to synthethise a wide range of compounds very quickly and test them very quickly with a powerful computer. You can go all through the combinations to get all possible products, then develop screening tests which pinpoint possible effective drugs,&quot; Deeth said.</p>
+<p>Some diseases are particularly promising for computers.</p>
+<p>&quot;Anti-viral and anti-bacterials are very amenable to this approach. It's easier to isolate and get the structure of viral enzymes. AIDS research is all based on this approach,&quot; said Darren Green, research scientist at the Glaxo Research Centre.</p>
+<p>Computer power is being turned on the race to find an improved version of penicillin, which is loosing its old effectiveness, Green said.</p>
+<p>Computers can improve the monitoring of drugs as they are tested, according to Walker.</p>
+<p>&quot;Drug companies can monitor the impact of drugs on patients. Instead of getting updates every few weeks, the drug companies can monitor patients directly in hospitals,&quot; Walker said.</p>
+<p>And perhaps an unforeseen side effect for researchers.</p>
+<p>Computers can pinpoint exactly who is doing what and how long it took, according to Walker.</p>
+<p>Glaxo's Green said all big drugs companies are actively using computers to win the race to find block-buster drugs.</p>
+<p>Zanella is confident that the industry will take up the aerospace challenge.</p>
+<p>&quot;We are just at the beginning of an era,&quot; he said. &quot;But in a few years time computers will add to our knowledge and understanding, and cut the time to market of new drug discoveries.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

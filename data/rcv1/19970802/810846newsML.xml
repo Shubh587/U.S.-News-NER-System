@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810846" id="root" date="1997-08-02" xml:lang="en">
+<title>USA: Wildfire destroys homes and cars in California.</title>
+<headline>Wildfire destroys homes and cars in California.</headline>
+<dateline>ESCONDIDO, Calif. 1997-08-02</dateline>
+<text>
+<p>A fire believed to have been started deliberately destroyed homes and vehicles in the hills near this southern Californian town, fire officials said Saturday.</p>
+<p>The wildfire started Friday afternoon near Lake Wohlford and swept thorugh 500 acres of brush, burning down 30 homes and other buildings and destroying 30 vehicles.</p>
+<p>No injuries were reported.</p>
+<p>California Department of Forestry chief Bill Clayton said firefighters found an incendiary device where the fire was believed to have started.</p>
+<p>A CDF spokeswoman said the fire should be under control by Sunday morning.</p>
+<p>A second wildfire burned 500 acres of brush 15 miles to the southeast of Escondido, threatening buildings in the Ramona area, but no damage had been reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESCONDIDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

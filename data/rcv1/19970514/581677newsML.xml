@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581677" id="root" date="1997-05-14" xml:lang="en">
+<title>ROMANIA: SOCCER-ROMANIAN CUP QUARTER-FINALS RESULTS.</title>
+<headline>SOCCER-ROMANIAN CUP QUARTER-FINALS RESULTS.</headline>
+<dateline>BUCHAREST 1997-05-14</dateline>
+<text>
+<p>Results of quarter-final</p>
+<p>matches in the Romanian Cup on Wednesday:</p>
+<p> Steaua Bucharest (I)	3 FC Petrolul Ploiesti (I) 2</p>
+<p>(sudden death extra time, 2-2 after 90 minutes)</p>
+<p> Dinamo Bucharest (I)	4 CSM Resita (II)	    1</p>
+<p> Universitatea Craiova (I) 2 FC Brasov (I)		0</p>
+<p> FC National Bucharest (I) 3 Universitatea Cluj (I)   1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

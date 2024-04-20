@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500632" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Dillard March same-store sales up 1 pct.</title>
+<headline>Dillard March same-store sales up 1 pct.</headline>
+<dateline>LITTLE ROCK, Ark. 1997-04-10</dateline>
+<text>
+<p>Dillard Department</p>
+<p>Stoes Inc Thursday reported sales for the 36 and 64 day</p>
+<p>periods ended April 6.</p>
+<p>	     Sales in millions of dollars     Percent change</p>
+<p>		    1997	 1996	     Total     Same-Store</p>
+<p>Month	     $641.1     $610.1	  +5	   +1</p>
+<p>Year-to-date  $1,102.1   $1,042.3	  +6	   +1</p>
+<p>The company said it is reporting March sales on a 36 day basis to preserve comparability due to the shift in the Easter Holiday.   ((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LITTLE ROCK, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

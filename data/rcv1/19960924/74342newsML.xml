@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74342" id="root" date="1996-09-24" xml:lang="en">
+<title>JAPAN: Tokyo stocks sag in early morning trade.</title>
+<headline>Tokyo stocks sag in early morning trade.</headline>
+<dateline>TOKYO 1996-09-24</dateline>
+<text>
+<p>Tokyo stock prices sagged in early morning trade on Tuesday as the market returned from a long weekend.</p>
+<p>Brokers said, however, that most participants in the market were sidelined, awaiting the outcome of the U.S. Federal Reserve's policy-setting meeting scheduled for later today.</p>
+<p>At 0018 GMT, the Tokyo stock market's benchmark 225-issue Nikkei average was down 58.14 points or 0.28 percent at 21,054.10. In the futures market, the key December futures were down 60 points at 21,120.</p>
+<p>&quot;It's the end of the month and the market is waiting for the FOMC (Federal Open Market Committee),&quot; said Yasuo Ueki, general manager at Nikko Securities. &quot;There is not much incentive to buy aggressively today.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

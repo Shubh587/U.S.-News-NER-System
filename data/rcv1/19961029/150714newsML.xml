@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150714" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Omaha cattle up $1.00 - USDA.</title>
+<headline>Omaha cattle up $1.00 - USDA.</headline>
+<dateline>OMAHA 1996-10-29</dateline>
+<text>
+<p>USDA said slaughter steers and heifers were $1.00 higher.</p>
+<p>Steers - select to mostly choice 2-4 1100-1325 lbs 70.50-72.00. Select 68.00-70.00.</p>
+<p>Heifers - mainly choice 2-4 1100-1250 lbs 70.50-72.00. Select, some lots with choice or commerical 65.00-70.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72168" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: ProxyMed gets three more contracts.</title>
+<headline>ProxyMed gets three more contracts.</headline>
+<dateline>FT. LAUDERDALE, Fla. 1996-09-24</dateline>
+<text>
+<p>ProxyMed Inc said Tuesday it has signed three more agreements with software developers to electronically transmit medical prescriptions.</p>
+<p>The partners are Data Strategies Inc and Aztec Medical Inc in San Diego, Calif., and Medifor Inc in Port Townsend, Wash.</p>
+<p>ProxyMed said that with these agreements, it now has contracts with 10 physician management software developers, linking it to about 130,000 physicians nationwide, or 25 percent of physicians in the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FT. LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

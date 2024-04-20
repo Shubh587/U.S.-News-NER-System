@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632912" id="root" date="1997-06-03" xml:lang="en">
+<title>argentina: RUGBY UNION-ENGLAND BEAT CUYO 37-8 IN TOUR MATCH.</title>
+<headline>RUGBY UNION-ENGLAND BEAT CUYO 37-8 IN TOUR MATCH.</headline>
+<dateline>MENDOZA, Argentina 1997-06-03</dateline>
+<text>
+<p>England beat Cuyo 37-8 (15-0) in their rugby union tour match on Tuesday.</p>
+<p>Scorers:</p>
+<p>Cuyo - Try: Matias Brandi. Penalty: Adrian Gioeni.</p>
+<p>England - Tries: Jim Mallinder 2, Jos Baxendell, Andy Gomarsall, Danny Grewcock, Mark Mapletoft. Conversions: Mapletoft 2. Penalty: Mapletoft.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENDOZA, Argentina"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

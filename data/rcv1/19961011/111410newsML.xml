@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111410" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: PerfectData eyeing business combinations.</title>
+<headline>PerfectData eyeing business combinations.</headline>
+<dateline>SIMI VALLEY, Calif. 1996-10-11</dateline>
+<text>
+<p>PerfectData Corp said Friday it is in discussions with several entities on possible business combinations.</p>
+<p>A statement issued by PerfectData did not say with whom it is discussions.</p>
+<p>The company designs and markets computer, office care and maintenance products and accessories. The products are designed to eliminate or minimize contamination in and around computers and office automation equipment, and to enhance user performance.</p>
+<p>PerfectData said it began its move into the high-technology field last summer with the acquisition of Starnet Universe Internet Inc, a Web server and Internet provider.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIMI VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

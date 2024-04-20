@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206741" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: CBOE to list options on Safeway, Ericsson, MEMC.</title>
+<headline>CBOE to list options on Safeway, Ericsson, MEMC.</headline>
+<dateline>CHICAGO 1996-11-21</dateline>
+<text>
+<p>The Chicago Board Options Exchange said it would list LEAPS on Safeway Inc, Ericsson Telephone Co and MEMC Electronic Materials Inc on November 25.</p>
+<p>LEAPS on Safeway will have strike prices of 40, 45 and 50 with expirations in January 1998 and 1999. LEAPS on Ericsson will have strikes of 25, 30 and 35 with expirations in January 1998 and 1999. MEMC LEAPS will have strikes of 20, 25 and 30 with expirations in January 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

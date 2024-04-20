@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612688" id="root" date="1997-05-25" xml:lang="en">
+<title>AUSTRALIA: Australian Rules-AFL results and standings.</title>
+<headline>Australian Rules-AFL results and standings.</headline>
+<dateline>MELBOURNE 1996-05-26</dateline>
+<text>
+<p>Results of Australian Football League matches played at the weekend.</p>
+<p>Played Sunday:</p>
+<p> Brisbane	    19.12  (126)  Geelong	    15.8    (98)</p>
+<p> Western Bulldogs  16.7   (103)  North Melbourne  10.11   (71)</p>
+<p> St Kilda	    22.9   (141)  Richmond	   14.10   (94)</p>
+<p> West Coast	  16.14  (110)  Essendon	   13.7    (85)</p>
+<p>Played Saturday:</p>
+<p> Carlton	     16.9   (105)  Fremantle	  14.4    (88)</p>
+<p> Hawthorn	    13.10   (88)  Adelaide	   14.18  (102)</p>
+<p> Sydney		16.15  (111)  Collingwood	11.8    (74)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

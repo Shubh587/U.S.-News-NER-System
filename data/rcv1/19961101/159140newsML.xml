@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159140" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Mazda October U.S. car sales fall.</title>
+<headline>Mazda October U.S. car sales fall.</headline>
+<dateline>DETROIT 1996-11-01</dateline>
+<text>
+<p>Mazda Motor Corp</p>
+<p>			Oct 1-31, 1996     Oct 1-31, 1995 *Pct Chng</p>
+<p> Domestic Car	     5,732	     7,236	    -23.7</p>
+<p> Domestic Truck	   2,639	     3,084	    -17.6</p>
+<p> Import Car		 5,534	     7,492	    -28.9</p>
+<p> Import Truck	     1,067	     1,100	     -6.6</p>
+<p>		  Jan 1-Oct 31, 1996 Jan 1-Oct 31, 1995 *Pct Chng</p>
+<p> Domestic Car	    75,449	    93,210	    -19.7</p>
+<p> Domestic Truck	  36,519	    39,347	     -7.9</p>
+<p> Import Car		85,797	   104,284	    -18.4</p>
+<p> Import Truck	    11,684	    12,688	     -8.6</p>
+<p>* Pct change based on daily selling rate. Sale days 27 in latest month vs 26, 258 for year to date vs 256 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245344" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Comair Nov load factor falls to 52.9 pct.</title>
+<headline>Comair Nov load factor falls to 52.9 pct.</headline>
+<dateline>CINCINNATI 1996-12-10</dateline>
+<text>
+<p>NOVEMBER</p>
+<p>			    1996	     1995	     % Change</p>
+<p> ASMs (000)	     230,326	  191,846		20.1%</p>
+<p> RPMs (000)	     121,835	  108,121		12.7%</p>
+<p> LOAD FACTOR		52.9%	    56.4%		-6.1%</p>
+<p> PASSENGERS	     365,713	  349,472		 4.6%</p>
+<p>					    FISCAL YTD</p>
+<p>				1997	    1996	    % Change</p>
+<p> ASMs (000)	     1,830,314	1,553,147	     17.8%</p>
+<p> RPMs (000)	     1,046,269	  838,966	     24.7%</p>
+<p> LOAD FACTOR		  57.2%	    54.0%		5.8%</p>
+<p> PASSENGERS	     3,179,523	2,682,079	     18.5%</p>
+<p>Full company name is Comair Holdings Inc</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

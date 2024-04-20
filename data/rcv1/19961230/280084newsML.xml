@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="280084" id="root" date="1996-12-30" xml:lang="en">
+<title>UK: LME concludes slow session mixed, nickel weak.</title>
+<headline>LME concludes slow session mixed, nickel weak.</headline>
+<text>
+<p>COPPER - Perks up in late trade, closes steadier but business mostly routine.</p>
+<p>ALUMINIUM - Finishes higher, edges up towards $1,550 by close.</p>
+<p>NICKEL - Ends weak, slumps under $6,400 to new 2-1/4 year low.</p>
+<p>LEAD - Closes with pared losses, holds above $700.</p>
+<p>ZINC - Finishes lower, but trade slow. TIN/ALLOY - Steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

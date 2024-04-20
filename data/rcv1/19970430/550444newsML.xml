@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550444" id="root" date="1997-04-30" xml:lang="en">
+<title>HONG KONG: Ex-Reuters engineer jailed 32 months for sabotage.</title>
+<headline>Ex-Reuters engineer jailed 32 months for sabotage.</headline>
+<dateline>HONG KONG 1997-04-30</dateline>
+<text>
+<p>A Hong Kong court on Wednesday sentenced an engineer formerly employed by the world news and information group Reuters Plc to 32 months in jail for sabotaging dealing room systems at Hong Kong financial institutions.</p>
+<p>Wilson Chan pleaded guilty to three charges of criminal damage. Each charge carried a maximum sentence of four years.</p>
+<p>Last November a number of financial institutions in Hong Kong experienced difficulties with their systems. It was later discovered that their computer files had been tampered with, the charge sheet said.</p>
+<p>Chan, who then worked for Reuters in Hong Kong, had admitted the motive for his action was a dispute with a superior.</p>
+<p>District Court Judge David Gill said: &quot;He stood to gain nothing from this most extraordinary behaviour...Prison, I believe, is necessary.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

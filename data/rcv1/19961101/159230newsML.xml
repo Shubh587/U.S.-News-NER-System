@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159230" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 01-NOV					     .</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 01-NOV					     .</headline>
+<text>
+<p>Tropical Cyclone Melanie will be a moderate threat to shipping in the Indian Ocean, west northwest of the Cocos Islands. The storm, currently with 50 mph winds, will drift westward along 10N from 94E to 90E during the next 48 hours. Melanie is not a threat to land.  </p>
+<p>Strong thunderstorms in the South China Sea centered near 11n/117e are likely causing squalls and rough seas. This is of some risk to shipping in the region. A circulation may be forming. This is being watched as it may become a tropical storm this period.  </p>
+<p>There are no further statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

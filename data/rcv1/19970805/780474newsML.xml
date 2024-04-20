@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780474" id="root" date="1997-08-05" xml:lang="en">
+<title>JAPAN: TABLE-Japan June household spending down 4.7 pct.</title>
+<headline>TABLE-Japan June household spending down 4.7 pct.</headline>
+<dateline>TOKYO 1997-08-05</dateline>
+<text>
+<p>Japan's household spending in June fell 4.7 percent in real terms from a year earlier to an average 310,990 yen per household, the government's Management and Coordination Agency said on Tuesday.</p>
+<p>The agency also said that household spending in the January-June period fell a real 0.2 percent from the same period a year earlier.</p>
+<p>The following is a breakdown of year-on-year percentage changes in June and May in real and nominal terms:</p>
+<p>					   June		 May</p>
+<p>				     Real   Nominal    Real   Nominal</p>
+<p>Overall household spending   -4.7    -2.5     -2.2    -0.3</p>
+<p>(average 310,990 yen)</p>
+<p>Spending by wage earners     -5.8    -3.6     -1.5    +0.4</p>
+<p>(average 330,956 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

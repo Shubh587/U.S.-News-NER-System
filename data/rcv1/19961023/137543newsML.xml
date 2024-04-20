@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137543" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: CBOT T-bonds options vol/open interest - Oct 22.</title>
+<headline>CBOT T-bonds options vol/open interest - Oct 22.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: T-BONDS		 CALL</p>
+<p>			PRIOR    DAY   GIVE		  OPTS    CURR    EVE   PJA</p>
+<p>YR MTH		 POS   TRADES  UPS  TRFRS ADJST  EXER    POS    TRDS  TRDS</p>
+<p>-- ---	     ------- ------ ----- ----- ----- ------ ------- ----- -----</p>
+<p>96 DEC TOTAL	273516  38281  9251     1  7426    593  271903    29    10</p>
+<p>97 JAN TOTAL	  1350    750				     2025</p>
+<p>97 FEB TOTAL	   100						 100</p>
+<p>97 MAR TOTAL	 65011  20091  5289	   543	    77041</p>
+<p>97 JUN TOTAL	  2420     20				     2407</p>
+<p>97 OCT TOTAL		    100					100</p>
+<p>97 DEC TOTAL	  2040						2040</p>
+<p>COMMODITY: T-BONDS		 PUT</p>
+<p>96 DEC TOTAL	216799  32410  7986   202  5173	   222865   491   110</p>
+<p>97 JAN TOTAL	   200   1150				     1350</p>
+<p>97 MAR TOTAL	 44933   6084  1275	   145	    47552</p>
+<p>97 JUN TOTAL	  1782     30				     1812</p>
+<p>97 OCT TOTAL	   400						 400</p>
+<p>CMMDTY TOTAL	608551  98916 23801   203 13287    593  629595   520   120</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145461" id="root" date="1996-10-25" xml:lang="en">
+<title>SWEDEN: Swedish producer prices rise 0.1 pct in Sept.</title>
+<headline>Swedish producer prices rise 0.1 pct in Sept.</headline>
+<dateline>STOCKHOLM 1996-10-25</dateline>
+<text>
+<p>Swedish producer prices rose 0.1 percent in September, Statistics Sweden said on Friday.</p>
+<p> (Percentage change)	     SEPT 96     12 MO TO DATE</p>
+<p> Export prices		     +0.2	    -8.4</p>
+<p> Import prices		     +1.1	    -4.6</p>
+<p> Producer prices		   +0.1	    -5.0</p>
+<p>Note - The market had expected PPI to fall by 0.1 percent, according to a Reuter survey.</p>
+<p>-- Belinda Goldsmith, Stockholm newsroom +46-8-700-1045</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444875" id="root" date="1997-03-15" xml:lang="en">
+<title>USA: TENNIS-EVERT CUP RESULTS.</title>
+<headline>TENNIS-EVERT CUP RESULTS.</headline>
+<dateline>INDIAN WELLS, California 1997-03-14</dateline>
+<text>
+<p>Results from</p>
+<p>the $1.25 million Evert Cup women's tennis tournament on</p>
+<p>Saturday (prefix number denotes seeding):</p>
+<p>Final</p>
+<p>4-Lindsay Davenport (U.S.) beat 6-Irina Spirlea (Romania) 6-2</p>
+<p>6-1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIAN WELLS, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

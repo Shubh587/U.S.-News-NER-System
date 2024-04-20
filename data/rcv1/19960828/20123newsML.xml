@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20123" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 28-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 28-AUG.</headline>
+<text>
+<p>Powerful Hurricane Edouard remains only a threat to shipping at this time. The storm, currently centered about 240 miles north northeast of the Leeward Islands, is moving west northwest at 14 mph. Top winds are 130 mph and little change in strength is likely into Wednesday as the storm continues its track. The current forecast track brings the storm north of the Caribbean Islands but large swells are expected over the coastal waters of the islands in the northeastern Caribbean over the next 24-48 hours. It is still too early to tell if Edouard will reach the US East Coast but this can not be counted out at this time.  </p>
+<p>Typhoon Orson is centered over open waters far east of Japan, near 26n/152e. The storm is nearly stationary and has top winds near 105 mph but is now beginning to weaken. This weakening trend will continue during the next 24-36 hours as the storm eventually takes a northwestward drift. Orson is only a threat to shipping in the region at this time.  </p>
+<p>Tropical Depression 06, with 35 mph winds, is located about 800 miles east of the Lesser Antilles, moving west at 14 mph. Tropical Depression 07, with 35 mph winds, is located about 600 miles southwest of the Cape Verde Islands, moving west at 14 mph. Neither of these weather systems threaten land at this time. The threat to shipping will begin to increase, however, as both of these systems are forecast to strengthen into tropical storms during the next 24-36 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

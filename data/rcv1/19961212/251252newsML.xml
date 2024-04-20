@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251252" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Fulton Bancorp Inc Q2 Oct 31 loss.</title>
+<headline>Fulton Bancorp Inc Q2 Oct 31 loss.</headline>
+<dateline>FULTON, Mo. 1996-12-12</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.02			n/a</p>
+<p> Net loss			33   profit	   208</p>
+<p>	  6  MONTHS</p>
+<p> Shr profit		 $0.12			n/a</p>
+<p> Net profit		   196			351</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Company completed initial public offering October 17.</p>
+<p>1996 results include one-time charge of $427,000 for recapitalization of Savings Association Insurance Fund.</p>
+<p>((--Chicago newsdesk 312 408 8787)).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FULTON, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

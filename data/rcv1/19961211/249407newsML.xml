@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249407" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: U.S. will modestly revise encryption exports rule.</title>
+<headline>U.S. will modestly revise encryption exports rule.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-12-11</dateline>
+<text>
+<p>The Clinton administration will modestly revise controversial export rules for computer encoding technology after a private meeting Wednesday with computer and telecommunications companies, a top Commerce Department official said.</p>
+<p>&quot;This is a work in progress,&quot; Under Secretary of Commerce William Reinsch said in a telephone interview after the hour and a half long meeting. &quot;There will be some changes that will be more than technical.&quot;  </p>
+<p>The administration circulated a draft this week of new rules that would overhaul Cold War era export limits on products containing encryption, computer programs that scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>With the growth of the Internet and online commerce, demand for encryption-capable products is growing worldwide. Coded messages can keep a business' e-mail confidential or protect a consumer's credit card number sent on the Internet.</p>
+<p>Reinsch and others who attended Wednesday's meeting said the tone was civil.  </p>
+<p>&quot;We had a long meeting but it was actually quite a constructive one and actually also a polite one,&quot; Reinsch said.</p>
+<p>Industry officials argued at the meeting that the draft rules were unclear or unworkable on a number of points.</p>
+<p>&quot;In some cases we could tell them what we meant which made them feel better and now we'll go off and try to fix it,&quot; Reinsch acknowledged. &quot;In other cases we're going to have to think a little more about what they said and in some cases I'm not sure there is a way to fix it.&quot;  </p>
+<p>&quot;We are not optimistic that these (rules) will be turned around and we feel going to Congress is our only option,&quot; Smiroldo said. The alliance includes a dozen large software firms including Microsoft Corp and International Business Machine Corp's Lotus Development.</p>
+<p>Several bills that would dramatically ease encryption export limits were introduced in the last Congress and are expected to be revived next year.</p>
+<p>Ambassador David Aaron, appointed by President Clinton as special envoy for cryptography last month, also attended the meeting, Reinsch said.</p>
+<p>The draft rules implement an executive order signed by President Bill Clinton last month. Under the order, limits on export of products containing strong encryption would be eased if the products allowed the government to decode encrypted messages by recovering the keys.</p>
+<p>The draft rules detail for the first time the government's definition of acceptable key recovery features and other aspects of the revised export approval process.</p>
+<p>For example, until 1999, companies will be allowed to export some products that do not include key recovery if the companies promise to include key recovery in future products. -- 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

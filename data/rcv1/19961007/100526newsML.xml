@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100526" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 07-OCT.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 07-OCT.</headline>
+<text>
+<p>A tropical storm watch is up for the Florida Gulf Coast from Apalachicola to Venice as Tropical Storm Josephine threatens. Josephine has 45 mph winds at this time and is centered about 300 miles to the south of New Orleans, Louisiana, moving east northeast near 13 mph. An increase in forward speed and a turn to the northeast should bring Josephine toward northwestern Florida, with landfall expected overnight tonight. Top winds may reach or exceed 50 mph before landfall. Josephine is a threat to shipping but will also spread a large area of heavy rain and potential flooding over the eastern Gulf Coast today.  </p>
+<p>Tropical Storm Genevieve, nearly stationary about 625 miles southwest of the southern tip of Baja California is expected to drift northwestward today and tonight with top winds 40-45 mph. Genevieve will be a moderate threat to shipping.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

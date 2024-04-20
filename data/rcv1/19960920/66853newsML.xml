@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66853" id="root" date="1996-09-20" xml:lang="en">
+<title>KYRGYZSTAN: Kyrgyz GDP rises 3.1 pct in Jan-Aug.</title>
+<headline>Kyrgyz GDP rises 3.1 pct in Jan-Aug.</headline>
+<dateline>BISHKEK 1996-09-20</dateline>
+<text>
+<p>Kyrgyzstan's gross domestic product in the first eight months of this year totalled 12.01 billion som, which was 3.1 percent more than a year earlier in inflation-adjusted terms, the National Statistics Committee said on Friday.</p>
+<p>    KYRGYZ GDP		    Jan-Aug 96  Jan-Jul 96  Jan-Aug 95</p>
+<p>    year-on-year pct change	+3.1	  +1.5	  -9.8</p>
+<p>--Almaty Newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KIRGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BISHKEK"/>
+<dc element="dc.creator.location.country.name" value="KYRGYZSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111020" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: PacifiCorp says Fairbanks voters okay sale.</title>
+<headline>PacifiCorp says Fairbanks voters okay sale.</headline>
+<dateline>PORTLAND, Ore. 1996-10-11</dateline>
+<text>
+<p>PacifiCorp said Friday voters in Fairbanks, Alaska have approved the sale of Fairbanks Municipal Utility System's telecommunications assets to a group that includes Pacific Telecom Inc, a unit of PacifiCorp, for $112 million in cash.</p>
+<p>The group recieves a telecommunications system that has 32,000 telephone access lines, 6,800 cellular customers, cash and net working capital.</p>
+<p>The acquisition is subject to regulatory approval which is expected sometime in mid-1997.</p>
+<p>Pacific Telecom currently has three telephone asset acquisitions totaling $248 million waiting for regulatory approval.  The systems serve roughly 70,000 access lines in Minnesota, Michigan and Alaska.</p>
+<p>Pacific Telecom plans to finance the acquisitions using debt. By doing so, it will boost its debt to equity ratio to 49/51 percent from 41/59 percent at June 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

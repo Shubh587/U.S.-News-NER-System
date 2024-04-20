@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581032" id="root" date="1997-05-13" xml:lang="en">
+<title>JAPAN: Reactors in southern Japan unaffected by quake.</title>
+<headline>Reactors in southern Japan unaffected by quake.</headline>
+<dateline>TOKYO 1997-05-13</dateline>
+<text>
+<p>Kyushu Electric Power Co Inc said that its nuclear power plant operations were not affected by a strong earthquake which hit Japan's southern island of Kyushu on Tuesday.  </p>
+<p>&quot;Our reactors are running normally, and there is no radiation leakage at the plants,&quot; a company spokesman said.</p>
+<p>The earthquake registered 6.1 on the Richter scale and was centred near the city of Sendai in Kagoshima Prefecture, on the southwestern part of the island, Japan's Meterological Agency said.</p>
+<p>Kyushu Electric operates two reactors at its Sendai nuclear power plant in Kagoshima and three at its Genkai nuclear power plant in Saga Prefecture in northern Kyushu.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

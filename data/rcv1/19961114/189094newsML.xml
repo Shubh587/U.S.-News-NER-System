@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189094" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Nasdaq closing actives.</title>
+<headline>Nasdaq closing actives.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Thursday.</p>
+<p>  Vet Cntrs Amer    16,365,900	 9 7/16     off    15/16</p>
+<p>  Sun Microsys	10,195,500	 58 1/8     up     1/4</p>
+<p>  Mci Comms Cp	10,181,900	 29 3/16    up     7/16</p>
+<p>  Intel Corp	  9,693,200	 119 7/8    up     3/8</p>
+<p>  Informix Corp     7,965,400	 21	   up     2</p>
+<p>  Staples Inc	 7,554,100	 18 5/8     up     1/2</p>
+<p>  Microsoft Cp	7,185,100	 149 5/8    up     4 5/8</p>
+<p>  Cisco Systems     6,210,700	 65 1/4     off    7/8</p>
+<p>  Applied Matl	5,496,600	 32	   up     1 5/8</p>
+<p>  Amresco Inc	 5,189,700	 21 1/4     off    1/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

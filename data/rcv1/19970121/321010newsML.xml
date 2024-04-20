@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321010" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: Argentina sets $2.0 billion global bond due 2017.</title>
+<headline>Argentina sets $2.0 billion global bond due 2017.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>The following global bond was announced by joint lead managers JP Morgan and Merrill Lynch.</p>
+<p> BORROWER   ARGENTINA, REPUBLIC OF</p>
+<p> AMT    $2.0 BLN	COUPON     **	  MATURITY	   2017</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  **	  PAY DATE    =</p>
+<p> FULL FEES  =	   REOFFER    **	  SPREAD	+462.5 BP</p>
+<p> NOTES	**TO BE PRICED</p>
+<p>		SPREAD OVER AUGUST 2026 U.S. TREASURY</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

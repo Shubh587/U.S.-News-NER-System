@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264880" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Livingston Survey sees U.S. GDP +2.1 PCT in 1997.</title>
+<headline>Livingston Survey sees U.S. GDP +2.1 PCT in 1997.</headline>
+<dateline>WASHINGTON 1996-12-18</dateline>
+<text>
+<p>The Federal Reserve Bank of Philadelphia semi-annual Livingston survey of private forecasters. 1997 GDP Q4 over Q4; 1997 CPI, PPI Dec to Dec:</p>
+<p>		Q4 96   1st half 97   Full year 97    10-year avg</p>
+<p>Real GDP    2.3 pct   2.0 pct	 2.1 pct	  2.4 pct</p>
+<p>PPI	   N/A	 2.4 pct	 2.4 pct	  N/A</p>
+<p>CPI	   N/A	 3.1 pct	 3.0 pct	  3.0 pct</p>
+<p>		 Unemployment and interest rates</p>
+<p>			    Dec '96	 June '97	 Dec 97</p>
+<p> Unemployment Rate    5.3 pct	 5.3 pct	  5.4 pct</p>
+<p> 3-month T-bill	 5.1 pct	 5.2 pct	  5.2 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102081" id="root" date="1996-10-08" xml:lang="en">
+<title>ZAMBIA: ZCCM copper, cobalt production up in Aug.</title>
+<headline>ZCCM copper, cobalt production up in Aug.</headline>
+<dateline>LUSAKA 1996-10-08</dateline>
+<text>
+<p>Zambia Consolidated Copper Mines Ltd (ZCCM) copper and cobalt production rose in August after dropping in July, central bank figures obtained on Tuesday showed.</p>
+<p>Copper production rose to 25,141 tonnes, up from 24,885 in July. Copper exports fell to 29,046 tonnes from 36,201.</p>
+<p>Cobalt production increased to 441 tonnes from 259, while exports rose to 211 tonnes from 94.</p>
+<p>--Lusaka newsroom, +26 01 222-689</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

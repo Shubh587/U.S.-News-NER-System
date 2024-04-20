@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629243" id="root" date="1997-06-01" xml:lang="en">
+<title>INDONESIA: Indonesian election count at 0700 GMT.</title>
+<headline>Indonesian election count at 0700 GMT.</headline>
+<dateline>JAKARTA 1997-05-31</dateline>
+<text>
+<p>Following are the Indonesian election figures with 109,668,262 ballots of a potential 125 million counted by 3 p.m. Saturday (0700 GMT):</p>
+<p>Ruling Golkar party: 81,411,144 votes,  74.23 pct</p>
+<p>United Development Party (PPP): 24,921,845 votes,  22.72 pct</p>
+<p>Indonesian Democratic Party (PDI): 3,335,264 votes,   3.04 pct</p>
+<p>Percentage results in Jakarta:</p>
+<p>Golkar: 57.04 pct</p>
+<p>PPP:    41.02 pct</p>
+<p>PDI:     1.97 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

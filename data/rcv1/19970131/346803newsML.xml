@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="346803" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: New gene therapy could treat prostate cancer.</title>
+<headline>New gene therapy could treat prostate cancer.</headline>
+<byline>Andrea Orr</byline>
+<dateline>LOS ANGELES 1997-01-31</dateline>
+<text>
+<p>Researchers have discovered a highly precise and potent way to target prostate cancer that could lead to a new treatment that is safer and more effective than chemotherapy, a new study reported on Friday.</p>
+<p>The treatment would work by injecting genes into the prostate that kill the cancer cell while sparing the surrounding healthy cells -- a method the author of the study likens to a &quot;smart bomb.&quot;</p>
+<p>The study of this genetically engineered attack on prostate cancer was conducted at the Jonsson Comprehensive Cancer Center at the University of California at Los Angeles. The findings are published in the Feb. 1 issue of the journal &quot;Cancer Research&quot;.</p>
+<p>&quot;Chemotherapy can not differentiate between the good and the bad cells,&quot; Dr. Arie Belldegrum, principal investigator for the study and chief of Urologic Oncology at the UCLA School of Medicine told Reuters. &quot;We are attempting to create a smart bomb.&quot;</p>
+<p>While the concept of gene therapy to treat cancer is not new, Belldegrum's team has discovered a delivery system that transports a genetically-altered, cancer-killing gene 1,000 times more effectively than previously known methods.</p>
+<p>Prostate cancer is the most common form of cancer in men, and kills about 40,000 men in the U.S. each year.</p>
+<p>But unlike most other forms of cancer, prostate cancer is also the ideal target for gene therapy because it is almost always associated with a substance in the blood stream, known as the protein specific antigen, or PSA.</p>
+<p>All people have PSA genes but only the presence of prostate cancer activates them to produce the protein specific antigen. For this reason, doctors can usually detect prostate cancer with a simple blood test.</p>
+<p>&quot;With colon or breast cancer we don't have such specific markers,&quot; said Dr. Belldegrum.</p>
+<p>Recognizing the value of this specific marker, researchers have often focused their gene therapy experiments on prostate cancer, using the promoter, or driver region of the PSA gene to direct a so-called suicide gene to the targeted cancer cells.</p>
+<p>But while the concept worked in theory, the activity has in the past been too weak to work on patients.</p>
+<p>What the UCLA research team discovered to make it more practicable is the enhancer region on the PSA gene, which they say makes the treatment 1,000 times more effective by boosting the effectiveness of the delivery system.</p>
+<p>In tests, the genetically engineered PSA genes have been shown to attack human prostate cancer cells growing in mice. Dr. Belldegrum said the researchers are now preparing to apply for Food and Drug Administration approval to begin experimenting with the therapy on people within a year or two.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

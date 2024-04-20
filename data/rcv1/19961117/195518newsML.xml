@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195518" id="root" date="1996-11-17" xml:lang="en">
+<title>PORTUGAL: Guinea-Bissau cholera outbreak kills 31.</title>
+<headline>Guinea-Bissau cholera outbreak kills 31.</headline>
+<dateline>LISBON 1996-11-17</dateline>
+<text>
+<p>A cholera outbreak in the West African state of Guinea-Bissau has killed 31 people among 2,891 cases reported since an epidemic was declared last month, Portugal's news agency Lusa said on Sunday.</p>
+<p>Most cases registered were in Bissau, capital of the former Portuguese colony, Lusa quoted official health department statistics saying.</p>
+<p>Health authorities declared the epidemic on October 11. The last previous cholera epidemic in Guinea-Bissau, from October 1994 to March 1995, killed 290 people.</p>
+<p>Cholera, spread by poor hygiene or drinking water contaminated by sewage, brings on severe diarrhoea and dehydration. It is relatively easy to treat but health workers say rehydration fluids and medicines are in short supply.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

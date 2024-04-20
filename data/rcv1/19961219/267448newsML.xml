@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="267448" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: U.S. cocoa and coffee exports--Commerce.</title>
+<headline>U.S. cocoa and coffee exports--Commerce.</headline>
+<dateline>WASHINGTON 1996-12-19</dateline>
+<text>
+<p>U.S. Commerce Department</p>
+<p>cocoa and coffee exports, in tonnes:</p>
+<p> -				 Domestic   Foreign</p>
+<p> -				  Exports   Re-Exports</p>
+<p> -  Cocoa Beans-X:   Oct 96     Nil   1,934</p>
+<p> -			Sept 96     Nil   1,151</p>
+<p> -			 Oct 95     Nil   1,532</p>
+<p> - Cocoa Butter-Y:   Oct 96     386     679</p>
+<p> -			Sept 96     310     523</p>
+<p> -			 Oct 95     369     535</p>
+<p>X-Whole or broken, raw or roasted. Y-Fat and oil included.</p>
+<p>    COFFEES --    Oct96    Sept96     Oct95</p>
+<p>DOMESTIC EXPORTS (tonnes) --</p>
+<p>    -  Unroasted    165	  35	  47</p>
+<p>    -    Roasted  3,365     2,383     2,775</p>
+<p>    Concentrated    358	 344	 225</p>
+<p>FOREIGN RE-EXPORTS (tonnes) --</p>
+<p>    -  Unroasted  3,582     3,234     4,494</p>
+<p>    -    Roasted    107	  94	 131</p>
+<p>    Concentrated	4	  10	  10</p>
+<p>Coffees include decaffeinated and nondecaffeinated, and exclude husks and skins. Concentrated includes instant and nonflavored.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

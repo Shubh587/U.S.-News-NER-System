@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213205" id="root" date="1996-11-24" xml:lang="en">
+<title>GERMANY: At least 10 injured in blast in Germany - police.</title>
+<headline>At least 10 injured in blast in Germany - police.</headline>
+<dateline>BONN 1996-11-24</dateline>
+<text>
+<p>At least 10 people were injured when a large explosion wrecked a Turkish-owned supermarket in the north German city of Bremen on Saturday night, police said.</p>
+<p>Two of those injured appeared to be seriously hurt and the supermarket was completely destroyed, police said in a statement. Neighbouring buildings and nearby cars were badly damaged.</p>
+<p>Police said the cause of the blast, which took place in the Blumenthal district of the city, was not yet clear and it was too early to estimate the value of the material damage.</p>
+<p>Around 2.2 million Turks live in Germany. Their property has been the target of several waves of firebomb attacks, sometimes carried out by right-wing extremists but recently they have more often been the result of rivalries within the Turkish community.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

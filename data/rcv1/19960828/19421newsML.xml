@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19421" id="root" date="1996-08-28" xml:lang="en">
+<title>IRAN: Iran says its first helicopter passes flight tests.</title>
+<headline>Iran says its first helicopter passes flight tests.</headline>
+<dateline>TEHRAN 1996-08-28</dateline>
+<text>
+<p>Iran's first locally-designed helicopter has successfully passed flight tests at a government research facility, a newspaper reported on Wednesday.</p>
+<p>The daily Kayhan quoted a statement from a state industrial development centre in the southern city of Shiraz as saying the Zafar-5 (Victory-5) helicopter was tested in its wind tunnel.</p>
+<p>Iran's Ministry of Industries will soon be producing prototypes of the helicopter, which is designed for multiple uses, including carrying up to six passengers, lifting oil rigs or helping to fight fires, it added.</p>
+<p>Each helicopter would cost $900,000 to build, $1 million less than the price of an imported one, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3640029">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

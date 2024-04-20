@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431381" id="root" date="1997-03-10" xml:lang="en">
+<title>SWEDEN: Ericsson says signs China contract.</title>
+<headline>Ericsson says signs China contract.</headline>
+<dateline>STOCKHOLM 1997-03-10</dateline>
+<text>
+<p>Swedish telecoms group Ericsson said on Monday it signed a DCS 1800 network contract with Shanghai Post &amp; Telecommunication Adminstration in China.  </p>
+<p>The DCS 1800 network is a personal communication system based on the global system for mobile communications (GSM), the company said in a statement, without disclosing the value of the order.</p>
+<p>This is the first contract for a stand-alone DCS 1800 in China, Ericsson said.</p>
+<p>The network will have a capacity of 126,000 subscribers, the company said.</p>
+<p>-- Birgitta Forsberg, Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

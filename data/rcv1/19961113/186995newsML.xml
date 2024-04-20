@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186995" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: KCBT deliverable HRW wheat stocks.</title>
+<headline>KCBT deliverable HRW wheat stocks.</headline>
+<dateline>KANSAS CITY, MO 1996-11-13</dateline>
+<text>
+<p>The Kansas City Board of Trade reported stocks of hard red winter wheat in deliverable position in exchange approved warehouses as of Nov 8, in 000 bushels. Note: Deliverable and non-deliverable grades exclude CCC stocks.</p>
+<p>						Nov 8    WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>						   KANSAS CITY AREA</p>
+<p>Deliverable				 4,930    5,453 10,995</p>
+<p>Non-deliverable			     136	126    326</p>
+<p>CCC stocks				    863	863  1,306</p>
+<p>Total					 5,929    6,442 12,627</p>
+<p>						    HUTCHINSON AREA</p>
+<p>Deliverable				 1,923    2,153   unq</p>
+<p>Non-deliverable			     345	349   unq</p>
+<p>CCC stocks				  3,583    3,583   unq</p>
+<p>Total					 5,851    6,085   unq</p>
+<p>(Chicago newsdesk 312 983 7278)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, MO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111357" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Acxiom sets two-for-one stock split.</title>
+<headline>Acxiom sets two-for-one stock split.</headline>
+<dateline>CONWAY, Ark. 1996-10-11</dateline>
+<text>
+<p>Acxiom Corp said on Friday that its board of directors approved a two-for-one stock split effective November 11 for holders of record on October 25.</p>
+<p>The company also said it reached an agreement to settle an arbitration with Highlights for Children Inc. The terms of the settlement were not disclosed, but the company said it was not material to Acxiom's financial statements.</p>
+<p>Highlights had filed a demand for arbitration in July 1995 over a 1991 software license agreement between the two companies. Acxiom provieds data products, data integration services and mailing list processing services.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONWAY, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

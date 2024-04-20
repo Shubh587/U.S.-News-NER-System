@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="402586" id="root" date="1997-02-25" xml:lang="en">
+<title>JAPAN: Japan Atomic yet to set date to restart reactor.</title>
+<headline>Japan Atomic yet to set date to restart reactor.</headline>
+<dateline>TOKYO 1997-02-25</dateline>
+<text>
+<p>Japan Atomic Power Co said on Tuesday it has yet to set a date to restart a 357,000 kilowatt reactor that was shut on Friday due to a water leak from a pipe near the unit.</p>
+<p>The reactor is located in Fukui Prefecture, central Japan.</p>
+<p>The pipe is connected to control rods which are operated by water pressure, and water in the pipe is contaminated with radiation, a company spokesman said. Control rods regulate the fission chain reaction in reactors.</p>
+<p>The spokesman said it is too early to say when the reactor will be back on line as the investigation into the cause of the leak is still under way.</p>
+<p>The company found a crack and a tiny hole in the pipe during an emergency check following the manual shutdown, and is still investigating what caused them.</p>
+<p>There was no radiation leakage outside the plant, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

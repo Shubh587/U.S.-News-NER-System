@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151609" id="root" date="1996-10-29" xml:lang="en">
+<title>SPAIN: Spain's 1-year bill rate inches up to 6.508 pct.</title>
+<headline>Spain's 1-year bill rate inches up to 6.508 pct.</headline>
+<dateline>MADRID 1996-10-29</dateline>
+<text>
+<p>The Bank of Spain announced the following results at today's Treasury debt auction (amounts bid, allocated in billions of pesetas):</p>
+<p>ISSUE	Yield    Pvs     Price     Pvs	Bid    Allocated</p>
+<p>1-year     6.508    6.503   93.81    93.83   371.421  239.825</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

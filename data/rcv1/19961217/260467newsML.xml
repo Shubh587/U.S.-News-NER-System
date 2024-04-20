@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260467" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Intervoice Q3 Nov 30 shr declines.</title>
+<headline>Intervoice Q3 Nov 30 shr declines.</headline>
+<dateline>DALLAS 1996-12-17</dateline>
+<text>
+<p>Three Months Ending	Nine Months Ending</p>
+<p>			 November 30		  November 30</p>
+<p>			  1996	 1995	  1996	   1995</p>
+<p> Sales	 $24,335,974 $25,145,270 $77,195,497  $70,845,688</p>
+<p> Net Income    1,249,990   4,411,047   9,500,305   12,639,231</p>
+<p> EPS		    0.08	  0.27	  0.57	   0.77</p>
+<p> Avg shrs	16,524,457 16,542,379  16,675,136   16,368,755</p>
+<p>Adjusted to remove litigation settlement:</p>
+<p>		   Three Months Ending	Nine Months Ending</p>
+<p>			 November 30		  November 30</p>
+<p>			  1996	 1995	  1996	   1995</p>
+<p> Sales	 $24,335,994 $25,145,270 $77,195,497  $70,845,688</p>
+<p> Net Income    2,509,990   4,411,047  10,760,305   12,639,231</p>
+<p> EPS		    0.15	  0.27	  0.65	   0.77</p>
+<p> Avg shrs     16,524,457  16,542,379  16,675,136   16,368,755</p>
+<p>Full company name is InterVoice Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

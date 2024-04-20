@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250002" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: NAA says newspaper ad revenue up.</title>
+<headline>NAA says newspaper ad revenue up.</headline>
+<dateline>WASHINGTON 1996-12-10</dateline>
+<text>
+<p>U.S. newspaper classified advertising revenue was up 10.6 percent in the third quarter of 1996, the Newspaper Association of America said Tuesday.</p>
+<p>Retail advertising grew by 3.3 percent and national advertising rose 18 percent, the association said.</p>
+<p>Total advertising expenditures in newspapers for the first three quarters of 1996 grew by 6.2 percent over the same period in 1995, NAA said.</p>
+<p>&quot;The continued steady growth in advertising revenue reflects the healthy nature of newspapers across the country,&quot; NAA president John Sturm said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

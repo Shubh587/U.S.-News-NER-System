@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297296" id="root" date="1997-01-09" xml:lang="en">
+<title>EGYPT: Egypt quarry blast kills nine miners.</title>
+<headline>Egypt quarry blast kills nine miners.</headline>
+<dateline>CAIRO 1997-01-09</dateline>
+<text>
+<p>Nine Egyptian miners were killed and another severely injured on Thursday after a blast ripped through an alabaster quarry in the Sinai, security sources said.</p>
+<p>They said an unidentified object exploded while the miners were investigating a vein in the quarry at the Reheinah area, some 45 km (28 miles) from the resort town of Ras Sidr.</p>
+<p>The blast caused a deep crater in the quarry and disfigured the bodies beyond identification.</p>
+<p>The sources said Egyptian police called in explosive experts to find out whether the object was a mine left over from Egypt's war with Israel or a blasting device used in mining.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

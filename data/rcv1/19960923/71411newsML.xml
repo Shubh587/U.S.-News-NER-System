@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71411" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: U.S. stocks sharply lower at opening.</title>
+<headline>U.S. stocks sharply lower at opening.</headline>
+<dateline>NEW YORK 1996-09-23</dateline>
+<text>
+<p>Wall Street stocks fell sharply in nervous early trading on Monday ahead of Tuesday's Federal Reserve meeting on interest rates.</p>
+<p>All Dow industrial components traded lower, with the Dow industrials average off 30 at 5,858. The NASDAQ Index was off six at 1,214, while the S&amp;P Index fell 3.5 to 683.5.</p>
+<p>The long bond was off 1/32 to yield 7.05 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

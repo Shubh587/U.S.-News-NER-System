@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="426313" id="root" date="1997-03-07" xml:lang="en">
+<title>POLAND: Polish bonds auction timetable for Q2 1997.</title>
+<headline>Polish bonds auction timetable for Q2 1997.</headline>
+<dateline>WARSAW 1997-03-07</dateline>
+<text>
+<p>The Polish Finance Ministry on Friday announced the timetable of bond auctions for the second quarter of 1997. The amounts of the offers have not been given. NOTE: The actual amount of bonds on offer is announced a week before the tender.</p>
+<p>     DATE		    BOND TYPE			BOND SYMBOL</p>
+<p>    April 4		 fixed 2-yr			 AS0699</p>
+<p>				fixed 5-yr			 OS0602</p>
+<p>    April 8	   floating 10-yr			 DZ0407</p>
+<p>			  floating 10-yr assimilated	 DZ0406</p>
+<p>    April 17		fixed 5-yr assimilated	 OS0601 @</p>
+<p>    April 22	   floating  3-yr			TZ0500</p>
+<p>    April 23     index-linked  1-yr			RP0698</p>
+<p>    April 24-May 5   subscription for index-linked 1-yr  IR0698</p>
+<p>    May 5-July 31    public sale of floating 3-yr	  TZ0500</p>
+<p>    May 7		   fixed 2-yr			 AS0699</p>
+<p>				fixed 5-yr			 OS0602</p>
+<p>    May 15		  fixed 5-yr assimilated	 OS0601</p>
+<p>    May 21	index-linked  1-yr			 RP0698</p>
+<p>    June  4		 fixed 2-yr			 AS1099</p>
+<p>				fixed 5-yr			 OS1002</p>
+<p>    June 3-August 29 public sale of index-linked 1-yr    IR0698</p>
+<p>    June 11	   floating 10-yr			 DZ0707</p>
+<p>    June 19		 fixed 5-yr assimilated	 OS0601</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

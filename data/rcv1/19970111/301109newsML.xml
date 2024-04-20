@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="301109" id="root" date="1997-01-11" xml:lang="en">
+<title>CUBA: Cuba seeks further boost in cigar production.</title>
+<headline>Cuba seeks further boost in cigar production.</headline>
+<dateline>HAVANA 1997-01-11</dateline>
+<text>
+<p>Cuba wants to further boost recovery of its cigar industry in 1997 by raising production to around 100 million cigars, officials said on Saturday.</p>
+<p>Production in 1996 was about 70 million units.</p>
+<p>Agriculture Minister Alfredo Jordan was quoted by the ruling Communist Party daily Granma as saying that so far in the current planting season, 122,000 acres (49,370 hectares) of tobacco had been sown, compared with a target of 149,000 acres (60,300 hectares).</p>
+<p>Granma said the recovery program included new production facilities.</p>
+<p>Cigars are a leading Cuban export but in recent years worldwide demand has exceeded the country's production. Officials have set a target of 200 million cigars a year for the year 2000.</p>
+<p>Like most other sectors of the economy, the industry was badly hit by economic crisis from 1990 onwards after the collapse of Cuba's old economic ally the former Soviet Union.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="I0100145">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

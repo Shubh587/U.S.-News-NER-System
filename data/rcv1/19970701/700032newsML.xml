@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700032" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Dow Chemical closes ageing ethylene plant.</title>
+<headline>Dow Chemical closes ageing ethylene plant.</headline>
+<dateline>HOUSTON 1997-07-01</dateline>
+<text>
+<p>Dow Chemical Co said it has closed one of its light hydrocarbon manufacturing facilities.</p>
+<p>The facility closed was LHC-6 in Freeport, a 700 million pound per year ethylene manufacturing plant that was first started in 1967.</p>
+<p>With the closure of this unit Dow has four light hydrocarbon plants on the Gulf Coast with a total capacity of 5.3 billion pounds per year, it said.</p>
+<p>The company said the timing of closure for LHC-6 was influenced by capital requirements to maintain its operation and by options to replace the capacity at its other North American plants.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77836" id="root" date="1996-09-26" xml:lang="en">
+<title>JAPAN: SOCCER-J.LEAGUE NABISCO CUP RESULT.</title>
+<headline>SOCCER-J.LEAGUE NABISCO CUP RESULT.</headline>
+<dateline>TOKYO 1996-09-26</dateline>
+<text>
+<p>Result of the J.League Nabisco Cup final played on Wednesday night:</p>
+<p>    Shimizu S-Pulse  3    Verdy Kawasaki   3 (after extra time.</p>
+<p>90 mins: 2-2. Shimizu won 5-4 in penalty shootout)</p>
+<p>Scorers:</p>
+<p>Shimizu - Kenta Hasegawa (68th minute), Oliva (81st), Santos (91st)</p>
+<p>Kawasaki - Takumi Horiike (own goal 87th), Argel 89th, Bismarck 106th).</p>
+<p>Attendance: 28,232</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

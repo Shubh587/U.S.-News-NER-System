@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317056" id="root" date="1997-01-18" xml:lang="en">
+<title>ITALY: Avalanche kills one skier in northwest Italy.</title>
+<headline>Avalanche kills one skier in northwest Italy.</headline>
+<dateline>COURMAYEUR, Italy 1997-01-18</dateline>
+<text>
+<p>One skier was killed and six others were slightly injured on Saturday when an avalanche came crashing down on an Alpine ski area in northwest Italy, police said.</p>
+<p>A huge piece of a glacier broke off and slammed into the slopes of the Courmayeur ski area, which was packed with hundreds of skiers taking advantage of sunny weather.</p>
+<p>Police said the victim, whose identity was not immediately known, was crushed against a tree by the avalanche.</p>
+<p>The injured were airlifed by helicopter to Courmayeur where they were being treated for minor injuries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COURMAYEUR, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

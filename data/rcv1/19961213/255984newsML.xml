@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255984" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Clinton meets president of Eritrea.</title>
+<headline>Clinton meets president of Eritrea.</headline>
+<dateline>WASHINGTON 1996-12-12</dateline>
+<text>
+<p>President Bill Clinton met on Thursday with President Isayas Afewerki of Eritrea and discussed efforts to stabilise Central Africa, the White House said.</p>
+<p>Clinton and Vice President Al Gore participated briefly in a meeting Isayas had at the White House with national security adviser Anthony Lake.</p>
+<p>&quot;The leaders discussed the crisis in Central Africa, options for bringing increased stability to the region, particularly Zaire, the the situation in Sudan,&quot; Press Secretary Mike McCurry said in a statement.</p>
+<p>&quot;President Clinton congratulated President Isayas for the exceptional progress Eritrea has made in reforming its economy and attracting foreign investment,&quot; McCurry said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ERTRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255173" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: World milled rice production -- USDA.</title>
+<headline>World milled rice production -- USDA.</headline>
+<dateline>WASHINGTON 1996-12-13</dateline>
+<text>
+<p>U.S. Agriculture Department world milled rice crop estimates by country-million tonnes:</p>
+<p>			  1996/97		    1995/96</p>
+<p>		    Dec 96    Nov 96	 Dec 96    Nov 96</p>
+<p>	  U.S.	5.68     5.68	   5.68	5.68</p>
+<p>     Vietnam     17.50    17.80	  17.60     17.40</p>
+<p>    Thailand     14.20    14.20	  14.40     14.40</p>
+<p>	 Burma     10.44    10.44	  10.00     10.00</p>
+<p>    Pakistan	3.80     3.80	   3.80	3.80</p>
+<p>    -		  1996/97		    1995/96</p>
+<p>		   Dec 96    Nov 96	 Dec 96    Nov 96</p>
+<p>   Indonesia    33.50     33.50	  32.70     32.70</p>
+<p>     S.Korea     5.32	5.08	   4.69	4.69</p>
+<p>	    EU     1.57	1.57	   1.23	1.23</p>
+<p>	  Iran     1.90	1.90	   1.80	1.80</p>
+<p>     Nigeria     2.00	2.00	   2.26	2.26</p>
+<p>	 China   132.00    132.00	 129.65    129.65</p>
+<p>	 India    81.00     82.00	  79.46     79.46</p>
+<p>  Bangladesh    18.00     18.00	  17.69     17.69</p>
+<p>    -		  1996/97		    1995/96</p>
+<p>		   Dec 96    Nov 96	 Dec 96    Nov 96</p>
+<p>	 Japan     9.40	9.40	   9.78	9.78</p>
+<p>	Brazil     6.20	7.00	   6.83	6.65</p>
+<p> Philippines     7.30	7.30	   7.26	7.26</p>
+<p>	Taiwan     1.40	1.51	   1.52	1.51</p>
+<p>    Fmr USSR     1.00	1.00	   0.93	0.93</p>
+<p>	Others    20.30     20.30	  19.91     19.91</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

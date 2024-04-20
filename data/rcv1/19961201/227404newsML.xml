@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227404" id="root" date="1996-12-01" xml:lang="en">
+<title>GREECE: Greek towns flooded by heavy rains, three dead.</title>
+<headline>Greek towns flooded by heavy rains, three dead.</headline>
+<dateline>XANTHI, Greece 1996-12-01</dateline>
+<text>
+<p>Torrential weekend rains flooded towns in northern Greece, leaving three dead, hundreds of homes knee-deep in water and scores of cars ruined, police said on Sunday.</p>
+<p>Village streets were turned into raging rivers. Main road links were washed away and cars were stacked in crumpled heaps by flash floods, police said.</p>
+<p>Xanthi, north of Salonika, was among the hardest hit towns but villages through the region had suffered heavy damages, the police said. Meteorologists predicted more storms to come.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="XANTHI, Greece"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

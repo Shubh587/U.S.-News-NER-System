@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718342" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Dow off highs, NYSE lifts curbs.</title>
+<headline>Dow off highs, NYSE lifts curbs.</headline>
+<dateline>NEW YORK 1997-07-10</dateline>
+<text>
+<p>U.S. blue chips relinquished most of their session gains in late afternoon on Thursday, prompting the New York Stock Exchange to lift program trading curbs.</p>
+<p>In choppy late trading, the Dow slipped to 7859, up 17 points, triggering a lifting of index-arbitrage curbs at 1534 EDT/1934 GMT.  Within minutes, the Dow rebounded to stand at 7878, up about 36 points, but well off its session high 7913.</p>
+<p>Breadth remained decidedly positive, with advancing issues holding a roughly seven-to-four advantage on the NYSE.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

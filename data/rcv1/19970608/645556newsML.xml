@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645556" id="root" date="1997-06-08" xml:lang="en">
+<title>USA: NHL ICE HOCKEY-SATURDAY'S STANLEY CUP FINALS RESULT.</title>
+<headline>NHL ICE HOCKEY-SATURDAY'S STANLEY CUP FINALS RESULT.</headline>
+<dateline>DETROIT 1997-06-07</dateline>
+<text>
+<p>Result of National Hockey</p>
+<p>League Stanley Cup finals game on Saturday (home team in</p>
+<p>CAPS):</p>
+<p> DETROIT	    2    Philadelphia	1</p>
+<p>(Detroit wins best-of-seven championship series 4-0)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

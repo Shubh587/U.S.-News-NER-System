@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85399" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: U.S. inspection destinations for wheat/corn/barley.</title>
+<headline>U.S. inspection destinations for wheat/corn/barley.</headline>
+<dateline>WASHINGTON 1996-09-30</dateline>
+<text>
+<p>USDA said the 33.556 million bushels wheat, 26.364 million bushels of corn and 970,00 bushels of barley inspected in the week to Sept 26 included the following destinations (1,000 bu):</p>
+<p>WHEAT: Lakes to Algeria 694; Belgium 284; Lebanon 626; Norway 385; Turkey 1,996.</p>
+<p>Gulf to Barbados 101; Brazil 1,091; Cameroon 212; Dominican Republic 383; Egypt 4,033; Guyana 261; Israel 1,344; Italy 423; Jamaica 559; Nigeria 1,534; Panama 385; Tajikistan 569; United Kingdom 220; Venezuela 154; Zaire 311.  </p>
+<p>WHEAT: Pacific to Bangladesh 1,067; Taiwan 926; Egypt 4,518; Japan 1,587; South Korea 1,267; Pakistan 2,260; Peru 717; Philippines 2,689; Yemen 1,213.</p>
+<p>Interior to Mexico 93.</p>
+<p>CORN: Gulf to Algeria 578; Angola 52; Barbados 79; Chile 258; Taiwan 2,232; Colombia 1,617; Costa Rica 904; Dominican Republic 642; El Salvador 1,186; Germany 1,331; Guatemala 1,160; Jamaica 256; Japan 10,791; South Korea 2,170; Mexico 866; Panama 280; Poland 1,169; Venezuela 496.</p>
+<p>Interior ro Mexico 297.</p>
+<p>BARLEY: Lakes to Israel 970.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

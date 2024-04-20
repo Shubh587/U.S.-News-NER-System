@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112884" id="root" date="1996-10-13" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION RESULTS.</headline>
+<dateline>BONN 1996-10-13</dateline>
+<text>
+<p>Results of German first division</p>
+<p>matches over the weekend:</p>
+<p>Played on Sunday</p>
+<p> Fortuna Duesseldorf 2 Bochum			  2</p>
+<p>Played on Saturday</p>
+<p> Borussia Dortmund   2  Duisburg		     0</p>
+<p> Hamburg		 2  Arminia Bielefeld	  2</p>
+<p> Werder Bremen	 3  Schalke			0</p>
+<p> Karlsruhe	     1  Bayer Leverkusen	   1</p>
+<p> Hansa Rostock	 2  VfB Stuttgart		2</p>
+<p> Cologne		 2  Bayern Munich		4</p>
+<p>Played on Friday</p>
+<p> Freiburg		1 Borussia Moenchengladbach 0</p>
+<p> 1860 Munich	   4 St Pauli			2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

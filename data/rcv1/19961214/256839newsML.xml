@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256839" id="root" date="1996-12-14" xml:lang="en">
+<title>UK: RUGBY UNION-SCOTLAND BEAT ITALY 29-22.</title>
+<headline>RUGBY UNION-SCOTLAND BEAT ITALY 29-22.</headline>
+<dateline>EDINBURGH 1996-12-14</dateline>
+<text>
+<p>Scotland beat Italy 29-22</p>
+<p>(halftime 8-12) in their international at Murrayfield on</p>
+<p>Saturday.</p>
+<p>Scorers:</p>
+<p>Scotland - Tries: Tony Stanger, Kenny Logan (2), Derek</p>
+<p>Stark. Conversions: Craig Chalmers (3). Penalty: Rowen Shepherd.</p>
+<p>Italy - Penalty try. Conversion: Diego Dominguez. Penalties:</p>
+<p>Dominguez (4). Drop goal: Dominguez.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDINBURGH"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

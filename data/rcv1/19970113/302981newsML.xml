@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302981" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Hogs purchased for slaughter - USDA.</title>
+<headline>Hogs purchased for slaughter - USDA.</headline>
+<dateline>WASHINGTON 1997-01-13</dateline>
+<text>
+<p>Hogs purchased for slaughter; five markets combined include Omaha, Sioux City, St Joseph, So St Paul and Sioux Falls. - USDA</p>
+<p>		     Week ended   Number Avg Weight Avg Cost</p>
+<p>Barrows &amp; Gilts   11-Jan-97   16,306    273.6   $52.04</p>
+<p>Week Ago	    04-Jan-97   12,467    258.8   $53.59</p>
+<p>Year Ago	    13-Jan-96   23,160    256.9   $41.43</p>
+<p>Sows		  11-Jan-97    6,183    353.7   $49.04</p>
+<p>Week  Ago	   04-Jan-97    2,780    471.8   $51.77</p>
+<p>Year Ago	    13-Jan-96    6,408    473.3   $33.10</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

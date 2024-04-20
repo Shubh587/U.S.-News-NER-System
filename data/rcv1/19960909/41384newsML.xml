@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41384" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Corn harvest begins in southern Indiana.</title>
+<headline>Corn harvest begins in southern Indiana.</headline>
+<dateline>LAFAYETTE, Ind. 1996-09-09</dateline>
+<text>
+<p>Corn harvest was underway in the southern tip of Indiana during the week ended Sunday, according to the Indiana Agricultural Statistics Service weekly crop report.</p>
+<p>Corn was nine percent mature, behind the 21 percent five-year average. The crop was rated five percent very poor, 17 percent poor, 37 percent fair, 36 percent good and five percent excellent.</p>
+<p>A few soybean fields had been harvested but most of the crop was still a few weeks from maturity. Seven percent had begun shedding leaves compared with average of 20 percent.</p>
+<p>Soybeans were rated six percent very poor, 19 percent poor, 40 percent fair, 31 percent good and four percent excellent.</p>
+<p>Topsoil moisture was rated 38 percent very short, 44 percent short, 17 percent adequate and one percent surplus.</p>
+<p>Pasture and range conditions were rated 18 percent very poor, 34 percent poor, 35 percent fair, 12 percent good and one percent excellent.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAFAYETTE, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

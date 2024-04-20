@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560314" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: April U.S. light vehicle sales fall 3.8 percent.</title>
+<headline>April U.S. light vehicle sales fall 3.8 percent.</headline>
+<dateline>DETROIT 1997-05-05</dateline>
+<text>
+<p>U.S. car and light truck sales during the month of April totaled 1,279,751 units with all automakers reporting. The April sales were 3.8 percent less than the 1,330,136 units sold a year earlier.</p>
+<p>The seasonally adjusted annual sales rate for the month was 14.33 million units, down from 15.09 million units a year earlier, and 15.83 million units for the month of March. The rate is calculated with seasonal factors supplied by the U.S. Commerce Department.</p>
+<p>Automakers sold 579,515 North American-built cars in the United States in April, down 10.6 percent from a year ago.  </p>
+<p>The seasonally adjusted annual rate for domestic cars was 6.48 million units, compared with 7.33 million in April 1996 and 7.09 million in March.</p>
+<p>Automakers sold 536,972 domestic trucks in the United States during April, up 0.4 percent from a year earlier. The seasonally adjusted annual sales rate for domestic trucks was 5.87 million units, compared with 5.96 million a year earlier and 6.57 million in March.</p>
+<p>Imported car sales totaled 121,735 units, up 8.1 percent from a year ago, with a seasonally adjusted annual rate of 1.46 million units. Imported truck sales rose 20.4 percent to 41,529 units for an annual rate of 530,000 units.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

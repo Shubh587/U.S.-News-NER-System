@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34000" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: AIDS attacks more cells than thought, study finds.</title>
+<headline>AIDS attacks more cells than thought, study finds.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>The HIV virus that causes AIDS infects more cells than experts thought it did, which could have profound consequences for treatment, British researchers reported on Friday.</p>
+<p>Peter Simmonds and colleagues at the University of Edinburgh medical school found that HIV infects CD8 cells, which doctors previously believed were immune to infection. Some thought CD8 cells might help naturally immune people fight off the deadly virus.</p>
+<p>&quot;Our findings tend to refute previous reports that CD8 cells were uninfected in vivo (in a living person),&quot; they wrote in a report in the Lancet medical journal.</p>
+<p>Simmonds said the discovery came as a surprise and his group was now working to see if the virus was actively destroying the cells, or just lurking latently inside them.</p>
+<p>&quot;What we are looking for now is evidence of active virus replication,&quot; he said in a telephone interview.</p>
+<p>&quot;I think if HIV was actively killing CD8 cells it would be possible to attribute some of the immunodeficiency in AIDS patients to that process,&quot; Simmonds, a virologist, said.</p>
+<p>&quot;In that sense it could lead you to dramatically alter the way you think HIV causes AIDS.&quot;</p>
+<p>Until now it had been believed that HIV infected mostly CD4 cells -- immune system cells that &quot;help&quot; other cells attack and carry away invaders like viruses and bacteria.</p>
+<p>To replicate, the virus latches on and injects RNA, its basic genetic building block, into the cell. The cell is forced to start producing copies of the virus and is eventually destroyed.</p>
+<p>HIV is so hard to fight because it attacks the very cells that the body deploys to protect itself.</p>
+<p>Simmonds analysed the blood of 16 volunteers with HIV, eight of whom had developed full-blown AIDS. They found not only that CD8 cells were infected, but that in many cases that is where most of the virus was.</p>
+<p>&quot;Infection of CD8 cells accounted for between 66 and 97 percent of total proviral load in five of the eight AIDS patients,&quot; they wrote.</p>
+<p>Simmonds said it was possible that doctors had not known how badly some people were infected, because they were not looking for virus in the CD8 cells. He also said previous tests may have missed the virus in the CD8 cells.</p>
+<p>Attacking CD8 cells would help the virus more effectively suppress the immune system, Simmonds said. &quot;In the case of HIV (CD8) is one of the principal defence mechanisms of the body against the virus,&quot; he said.</p>
+<p>CD8 cells produce chemicals known as chemokines that are involved in summoning other immune cells to fight off an attack. Previous studies have found the HIV virus uses some of the same doorways, or receptors, the chemokines use to attach to cells.</p>
+<p>Stella Knight and Steven Patterson of the Imperial College School of Medicine in London said in a commentary that the findings meant there should be immediate research into what this might mean for AIDS patients.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

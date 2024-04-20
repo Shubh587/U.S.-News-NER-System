@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88729" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: TWA in code-share pact with Jordan airline.</title>
+<headline>TWA in code-share pact with Jordan airline.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>Trans World Airlines Inc said Tuesday it has reached a code-sharing agreement with Royal Jordanian Airlines for flights between the United States, the Netherlands and Jordan.</p>
+<p>TWA is the first U.S. airline to have such an agreement, providing service five times a week between New York's John F. Kennedy International Airport, Schiphol Amsterdam and Jordan's Queen Alia International Airport in Amman, TWA said.</p>
+<p>The code-sharing will affect TWA flights originating in Chicago, Houston and Los Angeles, with passengers transferring to a Royal Jordanian flight in New York, TWA said.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

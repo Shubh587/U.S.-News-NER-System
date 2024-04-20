@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="597026" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: VocalTec unveils Internet phone product.</title>
+<headline>VocalTec unveils Internet phone product.</headline>
+<dateline>NEW YORK 1997-05-20</dateline>
+<text>
+<p>Internet telephony company VocalTec Ltd on Tuesday unveiled technology that enables conference calls between callers using traditional phones and personal computer phones.</p>
+<p>VocalTec's Atrium product works in conjunction with the VocalTec Telephony Gateway server software to bridge the public switching telephone network with the Internet, the company said in a press release.</p>
+<p>Conference callers from traditional telephones participate as they would in a normal conference call while PC participants can engage in discussion and document collaboration using any Windows-based application, it said.</p>
+<p>Participants on both ends of the call, whether from a PC or a reglar telephone, must use VocalTec's technology in order for the call to work.</p>
+<p>Atrium consists of the new VocalTec Conference Server, the new VocalTec Forum Server, and the Internet Conference Professional software.</p>
+<p>VocalTec says the full Atrium product will ship in June, with prices starting at about $2,400.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

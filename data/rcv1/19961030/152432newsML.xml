@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152432" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Magnum Petroleum acquires Texas oil well.</title>
+<headline>Magnum Petroleum acquires Texas oil well.</headline>
+<dateline>IRVING, Texas 1996-10-30</dateline>
+<text>
+<p>Magnum Petroleum Inc said Wednesday that it has completed acquiring 100 percent working interest in a producing well in Eastland County, Texas.</p>
+<p>Magnum said it bought the well from a private company for $850,000 cash.</p>
+<p>Magnum said the well is producing 48 barrels of oil per day and 183,000 cubic feet of natural gas per day. Future net revenues from the well excluding any behind-pipe reserves are estimated to be $3.4 million with a present worth, discounted at 10 percent, of $1,832,307 using current prices for the estimated 25-year-life of the property, Magnum said.</p>
+<p>The well is generating monthly cash flow to Magnum's net interest of about $30,000, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

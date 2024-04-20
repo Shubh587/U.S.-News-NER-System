@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254280" id="root" date="1996-12-13" xml:lang="en">
+<title>INDIA: HOCKEY-CHAMPIONS TROPHY STANDINGS.</title>
+<headline>HOCKEY-CHAMPIONS TROPHY STANDINGS.</headline>
+<dateline>MADRAS, India 1996-12-13</dateline>
+<text>
+<p>Standings at the end of the</p>
+<p>round-robin league in the Champions Trophy hockey tournament on</p>
+<p>Friday (tabulate under played, won, drawn, lost, goals for,</p>
+<p>goals against and points):</p>
+<p> Netherlands	 5  3  2  0  10   3  11</p>
+<p> Pakistan	    5  3  1  1  13  10  10</p>
+<p> Germany	     5  3  0  2  12  11   9</p>
+<p> India		 5  2  1  2  10   7   7</p>
+<p> Australia	   5  0  2  3   6  12   2</p>
+<p> Spain		 5  0  2  3   6  14   2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRAS, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

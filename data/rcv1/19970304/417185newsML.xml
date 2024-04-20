@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417185" id="root" date="1997-03-04" xml:lang="en">
+<title>CANADA: Canadian Senate committee passes MMT ban bill.</title>
+<headline>Canadian Senate committee passes MMT ban bill.</headline>
+<dateline>OTTAWA 1997-03-04</dateline>
+<text>
+<p>The Canadian Senate's energy committee passed a bill on Tuesday that would effectively ban the gasoline additive MMT.</p>
+<p>The government bill had already passed the House of Commons, Parliament's elected chamber, and now only required a final passage in the unelected Senate.</p>
+<p>A Senate spokeswoman said the Senate as a whole would take up the bill next Tuesday.</p>
+<p>Ethyl Corp makes MMT, methylcyclopentadienyl tricarbonyl, and its Canadian subsidiary imports it.</p>
+<p>MMT boosts octane and has been used as a replacement for lead in Canada since 1977, but the auto industry and environmentalists have lobbied to ban it.</p>
+<p>Ethyl said last year it would sue the Canadian government for US$200 million under the North American Free Trade Agreement if the ban went ahead.</p>
+<p>It argued the bill was a trade rather than health or environmental measure since MMT would still in theory be allowed to be made in Canada as long as it did not cross provincial borders.</p>
+<p>((Randall Palmer, Reuters Ottawa Bureau 613-235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

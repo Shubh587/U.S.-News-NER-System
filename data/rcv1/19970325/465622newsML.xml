@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465622" id="root" date="1997-03-25" xml:lang="en">
+<title>AUSTRALIA: RTRS-Cricket-Queensland win Sheffield Shield title.</title>
+<headline>RTRS-Cricket-Queensland win Sheffield Shield title.</headline>
+<dateline>PERTH 1997-03-25</dateline>
+<text>
+<p>Queensland beat Western Australia by 160 runs on the fifth and final day of the Sheffield Shield final at the WACA Ground on Tuesday.</p>
+<p>Scores - Queensland 320 (Matthew Mott 86) and 309 (Trevor Barsby 111); Western Australia 165 (Adam Dale 6-38) and 304.</p>
+<p>--Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

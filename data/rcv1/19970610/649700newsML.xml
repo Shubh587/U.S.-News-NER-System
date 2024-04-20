@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="649700" id="root" date="1997-06-10" xml:lang="en">
+<title>BRAZIL: Brazil Petrobras to invest $2 bln/yr in production.</title>
+<headline>Brazil Petrobras to invest $2 bln/yr in production.</headline>
+<dateline>RIO DE JANEIRO 1997-06-10</dateline>
+<text>
+<p>Brazilian state oil monopoly Petrobras plans to invest $2 billion a year over the next five years in the exploration and production of crude oil to reduce petroleum imports, a company spokesman said.</p>
+<p>&quot;We want to attain self-sufficiency or at least something close to that by 2001,&quot; he said.</p>
+<p>Brazil currently produces around 900,000 barrels of crude oil per day (bpd) but consumption of oil products is at 1.5 million bpd and expected to rise by 4.7 percent a year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13817" id="root" date="1996-08-26" xml:lang="en">
+<title>CANADA: Canada sets review of bank payments system.</title>
+<headline>Canada sets review of bank payments system.</headline>
+<dateline>OTTAWA 1996-08-26</dateline>
+<text>
+<p>The Canadian government announced details on Monday of a previously announced review of the country's C$17 trillion payments system.</p>
+<p>Secretary of State for Financial Institutions Doug Peters said an advisory committee would work over the next year to see whether anything needs to be done to improve its security, efficiency and competitiveness.</p>
+<p>In Canada over 2.6 billion payment items with a value of C$17 trillion were cleared in 1995 -- about 90 items per person -- mostly through paper cheques but increasingly through electronic methods of payment.  </p>
+<p>The system has not been reviewed since the introduction of the Canadian Payments Association Act in 1980, and the committee will seek to deal with emerging issues. It will also look at the best regulatory structure.</p>
+<p>The committee, drawn mainly from the private sector, will be co-chaired by a senior official from each of the Department of Finance and the Bank of Canada. It will include representatives of the Office of the Superintendent of Financial Institutions and the Canada Deposit Insurance Corp, as well as the United States' Federal Reserve.  </p>
+<p>Peters had announced the intention to review the system when he presented his banking white paper in June.</p>
+<p>-- Randall Palmer, Reuters Ottawa Bureau (613) 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

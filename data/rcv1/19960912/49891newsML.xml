@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49891" id="root" date="1996-09-12" xml:lang="en">
+<title>SWITZERLAND: Swiss bond market closing report.</title>
+<headline>Swiss bond market closing report.</headline>
+<dateline>ZURICH 1996-09-12</dateline>
+<text>
+<p>Swiss debt prices gained ground in moderate trading, supported by a rise in U.S. treasuries that followed the release of U.S. producer price data and by an increasing focus on domestic fundamentals, dealers said.</p>
+<p>Investors once preoccupied with U.S. interest rate developments were gradually beginning to take a closer look at the very weak domestic economy and the prospect of a further slide in Swiss debt market yields, one Zurich dealer said.</p>
+<p>Separately, at the short end of the market, dealers said the Swiss National Bank was adding one-month funds to the money market in the morning at around 1-7/8 percent.  </p>
+<p>Closing prices as follows:</p>
+<p>Sept CONF futures  CONFU6 up 45 basis points at 114.10</p>
+<p>Sept comi medium-term bond  COMIU6 up 20 at 110.10.</p>
+<p>Sept Euro Swiss francs  FESU6 up five at 97.94.</p>
+<p>4-1/2 Apr 2006 bond  CH061893= 102.90, yield 4.11 pct</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

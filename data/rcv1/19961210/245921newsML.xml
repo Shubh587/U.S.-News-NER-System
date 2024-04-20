@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245921" id="root" date="1996-12-10" xml:lang="en">
+<title>GEORGIA: Georgia declares moratorium on death penalty.</title>
+<headline>Georgia declares moratorium on death penalty.</headline>
+<dateline>TBILISI 1996-12-10</dateline>
+<text>
+<p>Georgian President Eduard Shevardnadze declared a moratorium on the death penalty on Tuesday ahead of planned changes in the Caucasian republic's penal code.</p>
+<p>Shevardnadze, a former Soviet foreign minister, announced the moratorium in a message sent to the country's parliament and coincided with International Human Rights Day.</p>
+<p>However under the planned revisions, which come into effect next February, capital punishment will still be imposed for premeditated murder.</p>
+<p>Other crimes that currently merit the death penalty, including treason, will be punished by life imprisonment.</p>
+<p>Georgia was one of many former Soviet republics criticised on Tuesday by the U.S.-based Human Rights Watch/Helsinki over its human rights record.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TBILISI"/>
+<dc element="dc.creator.location.country.name" value="GEORGIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59280" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: FORECAST -- U.S. economic indicators -- Sept 16 wk.</title>
+<headline>FORECAST -- U.S. economic indicators -- Sept 16 wk.</headline>
+<text>
+<p>DATE   EDT/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>09/16 1000/1400 Business Inven    July   +0.4 pct-A     UNCH-R</p>
+<p>09/17 0915/1315 Industrial Prod   Aug    +0.5 pct-A   +0.1 pct</p>
+<p>		     Capacity Util	    83.5 pct-A  83.3 pct-R</p>
+<p>09/18 0830/1230 Int'l Trade	 Jul    -$8.8 bln   -$8.1 bln</p>
+<p>09/19 0830/1230 Jobless Claims  w/e 9/14   335,000     338,000</p>
+<p>09/19 0830/1230 Housing Starts    Aug     1.445 mln   1.46 mln</p>
+<p>09/19 1000/1400 Phil Fed Survey   Sept	21.0	    21.5</p>
+<p>---------------------FOLLOWING WEEK'S DATA--------------------</p>
+<p>09/23 1400/1800 Federal Budget    Aug		   -$27.1 bln</p>
+<p>09/24 1000/1400 Consumer Conf     Sept			 109.4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

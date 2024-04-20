@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="440360" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 13-MAR.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 13-MAR.</headline>
+<text>
+<p>Tropical Cyclone Justin, with 50 mph winds, is in the Coral Sea near 15.6s/151.2e, drifting very slowly northward. Little change in strength or little movement is expected during the next 48 hours...although a slow northward drift is possible. Justin will threaten shipping through the period.  </p>
+<p>There are no further emergency statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

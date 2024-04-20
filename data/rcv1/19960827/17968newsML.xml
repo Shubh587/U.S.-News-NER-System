@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17968" id="root" date="1996-08-27" xml:lang="en">
+<title>MALAYSIA: Malaysia records trade surplus in June.</title>
+<headline>Malaysia records trade surplus in June.</headline>
+<dateline>KUALA LUMPUR 1996-08-27</dateline>
+<text>
+<p>Malaysia recorded a trade surplus of 574 million ringgit in June, against a 238.2 million surplus in May, the Statistics Department said.</p>
+<p>			 MALAYSIA TRADE BALANCE</p>
+<p>			 (in billions of ringgit)</p>
+<p>			     June 1996    May 1996	June 1995</p>
+<p>Merchandise balance    +574 million     +238.2 million    -2,121 million</p>
+<p>Exports		    16.3	   16.99	   15.62</p>
+<p>Imports		    15.7	   16.75	   17.74</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

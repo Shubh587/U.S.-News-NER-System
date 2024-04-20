@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="399010" id="root" date="1997-02-24" xml:lang="en">
+<title>NEW ZEALAND: Hellaby half-year earnings flat.</title>
+<headline>Hellaby half-year earnings flat.</headline>
+<dateline>WELLINGTON 1997-02-24</dateline>
+<text>
+<p>Half year to December 31.</p>
+<p>			   (million NZ$ unless stated)</p>
+<p>    Net profit			    6.28 vs 6.22</p>
+<p>    Shr (cents)			   21.6 vs 21.0</p>
+<p>    Div (cents)			    6.0 vs same</p>
+<p>    Turnover				79.9 vs 75.3</p>
+<p>    Pretax profit			 8.66 vs 7.00</p>
+<p>    Tax				     1.51 vs nil</p>
+<p>    Minority interests	  debit 0.88 vs 0.78 debit</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

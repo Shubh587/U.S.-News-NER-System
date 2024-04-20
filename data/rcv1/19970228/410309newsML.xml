@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="410309" id="root" date="1997-02-28" xml:lang="en">
+<title>JAMAICA: Gunmen murder Jamaican political activist.</title>
+<headline>Gunmen murder Jamaican political activist.</headline>
+<dateline>KINGSTON, Jamaica 1997-02-28</dateline>
+<text>
+<p>Two gunmen killed Jamaican political activist Clinton &quot;Jingles&quot; Davy as he supervised a drainage project in Kingston, police said on Friday.</p>
+<p>The men approached Davy, 47, on Thursday afternoon and opened fire after a brief exchange of words, killing him instantly. A crowd quickly gathered at the scene.</p>
+<p>Davy, who had interests in horse racing and the local music industry, was a controversial figure in the ruling Peoples National Party. He unsuccessfully challenged Labour Party leader Edward Seaga for his Kingston constituency in 1989 and made an unsuccessful run for a different seat in 1993.</p>
+<p>He often embarrassed the PNP leadership with his fiery rhetoric. However, both the PNP and Seaga expressed deep regret at his killing, citing his work to bring peace to Kingston's troubled downtown communities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, Jamaica"/>
+<dc element="dc.creator.location.country.name" value="JAMAICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

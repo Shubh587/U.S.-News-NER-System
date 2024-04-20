@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667630" id="root" date="1997-06-17" xml:lang="en">
+<title>FRANCE: French stocks fall after U.S. price, housing data.</title>
+<headline>French stocks fall after U.S. price, housing data.</headline>
+<dateline>PARIS 1997-06-17</dateline>
+<text>
+<p>French share prices fell to session lows on Tuesday afternoon on U.S. data that were not as strong as anticipated.</p>
+<p>* CAC-40 index down 19.46 points, or 0.7 pct, at 2,776.41 at 1300 GMT</p>
+<p>* CAC-40 June futures down 17 at 2,768</p>
+<p>* Volume 4.5 billion francs</p>
+<p>U.S. housing starts were down 4.8 pct at 1.4 million, against expectations for 1.5 million.</p>
+<p>May CPI rose 0.1 pct, less than expectations, while the core CPI rose 0.2 pct, in line with forecasts.</p>
+<p>Bourse watching for U.S. capacity utilisation, industrial production data due at 1315 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90110" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Headstrong receives $1 mln in new orders.</title>
+<headline>Headstrong receives $1 mln in new orders.</headline>
+<dateline>EAST BRUNSWICK, N.J. 1996-10-02</dateline>
+<text>
+<p>Bicycle helmet manufacturer Headstrong Group Inc said on Wednesday it had received orders from a number of new accounts, worth a total of about $1 million.</p>
+<p>The company said in a statement it received orders from CVS Drugs, Albertson's Inc and Oshmans Sporting Goods for the fourth quarter 1996 and into 1997.</p>
+<p>Headstrong said the launch of its new ski helmet, aggressive skate helmet and BMX helmets was moving faster than expected, and the company had received orders for all lines. It also said it had introduced a new line of equestrian helmets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EAST BRUNSWICK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

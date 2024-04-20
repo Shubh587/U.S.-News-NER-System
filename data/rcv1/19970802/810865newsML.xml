@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="810865" id="root" date="1997-08-02" xml:lang="en">
+<title>FRANCE: Three youths held in connection with France fires.</title>
+<headline>Three youths held in connection with France fires.</headline>
+<dateline>MARSEILLE. FRANCE 1997-08-02</dateline>
+<text>
+<p>Three youths, suspected of setting forest fires near this southern French port, were detained near the site of new blazes early on Saturday, police said.</p>
+<p>Several thousand hectares (acres) of forest were destroyed in the area last weekend and some isolated homes had to be abandoned despite efforts by fire-fighting aircraft and emergency service reinforcements from across the country.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARSEILLE. FRANCE"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

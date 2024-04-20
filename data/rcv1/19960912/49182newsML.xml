@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49182" id="root" date="1996-09-12" xml:lang="en">
+<title>PERU: Peru names energy minister as presidency minister.</title>
+<headline>Peru names energy minister as presidency minister.</headline>
+<dateline>LIMA 1996-09-12</dateline>
+<text>
+<p>Peru's President Alberto Fujimori moved Thursday Energy and Mines Minister Daniel Hokama to the key post of presidency minister left vacant last week by Jaime Yoshiyama.</p>
+<p>Fujimori swore in Hokama at Government Palace without naming a replacement at the Energy and Mines ministry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

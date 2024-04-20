@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252228" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Dow Jones index tumbles 99 points.</title>
+<headline>Dow Jones index tumbles 99 points.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Blue-chip stocks closed sharply lower for the second session in a row Thursday after a wild rollercoaster ride as the market failed to shake off its recent bearishness.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended down 98.81 points, or 1.54 percent, at 6,303.71 after giving back an early gain of 35 points. On Wednesday, it lost 71 points. In the broader market, declining issues beat advances 2-1 on active volume of 496 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

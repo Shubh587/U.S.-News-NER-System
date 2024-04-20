@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82251" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: MGE wheat/barley/shrimp deliveries - Sept 27.</title>
+<headline>MGE wheat/barley/shrimp deliveries - Sept 27.</headline>
+<dateline>MINNEAPOLIS 1996-09-27</dateline>
+<text>
+<p>The Minneapolis Grain Exchange Grain reported the following deliveries against September futures (wheat in 000 bu, shrimp in lots) -</p>
+<p>SPRING WHEAT - 355. All contracts filled.</p>
+<p>Delivered Minneapolis/St Paul 220,000 bu.</p>
+<p>Delivered Duluth/Superior 135,000 bu.</p>
+<p>Delivered - AGP Grain/h 135, Continental Grain/h 220.</p>
+<p>Received - Atwood Commodities/h 330, Cargill Investor Services/h 25..</p>
+<p>WHITE WHEAT - 375. All contracts filled.</p>
+<p>Delivered - Benson-Quinn/h 290, Benson-Quinn/c 85.</p>
+<p>Received - Country Hedging/c 180, LFG/c 195.</p>
+<p>BLACK TIGER SHRIMP - 2 lots. All contracts filled.</p>
+<p>Delivered - Cargill Investor Services/c 2.</p>
+<p>Received - Cargill Investor Services/c 2.</p>
+<p>BARLEY - Nil. Oldest long - Aug 2, 1996.</p>
+<p>WHITE SHRIMP - Nil.</p>
+<p>H=House. C=Customer account.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

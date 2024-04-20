@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80878" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Brite Voice starts Spanish audiotex network.</title>
+<headline>Brite Voice starts Spanish audiotex network.</headline>
+<dateline>WICHITA, Kan. 1996-09-27</dateline>
+<text>
+<p>Brite Voice Systems Inc said Friday it started a Spanish-language audiotex network in North America that provides Spanish-speaking consumers with news, weather, entertainment and stock quotes.</p>
+<p>The company will collaborate with Call 511, a South Florida information provider, to produce the Spanish content.</p>
+<p>Brite Voice said it has begun offering the service to its customer base, including newspaper and yellow pages publishers, radio and television stations and pay-per-call information providers.</p>
+<p>	    -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WICHITA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

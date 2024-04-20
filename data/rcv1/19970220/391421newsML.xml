@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391421" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: Pentagon says hackers did not see secret files.</title>
+<headline>Pentagon says hackers did not see secret files.</headline>
+<byline>Charles Aldinger</byline>
+<dateline>WASHINGTON 1997-02-20</dateline>
+<text>
+<p>The U.S. Defence Department on Thursday flatly denied a report that high school computer hackers in Croatia had broken Pentagon protection codes and copied highly classified files from U.S. military bases.</p>
+<p>&quot;They did not. The Croatian newspaper was in error on that issue,&quot; Defence Department spokesman Ken Bacon told reporters in response to questions.</p>
+<p>&quot;They did apparently get into some computers at Anderson Air Force Base in Guam. But to the best of my knowledge, they did not get into any classified files. It was entirely unclassified territory.&quot;</p>
+<p>He said the matter was being investigated by the U.S. Air Force Office of Special Investigations, but &quot;I'm not aware that action has been taken against these fellows, whom I believe are teenagers, at this time.&quot;</p>
+<p>The Zagreb daily Vecernji List said on Wednesday the three high school students, surfing the Internet on their home computer, applied a search programme and deciphered codes, barging into the database of several U.S. military installations.</p>
+<p>The databases included those of the Anderson nuclear installation and an unnamed satellite research centre, it said.</p>
+<p>But defence officials said on Wednesday there was no way that classified files could be broken into via the Internet. They said such files were almost always on closed systems without outside access, but that personal E-mail or other sensitive files might be invaded by hackers on the Internet.</p>
+<p>After the news broke, local reporters flocked to the high school in the Adriatic port of Zadar where the three teenagers, aged 15 and 16, specialise in mathematics and computer science.</p>
+<p>One of the hackers, identified only as V.M., told the state news agency HINA he accessed the Pentagon data base while surfing the net on Jan. 2.</p>
+<p>Assistant Interior Minister Zeljko Sacic told state radio the hackers had broken the U.S. Defence Ministry system of the air-base on Guam island (in the Pacific ocean) and several other bases.</p>
+<p>The break-in left a trace on the Internet which was tracked down by the Pentagon, reports said.</p>
+<p>Vecernji List said the U.S. Defence Department had contacted Croatian police through Interpol to demand an investigation while local police searched the youngsters' homes and confiscated their computer equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302046" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Dow Corning plans $7 mln expansion.</title>
+<headline>Dow Corning plans $7 mln expansion.</headline>
+<dateline>MIDLAND, Mich. 1997-01-13</dateline>
+<text>
+<p>Dow Corning Corp said Monday it will conduct five expansion projects totalling $7 million at its advanced engineering materials site in Williams Township, Michigan.</p>
+<p>&quot;The construction projects add space for offices, labs, production capacity and equipment to support the rapidly growing customer needs for high-tech products and services of this facility,&quot; said James Sheroan, site manager, in a news release.</p>
+<p>The facility produces a broad range of high technology products primarily for use in aerospace, automotive, electrical/electronic, and semiconductor industries, the company said.</p>
+<p>((--Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDLAND, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

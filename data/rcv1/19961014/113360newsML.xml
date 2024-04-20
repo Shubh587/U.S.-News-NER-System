@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113360" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Nasdaq closing most actives - Oct 14.</title>
+<headline>Nasdaq closing most actives - Oct 14.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Monday.</p>
+<p>  Intel Corp	  11,163,100	107 5/8	up  2 1/4</p>
+<p>  World Com	    6,731,000	 22 5/8	up    1/4</p>
+<p>  Cascade		5,268,300	 74 7/8	up  3 1/2</p>
+<p>  Sun Microsystems   4,842,000	 68 3/8	up  1 1/2</p>
+<p>  Imega		  4,557,000	 24	    up  1</p>
+<p>  Informix	     4,175,500	 28 7/16     up  1 5/16</p>
+<p>  Adv Tissue Serv    3,767,900	 20	    up  2 1/2</p>
+<p>  Orthodontic	  3,524,100	 14	    up  1 1/4</p>
+<p>  Sunglass Hut	 3,459,700	  9	    up    1/2</p>
+<p>  Telecommunications 3,100,100	 13 7/8     off    1/4</p>
+<p>  Volume: 438,410,300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

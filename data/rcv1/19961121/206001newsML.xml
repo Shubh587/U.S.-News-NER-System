@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206001" id="root" date="1996-11-21" xml:lang="en">
+<title>UK: London shipsales.</title>
+<headline>London shipsales.</headline>
+<dateline>LONDON 1996-11-21</dateline>
+<text>
+<p>Secondhand tonnage brokers reported the sale of the following vessels.</p>
+<p>BULKERS - Green Suma - (built 1981) 22,172 dwt sold to Taiwanese buyers for $5 million.</p>
+<p>Balsa 39 - (built 1986) 6,587 dwt sold to Hong Kong buyers for $3.3 million.</p>
+<p>TANKERS - Sunshine - (built 1985) sold to free flag buyers for $16.75 million on subjects.</p>
+<p>Chemical Symphony - (built 19830 sold to European buyers for $8 million.  </p>
+<p>Golden Kyosei - (built 1981) 6,162 dwt sold to German buyers for $6.25 million.</p>
+<p>SOLD FOR DEMOLITION - Flag Leader - (built 1972) 39,889 dwt sold to Indian breakers for $173 per ldt.</p>
+<p>Zim Elat - (built 1973) 31,846 dwt sold to Indian breakers for $188 per ldt.</p>
+<p>Some of these sales may not be final as they may be subject to inspection, survey or other conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

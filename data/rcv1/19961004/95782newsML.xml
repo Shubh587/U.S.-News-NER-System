@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95782" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Fed consolidates some U.S. banking data.</title>
+<headline>Fed consolidates some U.S. banking data.</headline>
+<dateline>WASHINGTON 1996-10-04</dateline>
+<text>
+<p>The Federal Reserve said on Friday it was dropping one weekly report on banking statistics and folding it into another existing report in the interests of greater efficiency.</p>
+<p>The Fed discontinued its H.4.2 weekly balance sheet release for large domestic banks. Starting on Oct 11, the data will now appear in the Fed's H.8 release titled &quot;Assets and Liabilities of Commercial Banks in the United States.&quot;</p>
+<p>The H.8 release contains weekly and monthly balance sheet data for all U.S. commercial banks, breaking the data down into large and small banks and foreign-related banks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

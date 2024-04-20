@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46653" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. supply/demand feedgrain estimates - USDA.</title>
+<headline>U.S. supply/demand feedgrain estimates - USDA.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>USDA supply/demand for feedgrains (million tonnes) and sorghum, barley and oats (million bu):</p>
+<p>    All Feedgrains -- 1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96  08/01/96</p>
+<p> Beginning Stocks    14.5	13.5	45.3	45.3</p>
+<p> Production	   253.9     250.2     209.2     209.2</p>
+<p> Total Supply	 271.1     266.5     257.2     257.2</p>
+<p> Feed/Residual Use  142.8     142.5     134.2     134.2</p>
+<p> Food/Seed/Ind.Use   47.5	47.8	45.5	45.8</p>
+<p> Total Domest.Use   190.3     190.2     179.9     180.0</p>
+<p>     All Feedgrains  --  1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96  08/01/96</p>
+<p> Mln Acres Planted  104.6     104.6	93.7     93.7</p>
+<p> Mln Acres Harvest   94.7	94.7	82.5     82.5</p>
+<p> Yield(Tonnes/Acre)  2.68	2.64	2.54     2.54</p>
+<p> Farmer-Owned Res.    Nil	 N/A	 Nil	Nil</p>
+<p> CCC Stocks	     0.8	 N/A	 0.9	1.1</p>
+<p> Free Stocks	   21.4	 N/A	13.6     11.1</p>
+<p>    Sorghum --------- 1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96  08/01/96</p>
+<p> Beginning Stocks	38	  35	  72	  72</p>
+<p> Production	     764	 734	 460	 460</p>
+<p> Total Supply	   802	 769	 532	 532</p>
+<p> Feed/Residual Use    500	 485	 290	 290</p>
+<p> Food/Seed/Ind.Use	4	   7	   4	   7</p>
+<p> Total Domest.Use     504	 492	 294	 297</p>
+<p>    Barley ---------- 1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96  08/01/96</p>
+<p> Beginning Stocks     101	 101	 113	 113</p>
+<p> Production	     394	 388	 359	 359</p>
+<p> Total Supply	   540	 534	 512	 512</p>
+<p> Feed/Residual Use    225	 225	 183	 174</p>
+<p> Food/Seed/Ind.Use    166	 175	 166	 175</p>
+<p> Total Domest.Use     391	 400	 349	 349</p>
+<p>    Barley ---------- 1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96   08/01/96</p>
+<p> Exports		   35	  35	  62	 62</p>
+<p> Total Use		426	 435	 412	412</p>
+<p> Ending Stocks	  114	  99	 101	101</p>
+<p> Average Price  2.70-3.10 3.00-3.40	2.89	2.89</p>
+<p> Yield (Bu/Acre)     38.3	57.4	57.2     57.2</p>
+<p>Note-Average Price in dollars/bu.  </p>
+<p>     Oats ------------ 1996/97		 1995/96</p>
+<p>    -		09/01/96  08/01/96  09/01/96  08/01/96</p>
+<p> Beginning Stocks	66	  66	 101	 101</p>
+<p> Production	     158	 158	 162	 162</p>
+<p> Imports		   85	  85	  81	  81</p>
+<p> Total Supply	   309	 309	 343	 343</p>
+<p> Feed/Residual Use    125	 125	 152	 152</p>
+<p> Food/Seed/Ind.Use    120	 120	 123	 123</p>
+<p> Total Domest.Use     245	 245	 275	 275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

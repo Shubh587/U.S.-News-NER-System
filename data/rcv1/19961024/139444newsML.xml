@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139444" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Apple cuts price on messagepad.</title>
+<headline>Apple cuts price on messagepad.</headline>
+<dateline>CUPERTINO, Calif. 1996-10-24</dateline>
+<text>
+<p>Apple Computer Inc said it has reduced the price of its MessagePad 130 from a suggested retail price of $799 to a suggested retail price of $699.</p>
+<p>It also said it is offering Win2Go Office Companion for Newton software free with its MessagePad 130 handheld computer between now and January 31, 1997.</p>
+<p>Purchasers in the United States and Canada will be entitled to one free copy of Win2Go software from PICA Information and Management GmbH, having an estimated retail value of $180 to $190.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

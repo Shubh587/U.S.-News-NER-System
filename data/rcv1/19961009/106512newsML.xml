@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106512" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Wall St stocks open higher, techs strong.</title>
+<headline>Wall St stocks open higher, techs strong.</headline>
+<dateline>NEW YORK 1996-10-09</dateline>
+<text>
+<p>U.S. stocks opened broadly higher on Wednesday, with semiconductor shares driving the Nasdaq Composite to solid gains.</p>
+<p>The Dow industrials was up four to 5,971 in early trade. The NASDAQ Index rose nine to 1,249, while the S&amp;P Index was up one at 702.</p>
+<p>The long bond was up 15/32 to yield 6.77 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

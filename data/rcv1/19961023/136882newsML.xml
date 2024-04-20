@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136882" id="root" date="1996-10-23" xml:lang="en">
+<title>ISRAEL: Chirac leaves Gaza for Amman.</title>
+<headline>Chirac leaves Gaza for Amman.</headline>
+<dateline>GAZA 1996-10-23</dateline>
+<text>
+<p>French President Jacques Chirac left Gaza for Jordan on Wednesday after a one-day trip to PLO-ruled areas during which he became the first foreign leader to address the Palestinian legisalture, witnesses said.</p>
+<p>They said Chirac, who is on a Middle East tour, boarded a French helicopter in Gaza and flew towards an Egyptian military base where he will take a plan a Amman. Chirac inaugurated a street named after the late French president Charles de Gaulle and toured the site of a future sea port which will be financed partly by France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAZA"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

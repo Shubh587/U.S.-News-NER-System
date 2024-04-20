@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213569" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: SOCCER-GUATEMALA DEFEATS COSTA RICA IN WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-GUATEMALA DEFEATS COSTA RICA IN WORLD CUP QUALIFIER.</headline>
+<dateline>LOS ANGELES 1996-11-24</dateline>
+<text>
+<p>Guatemala beat Costa Rica</p>
+<p>1-0 (halftime 1-0) in a CONCACAF Group A World Cup qualifying</p>
+<p>match on Sunday.</p>
+<p>Scorers:</p>
+<p>Guatemala - Juan Plata (penalty 34th minute)</p>
+<p>Costa Rica - none</p>
+<p>Attendance: 22,727</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

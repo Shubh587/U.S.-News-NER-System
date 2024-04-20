@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21343" id="root" date="1996-08-29" xml:lang="en">
+<title>SLOVENIA: Slovenia August inflation slows to 10.3 pct.</title>
+<headline>Slovenia August inflation slows to 10.3 pct.</headline>
+<dateline>LJUBLJANA 1996-08-29</dateline>
+<text>
+<p>The Slovenian Statistical Office reported the following economic indicator details.</p>
+<p> SLOVENIAN INFLATION		  Aug   July    Aug 1995</p>
+<p> Monthly retail price rise (pct)  +0.1   +0.5    +0.5</p>
+<p> Yr/yr rise (pct)		    +10.3  +10.7   +11.0</p>
+<p>-- Marja Novak, Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

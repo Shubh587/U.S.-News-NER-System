@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99000" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: AMD says Q3 bookings up but ratio below 1:1.</title>
+<headline>AMD says Q3 bookings up but ratio below 1:1.</headline>
+<dateline>SUNNYVALE, Calif. 1996-10-07</dateline>
+<text>
+<p>Advanced Micro Devices Inc's bookings or orders &quot;improved significantly&quot; in the third quarter from second quarter levels, but its ratio of orders to sales remained below 1-to-1, its chief executive officer said.</p>
+<p>W.J. Sanders III, chairman and CEO, also said in a statement accompanying AMD's third quarter results that revenues from AMD's Computation Products Group, primarily microprocessors, grew from the prior quarter, with shipments of AMD-K5 microprocessors more than doubled to 500,000 units. But the company continues to incur losses in that unit, which gains from other units did not offset, he said.  </p>
+<p>&quot;The aggregate results from CCG (communications and components group) and PLD (programmable logic devices) were once again unable to offset the losses we are incurring in CPG, where revenues are currently insufficient to absorb the substantial fixed costs of maintaining our strategic commitment to the Microsoft Windows-compatible microprocessor market,&quot; Sanders said in the statement.</p>
+<p>He said revenues from the programmable logic devices unit and the communications and components group slipped from the second quarter, but sales of AMD's MACH complex PLDs were at near record levels and flash memory sales resumed growth.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

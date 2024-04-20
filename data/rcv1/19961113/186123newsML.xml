@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186123" id="root" date="1996-11-13" xml:lang="en">
+<title>CHILE: Spanish monarchs visit Chile's Easter Island.</title>
+<headline>Spanish monarchs visit Chile's Easter Island.</headline>
+<dateline>SANTIAGO 1996-11-14</dateline>
+<text>
+<p>Spanish King Juan Carlos and Queen Sofia flew on Tuesday to Easter Island, a speck of land in the South Pacific known for its mysterious moai statues.</p>
+<p>The monarchs, accompanied by President Eduardo Frei, will visit a group of Spanish adventurers who are building a reed boat to sail to Polynesia from the Chilean island.</p>
+<p>The giant moai heads that dot the island were carved out of volcanic rock centuries ago by inhabitants believed to have come from Polynesia.</p>
+<p>Earlier in Santiago, the king attended the opening of Chile's tallest building housing the headquarters of telephone company Compania de Telecomunicaciones de Chile, owned 43 percent by Spain's Telefonica de Espana.</p>
+<p>He was in Chile to attend the annual Ibero-American Summit on Sunday and on Monday, along with Spanish Prime Minister Jose Maria Aznar, Frei and leaders of 19 other countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

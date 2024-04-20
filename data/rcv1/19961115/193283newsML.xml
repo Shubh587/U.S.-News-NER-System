@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193283" id="root" date="1996-11-15" xml:lang="en">
+<title>EGYPT: Egyptian president leaves for Abu Dhabi.</title>
+<headline>Egyptian president leaves for Abu Dhabi.</headline>
+<dateline>CAIRO 1996-11-15</dateline>
+<text>
+<p>Egyptian President Hosni Mubarak left Cairo for Abu Dhabi on Friday morning, officials said.</p>
+<p>Egyptian government newspapers said Mubarak called the President of the United Arab Emirates, Sheikh Zaid bin Sultan al-Nahayan of Abu Dhabi, on Thursday evening to congratulate him on his recovery from an operation.</p>
+<p>Sheikh Zaid, 78, returned home to a jubilant welcome on Wednesday after neck surgery in the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ABDBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179441" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: First Pacific Networks unveils cable modem.</title>
+<headline>First Pacific Networks unveils cable modem.</headline>
+<dateline>SAN JOSE, Calif. 1996-11-11</dateline>
+<text>
+<p>First Pacific Networks Inc said Monday it would offer a cable modem capable of delivering high-speed Internet communications to residential and other computer users over coaxial cable TV lines.</p>
+<p>The company said its DataView cable modem will be available in volume during the first half of 1997.</p>
+<p>It said the cable modem was designed to be compatible with First Pacific's hybrid fiber coaxial products, including its system that intergrates telephone and data communications over cable TV networks and an energy management system designed to allow utilities to remotely monitor customer energy use.</p>
+<p>First Pacific said that rival cable modem products do not offer the capacity to share cable bandwidth with voice and energy management systems as its DataView product does.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

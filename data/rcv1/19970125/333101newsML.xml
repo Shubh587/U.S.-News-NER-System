@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333101" id="root" date="1997-01-25" xml:lang="en">
+<title>TURKEY: Italian, Romanian ships collide in Bosphorus.</title>
+<headline>Italian, Romanian ships collide in Bosphorus.</headline>
+<dateline>ANKARA 1997-01-25</dateline>
+<text>
+<p>An empty Italian oil tanker and a Romanian cargo vessel collided on Saturday in the Bosphorus strait at Istanbul in an accident that caused no casualties but damaged the cargo ship, Anatolian news agency said.</p>
+<p>The collision occurred when the 12,927-tonne tanker Barbarossa was northbound on the way to Russia and the Romanian boat Hagieni was going south en route to a French port, the agency said.</p>
+<p>The 5,931-tonne Hagieni ran onto a sandbank after its hold began leaking water, the agency said. It did not say what cargo the ship was carrying.</p>
+<p>The Bosphorus, which links the Mediterranean and the Black seas, passes directly through Istanbul and is only 700 metres (yards) wide in places. It is one of the world's busiest waterways.</p>
+<p>About 45,000 vessels a year pass through the strait. Some 60 percent of them carry oil or oil derivatives, natural gas, chemicals or nuclear waste.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

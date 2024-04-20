@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732737" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: What's a dollar worth? Ask the Minneapolis Fed.</title>
+<headline>What's a dollar worth? Ask the Minneapolis Fed.</headline>
+<byline>Jose Paulo Vicente</byline>
+<dateline>NEW YORK 1997-07-16</dateline>
+<text>
+<p>You're probably making more money now than you were, say, 10 years ago. But are you really?</p>
+<p>The Federal Reserve Bank of Minneapolis has an online answer for you.</p>
+<p>The bank's web site now features a revamped version of an online calculator that will adjust any dollar amount to inflation in the period between 1913 and 1997.</p>
+<p>Just punch in the numbers and dates and the answer will flash on your screen in a few seconds.  </p>
+<p>For example: Picture a U.S. worker who had an annual salary of $30,000 in 1980.</p>
+<p>That same American would have to be earning $58,798.54 today just to make up for the variation in retail inflation as measured by the Consumer Price Index (CPI) in that 17-year period.</p>
+<p>The calculator was developed by economists and the public affairs department of the Minneapolis Fed in an effort to respond to an increasing amount of inflation-related phone calls received by the department.  </p>
+<p>&quot;There are so many people who call us wondering what this product that they bought in 1960 or 1950 is worth in today's dollars,&quot; said Minneapolis Fed public affairs analyst Rob Grunewald, who is part of the team which developed the online calculator.</p>
+<p>But the web site audience doesn't stop there.</p>
+<p>Grunewald said lawyers in charge of people's estates are constantly looking for inflation-adjusted numbers to compare how much a deed or a real estate would be worth in today's dollars. Even schools are using the service.  </p>
+<p>The Minneapolis Fed analyst said he has received e-mail from teachers who said they were planning to use the site as part of their students' homework assigments.</p>
+<p>&quot;What I don't know is if the students are cringing or glad to have this on the Internet,&quot; Grunewald quipped.</p>
+<p>Turning to the technical details of the site, the Minneapolis Fed analyst said the calculator does not work well in Windows 3.x or earlier Windows releases.</p>
+<p>The program works only with Java Script-enabled browsers. Netscape browsers version 2.0 or higher will provide the best results, he said.</p>
+<p>The database for the calculations uses the CPI for all major expenditure class items. The base-year is chained, with the 1982-1984 period equaling 100.</p>
+<p>Where can you get it?</p>
+<p>The Minneapolis online inflation calculator can be found on the World Wide Web at:</p>
+<p>http://woodrow.mpls.frb.fed.us/economy/calc/cpihome.html</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1676 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="E141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

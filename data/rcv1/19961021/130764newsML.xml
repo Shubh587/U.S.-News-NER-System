@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130764" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: American Air cancels Dallas flights due to storms.</title>
+<headline>American Air cancels Dallas flights due to storms.</headline>
+<dateline>DALLAS 1996-10-21</dateline>
+<text>
+<p>American Airlines said powerful storms in north Texas played havoc with its flight schedule in and out of its hub Dallas-Fort Worth International Airport on Monday.</p>
+<p>&quot;We have canceled 175 flights into and out of Dallas-Fort Worth. That's about one quarter of our daily flights. A lot of them were canceled in the afternoon,&quot; spokesman John Hotard said.</p>
+<p>He said other flights were running three or four hours behind schedule during the afternoon but that the airline hoped to bring delay times down to 90 minutes by the end of the day.</p>
+<p>Other airlines operating out of Dallas-Fort Worth were also forced to cancel flights as delays mounted, but the situation was better at the smaller Love Field airport in Dallas, the home of budget carrier Southwest Airlines.</p>
+<p>Several waves of storms swept across north Texas on Monday, causing damage to homes and vehicles. At one point, about 23,000 homes had were left without electricity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

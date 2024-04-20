@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="654211" id="root" date="1997-06-11" xml:lang="en">
+<title>UK: UK unemployment falls 18,400 in May.</title>
+<headline>UK unemployment falls 18,400 in May.</headline>
+<dateline>LONDON 1997-06-11</dateline>
+<text>
+<p>The Office for National Statistics released the following provisional data for unemployment in May and average earnings in April (Previous estimates in brackets, data seasonally adjusted unless indicated)</p>
+<p>    UNEMPLOYMENT		     MAY	 APRIL   (APR PREL)</p>
+<p>    Monthly change		  -18,400   -56,400  (-59,400)</p>
+<p>    Rate (pct)			 5.8**     5.9	   (5.9)</p>
+<p>    Monthly non-s/adj change    -67,500    n/a     (-57,300)</p>
+<p>    Monthly non-s/adj rate (pct) 5.8	 6.0	   (6.0)</p>
+<p>NOTE - Market consensus was for 40,000 fall in unemployment  </p>
+<p>The trend fall in unemployment remains higher than the 15-20,000 fall previously reported by the ONS.</p>
+<p>* May's unemployment level is the lowest since July 1990.</p>
+<p>** The unemployment rate is the lowest since September 1990.  </p>
+<p>    Unemployment level (million)     1.636*    1.654     (1.651)</p>
+<p>    Unemployment level unadj     1.620     1.688     (1.688)</p>
+<p>    Avg change in past 3m adj   -37,400   -53,400  (-54,400)</p>
+<p>    Avg change in past 6m	 -49,000   -61,800  (-62,300)</p>
+<p>    AVERAGE EARNINGS		  APR	MARCH   (APR PREL)</p>
+<p>    underlying yearly chng (pct)  4.5	4.5	   (4.5)</p>
+<p>    index (base 1990)		137.1     136.9     (136.9)</p>
+<p>    actual yearly chng (pct)     4.2	 4.4	   (4.4)</p>
+<p>By sector (annual pct chng)</p>
+<p>    Production-- underlying	4.25	4.25	  (4.5)</p>
+<p>		  -- actual	    3.9	 3.9	   (3.8)</p>
+<p>    CHANGE ('OOOS S/A)		86	  43	 -65</p>
+<p>EMPLOYEES IN EMPLOYMENT</p>
+<p>    LEVEL ('OOOS S/A)	   22,459    22,355     22,111</p>
+<p>    CHANGE			     104	  51	  -29</p>
+<p>The ONS said the assignment of Jobseekers' agreements to existing claimants is now complete. Claimant count unemployment figures are therefore no longer affected by changes in the benefit regime.</p>
+<p>But it is possible that labour market behaviour will continue to be affected to some extent for some time.  </p>
+<p>    Manufacturing-- underlying   4.25	4.5	  (4.75)</p>
+<p>		     -- actual	 3.8	 4.2	  (4.1)</p>
+<p>    Services     -- underlying   4.75	4.75	 (4.75)</p>
+<p>		     -- actual	 4.4	 5.0	  (5.0)</p>
+<p>NOTE-consensus forecast 4.5 pct for underlying average earnings</p>
+<p>    UNIT WAGE COSTS	    APR	  MAR     (MAR PREV)</p>
+<p>    Monthly change vs yr ago 1.6	  2.4	  (2.3)</p>
+<p>    Index (base=1990)	  115.1	115.7    (115.6)</p>
+<p>    3-mth versus same yr/ago 2.2	  2.6	  (2.6)</p>
+<p>    Index (base=1990)	  115.5	115.5    (115.5)</p>
+<p>    PRODUCTIVITY		 APR	  MAR	(APR PREV)</p>
+<p>    Monthly change vs yr ago 2.1	  1.7	  (1.7)</p>
+<p>    Index (base=1990)	  123.1	122.7    (122.7)</p>
+<p>    3-mth versus same yr/ago 1.9	  1.7	  (1.7)</p>
+<p>    Index (base=1990)	  122.9	122.5    (122.5)</p>
+<p>    JOB CENTRE VACANCIES     APR	  MAR     (PREL MAR)</p>
+<p>    Level			  274,300    274,600 (275,600)</p>
+<p>    Change			    -300	 -700    (+300)</p>
+<p>    Avg 3m change		   +900     +3,800  (+4,200)</p>
+<p>    LEVEL ('000S S/A)	   26,209    26,122    25,849</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

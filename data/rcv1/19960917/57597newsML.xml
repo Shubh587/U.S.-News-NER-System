@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57597" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Aronex says inhibitor shows good results.</title>
+<headline>Aronex says inhibitor shows good results.</headline>
+<dateline>WOODLANDS, Texas 1996-09-17</dateline>
+<text>
+<p>Aronex Pharmaceuticals Inc said on Tuesday that its inhibitor compound, known as Zintevir, had shown excellent safety results in both animal studies and in Phase I clinical trials at dose levels that show anti-HIV activity in vitro.</p>
+<p>Two papers published in the September issue of the Journal of Pharmacology and Experimental Therapeutics offer data from single- and multi-dose intravenous studies in monkeys, showing Zintevir was extremely well tolerated at a range of doses from 2.5 to 50 mg/kg.  </p>
+<p>A Phase I clinical trial involving single, rising doses from 0.75 mg/kg to 3 mg/kg in HIV-positive patients supported preclinical results, showing no clinically significant adverse effects, the company said.</p>
+<p>Pharmacokinetic data from the Phase I trial indicate that plasma concentrations exceeding in vitro inhibitory concentrations are achieved for periods exceeding six hours.</p>
+<p>Zintevir is currently undergoing a dose-escalation study in HIV-positive patients in which safety, pharmacokinetics and viral load are being evaluated.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOODLANDS, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

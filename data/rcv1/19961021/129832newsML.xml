@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129832" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Motorola, IBM launch enhanced 603e PowerPC chip.</title>
+<headline>Motorola, IBM launch enhanced 603e PowerPC chip.</headline>
+<dateline>AUSTIN, Tex. 1996-10-21</dateline>
+<text>
+<p>Motorola Inc and International Business Machines Corp said Monday they launched enhanced versions of the PowerPC 603e microprocessor, including a 24OMHz version.</p>
+<p>The 240 MHz version is the highest speed volume microprocessor for portable and desktop computers, the companies said.  They will be manufactured by both companies.</p>
+<p>Motorola's RISC Microprocessor Division said the 603e microprocessors -- 240- and 225MHz -- are immediately available. They are priced at $425 for the 240MHz version and $346 for the 225MHz, when purchased in quantities of 1,000.  </p>
+<p>UMAX Computer Corp began shipping its newest SuperMac C600 Mac OS-compatible system based on the PowerPC 603e chip at 240MHz, the companies said, and Power Computing Corporation announced its PowerBase line with the same microprocessor.</p>
+<p>Motorola Computer Group has said it intends to develop systems based on these faster PowerPC 603a microprocessors, and Apple Computer Inc said it supports the enhanced PowerPC chip technology, the companies said.</p>
+<p>The comapnies said the enhanced ships give high performance and low power comsumption, and can be used in systems ranging from subnotebooks and laptops to high-performance notebooks and desktop systems.</p>
+<p>The PowerPC 603a microprocessors have increased performance by more than 350 percent over the original PowerPC 603 microprocessor, which shipped in 1994, by doubling the caches and improving the clock speed.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Tex."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

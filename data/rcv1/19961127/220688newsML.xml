@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220688" id="root" date="1996-11-27" xml:lang="en">
+<title>UK: Four die in Scottish food poisoning outbreak.</title>
+<headline>Four die in Scottish food poisoning outbreak.</headline>
+<dateline>AIRDRIE, Scotland 1996-11-27</dateline>
+<text>
+<p>Four elderly people have died of food poisoning in Scotland after eating suspect cooked meat and another 107 have been taken ill, British health officials said on Wednesday.</p>
+<p>A 69-year-old man and 79-year-old woman died early on Wednesday in a hospital in the southern Scottish town of Airdrie, a day after an 80-year-old man succumbed.</p>
+<p>Later on Wednesday another elderly woman became the fourth person to be killed by the e-coli bacterium.</p>
+<p>Some victims had eaten steak from a local butcher's shop served at a pensioners' lunch 10 days ago.</p>
+<p>Investigators are concentrating their probe on cooked meat provided by a local butcher, who ironically holds the Scottish Butcher of the Year award.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AIRDRIE, Scotland"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

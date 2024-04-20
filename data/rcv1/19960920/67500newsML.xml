@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67500" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Case in joint venture with Uzbekistan banks.</title>
+<headline>Case in joint venture with Uzbekistan banks.</headline>
+<dateline>RACINE, Wis. 1996-09-20</dateline>
+<text>
+<p>Case Credit Holdings Ltd, a unit of Case Corp, said Friday it signed a joint venture agreement with the Association of Banks of Uzbekistan, forming the leasing company UzCaseagroleasing.</p>
+<p>Case Credit will hold the majority interest in the joint venture company. The new company will provide financing to Uzbekistan's agricultural sector. Case said it is its first investment in the region.</p>
+<p>One objective will be to secure financing from international sources to facilitate the financing of Case equipment purchases.</p>
+<p>Case said it has sold about $65 million in agricultural equipment in Uzbekistan to date and has provided parts and service support.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="UZBK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RACINE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581953" id="root" date="1997-05-14" xml:lang="en">
+<title>SOMALIA: Somali aid worker killed in north Mogadishu.</title>
+<headline>Somali aid worker killed in north Mogadishu.</headline>
+<dateline>MOGADISHU 1997-05-14</dateline>
+<text>
+<p>Gunmen shot dead a Somali aid worker in northern Mogadishu and wounded three other people when they opened fire on their vehicle, witnesses said on Wednesday.</p>
+<p>They said Osman Barre Abdi, a logistics officer with the international medical aid agency Medecins sans Frontieres (Doctors Without Borders), was hit by bullets in the head and chest.</p>
+<p>Three other Somalis, including two aid workers, were wounded. A motive for the Tuesday night attack was not known.</p>
+<p>Most foreign aid workers pulled out of the divided Somali capital shortly before a U.N. troop withdrawal in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SOMAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOGADISHU"/>
+<dc element="dc.creator.location.country.name" value="SOMALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

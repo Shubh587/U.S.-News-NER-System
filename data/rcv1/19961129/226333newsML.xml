@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226333" id="root" date="1996-11-29" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's Nov PPI rises 3.8 pct year/year - govt.</title>
+<headline>S.Korea's Nov PPI rises 3.8 pct year/year - govt.</headline>
+<dateline>SEOUL 1996-10-29</dateline>
+<text>
+<p>South Korea's producer price index (PPI) rose 3.8 percent year-on-year in November, compared with a 3.4 percent increase a year earlier, preliminary figures from the Ministry of Finance and Economy showed on Friday.</p>
+<p>					 Nov/96     Oct/96     Nov/95</p>
+<p>    PPI (pct, yr-on-yr)	    +3.8	 +3.3	 +3.4</p>
+<p>    PPI (pct, month-to-month)    -0.1	 +0.2	 -0.5</p>
+<p>    PPI (base=1990)		 121.0	121.1	116.6</p>
+<p>The PPI is a leading indicator for future price trends.</p>
+<p>--Seoul Newsroom (822) 727 5646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

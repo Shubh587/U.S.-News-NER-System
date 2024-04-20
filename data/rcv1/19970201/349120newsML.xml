@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349120" id="root" date="1997-02-01" xml:lang="en">
+<title>UK: SOCCER-NORTHERN IRELAND PREMIER RESULTS/STANDINGS.</title>
+<headline>SOCCER-NORTHERN IRELAND PREMIER RESULTS/STANDINGS.</headline>
+<dateline>BELFAST 1997-02-01</dateline>
+<text>
+<p>Results of Northern Ireland</p>
+<p>premier division soccer matches on Saturday:</p>
+<p> Ards			 4	Linfield		 1</p>
+<p> Cliftonville	     0	Crusaders		2</p>
+<p> Glenavon		   1	Coleraine		1</p>
+<p> Glentoran		  2	Portadown		0</p>
+<p>Standings:</p>
+<p>					P   W  D  L  F   A   Pts</p>
+<p> Crusaders			  18  7  8  3  22  14  29</p>
+<p> Coleraine			  17  7  8  2  23  16  29</p>
+<p> Glenavon			   18  6  7  5  23  20  25</p>
+<p> Glentoran			  18  5  9  4  25  22  24</p>
+<p> Linfield			   17  6  6  5  20  18  24</p>
+<p> Ards				 18  4  7  7  21  26  19</p>
+<p> Portadown			  17  4  6  7  19  24  18</p>
+<p> Cliftonville		     17  2  7  8  13  26  13</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

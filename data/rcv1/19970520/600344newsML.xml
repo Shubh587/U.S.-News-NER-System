@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="600344" id="root" date="1997-05-20" xml:lang="en">
+<title>PORTUGAL: Forecast Portuguese bond spreads vs Bunds/Bonos.</title>
+<headline>Forecast Portuguese bond spreads vs Bunds/Bonos.</headline>
+<dateline>LISBON 1997-05-20</dateline>
+<text>
+<p>The following is a daily forecast of yield spreads of Portuguese fixed rate bonds (OTs) against Bonos and Bunds.</p>
+<p>						 Min/Avg/Max	     Close</p>
+<p>Spread Feb 2007 OTs vs Jul 2007 Bund 60/62.4/66   vs	 61 bp</p>
+<p>	 Feb 2007 OTs vs Mar 2007 Bono -13/-15/-17  vs	-15 bp</p>
+<p>	 Feb 2007 OTs vs Mar 1999 OTs 106/107.2/108 vs	107 bp</p>
+<p>	 Jun 97 future  BPDOTM7 (0814 GMT) -0.01 points to 108.97</p>
+<p>	 Main factors that could influence trade:</p>
+<p>	 Today's FOMC meeting which will review short term rates.</p>
+<p>Decision on rates will be known after local markets close.</p>
+<p>-- Lisbon newsroom +(351-1) 3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

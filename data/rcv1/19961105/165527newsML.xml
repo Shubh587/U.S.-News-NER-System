@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165527" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: U.S. October light vehicle sales rise 2.2 percent.</title>
+<headline>U.S. October light vehicle sales rise 2.2 percent.</headline>
+<dateline>DETROIT 1996-11-05</dateline>
+<text>
+<p>U.S. car and light truck sales during the month of October totaled 1,270,216 units with all automakers reporting, a 2.2 percent increase from the 1,196,262 units sold a year earlier.</p>
+<p>The seasonally adjusted annual sales rate for the month was 14.93 million units, up from 14.22 million units a year earlier, and down from 15.02 million units for the month of September. The rate is calculated with seasonal factors supplied by the U.S. Commerce Department.</p>
+<p>Automakers sold 565,361 North American-built cars in the United States in October, down 7.3 percent from a year ago on a daily selling basis. October had 27 selling days, compared to 26 a year ago.</p>
+<p>The seasonally adjusted annual rate for domestic cars was 6.54 million units, compared with 7.17 million in September and 6.91 million in October 1995.</p>
+<p>Automakers sold 554,889 domestic trucks in the United States during October, up 15.3 percent from a year earlier. The seasonally adjusted annual sales rate for domestic trucks was 6.60 million units, compared with 5.50 million a year earlier and 6.01 million in September.</p>
+<p>Imported car sales totaled 112,721 units, down 4.9 percent from a year ago, with a seasonally adjusted annual rate of 1.36 million units. Imported truck sales rose 15.1 percent to 37,245 units for an annual rate of 440,000 units.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

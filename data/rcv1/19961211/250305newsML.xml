@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250305" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: AMA approves standardized physician accreditation.</title>
+<headline>AMA approves standardized physician accreditation.</headline>
+<dateline>ATLANTA 1996-12-10</dateline>
+<text>
+<p>The American Medical Association, the nation's largest doctors' group, said Tuesday it has approved a standard accreditation process for physicians to help consumers make informed decisions.</p>
+<p>The American Medical Accreditation Programme, intended to streamline credentialing procedures used by various health plans, was approved by doctors attending an AMA policy meeting.</p>
+<p>The organisation said procedures for credentialing and office site review would be developed with input from physicians. It said the new accreditation would retain &quot;some of the current credentialing procedures used by states, localities and speciality medical societies.&quot;</p>
+<p>&quot;The plan is expected to help consumers make more informed decisions about their physicians and ease administrative burdens on physicians,&quot; the AMA said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

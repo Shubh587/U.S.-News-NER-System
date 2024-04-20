@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397161" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Data Translation offers digital video unit.</title>
+<headline>Data Translation offers digital video unit.</headline>
+<dateline>MARLBORO, Mass. 1997-02-24</dateline>
+<text>
+<p>Data Translation Inc on Monday unveiled a new version of its consumer-oriented digital video-storage system designed for use with Internet Web pages, multimedia presentations and computer-based training.</p>
+<p>The company said its Broadway 2.0 system offered a new method of storing digital video images based on the Digital Versatile Disk (DVD) standard.</p>
+<p>The Data Translation product is one of the first to be built around C-Cube Microsystems Inc's digital video chip technology, which was also announced Monday.</p>
+<p>The Broadway system is priced at $995, Data Translation said.</p>
+<p>The C-Cube system allows full motion video to be compressed in real time at the MPEG-1 industry standard of 30 frames per second, enabling video content from a variety of sources -- including videocassette recorders or camcorders -- to be stored and used on personal computers.</p>
+<p>The MPEG 1 system is designed for use in creating and playing back with VHS videocassette quality or desktop computer quality video. It stops short of MPEG 2 standard video, which is a higher-grade standard for broadcast video quality.</p>
+<p>((-- Franklin Paul, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

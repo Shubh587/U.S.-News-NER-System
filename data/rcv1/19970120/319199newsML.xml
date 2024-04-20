@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319199" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: New Nasdaq trading rules take effect.</title>
+<headline>New Nasdaq trading rules take effect.</headline>
+<dateline>NEW YORK 1997-01-20</dateline>
+<text>
+<p>Nasdaq said Monday that it had begun trading under new order handling rules intended to reduce the minimum number of shares that dealers can quote when they are not displaying customer limit orders.</p>
+<p>The minimum limit order quote size has now been cut to 100 shares from the previous 1,000 shares. It will be applied on a pilot basis on the 50 most active stocks traded on the Nasdaq.</p>
+<p>Other Nasdaq-listed securities will be phased in over the next eight months. Previously, Nasdaq market makers were required to quote minimum sizes ranging from 200 to 1,000 shares, depending on the security.</p>
+<p>&quot;The limit order rule is designed to provide the same kind of access to tge market for individual investors than market makers and institutions have,&quot; Reid Walker, a spokesman for Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

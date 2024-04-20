@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79378" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Aradigm says gets U.S. patent.</title>
+<headline>Aradigm says gets U.S. patent.</headline>
+<dateline>HAYWARD, Calif. 1996-09-26</dateline>
+<text>
+<p>Aradigm Corp said on Thursday it had been issued a U.S. patent covering methods of delivering peptide drugs by inhalation.</p>
+<p>Aradigm is incorporating the patented peptide delivery methods in its AERx pulmonary drug delivery system.</p>
+<p>The AERx system creates aerosols for delivery to the lung or into the bloodstream via the lung and is being developed by the company for uses including the treatment of diabetes and pain management.</p>
+<p>--New York Newsdesk, 212-859-1733</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAYWARD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

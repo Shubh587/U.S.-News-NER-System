@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290353" id="root" date="1997-01-07" xml:lang="en">
+<title>UK: RUGBY UNION-UNITED STATES BEAT PONTYPRIDD 15-13 IN TOUR MATCH.</title>
+<headline>RUGBY UNION-UNITED STATES BEAT PONTYPRIDD 15-13 IN TOUR MATCH.</headline>
+<dateline>CARDIFF 1997-01-07</dateline>
+<text>
+<p>The United States beat Pontypridd</p>
+<p>15-13 (halftime 8-5) in their rugby union tour match on Tuesday.</p>
+<p>Scorers:</p>
+<p>Pontypridd - Tries: Owen, Wyatt. Penalty: Strange.</p>
+<p>U.S. - Tries: Curtis, Tardits. Conversion: Williams.</p>
+<p>Penalty: Williams.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARDIFF"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179019" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: High winds, storms sweep across Georgia.</title>
+<headline>High winds, storms sweep across Georgia.</headline>
+<dateline>ATLANTA 1996-11-08</dateline>
+<text>
+<p>A 7-year-old girl was killed and at least 18 people were injured on Friday when tornadoes and severe thunderstorms swept through Georgia, officials said.</p>
+<p>The girl was killed when a tornado touched down near Chester, in south-central Georgia, and strong winds lifted up the family's mobile home. Her parents and two other children were injured, the Georgia Emergency Management Agency said.</p>
+<p>GEMA spokesman Ken Davis said there was &quot;extensive damage&quot; to nine businesses in a Cleveland, Ga., shopping center. Twelve people suffered minor injuries from an apparent tornado in north Georgia, although most of the injuries did not require hospitalization.</p>
+<p>The wind and rain came in advance of an Arctic air mass expected to bring in the coldest temperatures of the season. Temperatures were forecast to fall below freezing in much of the South over the weekend.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

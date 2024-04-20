@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82218" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Delphis Hanover weekly municipal bond yields.</title>
+<headline>Delphis Hanover weekly municipal bond yields.</headline>
+<text>
+<p>Delphis Hanover Weekly Muni Bond Yields calculated Sept 26</p>
+<p>		Aaa		Aa	     A	     Baa</p>
+<p> 1997    3.75  3.75*   3.95  3.90   4.20  4.15   4.55  4.50</p>
+<p> 2001    4.50  4.50    4.65  4.65   4.95  4.95   5.30  5.30</p>
+<p> 2006    5.00  5.00    5.15  5.15   5.45  5.45   5.80  5.80</p>
+<p> 2011    5.40  5.40    5.55  5.60   5.80  5.85   6.10  6.15</p>
+<p> 2016    5.55  5.60    5.70  5.80   5.95  6.05   6.25  6.35</p>
+<p> 2021    5.60  5.65    5.75  5.85   6.00  6.10   6.30  6.40</p>
+<p> 2026    5.65  5.70    5.80  5.90   6.05  6.15   6.35  6.45</p>
+<p>*from previous calculation on Sept 19</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

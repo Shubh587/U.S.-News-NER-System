@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170031" id="root" date="1996-11-06" xml:lang="en">
+<title>FRANCE: Algerian Central Bank issues 100 dinar coin.</title>
+<headline>Algerian Central Bank issues 100 dinar coin.</headline>
+<dateline>PARIS 1996-11-06</dateline>
+<text>
+<p>Algeria's Central Bank on Wednesday issued a 100 dinar ($1.80) coin, completing an array of fresh notes and coins gradually put into circulation since last April, the official Algerian news agency APS said.</p>
+<p>Before Wednesday, the highest value coin was one of 50 dinars. The dinar's value has shrunk against the dollar in the past few years, falling from 38.6 dinars per dollar in September 1994 to about 55 last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

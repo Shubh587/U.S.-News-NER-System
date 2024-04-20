@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16074" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Intel microprocessors to be multimedia.</title>
+<headline>Intel microprocessors to be multimedia.</headline>
+<dateline>SAN FRANCISCO 1996-08-27</dateline>
+<text>
+<p>Intel Corp plans to infuse a new multimedia enhancing technology into all of its microprocessor products by year-end 1997, chief executive Andy Grove said.</p>
+<p>The technology, which Intel calls MMX, allows faster and clearer rendering of graphics, audio and video in software applications. It will allow personal computer users to run multimedia programs without having to install extra graphics cards or audio cards, often a complicated and costly task.  </p>
+<p>&quot;We will be introducing this technoloy in very rapid order to mainstream personal computers,&quot; Grove said speaking at the Windows NT Intranet solutions.</p>
+<p>Intel has been working on the technology for years and is ready to introduce the first MMX-holding chips early in 1997. Grove said that by year-end 1997, MMX will be manufactured into Intel's entire micprocessor product line - at a capital equipment investment of about $1 billion to $2 billion. Then, during 1998 Intel will &quot;ramp up&quot; or accelerate production of such multimedia chips.  </p>
+<p>He said that performance change is between a video applications run on a Pentium-based personal computer and the same application run on a Pentium and MMX-based PC.</p>
+<p>Grove said Intel's plan to infuse MMX across its product line is &quot;quite a commitment&quot; because it requires more silicon to produce, in effect, larger chips. He said the extra manufacturing capacity needed to bring MMX into its entire product line is the equivalent of an extra chip fabrication plant, which typically are a $1 billion to $2 billion capital investment.</p>
+<p>--barb.grady@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41197" id="root" date="1996-09-09" xml:lang="en">
+<title>JAPAN: Gajoen Kanko to hold 1000 GMT briefing.</title>
+<headline>Gajoen Kanko to hold 1000 GMT briefing.</headline>
+<dateline>TOKYO 1996-09-09</dateline>
+<text>
+<p>Japanese hotel operator Gajoen Kanko KK said it would hold a news conference at 7 p.m. (1000 GMT).</p>
+<p>Company officials were not available for comment on the details of the planned news conference.</p>
+<p>The Tokyo Stock Exchange suspended trading in the company's shares for the whole day on Monday due to unclear details on tax-related issues. Local media reports at the weekend said the hotel operator had unpaid taxes amounting to 10 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71372" id="root" date="1996-09-23" xml:lang="en">
+<title>BELGIUM: Belgian liquidity little changed at money tender.</title>
+<headline>Belgian liquidity little changed at money tender.</headline>
+<dateline>BRUSSELS 1996-09-23</dateline>
+<text>
+<p>The Belgian National Bank left liquidity little changed at its fixed-rate tender for seven-day advances. Details -</p>
+<p>    Value date Sept 25	expiry on Oct 2    NBVC</p>
+<p>    Amount allotted	    9.6   bln bfr    ( 9.525 bln *)</p>
+<p>    Interest rate	     3.00 pct	    (3.00 pct **)</p>
+<p>    Total amount of bids	9.6   bln bfr</p>
+<p>Percentage of bids accepted  100</p>
+<p>* amount draining from the money market on Sept 25</p>
+<p>** interest rate at previous tender</p>
+<p>-- Brussels Newsroom +32 2 287 6810</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

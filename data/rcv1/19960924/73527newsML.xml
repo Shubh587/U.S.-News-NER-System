@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73527" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Boston pushes Pilgrim nuke restart to Sat.</title>
+<headline>Boston pushes Pilgrim nuke restart to Sat.</headline>
+<dateline>NEW YORK 1996-09-24</dateline>
+<text>
+<p>Boston Edison Co said Tuesday it pushed the restart of its 670 megawatt Pilgrim nuclear power plant in Plymouth, Mass., to this weekend after being shut a week ago for repairs.</p>
+<p>&quot;We're looking at a delay now to Saturday,&quot; said company spokesman Dave Tarantino, adding plant engineers needed more time to inspect the unit. The nuclear station was expected to resume operation Wednesday.</p>
+<p>The Pilgrim station was taken off line last week due to saltwater intrusion in one of two sets of heat exchangers in its reactor building.</p>
+<p>The utility decided it needed to examine the metal plates that provide support for both set of exchangers. The task would require the disassembly of the plates, he said.</p>
+<p>The Pilgrim plant accounts for about one third of the Boston Edison's generating capacity.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

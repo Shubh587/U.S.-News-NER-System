@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86129" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Two typhoons threaten shipping off southern Japan.</title>
+<headline>Two typhoons threaten shipping off southern Japan.</headline>
+<dateline>LEXINGTON, Mass 1996-09-30</dateline>
+<text>
+<p>Two typhoons are a threat to shipping off the southern islands of Japan, private forecaster Weather Services Corp said on Monday.</p>
+<p>Typhoon Zane, with top winds near 100 mph, is just north of Okinawa and moving east at 9 mph. Zane will weaken over the next two days while it moves into the waters southeast of Japan.</p>
+<p>Typhon Yates also has top winds of nearly 100 mph and is centred about 120 miles northwest of Chichijima. It is moving north northeast at 20 mph.</p>
+<p>Yates will steadily weaken during the next 36 to 48 hours, but will remain a threat to shipping.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

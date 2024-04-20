@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753441" id="root" date="1997-07-24" xml:lang="en">
+<title>NETHERLANDS: Dutch bonds end lower as bunds slip.</title>
+<headline>Dutch bonds end lower as bunds slip.</headline>
+<text>
+<p>---------------------(Snapshot at 1535 GMT)---------------------</p>
+<p>* DUTCH STATE LOANS	 PRICES			  BID YIELDS</p>
+<p>  June 1999 7.50 pct	106.45/55 (-0.13)	   3.86 (+0.06)</p>
+<p>  Feb  2002		   114.72/82 (-0.25)	   4.58 (+0.05)</p>
+<p>  Feb  2007 5.75 pct	102.05/15 (-0.11)	   5.46 (+0.01)</p>
+<p>  Jan  2023		   116.61/81 (UNCHD)	   6.18 (-0.01)</p>
+<p>* BUND FUTURE (Sept)	103.07 (-0.15)</p>
+<p>  TREASURIES  (Sept)	115.25 (-0.09 vs pvs Dutch close)</p>
+<p>* DM/NLG			1.12635 (prev 1.1261)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

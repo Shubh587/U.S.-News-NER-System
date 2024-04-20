@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543082" id="root" date="1997-04-28" xml:lang="en">
+<title>UK: London silver fixed at 472.40 cents - Apr 28.</title>
+<headline>London silver fixed at 472.40 cents - Apr 28.</headline>
+<text>
+<p>STG-Pence per troy ounce</p>
+<p> Spot	   290.90  (292.20)</p>
+<p> 3months	295.10  (296.30)</p>
+<p> 6months	299.40  (300.60)</p>
+<p> One year     308.40  (309.80)</p>
+<p>US Cents equivalent</p>
+<p> Spot	   472.40  (474.25)</p>
+<p> 3months	478.55  (480.25)</p>
+<p> 6months	484.85  (486.55)</p>
+<p> One year     498.25  (500.20)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

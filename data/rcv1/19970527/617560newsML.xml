@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617560" id="root" date="1997-05-27" xml:lang="en">
+<title>UK: London Metal Exchange turnover for April 1997.</title>
+<headline>London Metal Exchange turnover for April 1997.</headline>
+<text>
+<p>LONDON, May 27, Reuter - Turnovers for April 1997 for</p>
+<p>London Metal Exchange futures contracts, in lots.</p>
+<p>		  APR'97	  JAN-APR'97    JAN-APR'96</p>
+<p> COPPER	 1,170,461     4,740,249     5,666,802</p>
+<p> TIN		 88,654	 394,977	 376,937</p>
+<p> LEAD	     190,465	 796,613	 776,772</p>
+<p> ZINC	     638,843     2,154,813     1,819,199</p>
+<p> ALUMINIUM    1,742,896     6,244,377     4,674,300</p>
+<p> NICKEL	   354,950	1,240,633	948,546</p>
+<p> ALU ALLOY	 42,025	 135,322	 104,433</p>
+<p> TOTAL	  4,228,294    15,706,984    14,366,989</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

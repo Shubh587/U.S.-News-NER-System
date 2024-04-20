@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187973" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Dow index ends above 6,300 for first time.</title>
+<headline>Dow index ends above 6,300 for first time.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The Dow Jones industrial average closed above 6,300 points for the first time Thursday as the latest good news on the inflation front energized the blue-chip index to its seventh record finish in a row.</p>
+<p>Based on early and unofficial data, the Dow ended up 38.76 points at 6,313.00, beating Wednesday's milestone of 6,274.24 and matching the unbroken string of highs set in February.</p>
+<p>In the broader market, advancing issues led declines 14-9 on active volume of 480 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

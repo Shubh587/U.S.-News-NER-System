@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406538" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: ADE Corp Q3 Jan 31 profit rises.</title>
+<headline>ADE Corp Q3 Jan 31 profit rises.</headline>
+<dateline>WESTWOOD, Mass. 1997-02-27</dateline>
+<text>
+<p>(In thousands, except per share amounts, unaudited)</p>
+<p>				Three Months ended  Nine months ended</p>
+<p>					   1997    1996    1997    1996</p>
+<p> Revenues			   $23,775 $17,715 $64,749 $46,585</p>
+<p>Equity in net earnings of</p>
+<p>  affiliated companies		156     ---     171     ---</p>
+<p> Net income			   3,061   2,224   8,448   5,226</p>
+<p> Net income per share		0.38    0.28    1.05    0.75</p>
+<p> Avg shares			   8,050   8,063   8,015   6,947</p>
+<p>NOTE: Ending backlog on January 31, 1997 was $60.6 million versus $58.4 million on October 31, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

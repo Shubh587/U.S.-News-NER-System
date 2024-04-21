@@ -1,12 +1,13 @@
 import nltk
 from nltk.corpus import stopwords
+import random
 
 def extract_headlines():
     # Extract headlines from the headlines.txt file created by the file_handler.py script
     # Store them in a list and return them
     headlines = []
     print('Extracting headlines...')
-    with open('headlines.txt', 'r') as file:
+    with open('data\headlines.txt', 'r') as file:
         for line in file:
             headlines.append(line.strip())
     print('Headlines extracted successfully!')
@@ -41,7 +42,7 @@ def clean_headlines(headlines):
 def store_cleaned_headlines(headlines):
     # store headlines in CoNLL format
     print('Storing cleaned headlines...')
-    with open('cleaned_headlines.txt', 'w') as file:
+    with open('data\cleaned_headlines.txt', 'w') as file:
         for headline in headlines:
             # have a word per line
             words = headline.split()
@@ -52,33 +53,53 @@ def store_cleaned_headlines(headlines):
     print('Cleaned headlines stored successfully!')
 
 def seperate_headlines(headlines):
-    # Seperate the first 150 headlines in the array into three different .txt files
+    # Seperate a random set of 150 headlines in the array into three different .txt files
     # The first file contains the first 50 headlines, the second file contains the next 50 headlines, and the third file contains the last 50 headlines
     print('Seperating headlines...')
-    with open('headlines1.txt', 'w') as file:
-        for i in range(50):
+    prev_headlines = [] # store the previous headlines to avoid annotating duplicates
+    with open('data\headlines1.txt', 'w') as file:
+        i = 0
+        while i < 50: # add 50 new headlines to the each file
             # have a word per line
-            words = headlines[i].split()
-            for word in words:
-                file.write(word + '\n')
-            # add a newline after each headline
-            file.write('\n')
-    with open('headlines2.txt', 'w') as file:
-        for i in range(50, 100):
-            # have a word per line
-            words = headlines[i].split()
-            for word in words:
-                file.write(word + '\n')
-            # add a newline after each headline
-            file.write('\n')
-    with open('headlines3.txt', 'w') as file:
-        for i in range(100, 150):
-            # have a word per line
-            words = headlines[i].split()
-            for word in words:
-                file.write(word + '\n')
-            # add a newline after each headline
-            file.write('\n')
+            ind = random.randint(0, len(headlines))
+            headline = headlines[ind]
+            if headline not in prev_headlines:
+                words = headlines[ind].split()
+                for word in words:
+                    file.write(word + '\n')
+                # add a newline after each headline
+                file.write('\n')
+
+                prev_headlines.append(headline)
+                i += 1
+    with open('data\headlines2.txt', 'w') as file:
+        j = 0
+        while j < 50:
+            ind = random.randint(0, len(headlines))
+            headline = headlines[ind]
+            if headline not in prev_headlines:
+                words = headlines[ind].split()
+                for word in words:
+                    file.write(word + '\n')
+                # add a newline after each headline
+                file.write('\n')
+                
+                prev_headlines.append(headline)
+                j += 1
+    with open('data\headlines3.txt', 'w') as file:
+        k = 0
+        while k < 50:
+            ind = random.randint(0, len(headlines))
+            headline = headlines[ind]
+            if headline not in prev_headlines:
+                words = headlines[ind].split()
+                for word in words:
+                    file.write(word + '\n')
+                # add a newline after each headline
+                file.write('\n')
+                
+                prev_headlines.append(headline)
+                k += 1
     print('Headlines seperated successfully!')
         
 

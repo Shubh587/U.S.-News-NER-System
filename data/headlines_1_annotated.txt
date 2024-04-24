@@ -1,0 +1,460 @@
+<s>
+norscan B-ORGANIZATION
+jan B-DATE/TIME
+pulp O
+stocks O
+130000 O 
+tonnes O
+- O
+source. O
+</s>
+
+<s>
+shk B-ORGANIZATION
+prop I-ORGANIZATION
+puts O
+e.point O 
+flats O
+offer. O
+</s>
+
+<s>
+french B-RACE/ETHNICITY
+stocks O
+close O
+slightly O
+higher. O
+</s>
+
+<s>
+india B-COUNTRY
+deregulate O
+sugar O
+exports O
+- O
+newspapers. O
+</s>
+
+<s>
+u.s. B-COUNTRY
+midwest I-LOCATION
+direct O 
+hogs O
+seen O
+$0.50-$1-dealers. O
+</s>
+
+<s>
+brown B-PERSON
+cuts O
+uk B-COUNTRY
+vat B-POLICY
+fuel O
+5 O
+pct O
+september. B-DATE/TIME
+</s>
+
+<s>
+soccer-parma B-ORGANIZATION
+coach O
+hits O
+referees. O
+</s>
+
+<s>
+swiss B-RACE/ETHNICITY
+government I-ORGANIZATION
+ready O
+act O
+holocaust B-EVENT
+fund. O 
+</s>
+
+<s>
+u.s. B-COUNTRY
+cftc I-ORGANIZATION
+backs O
+easing O
+exchange O
+rule O
+reviews. O
+</s>
+
+<s>
+press O
+digest O
+-
+zambia B-COUNTRY
+-
+july B-DATE/TIME
+4. I-DATE/TIME
+</s>
+
+<s>
+russian B-RACE/ETHNICITY
+minfins I-ORGANIZATION
+rise O
+derivatives O
+issue O
+news. O
+</s>
+
+<s>
+water O
+company O
+issue O
+40 O
+mln O
+kroons O
+cps. O
+</s>
+
+<s>
+soccer O
+showcase-betting O
+celtic B-ORGANIZATION
+v O
+rangers. B-ORGANIZATION
+</s>
+
+<s>
+press O
+digest O
+- O
+jordan B-COUNTRY
+- O
+may B-DATE/TIME
+20. I-DATE/TIME
+</s>
+
+<s>
+n.h. B-LOCATION
+gov I-ORGANIZATION
+proposes O
+tax O
+time-shares O
+condos. O
+</s>
+
+<s>
+german B-RACE/ETHNICITY
+zew I-ORGANIZATION
+details O
+6-mth O
+major O
+nations O
+forecasts. O
+</s>
+
+<s>
+u.n. B-ORGANIZATION
+council I-ORGANIZATION
+threatens O
+new O
+sanctions O
+iraq. B-COUNTRY
+</s>
+
+<s>
+china B-COUNTRY
+slams O
+unesco B-ORGANIZATION
+prize O
+jailed O
+reporter. O
+</s>
+
+<s>
+stainless O
+prices O
+could O
+start O
+recovering O
+-
+analysts. O
+</s>
+
+<s>
+f.o.licht O
+-
+daily O
+coffee O
+report. O
+</s>
+
+<s>
+kinkel B-PERSON
+condemns O
+jerusalem B-LOCATION
+attack O
+"cowardly". O
+</s>
+
+<s>
+one-month B-DATE/TIME 
+one-year I-DATE/TIME
+saudi B-COUNTRY
+t-bill B-POLICY
+rates O
+rise. O
+</s>
+
+<s>
+slovak B-RACE/ETHNICITY
+reforms I-POLICY
+depend O
+investment O
+-
+banker. O
+</s>
+
+<s>
+press O
+digest O
+- O
+iraq B-COUNTRY
+- O
+june B-DATE/TIME
+4. I-DATE/TIME
+</s>
+
+<s>
+hk B-LOCATION
+govt B-ORGANIZATION
+expects O
+achieve O
+housing O
+target O
+2001. B-DATE/TIME
+</s>
+
+<s>
+zimbabwe B-COUNTRY
+civil O
+servants O
+return O
+work. O
+</s>
+
+<s>
+german B-RACE/ETHNICITY
+ruhrgas I-ORGANIZATION
+starts O
+gas O
+supply O
+mol. O
+</s>
+
+<s>
+britain B-COUNTRY
+arranging O
+medical O
+exam O
+nurses O
+saudi. B-COUNTRY
+</s>
+
+<s>
+petrofina B-ORGANIZATION
+sees O
+nyse B-ORGANIZATION
+listing O
+september B-DATE/TIME
+3. I-DATE/TIME
+</s>
+
+<s>
+ipe B-ORGANIZATION
+gas O
+oil O
+seen O
+$1.50 O
+lower O
+brent O
+5-10 O
+cts. O
+</s>
+
+<s>
+oklahoma B-LOCATION
+city I-LOCATION
+bomb O
+judge O
+bars O
+prosecution O
+interview. O
+</s>
+
+<s>
+spain B-COUNTRY
+stability I-POLICY
+plan I-POLICY
+-
+psbr
+year
+1997-2000. B-DATE/TIME
+</s>
+
+<s>
+research O
+alert- O
+isuzu B-ORGANIZATION
+cut. O
+</s>
+
+<s>
+mexican B-RACE/ETHNICITY
+official's O
+drug O
+money O
+case O
+opens O
+texas. B-LOCATION
+</s>
+
+<s>
+rtrs B-ORGANIZATION
+-poll O
+shows O
+australian B-RACE/ETHNICITY
+govt I-ORGANIZATION
+lead O
+narrows. O
+</s>
+
+<s>
+banyan B-ORGANIZATION
+strategic I-ORGANIZATION
+land O
+fund O
+ii O
+q4 O
+results. O
+</s>
+
+<s>
+excel B-ORGANIZATION
+bank I-ORGANIZATION
+na I-ORGANIZATION
+takes O
+union B-ORGANIZATION
+chelsea I-ORGANIZATION
+bank. I-ORGANIZATION
+</s>
+
+<s>
+dhaka B-LOCATION 
+stocks I-ORGANIZATION
+close O
+record O
+high O
+ahead O
+weekend. B-DATE/TIME
+</s>
+
+<s>
+gore B-PERSON
+calls O
+report O
+card O
+environmental B-POLICY
+laws. I-POLICY
+</s>
+
+<s>
+enron B-ORGANIZATION
+oil I-ORGANIZATION
+& I-ORGANIZATION
+gas I-ORGANIZATION
+q2 O
+shr O
+falls. O
+</s>
+
+<s>
+railtrack O
+agreement O
+ofrail. O
+</s>
+
+<s>
+rpt-forecast O
+- O
+raisio B-LOCATION
+eight-month B-DATE/TIME
+result. O
+</s>
+
+<s>
+australian B-RACE/ETHNICITY
+mortgage O
+guide O
+(investment). O
+</s>
+
+<s>
+finnish B-RACE/ETHNICITY
+h1 O
+hotel O
+restaurant O
+sales O
+2.1 O
+pct O
+yr/yr. O
+</s>
+
+<s>
+australian B-RACE/ETHNICITY
+broadcasting I-ORGANIZATION
+corp I-ORGANIZATION
+morning O
+update. O
+</s>
+
+<s>
+merrill B-ORGANIZATION
+lynch I-ORGANIZATION
+pay O
+$30 O
+million O
+end O
+probe. O
+</s>
+
+<s>
+comm B-ORGANIZATION
+bancorp I-ORGANIZATION
+inc I-ORGANIZATION
+sets O
+qtly O
+div O
+$0.06. O
+</s>
+
+<s>
+greek B-RACE/ETHNICITY
+president I-PERSON
+says O
+turkey O
+endangers O
+peace. O
+</s>
+
+<s>
+s.asian B-RACE/ETHNICITY
+nations I-COUNTRY
+press O
+closer O
+trade O
+links. O
+</s>
+
+<s>
+belarus B-COUNTRY
+opens O
+first O
+telecoms O
+satellite O
+link. O
+</s>

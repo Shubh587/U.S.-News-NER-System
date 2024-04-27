@@ -1,6 +1,8 @@
 import nltk
 from nltk.corpus import stopwords
 import random
+import numpy as np
+import pandas as pd
 
 def extract_headlines():
     # Extract headlines from the headlines.txt file created by the file_handler.py script
@@ -145,7 +147,7 @@ def aggregate_annotated_data():
             file.write(line + '\n')
     print('Annotated data aggregated successfully!')
     print('Number of annotated headlines:', len(annotated_data))
-        
+   
 
 def main():
     # headlines = extract_headlines()

@@ -1,0 +1,517 @@
+<s>
+nichiro B.ORG.COM
+corp I-ORG.COM
+files O
+15 O
+bln O
+yen O
+shelf O
+registration O
+. O
+</s>
+
+<s>
+oil
+leaks
+add
+blow
+taiwan B-GPE.ORG
+state I-GPE.ORG
+utility I-GPE.ORG
+. O
+</s>
+
+<s>
+bank B-ORG.COM
+shares O
+steam O
+ahead O
+beirut B-GPE
+weekly O
+trade O
+. O
+</s>
+
+<s>
+forecast O
+- O
+table O
+hungarian B-GPE
+forecasts O
+1997 B-TIM
+. O
+</s>
+
+<s>
+indian B-GPE
+91-day O
+treasury O
+bill O
+auction B-EVENT
+results O
+table O
+. O
+</s>
+
+<s>
+australian B-GPE.ORG
+budget O
+- O
+review O
+forecasts O
+. O
+</s>
+
+<s>
+yemen B-GPE
+91-day O
+treasury O
+bills O
+yield O
+avg O
+25.28 O
+pct O
+. O
+</s>
+
+<s>
+technology B-ORG.COM
+solutions I-ORG.COM
+co I-ORG.COM
+q4 O
+shr O
+rises O 
+. O
+</s>
+
+<s>
+government B-ORG.GOV
+list O
+. O
+</s>
+
+<s>
+options O
+- O
+dlr/mark O
+vols O
+edge O
+buba B-ORG.COM
+statement O
+. O
+</s>
+
+<s>
+international O
+flavors O
+q1 O
+net O
+falls O
+. O
+</s>
+
+<s>
+india's B-GPE
+gujral B-PER.Individual
+optimistic O
+ties O
+pakistan B-GPE
+. O
+</s>
+
+<s>
+simex B-ORG.NonGov
+brent O
+api O
+data O
+iraq B-GPE
+spurs O
+bears O
+. O
+</s>
+
+<s>
+hungary B-GPE
+apv B-ORG.COM
+sell O
+stake O
+agrana B-ORG.COM
+unit O
+. O
+</s>
+
+<s>
+u.s. B-GPE
+lawmakers B-PER.Group
+seek O
+ease O
+embargo O
+cuba B-GPE
+. O
+</s>
+
+<s>
+london B-GPE
+coal/ore O
+fixtures O
+. O
+</s>
+
+<s>
+slovenian B-GPE
+shares O
+fall O
+liquidity O
+dries O
+up O
+. O
+</s>
+
+<s>
+seagate B-ORG.COM
+raises O
+china B-GPE
+investment O
+$32 O
+mln O
+. O
+</s>
+
+<s>
+focus O
+- O
+waigel B-PER.Individual
+upholds O
+tough O
+emu B-ORG.NonGov
+stand O
+despite O
+snags O
+. O
+</s>
+
+<s>
+iowa-minn B-GPE.LOC
+direct O
+weekly O
+average O
+hog O
+weights O
+- O
+usda B-ORG.NonGov
+. O
+</s>
+
+<s>
+london B-GPE
+currency O
+gold O
+bullion O
+rates O
+. O
+</s>
+
+<s>
+hk B-GPE.ORG
+govt I-GPE.ORG
+paper O
+yields O
+ease O
+active O
+buying O
+. O
+</s>
+
+<s>
+turkish B-GPE
+pmdeputy B-PER.Individual
+tight-lipped O
+censure O
+motion O
+. O
+</s>
+
+<s>
+research O
+alert O
+- O
+aurum B-ORG.COM
+software B-ORG.COM
+raised O
+. O
+</s>
+
+<s>
+nz B-GPE
+dollar O
+closes O
+firm O
+seen O
+heading O
+higher O
+. O
+</s>
+
+<s>
+starckjohann B-PER.Individual
+sells O
+penope B-ORG.COM
+stake O
+. O
+</s>
+
+<s>
+neiman B-ORG.COM
+marcus I-ORG.COM
+feb B-TIM
+same-store O
+sales O
+up O
+. O
+</s>
+
+<s>
+dsl B-ORG.COM
+bank B-ORG.COM
+issues O
+10-year O
+10 O
+bln O
+pta O
+matador O
+. O
+</s>
+
+<s>
+buba B-ORG.COM
+holds O
+repo O 
+steady O
+fpr O
+next O
+three B-TIM
+weeks I-TIM
+. O
+</s>
+
+<s>
+rolimpex B-ORG.COM
+june B-TIM
+net O
+falls O
+0.1. O
+[corrected O
+1725 O
+gmt] O
+</s>
+
+<s>
+toyo B-ORG.COM
+tagasago B-ORG.COM
+- O
+6mth B-TIM
+parent O
+results O
+. O
+</s>
+
+<s>
+rtrs B-ORG.MED
+- O
+coles B-ORG.COM
+myer I-ORG.COM
+sees O
+trading O
+improvement O
+. O
+</s>
+
+<s>
+japan B-GPE
+firms' O
+copper O
+sales O
+fall O
+s'tomo B-ORG.COM
+scandal O
+. O
+</s>
+
+<s>
+australia B-GPE
+base O
+metal O
+producer O
+prices O
+- O
+may B-TIM
+22 I-TIM
+. O
+</s>
+
+<s>
+hanoi B-GPE.LOC
+awaits O
+china's B-GPE.ORG
+reply O
+fate O
+patrol O
+boats O
+. O
+</s>
+
+<s>
+slovak B-GPE
+bourse O
+paralyzed O
+money O
+mkt O
+instability O
+. O
+</s>
+
+<s>
+hansa B-ORG.COM
+liising I-ORG.COM
+issues O
+new O
+30 O
+mln O
+kroons O
+cps O
+. O
+</s>
+
+<s>
+melco B-ORG.COM
+-96/97 B-TIM
+parent O
+forecast O
+. O
+</s>
+
+<s>
+airbus B-ORG.COM
+eyes O
+mcdonnell B-ORG.COM
+douglas' I-ORG.COM
+europe B-GPE.LOC
+market O
+share O
+. O
+</s>
+
+<s>
+research O
+alert O
+- O
+dst B-ORG.COM
+systems I-ORG.COM
+outperform O
+repeated O
+. O
+</s>
+
+<s>
+singapore B-GPE
+changi I-FAC
+airport I-FAC
+t3 O
+building O
+expected O
+1999 B-TIM
+. O
+</s>
+
+<s>
+russian B-GPE
+shares O
+falling O
+downtrend O
+seen O
+. O
+</s>
+
+<s>
+universal B-ORG.COM
+foods I-ORG.COM
+ceo B-PER.Individual
+manning I-PER.Individual
+named O
+chairman B-PER.Individual
+. O
+</s>
+
+<s>
+slovak B-GPE
+statistical O
+bureau O
+details O
+h1 O
+q2 O
+gdp O
+. O
+</s>
+
+<s>
+guatemala B-GPE
+ex-ruler B-PER.Individual
+gets O
+reluctant O
+funeral O
+honors O
+. O
+</s>
+
+<s>
+european B-GPE
+american B-GPE
+retires O
+2.1 O
+mln O
+shrs O
+. O
+</s>
+
+<s>
+ataka B-ORG.COM
+construction I-ORG.COM
+- O
+96/97 B-TIM
+group O
+results O
+. O
+</s>
+
+<s>
+manugistics B-ORG.COM
+sets O
+1.9 O
+mln O
+shr O
+offering O
+. O
+</s>
+
+<s>
+soccer-bosnians B-ORG.SPO
+ready O
+"home" O
+world B-EVENT
+cup I-EVENT
+debut O
+. O
+</s>
+
+<s>
+reuters B-ORG.MED
+german B-GPE
+advertising O
+& O
+media O
+digest O
+- O
+june B-TIM
+26 I-TIM
+O
+</s>

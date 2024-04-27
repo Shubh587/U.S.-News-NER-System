@@ -1,70 +1,79 @@
 <s>
-norscan B-ORGANIZATION
-jan B-DATE/TIME
+norscan B-ORG.COM
+jan B-TIM
 pulp O
 stocks O
 130000 O 
 tonnes O
 - O
-source. O
+source O
+. O
 </s>
 
 <s>
-shk B-ORGANIZATION
-prop I-ORGANIZATION
+shk B-ORG.COM
+prop I-ORG.COM
 puts O
 e.point O 
 flats O
-offer. O
+offer O
+. O
 </s>
 
 <s>
-french B-RACE/ETHNICITY
+french B-GPE
 stocks O
 close O
 slightly O
-higher. O
+higher O
+. O
 </s>
 
 <s>
-india B-COUNTRY
+india B-GPE.ORG
 deregulate O
 sugar O
 exports O
 - O
-newspapers. O
+newspapers
+. O
 </s>
 
 <s>
-u.s. B-COUNTRY
-midwest I-LOCATION
+u.s. B-GPE.LOC
+midwest I-GPE.LOC
 direct O 
 hogs O
 seen O
-$0.50-$1-dealers. O
+$0.50 O
+- O
+$1 O
+- O
+dealers B-PER.Group
+. O
 </s>
 
 <s>
-brown B-PERSON
+brown B-PER.Individual
 cuts O
-uk B-COUNTRY
-vat B-POLICY
+uk B-GPE.ORG
+vat I-LAW
 fuel O
 5 O
 pct O
-september. B-DATE/TIME
+september. B-TIM
 </s>
 
 <s>
-soccer-parma B-ORGANIZATION
-coach O
+soccer-parma B-ORG.SPO
+coach B-PER
 hits O
-referees. O
+referees. B-PER.Group
 </s>
 
 <s>
-swiss B-RACE/ETHNICITY
-government I-ORGANIZATION
+swiss B-GPE.ORG
+government I-GPE.ORG
 ready O
 act O
 holocaust B-EVENT
@@ -72,8 +81,8 @@ fund. O
 </s>
 
 <s>
-u.s. B-COUNTRY
-cftc I-ORGANIZATION
+u.s. B-GPE.ORG
+cftc I-GPE.ORG
 backs O
 easing O
 exchange O
@@ -85,15 +94,15 @@ reviews. O
 press O
 digest O
 -
-zambia B-COUNTRY
+zambia B-GPE.ORG
 -
-july B-DATE/TIME
-4. I-DATE/TIME
+july B-TIM
+4. I-TIM
 </s>
 
 <s>
-russian B-RACE/ETHNICITY
-minfins I-ORGANIZATION
+russian B-GPE.ORG
+minfins I-GPE.ORG
 rise O
 derivatives O
 issue O
@@ -113,24 +122,24 @@ cps. O
 <s>
 soccer O
 showcase-betting O
-celtic B-ORGANIZATION
+celtic B-ORG.SPO
 v O
-rangers. B-ORGANIZATION
+rangers. B-ORG.SPO
 </s>
 
 <s>
 press O
 digest O
 - O
-jordan B-COUNTRY
+jordan B-GPE
 - O
-may B-DATE/TIME
-20. I-DATE/TIME
+may B-TIM
+20. I-TIM
 </s>
 
 <s>
-n.h. B-LOCATION
-gov I-ORGANIZATION
+n.h. B-GPE.ORG
+gov I-GPE.ORG
 proposes O
 tax O
 time-shares O
@@ -138,31 +147,32 @@ condos. O
 </s>
 
 <s>
-german B-RACE/ETHNICITY
-zew I-ORGANIZATION
+german B-GPE
+zew I-ORG.NonGov
 details O
-6-mth O
+6-mth B-TIM
 major O
 nations O
 forecasts. O
 </s>
 
 <s>
-u.n. B-ORGANIZATION
-council I-ORGANIZATION
+u.n. B-ORG.NonGov
+council I-ORG.NonGov
 threatens O
 new O
 sanctions O
-iraq. B-COUNTRY
+iraq. B-GPE
 </s>
 
 <s>
-china B-COUNTRY
+china B-GPE.ORG
 slams O
-unesco B-ORGANIZATION
+unesco B-ORG.NonGov
 prize O
 jailed O
-reporter. O
+reporter B-PER.Individual
+. O
 </s>
 
 <s>
@@ -172,7 +182,8 @@ could O
 start O
 recovering O
 -
-analysts. O
+analysts B-PER.GROUP
+. O
 </s>
 
 <s>
@@ -180,281 +191,312 @@ f.o.licht O
 -
 daily O
 coffee O
-report. O
+report O
+. O
 </s>
 
 <s>
-kinkel B-PERSON
+kinkel B-PER.Individual
 condemns O
-jerusalem B-LOCATION
+jerusalem B-GPE
 attack O
-"cowardly". O
+"cowardly" O
+. O
 </s>
 
 <s>
-one-month B-DATE/TIME 
-one-year I-DATE/TIME
-saudi B-COUNTRY
-t-bill B-POLICY
+one-month B-TIM
+one-year B-TIM
+saudi B-GPE.ORG
+t-bill I-LAW
 rates O
-rise. O
+rise O
+. O
 </s>
 
 <s>
-slovak B-RACE/ETHNICITY
-reforms I-POLICY
+slovak B-GPE.ORG
+reforms I-LAW
 depend O
 investment O
 -
-banker. O
+banker O
+. O
 </s>
 
 <s>
 press O
 digest O
 - O
-iraq B-COUNTRY
+iraq B-GPE
 - O
-june B-DATE/TIME
-4. I-DATE/TIME
+june B-TIM
+4 I-TIM
+. O
 </s>
 
 <s>
-hk B-LOCATION
-govt B-ORGANIZATION
+hk B-GPE.ORG
+govt I-GPE.ORG
 expects O
 achieve O
 housing O
 target O
-2001. B-DATE/TIME
+2001 B-TIM
+. O
 </s>
 
 <s>
-zimbabwe B-COUNTRY
+zimbabwe B-GPE.ORG
 civil O
 servants O
 return O
-work. O
+work O
+. O
 </s>
 
 <s>
-german B-RACE/ETHNICITY
-ruhrgas I-ORGANIZATION
+german B-GPE
+ruhrgas I-ORG.COM
 starts O
 gas O
 supply O
-mol. O
+mol O
+. O
 </s>
 
 <s>
-britain B-COUNTRY
+britain B-GPE.ORG
 arranging O
 medical O
 exam O
-nurses O
-saudi. B-COUNTRY
+nurses B-PER.Group
+saudi B-GPE.LOC
+. O
 </s>
 
 <s>
-petrofina B-ORGANIZATION
+petrofina B-ORG.COM
 sees O
-nyse B-ORGANIZATION
-listing O
-september B-DATE/TIME
-3. I-DATE/TIME
+nyse B-ORG.NonGov
+listing I-EVENT
+september B-TIM
+3 I-TIM
+.
 </s>
 
 <s>
-ipe B-ORGANIZATION
-gas O
-oil O
+ipe B-ORG.NonGov
+gas I-ORG.NonGov
+oil I-ORG.NonGov
 seen O
 $1.50 O
 lower O
 brent O
 5-10 O
-cts. O
+cts O
+. O
 </s>
 
 <s>
-oklahoma B-LOCATION
-city I-LOCATION
-bomb O
-judge O
+oklahoma B-GPE.LOC
+city I-GPE.LOC
+bomb I-Event
+judge B-PER.Individual
 bars O
-prosecution O
-interview. O
+prosecution B-PER.Group
+interview O
+. O
 </s>
 
 <s>
-spain B-COUNTRY
-stability I-POLICY
-plan I-POLICY
+spain B-GPE.ORG
+stability I-LAW
+plan I-LAW
 -
 psbr
 year
-1997-2000. B-DATE/TIME
+1997-2000 B-TIM
+. O
 </s>
 
 <s>
 research O
 alert- O
-isuzu B-ORGANIZATION
-cut. O
+isuzu B-ORG.COM
+cut O
+. O
 </s>
 
 <s>
-mexican B-RACE/ETHNICITY
-official's O
+mexican B-GPE
+official's B-PER.Individual
 drug O
 money O
 case O
 opens O
-texas. B-LOCATION
+texas B-GPE.LOC
+. O
 </s>
 
 <s>
-rtrs B-ORGANIZATION
+rtrs B-ORG.MED
 -poll O
 shows O
-australian B-RACE/ETHNICITY
-govt I-ORGANIZATION
+australian B-GPE.ORG
+govt I-GPE.ORG
 lead O
-narrows. O
+narrows O
+. O
 </s>
 
 <s>
-banyan B-ORGANIZATION
-strategic I-ORGANIZATION
+banyan B-ORG.COM
+strategic I-ORG.COM
 land O
 fund O
 ii O
 q4 O
-results. O
+results O
+. O
 </s>
 
 <s>
-excel B-ORGANIZATION
-bank I-ORGANIZATION
-na I-ORGANIZATION
+excel B-ORG.COM
+bank I-ORG.COM
+na I-ORG.COM
 takes O
-union B-ORGANIZATION
-chelsea I-ORGANIZATION
-bank. I-ORGANIZATION
+union B-ORG.COM
+chelsea I-ORG.COM
+bank I-ORG.COM
+. O
 </s>
 
 <s>
-dhaka B-LOCATION 
-stocks I-ORGANIZATION
+dhaka B-GPE
+stocks O
 close O
 record O
 high O
 ahead O
-weekend. B-DATE/TIME
+weekend O
+. O
 </s>
 
 <s>
-gore B-PERSON
+gore B-PER-Individual
 calls O
 report O
 card O
 environmental B-POLICY
-laws. I-POLICY
+laws I-POLICY
+. O
 </s>
 
 <s>
-enron B-ORGANIZATION
-oil I-ORGANIZATION
-& I-ORGANIZATION
-gas I-ORGANIZATION
+enron B-ORG.COM
+oil I-ORG.COM
+& I-ORG.COM
+gas I-ORG.COM
 q2 O
 shr O
-falls. O
+falls O
+. O
 </s>
 
 <s>
 railtrack O
 agreement O
-ofrail. O
+ofrail O
+. O
 </s>
 
 <s>
 rpt-forecast O
 - O
-raisio B-LOCATION
-eight-month B-DATE/TIME
-result. O
+raisio B-ORG.COM
+eight-month B-TIM
+result O
+. O
 </s>
 
 <s>
 australian B-RACE/ETHNICITY
 mortgage O
 guide O
-(investment). O
+(investment) O
+. O
 </s>
 
 <s>
-finnish B-RACE/ETHNICITY
+finnish B-GPE
 h1 O
 hotel O
 restaurant O
 sales O
 2.1 O
 pct O
-yr/yr. O
+yr/yr O
+. O
 </s>
 
 <s>
-australian B-RACE/ETHNICITY
-broadcasting I-ORGANIZATION
-corp I-ORGANIZATION
+australian B-GPE
+broadcasting I-ORG.MED
+corp I-ORG.MED
 morning O
-update. O
+update O
+. O
 </s>
 
 <s>
-merrill B-ORGANIZATION
-lynch I-ORGANIZATION
+merrill B-ORG.COM
+lynch I-ORG.COM
 pay O
 $30 O
 million O
 end O
-probe. O
+probe O
+. O
 </s>
 
 <s>
-comm B-ORGANIZATION
-bancorp I-ORGANIZATION
-inc I-ORGANIZATION
+comm B-ORG.COM
+bancorp I-ORG.COM
+inc I-ORG.COM
 sets O
 qtly O
 div O
-$0.06. O
+$0.06 O
+. O
 </s>
 
 <s>
-greek B-RACE/ETHNICITY
-president I-PERSON
+greek B-GPE
+president I-PER.Individual
 says O
-turkey O
+turkey B-GPE
 endangers O
-peace. O
+peace O
+. O
 </s>
 
 <s>
-s.asian B-RACE/ETHNICITY
-nations I-COUNTRY
+s.asian B-GPE
+nations I-GPE
 press O
 closer O
 trade O
-links. O
+links O
+. O
 </s>
 
 <s>
-belarus B-COUNTRY
+belarus B-GPE
 opens O
 first O
 telecoms O
 satellite O
-link. O
+link O
+. O
 </s>

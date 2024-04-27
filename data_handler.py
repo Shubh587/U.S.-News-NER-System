@@ -101,12 +101,58 @@ def seperate_headlines(headlines):
                 prev_headlines.append(headline)
                 k += 1
     print('Headlines seperated successfully!')
+
+
+def split_headline_3_file():
+    # Equally split the headlines in headlines_3.txt and write half into two different files
+    headlines = []
+    print('Extracting headlines...')
+    with open('data\headlines3.txt', 'r') as file:
+        for line in file:
+            headlines.append(line.strip())
+    print('Headlines extracted successfully!')
+    print('Number of headlines extracted:', len(headlines))
+    with open('data\headlines3_annotated_1.txt', 'w') as file:
+        for i in range(len(headlines)//2):
+            words = headlines[i].split()
+            for word in words:
+                file.write(word)
+            file.write('\n')
+    with open('data\headlines3_annotated_2.txt', 'w') as file:
+        for i in range(len(headlines)//2, len(headlines)):
+            words = headlines[i].split()
+            for word in words:
+                file.write(word)
+            file.write('\n')
+    
+def aggregate_annotated_data():
+    # Aggregate the annotated data from the three files into one file -> annotated_data.txt
+    annotated_data = []
+    headlines_count = 0
+    with open('data\headlines_1_annotated.txt', 'r') as file:
+        for line in file:
+            if line == '\n':
+                headlines_count += 1
+            annotated_data.append(line.strip())
+    with open('data\headlines_2_annotated.txt', 'r') as file:
+        for line in file:
+            annotated_data.append(line.strip())
+    with open('data\headlines_3_annotated.txt', 'r') as file:
+        for line in file:
+            annotated_data.append(line.strip())
+    with open('data\\annotated_data.txt', 'w') as file:
+        for line in annotated_data:
+            file.write(line + '\n')
+    print('Annotated data aggregated successfully!')
+    print('Number of annotated headlines:', len(annotated_data))
         
 
 def main():
-    headlines = extract_headlines()
-    headlines = clean_headlines(headlines)
-    store_cleaned_headlines(headlines)
-    seperate_headlines(headlines)
+    # headlines = extract_headlines()
+    # headlines = clean_headlines(headlines)
+    # store_cleaned_headlines(headlines)
+    # seperate_headlines(headlines)
+    # split_headline_3_file()
+    aggregate_annotated_data()
 
 main()

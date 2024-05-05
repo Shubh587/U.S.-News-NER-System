@@ -1,0 +1,50 @@
+- O
+dealers B-PER.Group
+. O
+</s>
+
+<s>
+brown B-PER.Individual
+cuts O
+uk B-GPE.ORG
+vat I-LAW
+fuel O
+5 O
+pct O
+september B-TIM
+. O
+</s>
+
+<s>
+soccer-parma B-ORG.SPO
+coach B-PER.Individual
+hits O
+referees B-PER.Group
+. O
+</s>
+
+<s>
+swiss B-GPE.ORG
+government I-GPE.ORG
+ready O
+act O
+holocaust B-EVENT
+fund O
+. O
+</s>
+
+<s>
+u.s. B-GPE.ORG
+cftc I-GPE.ORG
+backs O
+easing O
+exchange O
+rule O
+reviews O
+. O
+</s>
+
+<s>
+press O
+digest O
+- O

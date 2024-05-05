@@ -152,20 +152,53 @@ def aggregate_annotated_data():
 def split_annotated_data():
     # Split the data in the annotated_data.txt file into training, validation, and test datasets
     # Do a 50-50-50 split
-    raw_data = []
+    # raw_data = {}
+    # headlines_count = 1
+    # with open('data\\annotated_data.txt', 'r') as file:
+    #     for line in file:
+    #         if line == '\n' or line == '</s>' or line == "":
+    #             continue
+    #         if line == '<s>':
+    #             headlines_count += 1
+    #             continue
+    #         if raw_data.get(headlines_count, None):
+    #             raw_data[headlines_count].append(line.strip())
+    #         else:
+    #             raw_data[headlines_count] = [line.strip()]
+    raw_data = {}
+    headlines_count = 0
     with open('data\\annotated_data.txt', 'r') as file:
         for line in file:
-            raw_data.append(line.strip())
+            if line == '\n' or line == '</s>' or line == "":
+                continue
+            if '<s>' in line:
+                headlines_count += 1
+                continue
+            if raw_data.get(headlines_count, None):
+                raw_data[headlines_count].append(line.strip())  # Modified this line
+            else:
+                raw_data[headlines_count] = [line.strip()]  # Modified this line
+
+    # print(raw_data)
+    # print(list(raw_data.keys())[:50])
+    # headline_ind = list(raw_data.keys())
+        
 
     with open('data\\train_data.txt', 'w') as file:
-        for line in raw_data[:50]:
-            file.write(line + '\n')
+        for i in range(1, 51):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
     with open('data\\val_data.txt', 'w') as file:
-        for line in raw_data[50:100]:
-            file.write(line + '\n')
+        for i in range(51, 101):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
     with open('data\\test_data.txt', 'w') as file:
-        for line in raw_data[100:]:
-            file.write(line + '\n')
+        for i in range(101, 151):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
     
 
 

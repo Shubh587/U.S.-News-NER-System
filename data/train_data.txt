@@ -1,4 +1,3 @@
-<s>
 norscan B-ORG.COM
 jan B-TIM
 pulp O
@@ -10,7 +9,6 @@ source O
 . O
 </s>
 
-<s>
 shk B-ORG.COM
 prop I-ORG.COM
 puts O
@@ -20,7 +18,6 @@ offer O
 . O
 </s>
 
-<s>
 french B-GPE
 stocks O
 close O
@@ -29,7 +26,6 @@ higher O
 . O
 </s>
 
-<s>
 india B-GPE.ORG
 deregulate O
 sugar O
@@ -39,7 +35,6 @@ newspapers O
 . O
 </s>
 
-<s>
 u.s. B-GPE.LOC
 midwest I-GPE.LOC
 direct O
@@ -48,3 +43,423 @@ seen O
 $0.50 O
 - O
 $1 O
+- O
+dealers B-PER.Group
+. O
+</s>
+
+brown B-PER.Individual
+cuts O
+uk B-GPE.ORG
+vat I-LAW
+fuel O
+5 O
+pct O
+september B-TIM
+. O
+</s>
+
+soccer-parma B-ORG.SPO
+coach B-PER.Individual
+hits O
+referees B-PER.Group
+. O
+</s>
+
+swiss B-GPE.ORG
+government I-GPE.ORG
+ready O
+act O
+holocaust B-EVENT
+fund O
+. O
+</s>
+
+u.s. B-GPE.ORG
+cftc I-GPE.ORG
+backs O
+easing O
+exchange O
+rule O
+reviews O
+. O
+</s>
+
+press O
+digest O
+- O
+zambia B-GPE.ORG
+- O
+july B-TIM
+4 I-TIM
+. O
+</s>
+
+russian B-GPE.ORG
+minfins I-GPE.ORG
+rise O
+derivatives O
+issue O
+news O
+. O
+</s>
+
+water O
+company O
+issue O
+40 O
+mln O
+kroons O
+cps O
+. O
+</s>
+
+soccer O
+showcase-betting O
+celtic B-ORG.SPO
+v O
+rangers B-ORG.SPO
+. O
+</s>
+
+press O
+digest O
+- O
+jordan B-GPE
+- O
+may B-TIM
+20 I-TIM
+. O
+</s>
+
+n.h. B-GPE.ORG
+gov I-GPE.ORG
+proposes O
+tax O
+time-shares O
+condos O
+. O
+</s>
+
+german B-GPE
+zew I-ORG.NonGov
+details O
+6-mth B-TIM
+major O
+nations O
+forecasts O
+. O
+</s>
+
+u.n. B-ORG.NonGov
+council I-ORG.NonGov
+threatens O
+new O
+sanctions O
+iraq B-GPE
+. O
+</s>
+
+china B-GPE.ORG
+slams O
+unesco B-ORG.NonGov
+prize O
+jailed O
+reporter B-PER.Individual
+. O
+</s>
+
+stainless O
+prices O
+could O
+start O
+recovering O
+- O
+analysts B-PER.Group
+. O
+</s>
+
+f.o.licht O
+- O
+daily O
+coffee O
+report O
+. O
+</s>
+
+kinkel B-PER.Individual
+condemns O
+jerusalem B-GPE
+attack O
+"cowardly" O
+. O
+</s>
+
+one-month B-TIM
+one-year B-TIM
+saudi B-GPE.ORG
+t-bill I-LAW
+rates O
+rise O
+. O
+</s>
+
+slovak B-GPE.ORG
+reforms I-LAW
+depend O
+investment O
+- O
+banker O
+. O
+</s>
+
+press O
+digest O
+- O
+iraq B-GPE
+- O
+june B-TIM
+4 I-TIM
+. O
+</s>
+
+hk B-GPE.ORG
+govt I-GPE.ORG
+expects O
+achieve O
+housing O
+target O
+2001 B-TIM
+. O
+</s>
+
+zimbabwe B-GPE.ORG
+civil O
+servants O
+return O
+work O
+. O
+</s>
+
+german B-GPE
+ruhrgas I-ORG.COM
+starts O
+gas O
+supply O
+mol O
+. O
+</s>
+
+britain B-GPE.ORG
+arranging O
+medical O
+exam O
+nurses B-PER.Group
+saudi B-GPE.LOC
+. O
+</s>
+
+petrofina B-ORG.COM
+sees O
+nyse B-ORG.NonGov
+listing I-EVENT
+september B-TIM
+3 I-TIM
+. O
+</s>
+
+ipe B-ORG.NonGov
+gas I-ORG.NonGov
+oil I-ORG.NonGov
+seen O
+$1.50 O
+lower O
+brent O
+5-10 O
+cts O
+. O
+</s>
+
+oklahoma B-GPE.LOC
+city I-GPE.LOC
+bomb I-EVENT
+judge B-PER.Individual
+bars O
+prosecution B-PER.Group
+interview O
+. O
+</s>
+
+spain B-GPE.ORG
+stability I-LAW
+plan I-LAW
+- O
+psbr O
+year O
+1997-2000 B-TIM
+. O
+</s>
+
+research O
+alert- O
+isuzu B-ORG.COM
+cut O
+. O
+</s>
+
+mexican B-GPE
+official's B-PER.Individual
+drug O
+money O
+case O
+opens O
+texas B-GPE.LOC
+. O
+</s>
+
+rtrs B-ORG.MED
+-poll O
+shows O
+australian B-GPE.ORG
+govt I-GPE.ORG
+lead O
+narrows O
+. O
+</s>
+
+banyan B-ORG.COM
+strategic I-ORG.COM
+land O
+fund O
+ii O
+q4 O
+results O
+. O
+</s>
+
+excel B-ORG.COM
+bank I-ORG.COM
+na I-ORG.COM
+takes O
+union B-ORG.COM
+chelsea I-ORG.COM
+bank I-ORG.COM
+. O
+</s>
+
+dhaka B-GPE
+stocks O
+close O
+record O
+high O
+ahead O
+weekend O
+. O
+</s>
+
+gore B-PER.Individual
+calls O
+report O
+card O
+environmental B-POLICY
+laws I-POLICY
+. O
+</s>
+
+enron B-ORG.COM
+oil I-ORG.COM
+& I-ORG.COM
+gas I-ORG.COM
+q2 O
+shr O
+falls O
+. O
+</s>
+
+railtrack O
+agreement O
+ofrail O
+. O
+</s>
+
+rpt-forecast O
+- O
+raisio B-ORG.COM
+eight-month B-TIM
+result O
+. O
+</s>
+
+australian B-GPE
+mortgage O
+guide O
+(investment) O
+. O
+</s>
+
+finnish B-GPE
+h1 O
+hotel O
+restaurant O
+sales O
+2.1 O
+pct O
+yr/yr O
+. O
+</s>
+
+australian B-GPE
+broadcasting I-ORG.MED
+corp I-ORG.MED
+morning O
+update O
+. O
+</s>
+
+merrill B-ORG.COM
+lynch I-ORG.COM
+pay O
+$30 O
+million O
+end O
+probe O
+. O
+</s>
+
+comm B-ORG.COM
+bancorp I-ORG.COM
+inc I-ORG.COM
+sets O
+qtly O
+div O
+$0.06 O
+. O
+</s>
+
+greek B-GPE
+president I-PER.Individual
+says O
+turkey B-GPE
+endangers O
+peace O
+. O
+</s>
+
+s.asian B-GPE
+nations I-GPE
+press O
+closer O
+trade O
+links O
+. O
+</s>
+
+belarus B-GPE
+opens O
+first O
+telecoms O
+satellite O
+link O
+. O
+</s>
+

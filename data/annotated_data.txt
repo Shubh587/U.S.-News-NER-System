@@ -35,7 +35,7 @@ deregulate O
 sugar O
 exports O
 - O
-newspapers
+newspapers O
 . O
 </s>
 
@@ -61,14 +61,16 @@ vat I-LAW
 fuel O
 5 O
 pct O
-september. B-TIM
+september B-TIM
+. O
 </s>
 
 <s>
 soccer-parma B-ORG.SPO
-coach B-PER
+coach B-PER.Individual
 hits O
-referees. B-PER.Group
+referees B-PER.Group
+. O
 </s>
 
 <s>
@@ -77,7 +79,8 @@ government I-GPE.ORG
 ready O
 act O
 holocaust B-EVENT
-fund. O
+fund O
+. O
 </s>
 
 <s>
@@ -87,17 +90,19 @@ backs O
 easing O
 exchange O
 rule O
-reviews. O
+reviews O
+. O
 </s>
 
 <s>
 press O
 digest O
--
+- O
 zambia B-GPE.ORG
--
+- O
 july B-TIM
-4. I-TIM
+4 I-TIM
+. O
 </s>
 
 <s>
@@ -106,7 +111,8 @@ minfins I-GPE.ORG
 rise O
 derivatives O
 issue O
-news. O
+news O
+. O
 </s>
 
 <s>
@@ -116,7 +122,8 @@ issue O
 40 O
 mln O
 kroons O
-cps. O
+cps O
+. O
 </s>
 
 <s>
@@ -124,7 +131,8 @@ soccer O
 showcase-betting O
 celtic B-ORG.SPO
 v O
-rangers. B-ORG.SPO
+rangers B-ORG.SPO
+. O
 </s>
 
 <s>
@@ -134,7 +142,8 @@ digest O
 jordan B-GPE
 - O
 may B-TIM
-20. I-TIM
+20 I-TIM
+. O
 </s>
 
 <s>
@@ -143,7 +152,8 @@ gov I-GPE.ORG
 proposes O
 tax O
 time-shares O
-condos. O
+condos O
+. O
 </s>
 
 <s>
@@ -153,7 +163,8 @@ details O
 6-mth B-TIM
 major O
 nations O
-forecasts. O
+forecasts O
+. O
 </s>
 
 <s>
@@ -162,7 +173,8 @@ council I-ORG.NonGov
 threatens O
 new O
 sanctions O
-iraq. B-GPE
+iraq B-GPE
+. O
 </s>
 
 <s>
@@ -181,14 +193,14 @@ prices O
 could O
 start O
 recovering O
--
-analysts B-PER.GROUP
+- O
+analysts B-PER.Group
 . O
 </s>
 
 <s>
 f.o.licht O
--
+- O
 daily O
 coffee O
 report O
@@ -219,7 +231,7 @@ slovak B-GPE.ORG
 reforms I-LAW
 depend O
 investment O
--
+- O
 banker O
 . O
 </s>
@@ -282,7 +294,7 @@ nyse B-ORG.NonGov
 listing I-EVENT
 september B-TIM
 3 I-TIM
-.
+. O
 </s>
 
 <s>
@@ -301,7 +313,7 @@ cts O
 <s>
 oklahoma B-GPE.LOC
 city I-GPE.LOC
-bomb I-Event
+bomb I-EVENT
 judge B-PER.Individual
 bars O
 prosecution B-PER.Group
@@ -313,9 +325,9 @@ interview O
 spain B-GPE.ORG
 stability I-LAW
 plan I-LAW
--
-psbr
-year
+- O
+psbr O
+year O
 1997-2000 B-TIM
 . O
 </s>
@@ -384,7 +396,7 @@ weekend O
 </s>
 
 <s>
-gore B-PER-Individual
+gore B-PER.Individual
 calls O
 report O
 card O
@@ -421,7 +433,7 @@ result O
 </s>
 
 <s>
-australian B-RACE/ETHNICITY
+australian B-GPE
 mortgage O
 guide O
 (investment) O
@@ -616,7 +628,7 @@ maker O
 
 <s>
 presale O
--
+- O
 apple B-GPE.LOC
 valley I-GPE.LOC
 minn I-GPE.LOC
@@ -967,7 +979,7 @@ hits O
 century O
 victoria B-ORG.ENT
 fight O
-back.
+back O
 . O
 </s>
 
@@ -1026,7 +1038,7 @@ raised O
 </s>
 
 <s>
-nichiro B.ORG.COM
+nichiro B-ORG.COM
 corp I-ORG.COM
 files O
 15 O
@@ -1038,10 +1050,10 @@ registration O
 </s>
 
 <s>
-oil
-leaks
-add
-blow
+oil O
+leaks O
+add O
+blow O
 taiwan B-GPE.ORG
 state I-GPE.ORG
 utility I-GPE.ORG
@@ -1540,5 +1552,5 @@ digest O
 - O
 june B-TIM
 26 I-TIM
-O
+. O
 </s>

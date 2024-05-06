@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 import random
 import numpy as np
 import pandas as pd
+from matplotlib import pyplot as plt
 
 def extract_headlines():
     # Extract headlines from the headlines.txt file created by the file_handler.py script
@@ -147,7 +148,103 @@ def aggregate_annotated_data():
             file.write(line + '\n')
     print('Annotated data aggregated successfully!')
     print('Number of annotated headlines:', len(annotated_data))
-   
+
+def split_annotated_data():
+    # Split the data in the annotated_data.txt file into training, validation, and test datasets
+    # Do a 50-50-50 split
+    # raw_data = {}
+    # headlines_count = 1
+    # with open('data\\annotated_data.txt', 'r') as file:
+    #     for line in file:
+    #         if line == '\n' or line == '</s>' or line == "":
+    #             continue
+    #         if line == '<s>':
+    #             headlines_count += 1
+    #             continue
+    #         if raw_data.get(headlines_count, None):
+    #             raw_data[headlines_count].append(line.strip())
+    #         else:
+    #             raw_data[headlines_count] = [line.strip()]
+    raw_data = {}
+    headlines_count = 0
+    with open('data\\annotated_data.txt', 'r') as file:
+        for line in file:
+            if line == '\n' or line == '</s>' or line == "":
+                continue
+            if '<s>' in line:
+                headlines_count += 1
+                continue
+            if raw_data.get(headlines_count, None):
+                raw_data[headlines_count].append(line.strip())  # Modified this line
+            else:
+                raw_data[headlines_count] = [line.strip()]  # Modified this line
+
+    # print(raw_data)
+    # print(list(raw_data.keys())[:50])
+    # headline_ind = list(raw_data.keys())
+        
+
+    with open('data\\train_data.txt', 'w') as file:
+        for i in range(1, 51):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
+    with open('data\\val_data.txt', 'w') as file:
+        for i in range(51, 101):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
+    with open('data\\test_data.txt', 'w') as file:
+        for i in range(101, 151):
+            for j in range(len(raw_data[i])):
+                file.write(raw_data[i][j] + '\n')
+            file.write('\n')
+    
+
+
+def convert_data_to_csv():
+    # Convert the annotated data to a csv file
+    # There will be three columns in the csv file: Headline ID, Entity, and Annotation
+    annotated_data = []
+    headlines_count = 0
+    with open('data\\annotated_data.txt', 'r') as file:
+        for line in file:
+            annotated_data.append(line.strip())
+    headline_numbers = []
+    entities = []
+    annotations = []
+    for line in annotated_data:
+        if line == '\n' or line == '</s>' or line == "":
+            continue
+        if line == '<s>':
+            headlines_count += 1
+            continue
+        line = line.split()
+        headline_numbers.append(headlines_count)
+        print(line)
+        entities.append(line[0])
+        annotations.append(line[1])
+    data = {'Headline Number': headline_numbers, 'Entity': entities, 'Annotation': annotations}
+    df = pd.DataFrame(data)
+    df.to_csv('data\\annotated_data.csv', index=False)
+    print('Data converted to csv successfully!')
+
+def graph_label_counts():
+    # Import the .csv file 
+    dataframe = pd.read_csv('/content/annotated_data.csv', sep=',')
+    dataframe = dataframe.set_index('Headline Number')
+    # Make a count of each annotation and store in a dictionary with the key being a unique annotation in the dataframe and the associated value being the count
+    label_count = {}
+    for ind, val in dataframe.iterrows():
+    # print(val['Entity'])
+        if label_count.get(val['Annotation'], None):
+            label_count[val['Annotation']] += 1
+        else:
+            label_count[val['Annotation']] = 1
+    # Plot the graph
+    plt.bar(label_count.keys(), label_count.values())
+    
+    
 
 def main():
     # headlines = extract_headlines()
@@ -155,6 +252,8 @@ def main():
     # store_cleaned_headlines(headlines)
     # seperate_headlines(headlines)
     # split_headline_3_file()
-    aggregate_annotated_data()
+    # aggregate_annotated_data()
+    # convert_data_to_csv()
+    split_annotated_data()
 
 main()

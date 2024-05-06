@@ -1,0 +1,475 @@
+peseta O
+debt/interbank O
+market O
+closing O
+report O
+. O
+</s>
+
+rtrs-indicators-latest O
+australian B-GPE
+quarterly O
+stats O
+. O
+</s>
+
+taikan B-ORG.COM
+-96/97 B-TIM
+parent O
+forecast O
+. O
+</s>
+
+canadian B-GPE
+bonds O
+open O
+little O
+changed O
+quiet O
+trade O
+. O
+</s>
+
+brazil B-GPE
+re-election B-LAW
+bill I-LAW
+faces O
+2nd B-EVENT
+lower I-ORG.GOV
+house I-ORG.GOV
+vote I-EVENT
+. O
+</s>
+
+presale O
+- O
+richmond B-GPE.LOC
+texas I-GPE.LOC
+. O
+</s>
+
+nymex B-ORG.NonGov
+crude O
+sharpens O
+gains O
+late O
+short O
+covering O
+. O
+</s>
+
+china B-GPE
+rate O
+cut O
+may O
+spur O
+illegal O
+fund O
+raising O
+- O
+paper O
+. O
+</s>
+
+german B-GPE
+1996 B-TIM
+coffee O
+imports O
+higher O
+11.98 O
+mln O
+t O
+. O
+</s>
+
+vib B-ORG.COM
+buys O
+amvest B-ORG.COM
+property O
+worth O
+nlg O
+200 O
+mln O
+. O
+</s>
+
+la B-ORG.COM
+tondena I-ORG.COM
+acquires O
+alcohol O
+maker O
+. O
+</s>
+
+presale O
+- O
+apple B-GPE.LOC
+valley I-GPE.LOC
+minn I-GPE.LOC
+. O
+</s>
+
+indonesia B-GPE.PER
+holds O
+re-vote B-LAW
+madura B-GPE.PER
+turnout O
+low O
+. O
+</s>
+
+argentina's B-GPE.ORG
+central B-GPE.LOC
+puerto I-GPE.LOC
+build O
+$235 O
+mln O
+plant O
+. O
+</s>
+
+argentine B-GPE.ORG
+gov't B-ORG.NonGov
+unions I-ORG.NonGov
+agree O
+two O
+sets O
+talks O
+. O
+</s>
+
+u.s. B-GPE.ORG
+supreme I-GPE.ORG
+court I-GPE.ORG
+rejects O
+virginia B-GPE.LOC
+redistricting. I-LAW
+</s>
+
+vsi B-ORG.COM
+enterprises I-ORG.COM
+inc I-ORG.COM
+q4 O
+shr O
+loss O
+shrinks O
+. O
+</s>
+
+standard B-ORG.COM
+chartered I-ORG.COM
+drags O
+ghana B-GPE
+bourse O
+index O
+. O
+</s>
+
+lawyer B-PER.Individual
+says O
+argentina B-GPE.ORG
+negotiated O
+allow O
+nazis B-PER.Group
+. O
+</s>
+
+drew B-ORG.COM
+buy O
+800000 O
+shares O
+chairman B-PER.Individual
+. O
+</s>
+
+ipo O
+pricing O
+- O
+puro B-ORG.COM
+water I-ORG.COM
+prices O
+$6 O
+. O
+</s>
+
+brazil B-GPE
+shares O
+end O
+cvrd B-ORG.COM
+plummets O
+. O
+</s>
+
+air B-ORG.COM
+new I-ORG.COM
+zealand I-ORG.COM
+hold O
+egm B-EVENT
+may B-TIM
+1 I-TIM
+. O
+</s>
+
+soccer-dutch B-ORG.SPO
+first O
+division O
+results O
+. O
+</s>
+
+jr B-ORG.COM
+east I-ORG.COM
+plans O
+229 O
+bln O
+yen O
+97/98 B-TIM
+capital O
+investment O
+. O
+</s>
+
+andayani B-ORG.COM
+h1 O
+net O
+dives O
+21.44 O
+bln O
+rph O
+. O
+</s>
+
+s.korea B-GPE
+3-yr O
+yields O
+end O
+higher O
+drying O
+liquidity O
+. O
+</s>
+
+turkey B-GPE.ORG
+complete O
+russian B-GPE
+gas O
+line O
+study O
+june B-TIM
+. O
+</s>
+
+international O
+speedway O
+november B-TIM
+qtr O
+loss. O
+</s>
+
+u.s./latam B-ORG.COM
+spot O
+crude O
+trades O
+- O
+july B-TIM
+24 I-TIM
+1144 O
+edt O
+. O
+</s>
+
+bulgarian B-GPE
+socialists I-ORG.NonGov
+offer O
+elections B-EVENT
+year O
+end O
+. O
+</s>
+
+markborough B-ORG.COM
+sells O
+property O
+us$35.6 O
+mln O
+. O
+</s>
+
+sm B-ORG.COM
+development I-ORG.COM
+q3 O
+net O
+26.04 O
+mln O
+pesos O
+. O
+</s>
+
+perstorp B-ORG.COM
+sells O
+lumac B-ORG.COM
+celsis B-ORG.COM
+. O
+</s>
+
+bourse B-ORG.NonGov
+capitalisation I-ORG.NonGov
+rose O
+5.381 O
+bln O
+. O
+</s>
+
+national B-ORG.COM
+carlot I-ORG.COM
+beef O
+trade O
+weekly O
+review O
+- O
+usda B-GPE.ORG
+. O
+</s>
+
+carter B-PER.Individual
+aide O
+says O
+china B-GPE
+long O
+road O
+elections B-EVENT
+. O
+</s>
+
+estonia B-GPE
+gets O
+89.8 O
+pct O
+'96 B-TIM
+revenues O
+11 O
+mos O
+. O
+</s>
+
+forecast O
+- O
+japan B-GPE
+march B-TIM
+industry O
+output O
+seen O
+m/m O
+. O
+</s>
+
+us B-GPE
+average O
+retail O
+beef O
+prices O
+lower O
+march B-TIM
+-ncba B-ORG.NonGov
+. O
+</s>
+
+stanley B-ORG.COM
+leisure I-ORG.COM
+sees O
+hit O
+ascot B-LOC
+wins O
+. O
+</s>
+
+world O
+bonds O
+- O
+gilts O
+bask O
+sterling's O
+glow O
+. O
+</s>
+
+realco B-ORG.COM
+inc I-ORG.COM
+q2 O
+march B-TIM
+31 I-TIM
+net O
+income O
+falls O
+. O
+</s>
+
+china B-GPE
+wholesale O
+vegetable O
+oil O
+prices O
+- O
+oct B-TIM
+23 I-TIM
+. O
+</s>
+
+cricket-jones B-PER.Individual
+hits O
+century O
+victoria B-ORG.ENT
+fight O
+back O
+. O
+</s>
+
+press O
+digest O
+- O
+lebanon B-GPE.LOC
+- O
+july B-TIM
+25 I-TIM
+. O
+</s>
+
+oilex B-ORG.COM
+buys O
+40 O
+pct O
+stake O
+funscape O
+. O
+</s>
+
+german B-GPE
+grain O
+intervention O
+continues O
+slow O
+pace O
+. O
+</s>
+
+eu's B-ORG.NonGov
+de B-PER.Individual
+silguy I-PER.Individual
+proposes O
+2001 B-TIM
+introduction O
+euro O
+notes O
+. O
+</s>
+
+research O
+alert O
+- O
+first O
+data O
+target O
+raised O
+. O
+</s>
+
